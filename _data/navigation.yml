@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Blog
+    resource_room: true
+  - title: Initiatives
+    collection: initiatives
+  - title: Read@work
+    url: /Read@work/
+  - title: Partners
+    url: /Partners/
+  - title: About Us
+    collection: about-us
+
+

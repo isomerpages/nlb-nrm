@@ -1,0 +1,4 @@
+---
+title: Partners
+permalink: /Partners/
+---
