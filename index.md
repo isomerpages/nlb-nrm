@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: National Reading Movement
+description: Read More, Read Widely, Read Together.
 image: /images/nrm-logo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
