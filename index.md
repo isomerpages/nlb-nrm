@@ -7,20 +7,23 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: 
+        subtitle: 
+        background: /images/nrm-banner.png
+        button: 
+        url: 
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Read! Fest 2019
+              description: Check out our reading related programmes
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: National Reading Movement
+              description: Win a pair of Singapore Airlines tickets & other attractive prizes
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: Find a Good Read
+              description: Check out our recommendations
+              url: /privacy/
+			- title: Read on the go with NLB Mobile
+              description: Read eBooks, eNewspapers and eMagazines for free
               url: /privacy/
     - infobar:
         title: Infobar title
