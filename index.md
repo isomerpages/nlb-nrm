@@ -22,12 +22,6 @@ sections:
             - title: FIND A GOOD EREAD
               description: Check out our recommendations
               url: /privacy/
-    - infobar:
-        title: Read More. Read Widely. Read Together.
-        subtitle: Initiatives
-        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
-        button: Check out our initiatives
-        url: /faq/
 	- infopic:
         title: An Experiment
         subtitle: Highlights
@@ -35,7 +29,7 @@ sections:
         button: Find out more
         url: /sample/overview/
         image: /images/digital-skill-banner.jpg
-        alt: An Experiement
+        alt: An Experiment
     - resources:
         title: Media
         subtitle: Learn more
