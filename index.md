@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: 
+        subtitle: 
         background: /images/nrm-banner.png
-        button: Read More, Read Widely, Read Together
+        button: 
         url: /contact-us/
         key_highlights:
             - title: Read! Fest 2019
