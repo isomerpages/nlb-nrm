@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page
 title: Our Partners
 permalink: /Partners/
 breadcrumb: Our Partners
