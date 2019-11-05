@@ -23,13 +23,9 @@ sections:
               description: Check out our recommendations
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: Read More. Read Widely. Read Together.
+        subtitle: Initiatives
+        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
+        button: Check out our initiatives
         url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
