@@ -3,7 +3,7 @@ title: About Our Libraries
 permalink: /about-us/about-our-libraries/
 ---
 
-The Public Libraries Singapore (PLS) provides a professional and engaging public library service to Singaporeans in their pursuit of lifelong learning and discovery through the network of 26 Public Libraries (including three regional libraries) located conveniently across Singapore. Visit us [here](https://www.nlb.gov.sg/VisitUs.aspx) and join our community [here](https://www.facebook.com/publiclibrarysg/).
+The Public Libraries Singapore (PLS) provides a professional and engaging public library service to Singaporeans in their pursuit of lifelong learning and discovery through the network of 26 Public Libraries (including three regional libraries) located conveniently across Singapore. Visit us [here](https://www.nlb.gov.sg/VisitUs.aspx){:target="_blank"} and join our community [here](https://www.facebook.com/publiclibrarysg/){:target="_blank"}.
 
 
 Kindly observe the Code of Conduct at our libraries:
