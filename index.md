@@ -22,4 +22,12 @@ sections:
             - title: FIND A GOOD EREAD
               description: Check out our recommendations
               url: /privacy/
+	- infopic:
+		title: 3 Digital Skills That Will Make You Employable
+		subtitle: HIGHLIGHTS
+		description: "Will my job be replaced by a computer?" is a legitimate concern in our increasingly digital world, and that’s why we need to constantly upgrade our skills. Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable.
+		button: Learn More
+		url: /core-values/
+		image: /images/digital-skill-banner.jpg
+		alt: 3 Digital Skills That Will Make You Employable
 ---
