@@ -16,11 +16,11 @@ sections:
             - title: Read! Fest 2019
               description: Check out our reading related programmes
               url: https://google.com
+            - title: NATIONAL READING CHALLENGE
+              description: Win a pair of Singapore Airlines tickets and other attractive prizes
+              url: https://gmail.com
             - title: FIND A GOOD EREAD
               description: Check out our recommendations
-              url: /privacy/
-			- title: READ ON THE GO WITH NLB MOBILE
-              description: Read eBooks, eNewspapers and eMagazines for free
               url: /privacy/
     - infobar:
         title: Infobar title
