@@ -3,22 +3,6 @@ title: About National Reading Movement
 permalink: /about-us/about-national-reading-movement/
 ---
 
-<style>
-.resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-.resp-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-</style>
-
 ## What is the National Reading Movement?
 The National Reading Movement, which was launched in 2016, is a 5-year campaign by the National Library Board (NLB) to get Singapore residents to “Read More, Read Widely and Read Together”. It aims to encourage people to “Read More” by getting them to set aside some time to read regularly, “Read Widely” by going beyond the usual genres and read in mother tongue languages, and to “Read Together” with family and friends.
 
