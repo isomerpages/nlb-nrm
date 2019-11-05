@@ -28,6 +28,14 @@ sections:
         description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
         button: Check out our initiatives
         url: /faq/
+	- infopic:
+        title: An Experiment
+        subtitle: Highlights
+        description: An Experiment
+        button: Find out more
+        url: /sample/overview/
+        image: /images/digital-skill-banner.jpg
+        alt: An Experiement
     - resources:
         title: Media
         subtitle: Learn more
