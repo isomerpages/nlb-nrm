@@ -1,6 +1,7 @@
 title: National Reading Movement
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/nrm-logo.jpg
+description: The National Reading Movement, which was launched in 2016, is a 5-year campaign by the National Library Board (NLB) to get Singapore residents to “Read More, Read Widely and Read Together”. It aims to encourage people to “Read More” by getting them to set aside some time to read regularly, “Read Widely” by going beyond the usual genres and read in mother tongue languages, and to “Read Together” with family and friends.
 
 collections:
   about-us:
@@ -25,12 +26,10 @@ defaults:
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 paginate: 12
-remote_theme: isomerpages/isomerpages-template@next-gen
+remote_theme: isomerpages/isomerpages-template
 safe: false
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
