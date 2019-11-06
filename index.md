@@ -30,7 +30,7 @@ sections:
     - infopic:
         title: Learning Skills from Books
         subtitle: Highlights
-        description: Integrity drives everything we do at the Ministry of ABC
+        description: Learn three random skills picked by our librarians
         button: Learn More
         url: /core-values/
         image: /images/experiment-banner.jpg
@@ -38,7 +38,7 @@ sections:
     - infopic:
         title: 3 Digital Skills That Will Make You Employable
         subtitle: Highlights
-        description: Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable.
+        description: Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable
         button: Learn More
         url: /core-values/
         image: /images/digital-skill-banner.jpg
