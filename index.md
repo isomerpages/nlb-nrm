@@ -38,7 +38,7 @@ sections:
     - infopic:
         title: 3 Digital Skills That Will Make You Employable
         subtitle: Highlights
-        description: We strive to deliver work of the highest calibre
+        description: Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable.
         button: Learn More
         url: /core-values/
         image: /images/digital-skill-banner.jpg
