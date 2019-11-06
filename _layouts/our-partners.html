@@ -6,8 +6,8 @@ The National Reading Movement would like to thank organisations for their suppor
 
 <div class="col padding--bottom--xl">
 	<span class="bp-sec-button has-text-centered">
-		<a class="is-uppercase media-category-button selected" id="partners1-button"><b>Organisations that supported Read for Books, Read! Fest and National Reading Day</b></a>
-		<a class="is-uppercase media-category-button selected" id="partners2-button"><b>Organisations that pledged to read</b></a>
+		<a class="is-uppercase media-category-button selected" id="partners-1-button"><b>Organisations that supported Read for Books, Read! Fest and National Reading Day</b></a>
+		<a class="is-uppercase media-category-button selected" id="partners-2-button"><b>Organisations that pledged to read</b></a>
 	</span>
 </div>
 
@@ -32,4 +32,22 @@ The National Reading Movement would like to thank organisations for their suppor
 			{%- endfor -%}
 		</div>
 	
+		<div class="row is-multiline padding--bottom--lg" id="partners-2">
+		{%- for partner2 in our-partners.partners-2 -%}
+			<div class="col is-half person-info-card padding--right">
+				<div class="row margin--bottom--xs margin--right">
+					<div class="col is-one-third image-col">
+						{%- if partner2.image-url -%}
+							<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner2.image-url -}}">
+						{%- endif -%}
+						</div>
+						<div class="col padding--top padding--bottom bg-table-grey">
+							<p class="is-marginless padding--top--sm">
+								<b>{{- partner2.name -}}</b><br>
+							</p>
+						</div>
+					</div>
+				</div>
+			{%- endfor -%}
+		</div>
 </div>
