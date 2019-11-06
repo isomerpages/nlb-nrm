@@ -1,0 +1,32 @@
+---
+layout: leftnav-page
+---
+
+<div class="col padding--bottom--xl">
+	<span class="bp-sec-button has-text-centered">
+		<a class="is-uppercase media-category-button selected" id="board-of-directors-button"><b>Partners</b></a>
+	</span>
+</div>
+
+{%- assign our-partners = site.data.our-partners -%}
+<div class="content">
+	<div class="row is-multiline padding--bottom--lg" id="partners-1">
+		{%- for partner1 in our-partners.partners-1 -%}
+			<div class="col is-half person-info-card padding--right">
+				<div class="row margin--bottom--xs margin--right">
+					<div class="col is-one-third image-col">
+						{%- if partner1.image-url -%}
+							<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner1.image-url -}}">
+						{%- endif -%}
+						</div>
+						<div class="col padding--top padding--bottom bg-table-grey">
+							<p class="is-marginless padding--top--sm">
+								<b>{{- partner1.name -}}</b><br>
+							</p>
+						</div>
+					</div>
+				</div>
+			{%- endfor -%}
+		</div>
+	
+</div>
