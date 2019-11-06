@@ -30,7 +30,7 @@ sections:
     - infopic:
         title: Learning Skills from Books
         subtitle: Highlights
-        description: Integrity drives everything we do at the Ministry of ABC
+        description: Learn three random skills selected by us
         button: Learn More
         url: /core-values/
         image: /images/experiment-banner.jpg
@@ -43,6 +43,12 @@ sections:
         url: /core-values/
         image: /images/digital-skill-banner.jpg
         alt: 3 Digital Skills That Will Make You Employable
+	- carousel:
+        - title: National Reading Challenge
+          subtitle: Initiatives
+          description: Reading is a fulfilling habit to have and the National Reading Challenge is here to encourage it.
+          image: /images/initiative-a.png
+          alt: National Reading Challenge
     - resources:
         title: Media
         subtitle: Learn more
