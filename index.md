@@ -38,7 +38,7 @@ sections:
     - infopic:
         title: 3 Digital Skills That Will Make You Employable
         subtitle: Highlights
-        description: "Will my job be replaced by a computer?" is a legitimate concern in our increasingly digital world, and that’s why we need to constantly upgrade our skills. Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable.
+        description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
