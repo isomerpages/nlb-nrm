@@ -28,21 +28,21 @@ sections:
         button: Check out our initiatives
         url: /faq/
     - infopic:
-        title: An Experiment: Learning Skills from Books
-        subtitle: HIGHLIGHTS
+        title: Integrity
+        subtitle: Core Values
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
         url: /core-values/
         image: /images/integrity.png
-        alt: An Experiment: Learning Skills from Books
+        alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: 3 Digital Skills That Will Make You Employable
-        subtitle: HIGHLIGHTS
+        title: Professionalism
+        subtitle: Core Values
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
-        alt: 3 Digital Skills That Will Make You Employable
+        alt: Members of the Ministry of ABC in suits
     - resources:
         title: Media
         subtitle: Learn more
