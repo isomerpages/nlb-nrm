@@ -15,10 +15,10 @@ sections:
             - title: Read! Fest 2019
               description: Check out our reading related programmes
               url: https://google.com
-            - title: NATIONAL READING CHALLENGE
+            - title: National Reading Challenge
               description: Win a pair of Singapore Airlines tickets and other attractive prizes
               url: https://gmail.com
-            - title: FIND A GOOD EREAD
+            - title: Find a Good eRead
               description: Check out our recommendations
               url: /privacy/
     - infobar:
@@ -28,7 +28,7 @@ sections:
         button: Check out our initiatives
         url: /faq/
     - infopic:
-        title: Integrity
+        title: Learning Skills from Books
         subtitle: Highlights
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
