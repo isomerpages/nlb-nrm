@@ -29,15 +29,15 @@ sections:
         url: /faq/
     - infopic:
         title: Integrity
-        subtitle: Core Values
+        subtitle: Highlights
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
         url: /core-values/
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
+        title: 3 Digital Skills That Will Make You Employable
+        subtitle: Highlights
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
