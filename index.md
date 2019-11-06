@@ -22,6 +22,9 @@ sections:
             - title: FIND A GOOD EREAD
               description: Check out our recommendations
               url: /privacy/
+			- title: FIND A GOOD EREAD
+              description: Check out our recommendations
+              url: /privacy/
     - infobar:
         title: Read More. Read Widely. Read Together.
         subtitle: Initiatives
