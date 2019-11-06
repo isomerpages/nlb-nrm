@@ -33,16 +33,16 @@ sections:
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
         url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
+        image: /images/experiment-banner.jpg
+        alt: Learning Skills from Books
     - infopic:
         title: 3 Digital Skills That Will Make You Employable
         subtitle: Highlights
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
+        image: /images/digital-skill-banner.jpg
+        alt: 3 Digital Skills That Will Make You Employable
     - resources:
         title: Media
         subtitle: Learn more
