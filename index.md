@@ -28,7 +28,7 @@ sections:
         button: Check out our initiatives
         url: /faq/
     - infopic:
-        title: An Experiment: Learning Skills from Books
+        title: Integrity
         subtitle: Highlights
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
