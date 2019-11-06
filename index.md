@@ -43,12 +43,6 @@ sections:
         url: /core-values/
         image: /images/digital-skill-banner.jpg
         alt: 3 Digital Skills That Will Make You Employable
-	- carousel:
-        - title: Initiative A
-          subtitle: services
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/initiative-a.png
-          alt: Employees taking part in Initiative A
     - resources:
         title: Media
         subtitle: Learn more
