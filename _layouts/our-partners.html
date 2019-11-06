@@ -4,15 +4,9 @@ layout: page
 
 The National Reading Movement would like to thank organisations for their support and participation.
 
-<div class="col padding--bottom--xl">
-	<span class="bp-sec-button has-text-centered">
-		<a class="is-uppercase media-category-button selected" id="partners-1-button"><b>Organisations that supported Read for Books, Read! Fest and National Reading Day</b></a>
-		<a class="is-uppercase media-category-button" id="partners-2-button"><b>Organisations that pledged to read</b></a>
-	</span>
-</div>
-
 {%- assign our-partners = site.data.our-partners -%}
 <div class="content">
+	<h2>Organisations that supported Read for Books, Read! Fest and National Reading Day</h2>
 	<div class="row is-multiline padding--bottom--lg" id="partners-1">
 		{%- for partner1 in our-partners.partners-1 -%}
 			<div class="col is-half person-info-card padding--right">
@@ -32,6 +26,7 @@ The National Reading Movement would like to thank organisations for their suppor
 			{%- endfor -%}
 		</div>
 	
+		<h2>Organisations that pledged to read</h2>
 		<div class="row is-multiline padding--bottom--lg" id="partners-2">
 		{%- for partner2 in our-partners.partners-2 -%}
 			<div class="col is-half person-info-card padding--right">
