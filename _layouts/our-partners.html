@@ -1,20 +1,24 @@
 ---
 layout: page
 ---
+
 <div class="col padding--bottom--xl">
 	<span class="bp-sec-button has-text-centered">
 		<a class="is-uppercase media-category-button selected" id="partners-1-button"><b>Partners 1</b></a>
 		<a class="is-uppercase media-category-button" id="partners-2-button"><b>Partners 2</b></a>
 	</span>
 </div>
-		
+
+The National Reading Movement would like to thank organisations for their support and participation.
+<p>
+
+{%- assign our-partners = site.data.our-partners -%}
 <div class="content">
-	The National Reading Movement would like to thank organisations for their support and participation.
-	<p>
-	{%- assign our-partners = site.data.our-partners -%}
+	
 	<h5>Organisations that supported Read for Books, Read! Fest and National Reading Day</h5><p>
-	<div class="row is-multiline padding--bottom--lg" id="partners-1">
-		{%- for partner1 in our-partners.partners-1 -%}
+		
+		<div class="row is-multiline padding--bottom--lg" id="partners-1">
+			{%- for partner1 in our-partners.partners-1 -%}
 			<div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col">
@@ -33,22 +37,24 @@ layout: page
 		</div>
 	
 		<h5>Organisations that pledged to read</h5><p>
+		
 		<div class="row is-multiline padding--bottom--lg" id="partners-2">
-		{%- for partner2 in our-partners.partners-2 -%}
+			{%- for partner2 in our-partners.partners-2 -%}
 			<div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col">
 						{%- if partner2.image-url -%}
-							<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner2.image-url -}}">
+						<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner2.image-url -}}">
 						{%- endif -%}
-						</div>
-						<div class="col padding--top padding--bottom bg-table-grey">
-							<p class="is-marginless padding--top--sm">
-								<b>{{- partner2.name -}}</b><br>
-							</p>
-						</div>
+					</div>
+					<div class="col padding--top padding--bottom bg-table-grey">
+						<p class="is-marginless padding--top--sm">
+							<b>{{- partner2.name -}}</b><br>
+						</p>
 					</div>
 				</div>
+			</div>
 			{%- endfor -%}
 		</div>
+		
 </div>
