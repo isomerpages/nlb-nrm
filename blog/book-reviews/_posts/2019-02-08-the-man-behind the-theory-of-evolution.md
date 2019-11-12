@@ -1,17 +1,13 @@
 ---
 layout: post
 title:  The Man Behind the Theory of Evolution
-permalink: /blog/book-reviews/evolution
+permalink: /blog/book-reviews/evolution/
 ---
-
-
 
 Unless you have been living under a rock, you will most likely know this man.
 
 [![mw01728](https://i.ibb.co/DtyNdCm/mw01728.jpg)
 ](https://ibb.co/TkSZy8J)Source: http://po.st/l0tqFW
-
-
 
 Yes, that’s Charles Darwin, undoubtedly one of THE most iconic figures in history. But how much of this fascinating biologist do you actually know? We’ve rounded up four facts which may change the way you view this stern-faced bearded man. 
 
@@ -23,19 +19,11 @@ Yeah.. that term was actually created by Herbert Spencer, a philosopher who want
 [![awkward](https://media.giphy.com/media/kHZC0lHGShttiTiOrL/giphy.gif)
 ](https://imgbb.com/)Source: https://gph.is/g/EGyOgYl
 
-
-
 But Darwin eventually adopted the phrase in his fifth edition of *The Origin of Species*. And just to clear the air, Darwin did indeed give full credit to Spencer for coining the famous term. 
 
-
-
-*“But the expression often used by Mr. Herbert Spencer of the survival of the fittest is more accurate, and is sometimes equally convenient.”*
+> But the expression often used by Mr. Herbert Spencer of the survival of the fittest is more accurate, and is sometimes equally convenient.
 
 – Charles Darwin in *The Origin of Species* (chapter 4)
-
-
-
-
 
 **2. He created a pro/con list to decide whether to marry.**
 
@@ -53,8 +41,6 @@ Darwin’s father was a successful doctor and Darwin was to follow his footsteps
 [![tired](http://giphygifs.s3.amazonaws.com/media/me0mqrZiCbxwQ/giphy.gif)
 ](https://imgbb.com/)Source: https://gph.is/XKnxpF
 
-
-
 And of all the fields of study he could’ve chosen after dropping out of medical school, the man—who would come to challenge the dogma of creationism—enrolled in Cambridge to study divinity. But his faith wavered when he encountered slavery during his travels later on in his life, and the death of three of his children. 
 
 
@@ -65,8 +51,6 @@ Animal activists today would have a thing or two to say to Darwin. While at Camb
 
 [![patrick](http://giphygifs.s3.amazonaws.com/media/12uXi1GXBibALC/giphy.gif)
 ](https://imgbb.com/)Source: https://gph.is/197G1XA
-
-
 
 He managed to continue his foodie hobby when he was travelling on the *HMS Beagle*—he dined on armadillos, ostriches, pumas, and a “20lb chocolate-coloured rodent” which he [thought](https://www.theguardian.com/lifeandstyle/2003/mar/09/foodanddrink.features15) was “the best meat [he] ever tasted”. 
 
