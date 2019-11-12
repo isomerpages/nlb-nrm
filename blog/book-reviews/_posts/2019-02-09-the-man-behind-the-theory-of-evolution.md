@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Man Behind the Theory of Evolution
 permalink: /blog/book-reviews/evolution
 ---
