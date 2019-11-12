@@ -11,8 +11,8 @@ notification:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Read@Work
-              description: Read@Work supports organisations in seeding a reading culture at the workplace. Find out more!
+            - title: Read at Work
+              description: Read at Work supports organisations in seeding a reading culture at the workplace. Find out more!
               url: http://www.nationalreadingmovement.sg/readwork/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
