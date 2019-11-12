@@ -3,8 +3,7 @@ layout: homepage
 title: National Reading Movement
 description: Read More, Read Widely, Read Together.
 permalink: /
-notification: Here's a notification bar you can use!
-sections:
+notification: 
     - hero:
         title: 
         subtitle: 
@@ -12,15 +11,15 @@ sections:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Read! Fest 2019
-              description: Check out our reading related programmes
-              url: https://google.com
-            - title: National Reading Challenge
-              description: Win a pair of Singapore Airlines tickets and other attractive prizes
-              url: https://gmail.com
-            - title: Find a Good eRead
-              description: Check out our recommendations
-              url: /privacy/
+            - title: Read@Work
+              description: Read@Work supports organisations in seeding a reading culture at the workplace. Find out more!
+              url: http://www.nationalreadingmovement.sg/readwork/
+            - title: Book Clubs
+              description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
+              url: http://www.nationalreadingmovement.sg/book-clubs/
+            - title: NRM Mobile app
+              description: Read on-the-go! Thousands of eReads at your fingertips!
+              url: http://www.nationalreadingmovement.sg/book-clubs/
     - infobar:
         title: Read More. Read Widely. Read Together.
         subtitle: Initiatives
