@@ -3,7 +3,7 @@ title: Four Conversations
 permalink: /initiatives/four-conversations/
 ---
 
-Check out the four conversations event on Haloween!!
+Check out 2019's four conversations -
 
 ![](C:\Users\NLB Internet User\Downloads\Inactive_Oct19-FA_eDm_5\Inactive_Oct19-FA.jpg)
 
