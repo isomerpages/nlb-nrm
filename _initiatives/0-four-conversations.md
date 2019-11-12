@@ -3,7 +3,7 @@ title: Four Conversations
 permalink: /initiatives/four-conversations/
 ---
 
-Check out the four conversations event on Haloween!!
+Check out 2019's four conversations -
 
 ![](/images/4C-NRM-hero-banner-1240x600.jpg)
 
