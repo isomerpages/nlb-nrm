@@ -5,7 +5,7 @@ permalink: /initiatives/four-conversations/
 
 Check out the four conversations event on Haloween!!
 
-![](/images/Inactive_Oct19-FA_eDm_5\Inactive_Oct19-FA.jpg)
+![](/images/Inactive_Oct19-FA_eDm_5/Inactive_Oct19-FA.jpg)
 
 
 
