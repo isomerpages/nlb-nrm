@@ -1,7 +1,7 @@
 ---
 layout: post
 title:The Man Behind the Theory of Evolution
-permalink: /blog/book-reviews/evolution/
+permalink: /blog/book-reviews/evolution
 ---
 
 Unless you have been living under a rock, you will most likely know this man.
