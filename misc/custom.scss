@@ -374,3 +374,7 @@ $desktop: 960px + (2 * $gap) !default;
     height: 100%;
     border: 0;
 }
+
+.bp-hero-body {
+	background: unset;
+}
