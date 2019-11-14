@@ -1,4 +1,4 @@
 ---
-title: Golibrary
+title: GoLibrary
 permalink: /initiatives/golibrary/
 ---

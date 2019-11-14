@@ -1,4 +1,4 @@
 ---
-title: Nlb Mobile App
+title: NLB Mobile app
 permalink: /initiatives/nlb-mobile-app/
 ---

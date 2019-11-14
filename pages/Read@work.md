@@ -1,4 +1,4 @@
 ---
-title: Read@work
-permalink: /Read@work/
+title: Read@Work
+permalink: /readwork/
 ---

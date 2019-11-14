@@ -1,4 +1,4 @@
 ---
-title: Discovereads
+title: DiscoveReads
 permalink: /initiatives/discovereads/
 ---
