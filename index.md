@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: National Reading Movement
-description: Read More, Read Widely, Read Together.
+description: Read More, Read Widely, Read Together
 permalink: /
 notification: 
 sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/nrm-banner.png
+        background: /images/DBL Slider.png
         url: /contact-us/
         button: 
         key_highlights:
@@ -28,21 +28,21 @@ sections:
         button: Check out our initiatives
         url: /faq/
     - infopic:
-        title: Learning Skills from Books
+        title: Read@Work
         subtitle: Highlights
-        description: Learn three random skills picked by our librarians
+        description: Find out how you can incorporate reading habits in the workplace
         button: Learn More
-        url: /core-values/
+        url: /readwork/
         image: /images/experiment-banner.jpg
-        alt: Learning Skills from Books
+        alt: Read@Work
     - infopic:
-        title: 3 Digital Skills That Will Make You Employable
+        title: Recommended eReads
         subtitle: Highlights
-        description: Right now, there is a demand for specific digital skills, and learning them will definitely make you more employable
-        button: Learn More
-        url: /core-values/
+        description: Thousands of eBooks, eMagazines and audiobooks at your fingertips.
+        button: Explore
+        url: http://nlb.overdrive.com
         image: /images/digital-skill-banner.jpg
-        alt: 3 Digital Skills That Will Make You Employable
+        alt: Explore eReads
     - resources:
         title: Media
         subtitle: Learn more
