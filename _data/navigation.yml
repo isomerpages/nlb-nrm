@@ -10,18 +10,17 @@ links:
   - title: Blog
     resource_room: true
   - title: Initiatives    
-- sub title: Book Clubs
-url: /initiatives/book-clubs/
-- sub title: NLB Mobile app
-url: https://www.nlb.gov.sg/static/nlbmobileguide/
-  sub title: Digital Business Library
- url: https://nlb.overdrive.com/library/biz
+    url: /initiatives/book-clubs/
+    sublinks:
+    - title: Book Clubs
+      url: /initiatives/book-clubs/
+    - title: NLB Mobile app
+      url: https://www.nlb.gov.sg/static/nlbmobileguide/
+    - title: Digital Business Library
+      url: https://nlb.overdrive.com/library/biz
   - title: Read@Work
     url: /readwork/
   - title: Partners
     url: /Partners/
   - title: About Us
     collection: about-us
-
-
-

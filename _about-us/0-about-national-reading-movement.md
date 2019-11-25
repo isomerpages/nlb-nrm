@@ -15,8 +15,10 @@ You can be a part of this movement by simply downloading eBooks via our NLB Mobi
 
 Let’s grow with every read and start by sharing a read #readingnationsg and tagging us at @readingnationsg.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Q05WdKEy0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/d6Q05WdKEy0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p>
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://www.youtube.com/embed/smvR7KHY2ZM" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
