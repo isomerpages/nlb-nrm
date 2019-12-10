@@ -20,13 +20,7 @@ sections:
               url: http://www.nationalreadingmovement.sg/book-clubs/
             - title: NRM Mobile app
               description: Read on-the-go! Thousands of eReads at your fingertips!
-              url: http://www.nationalreadingmovement.sg/book-clubs/
-    - infobar:
-        title: Read More. Read Widely. Read Together.
-        subtitle: Initiatives
-        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
-        button: Check out our initiatives
-        url: /faq/
+              url: https://www.nlb.gov.sg/static/nlbmobileguide/
     - infopic:
         title: Read@Work
         subtitle: Highlights
@@ -36,15 +30,12 @@ sections:
         image: /images/experiment-banner.jpg
         alt: Read@Work
     - infopic:
-        title: Recommended eReads
+        title: Book Recommendations, Reviews and More!
         subtitle: Highlights
         description: Thousands of eBooks, eMagazines and audiobooks at your fingertips.
         button: Explore
-        url: http://nlb.overdrive.com
+        url: https://medium.com/publiclibrarysg
         image: /images/digital-skill-banner.jpg
-        alt: Explore eReads
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        alt: Explore reads and more
+    
 ---
