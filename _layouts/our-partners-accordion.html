@@ -2,16 +2,14 @@
 layout: page
 ---
 
+{%- assign our-team = site.data.nrm-partners -%}
 <div class="content">
-	The National Reading Movement would like to thank organisations for their support and participation.
-		
-	{%- assign data = site.data.nrm-partners -%}
-	<div id="nrm-partners">
-		{%- for partner-type in data.nrm-partners -%}
+	<div id="organisational-structure">
+		{%- for division in our-team.organisational-structure -%}
 			{%- comment -%} Accordion header {%- endcomment -%}
 			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 				<div class="col is-expanded is-fullwidth is-paddingless">
-					<h5 class="has-text-grey-dark is-marginless"><b> {{- partner-type.partner-type -}}
+					<h5 class="has-text-grey-dark is-marginless"><b> {{- division.title -}}
 					</b></h5>
 				</div>
 				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
@@ -20,10 +18,10 @@ layout: page
 			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
         			<div class="row is-multiline">
-						{%- for partner in partner-type.partners -%}
+						{%- for team in division.teams -%}
 						    <div class="col is-4 padding--right--xl padding--bottom">
 								<div class="margin--top--none">
-									{{- partner.name -}}
+									{%- if team.link -%}<a href="{{- site.baseurl -}}{{- team.link -}}">{%- endif -%}{{- team.name -}}{%- if team.link -%}</a>{%- endif -%}
 								</div>
 							</div>
 						{%- endfor -%}
