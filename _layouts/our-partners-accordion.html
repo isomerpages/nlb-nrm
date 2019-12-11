@@ -32,7 +32,7 @@ layout: page
 
 {%- for partner-type in nrm-partners.partner-structure -%}
 <button class="accordion"><h5><b>{{- partner-type.title -}}</b></h5></button>
-<div class="panel">
+<div id="panel--{{forloop.index0}}" class="panel">
 	{%- for partner in partner-type.partners -%}
 		<p>{{- partner.name -}}</p>
 	{%- endfor -%}
