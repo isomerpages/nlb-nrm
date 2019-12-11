@@ -18,12 +18,14 @@ The National Reading Movement would like to thank organisations for their suppor
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
         		<div class="row is-multiline">
-				{%- for partner in partner-type.partners -%}
-					<div class="col is-4 padding--right--xl padding--bottom">
-						{{- partner.name -}}<br/>
-					</div>
+					{%- for partner in partner-type.partners -%}
+					    <div class="col is-4 padding--right--xl padding--bottom">
+							<div class="margin--top--none">
+								{%- if partner.link -%}<a href="{{- site.baseurl -}}{{- partner.link -}}">{%- endif -%}{{- partner.name -}}{%- if partner.link -%}</a>{%- endif -%}
+								</div>
+						</div>
+					{%- endfor -%}
 				</div>
-				{%- endfor -%}
 			</div>
 		</div>
 	{%- endfor -%}
