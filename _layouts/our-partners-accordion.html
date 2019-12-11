@@ -2,33 +2,19 @@
 layout: page
 ---
 
-{%- assign our-team = site.data.nrm-partners -%}
 <div class="content">
-	<div id="organisational-structure">
-		{%- for division in our-team.organisational-structure -%}
-			{%- comment -%} Accordion header {%- endcomment -%}
-			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-				<div class="col is-expanded is-fullwidth is-paddingless">
-					<h5 class="has-text-grey-dark is-marginless"><b> {{- division.title -}}
-					</b></h5>
-				</div>
-				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-			</div>
-			{%- comment -%} Accordion body {%- endcomment -%}
-			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
-				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-        			<div class="row is-multiline">
-						{%- for team in division.teams -%}
-						    <div class="col is-4 padding--right--xl padding--bottom">
-								<div class="margin--top--none">
-									{%- if team.link -%}<a href="{{- site.baseurl -}}{{- team.link -}}">{%- endif -%}{{- team.name -}}{%- if team.link -%}</a>{%- endif -%}
-								</div>
-							</div>
-						{%- endfor -%}
-					</div>
-				</div>
-			</div>
+The National Reading Movement would like to thank organisations for their support and participation.
+<p>
+
+{%- assign nrm-partners = site.data.nrm-partners -%}
+	<div id="partner-structure">
+	{%- for partner-type in nrm-partners.partner-structure -%}
+		<h5 class="has-text-grey-dark is-marginless"><b> {{- partner-type.title -}}</b></h5>
+		
+		{%- for partner in partner-type.partners -%}
+			{{- partner.name -}}<br/>
 		{%- endfor -%}
-		{{- content -}}
+	{%- endfor -%}
+	{{- content -}}
 	</div>
 </div>
