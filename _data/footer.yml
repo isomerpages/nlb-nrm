@@ -2,8 +2,10 @@ contact_us: /contact-us/
 show_reach: false
 feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
 faq: /faq/
+privacy_policy: https://www.nlb.gov.sg/PrivacyStatement.aspx
+terms_of_use: https://www.nlb.gov.sg/TermsofUse.aspx
 copyright_agency: National Library Board
 social_media:
     facebook: https://www.facebook.com/readingnationsg
-     instagram: https://www.instagram.com/readingnationsg
-privacy_policy: /privacy/
+    instagram: https://www.instagram.com/readingnationsg
+    youtube: https://www.youtube.com/YourYoutube
