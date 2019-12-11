@@ -7,27 +7,27 @@
 logo: /images/nrm-logo.jpg
 
 links:
-  - title: Initiatives    
+  - title: Initiatives
     url: /initiatives/book-clubs/
     sublinks:
-    - title: Book Clubs
-      url: /initiatives/book-clubs/
-	- title: askST@NLB
-	url: /initiatives/askst/
-    - title: NLB Mobile app
-      url: https://www.nlb.gov.sg/static/nlbmobileguide/
-    - title: Digital Business Library
-      url: https://nlb.overdrive.com/library/biz
+      - title: Book Clubs
+        url: /initiatives/book-clubs/
+      - title: askST@NLB
+        url: /initiatives/askst/
+      - title: NLB Mobile app
+        url: https://www.nlb.gov.sg/static/nlbmobileguide/
+      - title: Digital Business Library
+        url: https://nlb.overdrive.com/library/biz
   - title: Read@Work
     url: /readwork/
   - title: Partners
-    url: /Partners/
+    url: /partners/
   - title: About Us
-     url: /about-us/about-national-reading-movement/
-     sublinks:
-	- title: Visit Us
-		url: https://www.nlb.gov.sg/VisitUs.aspx
-	- title: GoLibrary
-	url: https://www.nlb.gov.sg/golibrary2/c/30307529/
-	- title: Privacy Policy
-	url: /privacy/
+    url: /about-us/about-national-reading-movement/
+    sublinks:
+      - title: Visit Us
+        url: https://www.nlb.gov.sg/VisitUs.aspx
+      - title: GoLibrary
+        url: https://www.nlb.gov.sg/golibrary2/c/30307529/
+      - title: Privacy Policy
+        url: /privacy/
