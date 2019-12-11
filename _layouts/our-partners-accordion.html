@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+<div class="content">
+	The National Reading Movement would like to thank organisations for their support and participation.
+	{%- assign nrm-partners = site.data.nrm-partners -%}
+	<div id="nrm-partner-listing">
+		{%- for type in nrm-partners.nrm-partners -%}
+			{%- comment -%} Accordion header {%- endcomment -%}
+			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+				<div class="col is-expanded is-fullwidth is-paddingless">
+					<h5 class="has-text-grey-dark is-marginless"><b> {{- type.partner-type -}}
+					</b></h5>
+				</div>
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div>
+			{%- comment -%} Accordion body {%- endcomment -%}
+			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
+				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+        			<div class="row is-multiline">
+						{%- for partner in type.partners -%}
+						    <div class="col is-4 padding--right--xl padding--bottom">
+								<div class="margin--top--none">
+									{{- partner.name -}}
+								</div>
+							</div>
+						{%- endfor -%}
+					</div>
+				</div>
+			</div>
+		{%- endfor -%}
+		{{- content -}}
+	</div>
+</div>

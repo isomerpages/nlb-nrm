@@ -1,0 +1,18 @@
+# NRM Partners
+nrm-partners:
+  - partner-type: Organisations that supported Read for Books, Read! Fest and National Reading Day
+    partners:
+        - name: 112 Katong
+        - name: 46th SSEAYP Singapore Contingent
+        - name: (Kumon) Kaki Bukit Learning Centre
+        - name: A+E Networks Asia
+        - name: Accounting and Corporate Regulatory Authority
+        - name: Accountant General’s Department
+        - name: ACS Boarding School
+        - name: Alexandra Health
+        - name: AlKhair English Madrasah
+        - name: Anchor Green Primary School
+  - partner-type: Organisations that pledge to read
+    partners:
+        - name: A D LAB PTE LTD
+        - name: Accounting and Corporate Regulatory Authority
