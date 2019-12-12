@@ -2,30 +2,98 @@
 layout: page
 ---
 
-<link rel="stylesheet" href="/misc/w3.css">
-
-<div class="w3-container">
-
-<h2>Accordions</h2>
-<p>An accordion is used to show (and hide) HTML content:</p>
-  
-<button onclick="myFunction('Demo1')" class="w3-btn w3-block w3-black w3-left-align">Open Section 1</button>
-<div id="Demo1" class="w3-container w3-hide">
-  <h4>Section 1</h4>
-  <p>Some text..</p>
-</div>
-
-</div>
-
-<script>
-function myFunction(id) {
-  var x = document.getElementById(id);
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
+<style>
+body {
+	background-color:#c15236;
+	font-family:'Arial';
+	padding:2em 6em;
 }
-</script>
+h1{
+	color:#fff;
+	text-align:center;
+}
+/*--------Accordion-------*/
+.acc-kontainer {
+	width: 100%;
+	margin: auto;
+}
+.acc-kontainer .acc-body {
+	width: 98%;
+	width: calc(100% - 20px);
+	margin: 0 auto;
+	height: 0;
+	color: rgba(0, 0, 0, 0);;
+	background-color: rgba(255, 255, 255, 0.2);
+	line-height: 28px;
+	padding: 0 20px;
+	box-sizing: border-box;
+	transition: 0.5s;
+}
 
-</body>
+.acc-kontainer label {
+	cursor: pointer;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	display: block;
+	padding: 15px;
+	width: 100%;
+	color: #fff;
+	font-weight: 400;
+	box-sizing: border-box;
+	z-index: 100;
+}
+
+.acc-kontainer input{
+	display: none;
+}
+
+.acc-kontainer label:before {
+	font-family: 'FontAwesome';
+	content: '\f067';
+	font-weight: bolder;
+	float: right;
+}
+
+.acc-kontainer input:checked+label {
+	background-color: rgba(255, 255, 255, 0.15);
+}
+
+.acc-kontainer input:checked+label:before {
+	font-family: 'FontAwesome';
+	content: '\f00d';
+	transition: 0.5s;
+}
+
+.acc-kontainer input:checked~.acc-body {
+	height: auto;
+	color: #fff;
+	font-size: 16px;
+	padding: 20px;
+	transition: 0.5s;
+}
+</style>
+
+<h1>Pure HTML+CSS Accordion (Without Javascript)</h1>
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc1" checked>
+		<label for="acc1"><i class="fa fa-map-marker"></i> My name?</label>
+		<div class="acc-body">
+			Hi, You can call me Dandi.
+		</div>
+	</div>
+    <div>
+        <input type="radio" name="acc" id="acc2">
+        <label for="acc2"><i class="fa fa-heart"></i> What am I interesting for?</label>
+        <div class="acc-body">
+			All the thing about Technology! Informatic technology especially.
+		</div>
+	</div>
+	<div>
+		<input type="radio" name="acc" id="acc3">
+        <label for="acc3"><i class="fa fa-music"></i> What is my hobby?</label>
+        <div class="acc-body">
+			i love music <i class="fa fa-headphones"></i>, watching movie <i class="fa fa-film"></i>, Designing maybe <i class="fa fa-code"></i>
+		</div>
+    </div>
+ </div>
