@@ -23,7 +23,7 @@ layout: page
 
 .acc-kontainer label {
 	cursor: pointer;
-	background-color: rgba(3, 113, 130);
+	background-color: rgba(3,113,130);
 	border-bottom: 1px solid rgba(192,192,192);
 	display: block;
 	padding: 15px;
@@ -45,7 +45,7 @@ layout: page
 }
 
 .acc-kontainer input:checked+label {
-	background-color: rgba(3, 113, 130);
+	background-color: rgba(3,113,130);
 }
 
 .acc-kontainer input:checked+label:before {
@@ -64,10 +64,10 @@ layout: page
 
 {%- assign nrm-partners = site.data.nrm-partners -%}
 <div class="content">
-	<div class="acc-kontainer">  
+	<div class="acc-kontainer">
 		{%- for partner-type in nrm-partners.partner-structure -%}
 		<div>
-			<input type="radio" name="acc" id="acc{{forloop.index1}}">
+			<input type="radio" name="acc" id="acc{{forloop.index}}">
 			<label for="acc1"><i></i> {{- partner-type.title -}} </label>
 			<div class="acc-body">
 				{%- for partner in partner-type.partners -%}
