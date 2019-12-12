@@ -68,7 +68,7 @@ layout: page
 		{%- for partner-type in nrm-partners.partner-structure -%}
 		<div>
 			<input type="radio" name="acc" id="acc{{forloop.index}}">
-			<label for="acc1"><i></i> {{- partner-type.title -}} </label>
+			<label for="acc{{forloop.index}}"><i></i> {{- partner-type.title -}} </label>
 			<div class="acc-body">
 				{%- for partner in partner-type.partners -%}
 					{{- partner.name -}}<br/>
