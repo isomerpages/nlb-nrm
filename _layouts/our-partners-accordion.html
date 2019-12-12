@@ -73,9 +73,15 @@ The National Reading Movement would like to thank organisations for their suppor
 			<input type="radio" name="acc" id="acc{{forloop.index}}">
 			<label for="acc{{forloop.index}}"><i></i> {{- partner-type.title -}} </label>
 			<div class="acc-body">
-				{%- for partner in partner-type.partners -%}
-					{{- partner.name -}}<br/>
-				{%- endfor -%}
+				<div class="row is-multiline">
+					{%- for partner in partner-type.partners -%}
+					<div class="col is-4 padding--right--xl padding--bottom">
+						<div class="margin--top--none">
+							{{- partner.name -}}<br/>
+						</div>
+					</div>
+					{%- endfor -%}
+				</div>
 			</div>
 		</div>
 		{%- endfor -%}
