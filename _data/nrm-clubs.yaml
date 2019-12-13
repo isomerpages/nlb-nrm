@@ -4,13 +4,18 @@ club-structure:
     clubs:
       - name: Book Lovers Club
         venue: Central Public Library
+        desc: "The Book Lovers Club is a bimonthly book club for adults."
       - name: English Club 2
         venue: library@orchard
+        desc: "No silence here as we gather to read aloud and listen to stories’ highs and lows."
       - name: FOL Book Club
         venue: Central Public Library
+        desc: "This monthly book club was set up by a group of long-time friends who first got to know each other as library volunteers, or Friends of the Library (FOLs)"
   - title: Chinese
     clubs:
-      - name: 3G Reading Club
+      - name: 3G Reading Club (第三代读书会)
         venue: Central Public Library
-      - name: Chinese Reading Club
+        desc: "This book club discusses both local and overseas Chinese works, often organising book launches and educational seminars."
+      - name: Chinese Reading Club (儿童经典导读班)
         venue: Choa Chu Kang Public Library
+        desc: "This is a reading club for 6 – 10 year olds."
