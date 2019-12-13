@@ -14,10 +14,10 @@ sections:
         key_highlights:
             - title: Read@Work
               description: Read@Work supports organisations in seeding a reading culture at the workplace. Find out more!
-              url: http://www.nationalreadingmovement.sg/readwork/
+              url: /read-at-work/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
-              url: http://www.nationalreadingmovement.sg/book-clubs/
+              url: /book-clubs/
             - title: NRM Mobile app
               description: Read on-the-go! Thousands of eReads at your fingertips!
               url: https://www.nlb.gov.sg/static/nlbmobileguide/
@@ -26,7 +26,7 @@ sections:
         subtitle: Highlights
         description: Find out how you can incorporate reading habits in the workplace
         button: Learn More
-        url: /readwork/
+        url: /read-at-work/
         image: /images/experiment-banner.jpg
         alt: Read@Work
     - infopic:
