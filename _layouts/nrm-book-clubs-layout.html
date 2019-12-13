@@ -69,24 +69,24 @@ layout: page
 {%- assign nrm-clubs = site.data.nrm-clubs -%}
 <div class="content">
 	<div class="acc-kontainer">
-	{%- for club-lang in nrm-clubs.club-structure -%}
+		{%- for club-lang in nrm-clubs.club-structure -%}
 		<div>
 			<input type="radio" name="acc" id="acc{{forloop.index}}">
 			<label for="acc{{forloop.index}}"><i></i> {{- club-lang.title -}} </label>
 			<div class="acc-body">
 				<div class="row is-multiline">
 					{%- for club in club-lang.clubs -%}
-					<div>
+					<div col padding--right--xl padding--bottom>
 						<div class="margin--top--none">
 							<h5>{{- club.name -}}</h5>
 							<i>Location: {{- club.venue -}}</i><br/>
-							{{- club.desc -}}
+							{{- club.desc -}}<p>
 						</div>
 					</div>
 					{%- endfor -%}
 				</div>
 			</div>
 		</div>
-	{%- endfor -%}
+		{%- endfor -%}
 	</div>
 </div>
