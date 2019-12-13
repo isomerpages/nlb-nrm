@@ -77,9 +77,9 @@ layout: page
 				<div class="row is-multiline">
 					{%- for club in club-lang.clubs -%}
 					<div col is-half-tablet padding--bottom--lg>
-						<p><b>{{- club.name -}}</b>
+						<b>{{- club.name -}}</b>
 						<i>Location:  {{- club.venue -}}</i><br/>
-						{{- club.desc -}}<hr/>
+						{{- club.desc -}}<p/>
 					</div>
 					{%- endfor -%}
 				</div>
