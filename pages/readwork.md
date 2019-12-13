@@ -1,6 +1,6 @@
 ----
 title: Read@Work
-permalink: /readwork/
+permalink: /readatwork/
 ---
 
 ![banner read@work](\images\RWFeature-e1560911840942.jpg)
