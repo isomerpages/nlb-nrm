@@ -2,11 +2,15 @@
 club-structure:
   - title: English
     clubs:
-      - name: English Club 1
+      - name: Book Lovers Club
+        venue: Central Public Library
       - name: English Club 2
-      - name: English Club 3
+        venue: library@orchard
+      - name: FOL Book Club
+        venue: Central Public Library
   - title: Chinese
     clubs:
-      - name: Chinese Club 1
-      - name: Chinese Club 2
-      - name: Chinese Club 3
+      - name: 3G Reading Club
+        venue: Central Public Library
+      - name: Chinese Reading Club
+        venue: Choa Chu Kang Public Library
