@@ -74,17 +74,20 @@ layout: page
 			<input type="radio" name="acc" id="acc{{forloop.index}}">
 			<label for="acc{{forloop.index}}"><i></i> {{- club-lang.title -}} </label>
 			<div class="acc-body">
-				<div class="row is-multiline">
+				<table>
+					<tr>
+						<th>Name</th>
+						<th>Venue</th>
+						<th>Description</th>
+					</tr>
 					{%- for club in club-lang.clubs -%}
-					<div class="padding--right--xl padding--bottom">
-						<div class="margin--top--none">
-							<h5>{{- club.name -}}</h5>
-							<i>Location: {{- club.venue -}}</i><br/>
-							{{- club.desc -}}
-						</div>
-					</div>
+					<tr>
+						<td>{{- club.name -}}</td>
+						<td>{{- club.venue -}}</td>
+						<td>{{- club.desc -}}</td>
+					</tr>
 					{%- endfor -%}
-				</div>
+				</table>
 			</div>
 		</div>
 	{%- endfor -%}
