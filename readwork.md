@@ -16,12 +16,12 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Curiosity](/edms/Read@Work_Curiosity.pdf)
+Latest EDM: [Read@Work_Curiosity](/edms/Read@Work_Curiosity.pdf){:target="_blank"}
 
 Past EDMs:
 
-* [Read@Work_Adaptability](/edms/Read@Work_Adaptability.pdf)
-* [Read@Work_Creativity](/edms/Read@Work_Creativity-linkable-PDF.pdf)
-* [Read@Work_Adversity](/edms/Read@Work_Adversity.pdf)
+* [Read@Work_Adaptability](/edms/Read@Work_Adaptability.pdf){:target="_blank"}
+* [Read@Work_Creativity](/edms/Read@Work_Creativity-linkable-PDF.pdf){:target="_blank"}
+* [Read@Work_Adversity](/edms/Read@Work_Adversity.pdf){:target="_blank"}
 
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
