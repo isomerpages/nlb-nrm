@@ -19,3 +19,11 @@ club-structure:
       - name: Chinese Reading Club (儿童经典导读班)
         venue: Choa Chu Kang Public Library
         desc: "This is a reading club for 6 – 10 year olds. 儿童经典导读班的导师以轻松有趣的方式教导孩子们了解中华古典经文。导读班由新生心智发展中心与德慧经典文化学会所主办，适合 6 – 10岁的孩童参与。家长必须陪伴孩童参与此活动。有兴趣报名的读者，请联系美玲/Mayling (电邮: mayling77[at]gmail.com)"
+    - title: Malay
+      clubs:
+      - name: Malay Club 1
+        venue: Central Public Library
+        desc: "Sample desc here"
+      - name: Malay Club 2
+        venue: Central Public Library
+        desc: "Sample desc 2 here"
