@@ -76,12 +76,10 @@ layout: page
 			<div class="acc-body">
 				<div class="row is-multiline">
 					{%- for club in club-lang.clubs -%}
-					<div col padding--right--xl padding--bottom>
-						<div class="margin--top--none">
-							<h5>{{- club.name -}}</h5>
-							<i>Location: {{- club.venue -}}</i><br/>
-							{{- club.desc -}}<p>
-						</div>
+					<div col is-half-tablet padding--bottom--lg>
+						<h5>{{- club.name -}}</h5>
+						<i>Location:  {{- club.venue -}}</i><br/>
+						{{- club.desc -}}<p>
 					</div>
 					{%- endfor -%}
 				</div>
