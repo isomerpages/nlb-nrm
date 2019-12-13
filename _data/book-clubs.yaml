@@ -1,0 +1,21 @@
+# Book Clubs
+book-clubs-data:
+    - language: English
+      clubs:
+        - name: Book Lovers Club
+          venue: Central Public Library
+          description: "The Book Lovers Club is a bimonthly book club for adults. Our book discussions focus on relationships and inspirational stories that can be applied to both our professional and private lives. Look out for new sessions on the GoLibrary Portal!"
+        - name: Communities: Reading Allowed
+          venue: library@orchard
+          description: "No silence here as we gather to read aloud and listen to stories’ highs and lows. Discover books that you might have otherwise missed, or sit in for an alternative community reading experience with a different book each session. Co-organised with Read-Aloud Sg Book Club. For adults."
+        - name: FOL Book Club
+          venue: Central Public Library
+          description: "This monthly book club was set up by a group of long-time friends who first got to know each other as library volunteers, or Friends of the Library (FOLs). They have been discussing Read! Singapore short stories since 2010. Members take turns to facilitate."
+    - language: Chinese
+      clubs:
+        - name: 3G Reading Club 第三代读书会
+          venue: Central Public Library
+          description: "This book club discusses both local and overseas Chinese works, often organising book launches and educational seminars. To find out more about their sessions visit: https://www.facebook.com/3g.reading.club/"
+        - name: Chinese Reading Club 儿童经典导读班
+          venue: Choa Chu Kang Public Library
+          description: "This is a reading club for 6 – 10 year olds. 儿童经典导读班的导师以轻松有趣的方式教导孩子们了解中华古典经文。导读班由新生心智发展中心与德慧经典文化学会所主办，适合 6 – 10岁的孩童参与。家长必须陪伴孩童参与此活动。有兴趣报名的读者，请联系美玲/Mayling (电邮: mayling77[at]gmail.com)"
