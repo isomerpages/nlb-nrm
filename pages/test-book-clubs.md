@@ -1,4 +1,5 @@
 ---
+layout: nrm-book-clubs-layout
 title: Test book clubs
 permalink: /test-book-clubs/
 ---
