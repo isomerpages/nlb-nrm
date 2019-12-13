@@ -11,8 +11,10 @@ Keen to share your thoughts about books you have read? Why not join a book club?
 
 For current club meeting dates and registration, please visit [HERE](http://www.nlb.gov.sg/golibrary){:target="_blank"}.
 
-<div class="content">
+#### Find a book club
+
 {%- assign nrm-book-clubs = site.data.book-clubs -%}
+<div class="content">
 	{%- for book-club in nrm-book-clubs.book-clubs -%}
 		{{- book-club.name -}}<br/>
 	{%- endfor -%}
