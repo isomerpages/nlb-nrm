@@ -17,7 +17,7 @@ sections:
               url: /read-at-work/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
-              url: /book-clubs/
+              url: /initiatives/book-clubs/
             - title: NRM Mobile app
               description: Read on-the-go! Thousands of eReads at your fingertips!
               url: https://www.nlb.gov.sg/static/nlbmobileguide/
