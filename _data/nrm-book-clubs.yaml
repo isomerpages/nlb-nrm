@@ -1,0 +1,9 @@
+book-club-title: Book Clubs
+  - language: English
+    clubs:
+      - name: Book Lovers Club
+	    venue: Central Public Library
+	  - name: Communities: Reading Allowed
+	    venue: library@orchard
+	  - name: FOL Book Club
+	    venue: Central Public Library
