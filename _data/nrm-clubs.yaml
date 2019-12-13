@@ -1,0 +1,12 @@
+# NRM Book Clubs
+club-structure:
+  - title: English
+    clubs:
+      - name: English Club 1
+      - name: English Club 2
+      - name: English Club 3
+  - title: Chinese
+    clubs:
+      - name: Chinese Club 1
+      - name: Chinese Club 2
+      - name: Chinese Club 3
