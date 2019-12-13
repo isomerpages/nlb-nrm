@@ -1,4 +1,5 @@
 ---
+layout: nrm-book-clubs-layout
 title: Book Clubs
 permalink: /initiatives/book-clubs/
 ---
