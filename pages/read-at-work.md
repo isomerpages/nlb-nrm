@@ -1,5 +1,5 @@
 ----
-title: Read@Work
+title: "Read@Work"
 permalink: /read-at-work/
 ---
 
