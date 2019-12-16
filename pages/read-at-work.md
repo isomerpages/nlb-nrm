@@ -25,3 +25,30 @@ Past EDMs:
 * [Read@Work_Adversity](/edms/Read@Work_Adversity.pdf){:target="_blank"}
 
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
+
+<p/>
+
+{%- assign nrm-partners = site.data.nrm-partners -%}
+<div class="content">
+	<div class="acc-kontainer">
+		{%- for partner-type in nrm-partners.partner-structure -%}
+			{%- if partner-type.title = "Read@Work Partners" -%}
+				<div>
+					<input type="radio" name="acc" id="acc{{forloop.index}}">
+					<label for="acc{{forloop.index}}"><i></i> {{- partner-type.title -}} </label>
+					<div class="acc-body">
+						<div class="row is-multiline">
+							{%- for partner in partner-type.partners -%}
+							<div class="col is-4 padding--right--xl padding--bottom">
+								<div class="margin--top--none">
+									{{- partner.name -}}
+								</div>
+							</div>
+							{%- endfor -%}
+						</div>
+					</div>
+				</div>
+			{%- endif -%}
+		{%- endfor -%}
+	</div>
+</div> 
