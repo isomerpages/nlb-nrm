@@ -25,11 +25,3 @@ Past EDMs:
 * [Read@Work_Adversity](/edms/Read@Work_Adversity.pdf){:target="_blank"}
 
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
-
-{%- assign nrm-partners = site.data.nrm-partners -%}
-{%- for partner-type in nrm-partners.partner-structure -%}
-	<h4>{{- partner-type.title -}}</h4>
-	{%- for partner in partner-type.partners -%}
-			{{- partner.name -}}<br/>
-	{%- endfor -%}
-{%- endfor -%}
