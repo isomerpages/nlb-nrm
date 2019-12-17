@@ -3,7 +3,7 @@ title: "Read@Work"
 permalink: /read-at-work/
 ---
 
-![banner read@work](\images\RWFeature-e1560911840942.jpg)
+![banner read@work](\images\readwork.jpg)
 
 Launched in late 2016, Read@Work supports organisations in seeding a reading culture at the workplace. More than 60 organisations are on board Read@Work to strengthen their staff’s learning and reading habits. Join us to enjoy a complimentary suite of services designed to encourage working adults to read and learn:
 
