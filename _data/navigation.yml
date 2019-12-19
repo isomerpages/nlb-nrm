@@ -9,7 +9,11 @@ logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
     url: /initiatives/book-clubs/
-    sublinks:
+     sublinks:
+	- title: Coffee Meets Novel
+        url: /cmn/
+	- title: Grab a Book
+        url: /grab-a-book/
       - title: Book Clubs
         url: /initiatives/book-clubs/
       - title: askST@NLB
