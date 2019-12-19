@@ -105,22 +105,22 @@ club-structure:
       - name: Malay Reading Clubs for Children 4 to 6 years old
         venue: Choa Chu Kang Public Library
         desc: "Designed for pre-schoolers aged 4 to 6 years old, this reading club aims to instill in members the love for reading Malay language picture books and inculcate good reading habits. The club will meet every month for an hour, with each session comprising a storytelling component followed by an activity segment which ranges from art and craft to language games. The session will end with a bonding segment with parent and child reading together. Registration is required, please email Shahril_Abdullah[at]nlb.gov.sg or look out for the registration link on the GoLibrary Portal."
-      - name: Kelab Membaca Wira Cerdik 
+      - name: Kelab Membaca Wira Cerdik (Tampines)
         venue: Tampines Regional Library
         desc: "2nd Saturday of the month, 11am – 12pm"
-      - name: Kelab Membaca Wira Cerdik
+      - name: Kelab Membaca Wira Cerdik (Bukit Panjang)
         venue: Bukit Panjang Library
         desc: "3rd Saturday of the month, 3.30pm – 4.30pm"
       - name: Malay Reading Clubs for Children 7 to 9 years old
         venue: Various
         desc: "These clubs aim to instill the love of books and reading in the Malay language, especially amongst children aged between 7 and 9, in addition to inculcating good reading habits. Sessions comprise storytelling segment and book-based activities that will develop children’s literacy skills. Registration is required, please email Shahril_Abdullah@nlb.gov.sg or look out for the registration link on the GoLibrary Portal."
-      - name: Kelab Membaca Wira Pintar
+      - name: Kelab Membaca Wira Pintar (Tampines)
         venue: Tampines Regional Library
         desc: "3rd Friday of the month, 4pm – 5pm"
-      - name: Kelab Membaca Wira Pintar
+      - name: Kelab Membaca Wira Pintar (Sengkang)
         venue: Sengkang Public Library
         desc: "4th Friday of the month, 4pm – 5pm"
-      - name: Kelab Membaca Wira Pintar
+      - name: Kelab Membaca Wira Pintar (Yishun)
         venue: Yishun Public Library
         desc: "4th Saturday of the month, 11:30am – 12:30pm"
   - title: Tamil
