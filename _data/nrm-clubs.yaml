@@ -20,30 +20,6 @@ club-structure:
       - name: Pseudo Book Club
         venue: Jurong Regional Library
         desc: "This is a book club facilitated by young adults for young adults. Calling all young adults aged 13 to 19 especially student librarians and all young adults who enjoy reading to join us in our monthly thematic based discussions."
-      - name: Singapore Literature Book Club
-        venue: Central Public Library
-        desc: "From NLB’s Singapore collection comes a book club with a unique local flavour. Discuss books by both well-known and emerging Singapore authors touching on topics close to home. Get acquainted with local literature and discover national literary treasures right here at the libraries."
-      - name: The Golden Circle
-        venue: Geylang East Public Library
-        desc: "The rustle of a well-thumbed page, the whiff of age from a much-cherished tome – come and appreciate the beauty of a good book with The Golden Circle, an English book club for seniors. Discussions will centre around fiction books, so join us for a stimulating afternoon of lively discussions."
-      - name: The Next Chapter
-        venue: Yishun Public Library
-        desc: "Join The Next Chapter if you are 50 and above, read and speak English, and are keen to discuss books with themes that pique our common interests and address our common concerns. We cover a wide range of topics including relationships, retirement, financial issues, health and exercise, as well as hobbies, recreation and travelling."
-      - name: Organic Storytellers
-        venue: Bukit Panjang Public Library
-        desc: "The Organic Storytellers is a welcoming group for adults (above 21 years) who wish to develop their oral storytelling skills: to tell (not read!) stories to a live audience, with the goal to inform, entertain or influence."
-      - name: Writing the City Writers’ Group
-        venue: Toa Payoh Public Library
-        desc: "Writing the City Writers’ Group is a community of writers committed to the craft of writing. Our workshops offer participants writing exercises, guest lectures, and exposure to literature from both established and emerging writers. In creating a group where writers are encouraged to give and receive feedback on their work, the Writers’ Group aims to give writers the tools to take their writing forward. To register, please send an email to jongresham11 [at] gmail.com with your name and contact details."
-      - name: The Straits Times Book Club
-        venue: Central Public Library
-        desc: "The Straits Times Book Club seeks to create a platform for book lovers to meet the authors of important and bestselling titles, as well as build a community around the written word. This club features a slate of The Straits Times journalists moderating sessions on new titles every last Wednesday of each month from 7.00pm – 8.30pm."
-      - name: The U Presence Book Club
-        venue: Yishun Public Library
-        desc: "This book club is a platform for readers and fans of the four authors of the book “Presence: Human Purpose and the Field of the Future” to meet, discuss and share life changing experiences during or after reading their books. It is also a good start for anyone interested in learning more about organisational learning, and how to co-facilitate it."
-      - name: Migrant Library Singapore Book Club
-        venue: Geylang East Public Library
-        desc: "Migrant Library Singapore Book Club (MLS) was set up to promote reading habit among Migrant workers in Singapore. This monthly club aims to make room for readers to discuss book of the uncommon genre. Through this session, MLS hopes to foster friendship among other migrants and expand awareness of other cultures and literature through poetry reading, book sharing, storytelling, panel and literature discussion and others."
   - title: Chinese
     clubs:
       - name: 3G Reading Club (第三代读书会)
