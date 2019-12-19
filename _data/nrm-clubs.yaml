@@ -67,7 +67,7 @@ club-structure:
         我们邀请你来交流阅读心得，分享阅读成果，借此提升对书籍的认知与课题的了解。"
       - name: Qing History Society Book Club 清史学会读书会
         venue: Central Public Library
-        desc: "A subsidiary under the Qing History Society, the book club was founded in 2015 by a group of Qing history enthusiast. The book club aims to promote the reading culture and deepen the understanding of Qing dynasty history through books written by various researchers and writers. 新加坡清史学会在2015年初成立读书会。通过导读分享，我们希望能加深公众对清朝历史的认识，扫除来自戏剧或传说中的误导，同时秉持着平衡的历史观讨论清史，从导读的书中获悉有关清史方面的最新史料及资讯。欢迎所有对清史有兴趣和热爱中华文化的朋友参与导读。欲知详情，可浏览我们的面簿：[https://www.facebook.com/qinghistorysociety/](https://www.facebook.com/qinghistorysociety/)"
+        desc: "A subsidiary under the Qing History Society, the book club was founded in 2015 by a group of Qing history enthusiast. The book club aims to promote the reading culture and deepen the understanding of Qing dynasty history through books written by various researchers and writers. <br>新加坡清史学会在2015年初成立读书会。通过导读分享，我们希望能加深公众对清朝历史的认识，扫除来自戏剧或传说中的误导，同时秉持着平衡的历史观讨论清史，从导读的书中获悉有关清史方面的最新史料及资讯。欢迎所有对清史有兴趣和热爱中华文化的朋友参与导读。欲知详情，可浏览我们的面簿：<a href="https://www.facebook.com/qinghistorysociety/">https://www.facebook.com/qinghistorysociety/</a>
       - name: Chinese Stories Fan Club 故事迷 
         venue: Ang Mo Kio Public Library
         desc: "Every 4th Thursday of the month, 3pm – 4pm
@@ -76,6 +76,13 @@ club-structure:
         您有多久没听故事了呢？听故事不是小孩子的专利，成人也能享受其中的乐趣。 
         诚邀大家一起来听故事，让馆员们带您穿越古今中外的各个的故事。
         适合50岁及以上人士参与。"
+      - name: Taxi Shifu and Friends Reading Club 德士师傅与好友读书会
+        venue: Ang Mo Kio Public Library
+        desc: "Come join us and share your passion for reading with like-minded readers of Taxi Shifu and Friends Reading Club. Every book discussion is an enriching experience for all as the participants establish friendships and leave with valuable insights and knowledge that help them better appreciate the book.
+        您热爱阅读吗？欢迎您参加由德士师傅与好友读书会举办的 导读会与其他志趣相同的读者一起交流和分享您的心得，让大家除了对讨论的各种书籍有更深一层的认识与理解外，也可以搭起友谊的桥梁。本会的活动无须报名，入场免费。"
+      - name: SG Writings Reading Club 随笔南洋读书会
+        venue: library@chinatown
+        desc: "Established in 18th October 1998, SG Writings Reading Club (formerly Tea Chapter’s Chinese Reading Club) has been actively promoting the readership of Chinese books. The Reading Club aims to refine the public’s attitude towards Chinese literature and teaching them to further appreciate the art. The participants can take the chance to share their thoughts and rediscover their understanding of the books in the process. 随笔南洋读书会（原茶渊读书会）成立于1998年10月18日。读书会以鼓励读书风气，交流阅读心得，探讨文学真谛，提高鉴赏能力，开发自身潜在艺术感觉为宗旨。成员以本地的文学爱好者为主，也包括喜爱华文创作的写作人。欢迎公众参加每月的导读活动。无需报名，入场免费。"
   - title: Malay
     clubs:
       - name: Ilham Pustaka Malay Reading Club
