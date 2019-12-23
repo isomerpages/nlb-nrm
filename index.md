@@ -8,7 +8,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/DBL Slider.png
+        background: /images/WordsAre_Web.png
         url: /contact-us/
         button: 
         key_highlights:
