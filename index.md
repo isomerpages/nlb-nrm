@@ -12,15 +12,15 @@ sections:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Read! Fest 2020
-              description: Watch this space in June for more info on Read! Fest 2020
-              url: 
+            - title: Grab a Book
+              description: Borrow the reads in selected Grab vehicles. Find out more.
+              url: /grab-a-book/
+            - title: Coffee Meets Novel
+              description: Get your free coffee with when you borrow an eBook/audiobook! Find out more. 
+              url: /cmn/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
               url: /initiatives/book-clubs/
-            - title: NRM Mobile app
-              description: Read on-the-go! Thousands of eReads at your fingertips!
-              url: https://www.nlb.gov.sg/static/nlbmobileguide/
     - infopic:
         title: Read@Work
         subtitle: Highlights
