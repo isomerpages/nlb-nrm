@@ -16,7 +16,7 @@ sections:
               description: Borrow the reads in selected Grab vehicles. Find out more.
               url: /grab-a-book/
             - title: Coffee Meets Novel
-              description: Get your free coffee with when you borrow an eBook/audiobook! Find out more.
+              description: Get your free treat when you borrow an eBook/audiobook! Find out more.
               url: /cmn/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
