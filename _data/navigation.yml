@@ -4,18 +4,34 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/nrm-logo.jpg
 
 links:
-  - title: Blog
-    resource_room: true
   - title: Initiatives
-    collection: initiatives
-  - title: Read@work
-    url: /Read@work/
+    url: /initiatives/book-clubs/
+    sublinks:
+      - title: Coffee Meets Novel
+        url: /cmn/
+      - title: Grab a Book
+        url: /grab-a-book/
+      - title: Book Clubs
+        url: /initiatives/book-clubs/
+      - title: askST@NLB
+        url: /initiatives/askst-at-nlb/
+      - title: NLB Mobile app
+        url: https://www.nlb.gov.sg/static/nlbmobileguide/
+      - title: Digital Business Library
+        url: https://nlb.overdrive.com/library/biz
+  - title: Read@Work
+    url: /read-at-work/
   - title: Partners
-    url: /Partners/
+    url: /partners/
   - title: About Us
-    collection: about-us
-
-
+    url: /about-us/about-national-reading-movement/
+    sublinks:
+      - title: "About National Reading Movement"
+        url: /about-us/about-national-reading-movement/
+      - title: Visit Us
+        url: https://www.nlb.gov.sg/VisitUs.aspx
+      - title: GoLibrary
+        url: https://www.nlb.gov.sg/golibrary2/c/30307529/

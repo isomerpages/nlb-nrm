@@ -1,0 +1,48 @@
+---
+layout: page
+---
+
+<div class="content">
+	The National Reading Movement would like to thank organisations for their support and participation.
+	<p>
+	{%- assign our-partners = site.data.our-partners -%}
+	<h5>Organisations that supported Read for Books, Read! Fest and National Reading Day</h5><p>
+	<div class="row is-multiline padding--bottom--lg" id="partners-1">
+		{%- for partner1 in our-partners.partners-1 -%}
+			<div class="col is-half person-info-card padding--right">
+				<div class="row margin--bottom--xs margin--right">
+					<div class="col is-one-third image-col">
+						{%- if partner1.image-url -%}
+							<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner1.image-url -}}">
+						{%- endif -%}
+						</div>
+						<div class="col padding--top padding--bottom bg-table-grey">
+							<p class="is-marginless padding--top--sm">
+								<b>{{- partner1.name -}}</b><br>
+							</p>
+						</div>
+					</div>
+				</div>
+			{%- endfor -%}
+		</div>
+	
+		<h5>Organisations that pledged to read</h5><p>
+		<div class="row is-multiline padding--bottom--lg" id="partners-2">
+		{%- for partner2 in our-partners.partners-2 -%}
+			<div class="col is-half person-info-card padding--right">
+				<div class="row margin--bottom--xs margin--right">
+					<div class="col is-one-third image-col">
+						{%- if partner2.image-url -%}
+							<img class="margin--right--none" src="{{- site.baseurl -}}{{- partner2.image-url -}}">
+						{%- endif -%}
+						</div>
+						<div class="col padding--top padding--bottom bg-table-grey">
+							<p class="is-marginless padding--top--sm">
+								<b>{{- partner2.name -}}</b><br>
+							</p>
+						</div>
+					</div>
+				</div>
+			{%- endfor -%}
+		</div>
+</div>
