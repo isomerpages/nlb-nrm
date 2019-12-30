@@ -13,7 +13,7 @@ From now till 6th February 2020, download one of the following titles and you ca
 
 List of eligible book titles: 
 
-!["13 Things Mentally Strong People Don't Do"](/images/13things.png)
+<img src="/images/13things.png" style="width:50%", alt="13 Things Mentally Strong People Don't Do"/>
 
 13 Things Mentally Strong People Don't Do by Amy Morin
 
