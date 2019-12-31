@@ -7,15 +7,15 @@ permalink: /grab-a-book/
 
 Let words take you places when you use the NLB Mobile app!
 
-From now till 6th February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
+From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
 
 Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **+6588933290**. Once verified, you'll receive your S$2 code*!
 
+**Sample screenshot:**
 
+<img src="/images/Grab2.png" style="width:30%" alt="sample screenshot"/>
 
-<img src="/images/Grab2.png" style="width:30%" alt="screenshot"/>
-
-List of eligible book titles: 
+**Eligible book titles:** 
 
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
 
@@ -53,7 +53,7 @@ Borrow
 
 \-    Not redeemable or exchangeable for cash. 
 
-\-    Grab promo codes are valid until 27 March 2020.
+\-    Issued Grab promo codes are valid until 27 March 2020.
 
 \-    Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
 
