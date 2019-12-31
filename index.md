@@ -34,8 +34,8 @@ sections:
         subtitle: Highlights
         description: Make reading part of your lifestyle. Explore featured titles and author thoughts and more!
         button: Explore
-        url: https://medium.com/publiclibrarysg
-        image: /images/digital-skill-banner.jpg
+        url: https://go.gov.sg/nlb-nrmmedium
+        image: /images/nrm_pl.jpg
         alt: Explore reads and more
     
 ---
