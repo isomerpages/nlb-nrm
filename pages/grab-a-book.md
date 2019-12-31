@@ -1,5 +1,5 @@
 ---
-title: Grab a Book
+title: Book a Grab, Grab a Book
 permalink: /grab-a-book/
 ---
 
@@ -21,7 +21,7 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 13 Things Mentally Strong People Don't Do by Amy Morin
 
-Borrow [HERE](https://nlb.overdrive.com/media/1681182?cid=1036259)
+Borrow [HERE](https://nlb.overdrive.com/media/1681182?cid=1036259
 
 
 
@@ -36,6 +36,46 @@ Borrow
 <img src="/images/brokenstars.png" style="width:30%" alt="Broken Stars" />
 
 Broken Stars by Ken Liu
+
+Borrow 
+
+
+
+<img src="/images/eatups.png" style="width:30%" alt="Eat Up" />
+
+Eat Up by Ruby Tandoh
+
+Borrow 
+
+
+
+<img src="/images/goodbye.png" style="width:30%" alt="goodbye, things" />
+
+goodbye, things by Fumio Sasaki
+
+Borrow 
+
+
+
+<img src="/images/intel.png" style="width:30%" alt="The Intelligent Investor" />
+
+The Intelligent Investor by Benjamin Graham
+
+Borrow 
+
+
+
+<img src="/images/lostvintage.png" style="width:30%" alt="The Lost Vintage" />
+
+The Lost Vintage by Ann Mah
+
+Borrow 
+
+
+
+<img src="/images/worryfree.png" style="width:30%" alt="Worry-Free Money" />
+
+Worry-Free Money by Shannon Lee Simmons
 
 Borrow 
 
