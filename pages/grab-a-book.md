@@ -21,7 +21,7 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 13 Things Mentally Strong People Don't Do by Amy Morin
 
-Borrow [HERE](https://nlb.overdrive.com/media/1681182?cid=1036259
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9)
 
 
 
@@ -29,7 +29,7 @@ Borrow [HERE](https://nlb.overdrive.com/media/1681182?cid=1036259
 
 Alice's Adventures in Wonderland by Lewis Carroll
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b)
 
 
 
@@ -37,15 +37,15 @@ Borrow
 
 Broken Stars by Ken Liu
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4)
 
 
 
-<img src="/images/eatups.png" style="width:30%" alt="Eat Up" />
+<img src="/images/eatup.png" style="width:30%" alt="Eat Up" />
 
 Eat Up by Ruby Tandoh
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78)
 
 
 
@@ -53,15 +53,15 @@ Borrow
 
 goodbye, things by Fumio Sasaki
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a)
 
 
 
-<img src="/images/intel.png" style="width:30%" alt="The Intelligent Investor" />
+<img src="/images/intel.jpg" style="width:30%" alt="The Intelligent Investor" />
 
 The Intelligent Investor by Benjamin Graham
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a)
 
 
 
@@ -69,7 +69,7 @@ Borrow
 
 The Lost Vintage by Ann Mah
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=848a6e70-2973-443c-a947-8f9efa0b207f)
 
 
 
@@ -77,7 +77,7 @@ Borrow
 
 Worry-Free Money by Shannon Lee Simmons
 
-Borrow 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b264-0745fc5f9a78)
 
 
 
