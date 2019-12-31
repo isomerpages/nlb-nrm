@@ -97,3 +97,6 @@ Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b
 
 \-    Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
 
+
+
+Updated 31 Dec 2019

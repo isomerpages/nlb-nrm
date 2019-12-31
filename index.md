@@ -12,8 +12,8 @@ sections:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Grab a Book
-              description: Borrow the reads in selected Grab vehicles. Find out more.
+            - title: Book a Grab, Grab a Book
+              description: Borrow the selected reads and get a S$2 Grab promo code. Find out more.
               url: /grab-a-book/
             - title: Coffee Meets Novel
               description: Get your free treat when you borrow an eBook/audiobook! Find out more.
