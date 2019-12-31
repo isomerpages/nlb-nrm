@@ -81,21 +81,15 @@ Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b
 
 
 
-***Terms & Conditions.**
+***Terms & Conditions:**
 
-\-    To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to **+6588933290**. 
-
-\-    Eligible titles are those that are listed above on this page. 
-
-\-    Limited to only one redemption of **ONE** unique promo code per myLibraryID account. 
-
-\-    Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
-
-\-    Not redeemable or exchangeable for cash. 
-
-\-    Issued Grab promo codes are valid until 27 March 2020.
-
-\-    Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
+*  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to **+6588933290**. 
+* Eligible titles are those that are listed above on this page. 
+* Limited to only one redemption of **ONE** unique promo code per myLibraryID account.
+* Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
+* Not redeemable or exchangeable for cash. 
+* Issued Grab promo codes are valid until 27 March 2020.
+* Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
 
 
 
