@@ -15,16 +15,31 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 <img src="/images/Grab2.png" style="width:30%" alt="sample screenshot"/>
 
-**Eligible book titles:** 
+**Eligible book titles:**
 
-| ![13 Things](\images\13things.png) | **13 Things Mentally Strong People Don't Do by Amy Morin**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
-| ![Alice's Adventures in Wonderland by Lewis Carroll](\images\alice.png) | **Alice's Adventures in Wonderland by Lewis Carroll**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
-| ![Broken Stars by Ken Liu](\images\brokenstars.png) | **Broken Stars by Ken Liu**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4){:target="_blank"} |
-| ![Eat Up by Ruby Tandoh](\images\eatup.png) | **Eat Up by Ruby Tandoh**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78){:target="_blank"} |
-| ![goodbye, things by Fumio Sasaki](\images\goodbye.png) | **goodbye, things by Fumio Sasaki**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78){:target="_blank"} |
-| ![The Intelligent Investor by Benjamin Graham](\images\intel.jpg) | **The Intelligent Investor by Benjamin Graham**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a){:target="_blank"} |
-| ![The Lost Vintage by Ann Mah](\images\lostvintage.png) | **The Lost Vintage by Ann Mah**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=848a6e70-2973-443c-a947-8f9efa0b207f){:target="_blank"} |
-| ![Worry-Free Money by Shannon Lee Simmons](\images\worryfree.png) | **Worry-Free Money by Shannon Lee Simmons**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b264-0745fc5f9a78){:target="_blank"} |
+<table>
+	<tr>
+		<td><img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" /></td>
+		<td><img src="/images/alice.png" style="width:30%" alt="Alice's Adventures in Wonderland" /></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>13 Things Mentally Strong People Don't Do by Amy Morin<br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a></td>
+		<td>Alice's Adventures in Wonderland by Lewis Carroll<br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
 
 
 
