@@ -5,6 +5,8 @@ permalink: /grab-a-book/
 
 ![banner Grab](\images\Grab1.png)
 
+[Whatsapp](https://api.whatsapp.com/send?phone=6588933290)
+
 Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
