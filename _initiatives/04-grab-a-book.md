@@ -47,14 +47,14 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 		<td><img src="/images/intel.jpg" style="width:60%" alt="The Intelligent Investor" /></td>
 	</tr>
 	<tr>
-		<td><b>The Intelligent Investor by Benjamin Graham</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a">Borrow now</a></td>
+		<td><b>goodbye, things by Fumio Sasaki</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a">Borrow now</a></td>
 		<td><b>The Intelligent Investor by Benjamin Graham</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a">Borrow now</a></td>
 	</tr>
 </table>
 <p>
 <table>
 	<tr>
-		<td><img src="/images/lostvintage.png" style="width:30%" alt="The Lost Vintage" /></td>
+		<td><img src="/images/lostvintage.png" style="width:60%" alt="The Lost Vintage" /></td>
 		<td><img src="/images/worryfree.png" style="width:60%" alt="Worry-Free Money" /></td>
 	</tr>
 	<tr>
