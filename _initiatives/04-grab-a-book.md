@@ -11,6 +11,8 @@ From now till 6 February 2020, download one of the following titles and you can 
 
 Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290** [here](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}. Once verified, you'll receive your S$2 code*!
 
+<a href="https://api.whatsapp.com/send?phone=6588933290">Whatsapp</a>
+
 **Sample screenshot:**
 
 <img src="/images/Grab2.png" style="width:30%" alt="sample screenshot"/>
