@@ -17,6 +17,9 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 **Eligible book titles:** 
 
+| ![13 Things](\images\13things.png) | 13 Things Mentally Strong People Don't Do by Amy Morin 
+Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
+
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
 
 13 Things Mentally Strong People Don't Do by Amy Morin
