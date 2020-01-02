@@ -23,19 +23,41 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 		<td><img src="/images/alice.png" style="width:60%" alt="Alice's Adventures in Wonderland" /></td>
 	</tr>
 	<tr>
-		<td><h4>13 Things Mentally Strong People Don't Do by Amy Morin</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a></td>
-		<td><h4>Alice's Adventures in Wonderland by Lewis Carroll</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a></td>
+		<td><b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a></td>
+		<td><b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a></td>
 	</tr>
 </table>
-
+<p>
 <table>
 	<tr>
 		<td><img src="/images/brokenstars.png" style="width:60%" alt="Broken Stars" /></td>
 		<td><img src="/images/eatup.png" style="width:60%" alt="Eat Up" /></td>
 	</tr>
 	<tr>
-		<td><h4>Broken Stars by Ken Liu</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4">Borrow now</a></td>
-		<td><h4>Eat Up by Ruby Tandoh</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78">Borrow now</a></td>
+		<td><b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4">Borrow now</a></td>
+		<td><b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78">Borrow now</a></td>
+	</tr>
+</table>
+<p>
+<table>
+	<tr>
+		<td><img src="/images/goodbye.png" style="width:60%" alt="goodbye, things" /></td>
+		<td><img src="/images/intel.jpg" style="width:60%" alt="The Intelligent Investor" /></td>
+	</tr>
+	<tr>
+		<td><b>The Intelligent Investor by Benjamin Graham</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a">Borrow now</a></td>
+		<td><b>The Intelligent Investor by Benjamin Graham</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a">Borrow now</a></td>
+	</tr>
+</table>
+<p>
+<table>
+	<tr>
+		<td><img src="/images/lostvintage.png" style="width:30%" alt="The Lost Vintage" /></td>
+		<td><img src="/images/worryfree.png" style="width:60%" alt="Worry-Free Money" /></td>
+	</tr>
+	<tr>
+		<td><b>The Lost Vintage by Ann Mah</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=848a6e70-2973-443c-a947-8f9efa0b207f">Borrow now</a></td>
+		<td><b>Worry-Free Money by Shannon Lee Simmons</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b264-0745fc5f9a78">Borrow now</a></td>
 	</tr>
 </table>
 
