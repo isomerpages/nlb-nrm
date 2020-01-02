@@ -5,8 +5,6 @@ permalink: /grab-a-book/
 
 ![banner Grab](\images\Grab1.png)
 
-[Whatsapp](https://api.whatsapp.com/send?phone=6588933290)
-
 Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
@@ -20,6 +18,15 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 **Eligible book titles:** 
 
 | ![13 Things](\images\13things.png) | **13 Things Mentally Strong People Don't Do by Amy Morin**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
+| ![Alice's Adventures in Wonderland by Lewis Carroll](\images\alice.png) | **Alice's Adventures in Wonderland by Lewis Carroll**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
+| ![Broken Stars by Ken Liu](\images\brokenstars.png) | **Broken Stars by Ken Liu**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4){:target="_blank"} |
+| ![Eat Up by Ruby Tandoh](\images\eatup.png) | **Eat Up by Ruby Tandoh**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78){:target="_blank"} |
+| ![goodbye, things by Fumio Sasaki](\images\goodbye.png) | **goodbye, things by Fumio Sasaki**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78){:target="_blank"} |
+| ![The Intelligent Investor by Benjamin Graham](\images\intel.jpg) | **The Intelligent Investor by Benjamin Graham**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a){:target="_blank"} |
+| ![The Lost Vintage by Ann Mah](\images\lostvintage.png) | **The Lost Vintage by Ann Mah**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=848a6e70-2973-443c-a947-8f9efa0b207f){:target="_blank"} |
+| ![Worry-Free Money by Shannon Lee Simmons](\images\worryfree.png) | **Worry-Free Money by Shannon Lee Simmons**<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b264-0745fc5f9a78){:target="_blank"} |
+
+
 
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
 
