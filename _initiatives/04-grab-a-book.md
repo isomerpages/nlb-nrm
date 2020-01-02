@@ -9,7 +9,7 @@ Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
 
-Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **[+6588933290](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}**. Once verified, you'll receive your S$2 code*!
+Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to [+6588933290](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}. Once verified, you'll receive your S$2 code*!
 
 **Sample screenshot:**
 
@@ -17,8 +17,7 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 **Eligible book titles:** 
 
-| ![13 Things](\images\13things.png) | 13 Things Mentally Strong People Don't Do by Amy Morin 
-Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
+| ![13 Things](\images\13things.png) | #### [13 Things Mentally Strong People Don't Do by Amy Morin Borrow](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
 
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
 
@@ -86,7 +85,7 @@ Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b
 
 ***Terms & Conditions:**
 
-*  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to **[+6588933290](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}**. 
+*  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to [+6588933290](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}. 
 * Eligible titles are those that are listed above on this page. 
 * Limited to only one redemption of **ONE** unique promo code per myLibraryID account.
 * Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
