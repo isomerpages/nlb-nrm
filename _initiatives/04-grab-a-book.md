@@ -82,6 +82,8 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 </div>
 
 
+<hr/>
+
 
 ***Terms & Conditions:**
 
