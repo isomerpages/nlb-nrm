@@ -19,28 +19,25 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 <table>
 	<tr>
-		<td><img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" /></td>
-		<td><img src="/images/alice.png" style="width:30%" alt="Alice's Adventures in Wonderland" /></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><img src="/images/13things.png" style="width:60%" alt="13 Things Mentally Strong People Don't Do" /></td>
+		<td><img src="/images/alice.png" style="width:60%" alt="Alice's Adventures in Wonderland" /></td>
 	</tr>
 	<tr>
-		<td>13 Things Mentally Strong People Don't Do by Amy Morin<br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a></td>
-		<td>Alice's Adventures in Wonderland by Lewis Carroll<br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><h4>13 Things Mentally Strong People Don't Do by Amy Morin</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a></td>
+		<td><h4>Alice's Adventures in Wonderland by Lewis Carroll</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a></td>
 	</tr>
 </table>
 
-
+<table>
+	<tr>
+		<td><img src="/images/brokenstars.png" style="width:60%" alt="Broken Stars" /></td>
+		<td><img src="/images/eatup.png" style="width:60%" alt="Eat Up" /></td>
+	</tr>
+	<tr>
+		<td><h4>Broken Stars by Ken Liu</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4">Borrow now</a></td>
+		<td><h4>Eat Up by Ruby Tandoh</h4><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78">Borrow now</a></td>
+	</tr>
+</table>
 
 
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
