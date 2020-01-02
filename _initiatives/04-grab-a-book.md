@@ -9,7 +9,7 @@ Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
 
-Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290** [here](https://google.com){:target="_blank"}. Once verified, you'll receive your S$2 code*!
+Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290** [here]("https://api.whatsapp.com/send?phone=6588933290"){:target="_blank"}. Once verified, you'll receive your S$2 code*!
 
 **Sample screenshot:**
 
