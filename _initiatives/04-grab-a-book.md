@@ -9,7 +9,7 @@ Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
 
-Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290**. Once verified, you'll receive your S$2 code*!
+Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290** [here](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}. Once verified, you'll receive your S$2 code*!
 
 **Sample screenshot:**
 
@@ -17,7 +17,7 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 **Eligible book titles:** 
 
-| ![13 Things](\images\13things.png) | ===13 Things Mentally Strong People Don't Do by Amy Morin===<br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
+| ![13 Things](\images\13things.png) | <h4>13 Things Mentally Strong People Don't Do by Amy Morin</h4><br>[Borrow now](https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9){:target="_blank"} |
 
 <img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do" />
 
