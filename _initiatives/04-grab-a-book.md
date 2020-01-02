@@ -88,9 +88,9 @@ Borrow [HERE](https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b
 * Limited to only one redemption of **ONE** unique promo code per myLibraryID account.
 * Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
 * Not redeemable or exchangeable for cash. 
-* Issued Grab promo codes are valid until 27 March 2020.
+* Issued Grab promo codes are valid until 5 July 2020.
 * Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
 
 
 
-Updated 31 Dec 2019
+Updated 02 Jan 2019
