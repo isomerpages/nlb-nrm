@@ -9,7 +9,7 @@ Let words take you places when you use the NLB Mobile app!
 
 From now till 6 February 2020, download one of the following titles and you can get S$2 off* your next Grab ride!
 
-Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290** [here](https://api.whatsapp.com/send?phone=6588933290){:target="_blank"}. Once verified, you'll receive your S$2 code*!
+Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to **65 8893 3290**. Once verified, you'll receive your S$2 code*!
 
 <a href="https://api.whatsapp.com/send?phone=6588933290">Whatsapp</a>
 <a href="https://api.whatsapp.com/send?phone=6591178749">Whatsapp2</a>
@@ -23,7 +23,7 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/13things.png" alt="13 Things Mentally Strong People Don't Do">
+			<img src="/images/13things.png" style="width:30%" alt="13 Things Mentally Strong People Don't Do">
 			<div>
 				<b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">Borrow now</a>
 			</div>
@@ -31,9 +31,17 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/alice.png" alt="Alice's Adventures in Wonderland">
+			<img src="/images/alice.png" style="width:30%" alt="Alice's Adventures in Wonderland">
 			<div>
 				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b">Borrow now</a>
+			</div>
+		</div>
+	</div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<img src="/images/goodbye.png" style="width:30%" alt="goodbye, things" />
+			<div>
+				<b>goodbye, things by Fumio Sasaki</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a">Borrow now</a>
 			</div>
 		</div>
 	</div>
