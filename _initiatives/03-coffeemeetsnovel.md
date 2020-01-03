@@ -33,45 +33,36 @@ Visit us at the roadshows below to learn about the NLB Mobile app – thousands 
 				<strong>One George Street</strong><br />11:00AM to 03:00PM
 			</div>
 		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>20</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>National University of Singapore</strong><br />11:00AM to 03:00PM
+			</div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>21</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>Nanyang Technological University</strong><br />11:00AM to 03:00PM
+			</div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>22</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>Suntec City Mall</strong><br />11:00AM to 03:00PM
+			</div>
+		</div>
 	</div>
 </div>
 
 
-Monday, 13 January 2020, 11am - 3pm
-
- **Fusionopolis**
-
-
-
-Tuesday, 14 January 2020, 11am - 3pm
-
-**Capital Tower**
-
- 
-
-Wednesday, 15 January 2020, 11am - 3pm
-
-**One George Street**
-
- 
-
-Monday, 20 January 2020, 11am - 3pm
-
-**National University of Singapore**
-
-
-
-Tuesday, 21 January 2020, 11am - 3pm
-
-**Nanyang Technological University**
-
- 
-
-Wednesday, 22 January 2020, 11am - 3pm
-
-**Suntec City Mall**
-
 <hr/>
+
 
 ***Terms & Conditions:**
 
