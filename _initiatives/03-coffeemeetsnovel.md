@@ -7,7 +7,35 @@ permalink: /cmn/
 
 Visit us at the roadshows below to learn about the NLB Mobile app – thousands of eBooks and audiobooks for you to enjoy right at your fingertips! Plus, redeem a free treat* when you borrow an eBook or audiobook! See you at:
 
- 
+<div class="divTable">
+	<div class="divTableBody">
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>13</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>Fusionpolis</strong><br />11:00AM to 03:00PM
+			</div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>14</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>Capital Tower</strong><br /> 11:00AM to 03:00PM
+			</div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">
+				<center><h1>15</h1>Jan</center>
+			</div>
+			<div class="divTableCell">
+				<strong>One George Street</strong><br />11:00AM to 03:00PM
+			</div>
+		</div>
+	</div>
+</div>
+
 
 Monday, 13 January 2020, 11am - 3pm
 
@@ -43,7 +71,7 @@ Wednesday, 22 January 2020, 11am - 3pm
 
 **Suntec City Mall**
 
-
+<hr/>
 
 ***Terms & Conditions:**
 
