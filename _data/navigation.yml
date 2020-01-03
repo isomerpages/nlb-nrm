@@ -12,7 +12,7 @@ links:
     sublinks:
       - title: Coffee Meets Novel
         url: /cmn/
-      - title: Grab a Book
+      - title: Book a Grab, Grab a Book
         url: /grab-a-book/
       - title: Book Clubs
         url: /initiatives/book-clubs/
@@ -22,6 +22,8 @@ links:
         url: https://www.nlb.gov.sg/static/nlbmobileguide/
       - title: Digital Business Library
         url: https://nlb.overdrive.com/library/biz
+  - title: Blog
+    url: https://go.gov.sg/nlb-nrmmedium
   - title: Read@Work
     url: /read-at-work/
   - title: Partners

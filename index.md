@@ -12,8 +12,8 @@ sections:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Grab a Book
-              description: Borrow the reads in selected Grab vehicles. Find out more.
+            - title: Book a Grab, Grab a Book
+              description: Borrow the selected reads and get a S$2 Grab promo code. Find out more.
               url: /grab-a-book/
             - title: Coffee Meets Novel
               description: Get your free treat when you borrow an eBook/audiobook! Find out more.
@@ -34,8 +34,8 @@ sections:
         subtitle: Highlights
         description: Make reading part of your lifestyle. Explore featured titles and author thoughts and more!
         button: Explore
-        url: https://medium.com/publiclibrarysg
-        image: /images/digital-skill-banner.jpg
+        url: https://go.gov.sg/nlb-nrmmedium
+        image: /images/nrm_pl.jpg
         alt: Explore reads and more
     
 ---
