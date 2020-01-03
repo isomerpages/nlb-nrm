@@ -436,3 +436,21 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 16px;
 	padding: 20px;
 }
+
+// NLB Schedule Table
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableCell, .divTableHead {
+	border: 0px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableBody {
+	display: table-row-group;
+}
