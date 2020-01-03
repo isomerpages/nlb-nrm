@@ -12,7 +12,7 @@ From now till 6 February 2020, download one of the following titles and you can 
 Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of eBook borrowed to <b><a href="https://go.gov.sg/nlb-wa-grab-a-book" target="_blank">+65 8893 3290</a></b>. Once verified, you'll receive your S$2 code*!
 
 
-### **Sample screenshot:**
+**Sample screenshot:**
 
 <img src="/images/Grab2.png" style="width:30%" alt="sample screenshot"/>
 
