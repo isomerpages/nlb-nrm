@@ -3,7 +3,7 @@ title: "Words Are Powerful Things"
 permalink: /jointhemovement/
 ---
 
-![banner cmn](\images\pow.jpg)
+![banner cmn](\images\pow.jpeg)
 
 Certain words have the power to remain with us long after we have finished reading them. Words can be inspirational, giving us a whole new way of looking at things. Or, it can also help us understand the various facets of life.
 
