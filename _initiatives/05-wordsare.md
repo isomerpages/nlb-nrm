@@ -3,7 +3,7 @@ title: "Words Are Powerful Things"
 permalink: /jointhemovement/
 ---
 
-![banner cmn](\images\pow.jpeg)
+![banner cmn](\images\pow.jpg)
 
 Certain words have the power to remain with us long after we have finished reading them. Words can be inspirational, giving us a whole new way of looking at things. Or, it can also help us understand the various facets of life.
 
@@ -25,8 +25,6 @@ We’ve also created exclusive NRM digital stickers and GIFs for you to use! Dow
 
 # To download WhatsApp Stickers
 
-<img src="/images/wa.gif" style="width:30%" alt="whatsapp"/>
-
 1. Download "‘五色學倉頡 ONLINE’" from the App Store by searching for ‘Kotech’ or via this link:
    **For iPhone users:** [https://apple.co/2QzQKVN
    ](https://apple.co/2QzQKVN)**For Android users:** https://bit.ly/32qWL9K
@@ -38,12 +36,9 @@ We’ve also created exclusive NRM digital stickers and GIFs for you to use! Dow
 Here are some samples for reference:
 
 1. IG Story
+2. Instagram Post
 
-2. <iframe src="https://giphy.com/embed/MdvFPiv9VCAaLOdQ1c" width="254" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/readingnationsg-MdvFPiv9VCAaLOdQ1c">via GIPHY</a></p>
 
-3. Instagram Post
-
-<img src="/images/igsample.png" style="width:30%" alt="igsample"/>
 
 # STAND TO WIN EXCLUSIVE READING GIFTS
 

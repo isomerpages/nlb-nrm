@@ -9,9 +9,7 @@ logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
     url: /initiatives/book-clubs/
-     sublinks:
-- title: Words Are Powerful Things
-        url: /jointhemovement/
+    sublinks:
       - title: Coffee Meets Novel
         url: /cmn/
       - title: Book a Grab, Grab a Book
