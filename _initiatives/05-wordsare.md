@@ -21,6 +21,8 @@ We’ve also created exclusive NRM digital stickers and GIFs for you to use! Dow
 
 # To download WhatsApp Stickers
 
+<img src="/images/wa.gif" style="width:30%" alt="whatsapp"/>
+
 1. Download "‘五色學倉頡 ONLINE’" from the App Store by searching for ‘Kotech’ or via this link:
    <br> - **For iPhone users:** [https://apple.co/2QzQKVN](https://apple.co/2QzQKVN){:target="_blank"}
    <br> - **For Android users:** [https://bit.ly/32qWL9K](https://apple.co/2QzQKVN){:target="_blank"}
@@ -34,7 +36,7 @@ Here are some samples for reference:
 1. IG Story
 2. Instagram Post
 
-
+<img src="/images/igsample.png" style="width:30%" alt="igsample"/>
 
 # STAND TO WIN EXCLUSIVE READING GIFTS
 
