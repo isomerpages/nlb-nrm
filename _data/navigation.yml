@@ -10,10 +10,10 @@ links:
   - title: Initiatives
     url: /initiatives/book-clubs/
      sublinks:
-      - title: Words Are Powerful Things
-        url: /jointhemovement/
       - title: Coffee Meets Novel
         url: /cmn/
+      - title: Test Link
+        url: /test/
       - title: Book a Grab, Grab a Book
         url: /grab-a-book/
       - title: Book Clubs
