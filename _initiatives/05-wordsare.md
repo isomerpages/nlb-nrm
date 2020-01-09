@@ -67,7 +67,7 @@ Please:
 
 (b) tag us @readingnationsg and use the hashtag #whatareyoureadingsg. Posts without these 2 tags will be disqualified.
 
-© remember to set your profile to “public”.
+(c) remember to set your profile to “public”.
 
 You’d get bonus points if you use our Instagram GIF stickers in your posts too!
 
