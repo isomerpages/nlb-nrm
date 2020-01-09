@@ -63,11 +63,11 @@ Compose a creative post featuring the quotation (a line or a paragraph from the 
 
 Please:
 
-(a) post (i) the creative post with the quotation and (ii) one or more photos of you and the quotation with interesting captions.
+A. post (i) the creative post with the quotation and (ii) one or more photos of you and the quotation with interesting captions.
 
-(b) tag us @readingnationsg and use the hashtag #whatareyoureadingsg. Posts without these 2 tags will be disqualified.
+B. tag us @readingnationsg and use the hashtag #whatareyoureadingsg. Posts without these 2 tags will be disqualified.
 
-(c) remember to set your profile to “public”.
+C. remember to set your profile to “public”.
 
 You’d get bonus points if you use our Instagram GIF stickers in your posts too!
 
