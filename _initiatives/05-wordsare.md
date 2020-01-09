@@ -7,15 +7,11 @@ permalink: /jointhemovement/
 
 Certain words have the power to remain with us long after we have finished reading them. Words can be inspirational, giving us a whole new way of looking at things. Or, it can also help us understand the various facets of life.
 
- 
-
 The National Reading Movement (NRM) invites you to share with the world the *Power of Words* with your all-time favourite and most meaningful quotations. Share your quotes and tell us how these words have impacted your life. Simply post a picture of a line or paragraph from a book on Instagram, and tell us why it relates so much to you or how it reflects you!
 
 Don’t forget to use the hashtag [**#whatareyoureadingsg**](https://www.instagram.com/explore/tags/whatareyoureadingsg/){:target="_blank"}, tag **@readingnationsg** and make your social profile public!
 
 We’ve also created exclusive NRM digital stickers and GIFs for you to use! Download the stickers, use them, and save them to your favourites in your Instagram and WhatsApp apps.
-
-
 
 # To add Instagram Story Stickers
 
@@ -26,8 +22,8 @@ We’ve also created exclusive NRM digital stickers and GIFs for you to use! Dow
 # To download WhatsApp Stickers
 
 1. Download "‘五色學倉頡 ONLINE’" from the App Store by searching for ‘Kotech’ or via this link:
-   <br> **For iPhone users:** [https://apple.co/2QzQKVN](https://apple.co/2QzQKVN){:target="_blank"}
-   <br> **For Android users:** [https://bit.ly/32qWL9K](https://apple.co/2QzQKVN){:target="_blank"}
+   <br> - **For iPhone users:** [https://apple.co/2QzQKVN](https://apple.co/2QzQKVN){:target="_blank"}
+   <br> - **For Android users:** [https://bit.ly/32qWL9K](https://apple.co/2QzQKVN){:target="_blank"}
 2. Click on the link for the **‘Readingnationsg’** sticker pack: [https://bit.ly/36sdGv4](https://bit.ly/36sdGv4){:target="_blank"}
 3. Scroll down the page and tap to add the sticker pack to your app.
 4. Tap on ‘Open’ when prompted to open via the "‘五色學倉頡 ONLINE’" app.
@@ -51,11 +47,6 @@ Who knows? Through the *Power of Words*, you might just be one of the lucky winn
 Rules apply.
 
 View the posts tagged with [**#whatareyoureadingsg** here](https://www.instagram.com/explore/tags/whatareyoureadingsg/){:target="_blank"}!
-
-
-
-
-
 
 
 Terms & Conditions**
