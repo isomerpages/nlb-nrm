@@ -12,12 +12,12 @@ sections:
         url: /contact-us/
         button: 
         key_highlights:
-            - title: Book a Grab, Grab a Book
-              description: Borrow the selected reads and get a S$2 Grab promo code. Find out more.
-              url: /grab-a-book/
-            - title: Coffee Meets Novel
-              description: Get your free treat when you borrow an eBook/audiobook! Find out more.
-              url: /cmn/
+            - title: About Us
+              description: Read More, Read Widely, Read Together. Find out more.
+              url: /about-us/about-national-reading-movement/
+            - title: NLB Mobile app
+              description: Read on-the-go! Find out more.
+              url: https://www.nlb.gov.sg/static/nlbmobileguide/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
               url: /initiatives/book-clubs/
