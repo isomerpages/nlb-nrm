@@ -9,13 +9,7 @@ logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
     url: /initiatives/book-clubs/
-    sublinks:
-      - title: Words Are Powerful Things
-        url: https://medium.com/publiclibrarysg/join-the-movement-48dd358e276
-      - title: Coffee Meets Novel
-        url: /cmn/
-      - title: Book a Grab, Grab a Book
-        url: /grab-a-book/
+    sublinks: 
       - title: Book Clubs
         url: /initiatives/book-clubs/
       - title: askST@NLB
