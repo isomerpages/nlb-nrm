@@ -16,7 +16,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Digital Quotient](/edms/Read@Work_Digital Quotient.pdf){:target="_blank"}
+Latest EDM: [Read@Work_Cultural Quotient](/edms/Read@Work_Cultural Quotient.pdf){:target="_blank"}
 
 Past EDMs:
 
@@ -24,9 +24,10 @@ Past EDMs:
 * [Read@Work_Adaptability](/edms/Read@Work_Adaptability.pdf){:target="_blank"}
 * [Read@Work_Creativity](/edms/Read@Work_Creativity-linkable-PDF.pdf){:target="_blank"}
 * [Read@Work_Adversity](/edms/Read@Work_Adversity.pdf){:target="_blank"}
+* [Read@Work_Digital Quotient](/edms/Read@Work_Digital Quotient.pdf){:target="_blank"}
 
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
 
 
 
-Updated 17 Jan 2020
+Updated 19 Feb 2020
