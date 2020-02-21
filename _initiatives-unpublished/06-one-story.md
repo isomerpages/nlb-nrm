@@ -1,12 +1,11 @@
 ---
-title: One Story: Dharma's Chariot Resource Page
+title: "One Story: Dharma's Chariot Resource Page"
 permalink: /initiatives/one-story/
 ---
 
 ![banner Dharma](\images\Dharma_color.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu odio accumsan, tempus purus eu, finibus sapien. Nullam hendrerit et tellus quis porta. Suspendisse et neque neque. Nam placerat lacus sed vulputate porta. Aliquam id velit varius tellus congue lacinia in at est. Pellentesque massa nisi, fermentum et est id, vulputate consequat odio. Aliquam a diam sit amet felis placerat luctus eu vel lorem. Proin vestibulum ipsum nec pharetra efficitur. Nulla ex erat, bibendum pulvinar turpis non, feugiat dapibus erat. Vivamus vitae tristique tortor. Maecenas volutpat venenatis auctor. Suspendisse potenti. Vestibulum ultricies sit amet ipsum et vestibulum. In porta nec eros eget malesuada. In diam orci, vulputate vel nisl efficitur, feugiat mattis augue.
-
 
 
 **Dharma's Chariot**
