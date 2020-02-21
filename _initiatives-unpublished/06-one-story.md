@@ -1,6 +1,6 @@
 ---
 title: One Story: Dharma's Chariot Resource Page
-permalink: /one-story/
+permalink: /initiatives/one-story/
 ---
 
 ![banner Dharma](\images\Dharma_color.jpg)
