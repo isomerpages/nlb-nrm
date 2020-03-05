@@ -24,23 +24,27 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 
 <hr/>
 
-<br><br>
+
+
+<br>
+<br>
 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank"><img src="/dharma/onestory_resources.jpg" style="width:50%" alt="One Story Resources">
+			<img src="/dharma/onestory_resources.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
 			<div>
-				</a>
+				<b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/dharma/onestory_events.jpg" style="width:50%" alt="One Story Events">
+			<img src="/dharma/onestory_events.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
 			<div>
 				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
 			</div>
 		</div>
 	</div>
+
 
 
 
