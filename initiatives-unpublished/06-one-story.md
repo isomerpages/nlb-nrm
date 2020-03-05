@@ -32,16 +32,18 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
       <a href="https://www.google.com">
-<img border="0" alt="One Story Resources" src= "/dharma/onestory_resources.jpg" style= "width:50%"> </a>
+<img border="0" alt="One Story Resources" src= "/dharma/onestory_resources.jpg" style= "width:50%"> 
+      </a>
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/dharma/onestory_events.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
-			<div>
-				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
+      <a href="https://www.google.com">
+<img border="0" alt="One Story Events" src= "/dharma/onestory_events.jpg" style= "width:50%"> 
+      </a>
 			</div>
 		</div>
-	</div>
+
+
 
 
 
