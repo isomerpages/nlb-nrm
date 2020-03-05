@@ -25,24 +25,6 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 <hr/>
 
 
-
-<br>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-      <a href="https://www.google.com">
-<img border="0" alt="One Story Resources" src= "/dharma/onestory_resources.jpg" style= "width:50%"> 
-      </a>
-			</div>
-		</div><br>
-		<div class="col is-half-tablet padding--bottom--lg">
-      <a href="https://www.google.com">
-<img border="0" alt="One Story Events" src= "/dharma/onestory_events.jpg" style= "width:50%"> 
-      </a>
-			</div>
-		</div>
-
 <hr/>
 
 <div>
