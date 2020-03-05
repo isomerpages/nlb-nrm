@@ -30,25 +30,22 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
+			<img src="/dharma/onestory_resources.jpg" style="width:50%" alt="One Story Resources">
 			<div>
 				<b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
+			<img src="/dharma/onestory_events.jpg" style="width:50%" alt="One Story Events">
 			<div>
 				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
 			</div>
 		</div>
 	</div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/brokenstars.jpg" style="width:50%" alt="Broken Stars" />
-			<div>
-				<b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">Borrow now</a>
-			</div>
-		</div>
+
+
+	
+
 
 ​		
 
