@@ -25,7 +25,6 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 <hr/>
 
 
-### **Check out the other resources here:**
 
 <div>
 	<div class="row is-multiline">
@@ -44,7 +43,7 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 	</div>
 
 
-	
+​	
 
 
 ​		
@@ -54,16 +53,7 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 <hr/>
 
 
-***Terms & Conditions:**
-
-*  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to <b><a href="https://go.gov.sg/nlb-wa-grab-a-book" target="_blank">+65 8893 3290</a></b>. 
-* Eligible titles are those that are listed above on this page. 
-* Limited to only one redemption of **ONE** unique promo code per myLibraryID account.
-* Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
-* Not redeemable or exchangeable for cash. 
-* Issued Grab promo codes are valid until 5 July 2020.
-* Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
 
 
 
-Updated 03 Mar 2020
+Updated 05 Mar 2020
