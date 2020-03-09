@@ -17,7 +17,7 @@ sections:
               url: /about-us/about-national-reading-movement/
             - title: NLB Mobile app
               description: Read on-the-go! Find out more.
-              url: https://www.nlb.gov.sg/static/nlbmobileguide/
+              url: https://mobileapp.nlb.gov.sg/
             - title: Book Clubs
               description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
               url: /initiatives/book-clubs/

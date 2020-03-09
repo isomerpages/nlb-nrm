@@ -10,14 +10,12 @@ links:
   - title: Initiatives
     url: /initiatives/book-clubs/
     sublinks: 
-      - title: One Story
-        url: /initiatives/one-story/
       - title: Book Clubs
         url: /initiatives/book-clubs/
       - title: askST@NLB
         url: /initiatives/askst-at-nlb/
       - title: NLB Mobile app
-        url: https://www.nlb.gov.sg/static/nlbmobileguide/
+        url: https://mobileapp.nlb.gov.sg
       - title: Digital Business Library
         url: https://nlb.overdrive.com/library/biz
   - title: Blog
