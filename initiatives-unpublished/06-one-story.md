@@ -5,92 +5,43 @@ permalink: /initiatives/one-story/
 
 ![banner Dharma](\images\Dharma_color.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu odio accumsan, tempus purus eu, finibus sapien. Nullam hendrerit et tellus quis porta. Suspendisse et neque neque. Nam placerat lacus sed vulputate porta. Aliquam id velit varius tellus congue lacinia in at est. Pellentesque massa nisi, fermentum et est id, vulputate consequat odio. Aliquam a diam sit amet felis placerat luctus eu vel lorem. Proin vestibulum ipsum nec pharetra efficitur. Nulla ex erat, bibendum pulvinar turpis non, feugiat dapibus erat. Vivamus vitae tristique tortor. Maecenas volutpat venenatis auctor. Suspendisse potenti. Vestibulum ultricies sit amet ipsum et vestibulum. In porta nec eros eget malesuada. In diam orci, vulputate vel nisl efficitur, feugiat mattis augue.
+**About the One Story project**
 
+One Story is a multi-year project by the National Library Board (NLB) that makes local short stories - originally written in Tamil, Malay, Chinese, or English - available in other languages. The project aims to create a common literary conversation for everyone, regardless of language.
 
 **Dharma's Chariot**
 
 <img src="/images/Dharma_book_cover.jpg" style="width:30%" alt="Dharmas Chariot"/>
 
+**About the Story**
+
+Written by award-winning writer Sithuraj Ponraj, Dharma's Chariot is about Palaniappan, a cloth merchant, who sells a shipment of defective cloth to his old friend Jamal in order to pay the rent for his shop in Arab street. Jamal had helped him set up his business, and this act of cheating causes Palaniappan to feel guilty.
+
+**About the Author**
+
+Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works have since been published in several leading periodicals in India, Malaysia, and Singapore. In 2016, he won the Singapore Literature Prize for Tamil Fiction for his debut short story collection, *Maariligal* (The Unchangeables), as well as the Singapore Literature Merit Prize for Tamil poety for his debut poety collection, *Kaatrai Kadanthaai* (You Passed Like the Wind).
+
 
 <hr/>
 
 
-### **Eligible book titles:**
+<hr/>
 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
-			<div>
-				<b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
-			</div>
+			<a href="https://google.com" class="project-link">
+				<img src="/dharma/onestory_resources.jpg" alt="One Story Resources" class="project-image">
+			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
-			<div>
-				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
-			</div>
-		</div>
-	</div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/brokenstars.jpg" style="width:50%" alt="Broken Stars" />
-			<div>
-				<b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">Borrow now</a>
-			</div>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/eatup.jpg" style="width:50%" alt="Eat Up" />
-			<div>
-				<b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">Borrow now</a>
-			</div>
-		</div>
-	</div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/goodbye.jpg" style="width:50%" alt="goodbye, things" />
-			<div>
-				<b>goodbye, things by Fumio Sasaki</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ccecdea9-291f-41e7-9d9c-1972dca23c1a" target="_blank">Borrow now</a>
-			</div>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/intel.jpg" style="width:50%" alt="The Intelligent Investor" />
-			<div>
-				<b>The Intelligent Investor by Benjamin Graham</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6e091c8e-25cd-4def-b382-898c78ede92a" target="_blank">Borrow now</a>
-			</div>
-		</div>
-	</div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/lostvintage.jpg" style="width:50%" alt="The Lost Vintage" />
-			<div>
-				<b>The Lost Vintage by Ann Mah</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=848a6e70-2973-443c-a947-8f9efa0b207f" target="_blank">Borrow now</a>
-			</div>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/worryfree.jpg" style="width:50%" alt="Worry-Free Money" />
-			<div>
-				<b>Worry-Free Money by Shannon Lee Simmons</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c1f136fb-f615-41ce-b264-0745fc5f9a78" target="_blank">Borrow now</a>
-			</div>
+			<a href="https://google.com" class="project-link">
+				<img src="/dharma/onestory_events.jpg" alt="One Story Events" class="project-image">
+			</a>
 		</div>
 	</div>
 </div>
 
-
 <hr/>
 
-
-***Terms & Conditions:**
-
-*  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to <b><a href="https://go.gov.sg/nlb-wa-grab-a-book" target="_blank">+65 8893 3290</a></b>. 
-* Eligible titles are those that are listed above on this page. 
-* Limited to only one redemption of **ONE** unique promo code per myLibraryID account.
-* Redemption period ends 6 Feb 2020, 2359hours, or until fully redeemed. 
-* Not redeemable or exchangeable for cash. 
-* Issued Grab promo codes are valid until 5 July 2020.
-* Management of NLB reserves the right to amend the Terms and Conditions stipulated on this page anytime without prior notice.
-
-
-
-Updated 02 Jan 2019
+Updated 05 Mar 2020

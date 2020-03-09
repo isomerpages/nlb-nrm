@@ -84,8 +84,8 @@ Borrow the following eBooks via the NLB Mobile app and Whatsapp a screenshot of 
 
 <hr/>
 
+Terms & Conditions:
 
-***Terms & Conditions:**
 
 *  To redeem a S$2 Grab promo code, borrow an **eligible** eBook on the NLB Mobile app and send a screenshot of your eBook loan via WhatsApp to <b><a href="https://go.gov.sg/nlb-wa-grab-a-book" target="_blank">+65 8893 3290</a></b>. 
 * Eligible titles are those that are listed above on this page. 
