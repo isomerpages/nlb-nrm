@@ -9,12 +9,8 @@ permalink: /professional/
 The *Get Professional* series focuses on vital communication skills to improve workplace productivity and efficiency, especially soft skills that are often overlooked. Designed for working adults, the third season covers essential skills such as EQ at Work and networking, business writing, presentation skills and more. 
 
 View all our upcoming *[Get Professional](https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D)* Workshops.
-
-<a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D" target="_blank">Get Professional</a>
 <hr/>
-
 Our speakers recommended the following book titles as essential reading for anyone seeking to strengthen their communication skills at work.
-
 ## Writing Effective Emails
 
 <div>
@@ -22,13 +18,12 @@ Our speakers recommended the following book titles as essential reading for anyo
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">
 				<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
-			 </a>
+			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
-			<div>
-				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
-			</div>
+			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">
+				<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
+			</a>
 		</div>
 	</div>
 	<div class="row is-multiline">
