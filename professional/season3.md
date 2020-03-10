@@ -11,7 +11,8 @@ The *Get Professional* series focuses on vital communication skills to improve w
 View all our upcoming <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D" target="_blank">*Get Professional*</a> Workshops.
 
 <hr/>
-# Our speakers recommended the following book titles as essential reading for anyone seeking to strengthen their communication skills at work.
+# Book Recommendations from our Speakers
+The esential reading for anyone seeking to strengthen their communication skills at work
 ### Writing Effective Emails
 
 <div>
