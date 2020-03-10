@@ -8,7 +8,7 @@ permalink: /professional/
 
 The *Get Professional* series focuses on vital communication skills to improve workplace productivity and efficiency, especially soft skills that are often overlooked. Designed for working adults, the third season covers essential skills such as EQ at Work and networking, business writing, presentation skills and more. 
 
-View all our upcoming [Get Professional] Workshops.
+View all our upcoming [*Get Professional*]([https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D](https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/[Professional Series]) Workshops.
 
 <hr/>
 Our speakers recommended the following book titles as essential reading for anyone seeking to strengthen their communication skills at work.
@@ -17,7 +17,7 @@ Our speakers recommended the following book titles as essential reading for anyo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52168119/265283637,1" target="1">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52168119/265283637,1" target="none">
 				<img src="https://secure.syndetics.com/index.aspx?isbn=9780749475567/mc.gif&client=natlibsingapore&upc=&oclc=" style="width:50%" alt="How to Write Effective Business English: Excel at E-mail, Social Media and All Your Professional Communications by Fiona Talbot">
 			</a>
 		</div>
@@ -29,16 +29,17 @@ Our speakers recommended the following book titles as essential reading for anyo
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52175461/267229408,1" target="a">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52175461/267229408,1" target="none">
 			<img src="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52175461/267229408,1" style="width:50%" alt="E-mail Etiquette: How to Get the Best Results from Your E-mails by Bloomsbury Publishing">
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52181138/1218561,1" target="blank">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52181138/1218561,1" target="none">
 			<img src="https://secure.syndetics.com/index.aspx?isbn=1601630298/mc.gif&client=natlibsingapore&upc=&oclc=223881326" style="width:50%" alt="The Encyclopedia of Business Letters, Faxes, and E-mail by Robert W. Bly and Regina Ann Kelly">
 			</a>
 		</div>
 	</div>
+
 
 <hr/>
 
