@@ -1,6 +1,6 @@
 ---
 layout: our-partners-accordion
-title: Season 3 Get Professional Series
+title: Season 3 - Get Professional Series
 permalink: /professional/
 ---
 
@@ -15,14 +15,14 @@ The *Get Professional* series focuses on vital communication skills to improve w
 
 Our speakers recommended the following book titles as essential reading for anyone seeking to strengthen their communication skills at work.
 
-### Writing Effective Emails**
+### Writing Effective Emails
 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
 			<div>
-				<b>13 Things Mentally Strong People Don't Do by Amy Morin</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
+				<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -76,8 +76,4 @@ Our speakers recommended the following book titles as essential reading for anyo
 	</div>
 </div>
 <hr/>
-
-<hr/>
-
-Updated 02 Jan 2019
 
