@@ -1,6 +1,6 @@
 ---
 layout: professional-series-accordion
-title: Get Professional Season 3
+title: Get Professional Series (Season 3)
 permalink: /professional/
 ---
 
