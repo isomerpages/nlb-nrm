@@ -33,7 +33,8 @@ Our speakers recommended the following book titles as essential reading for anyo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a color: rgba(29, 51, 87, 1); href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52176891/1218561,1">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52181138/1218561,1">
+			<img src="https://secure.syndetics.com/index.aspx?isbn=1601630298/mc.gif&client=natlibsingapore&upc=&oclc=223881326" style="width:50%" alt="The Encyclopedia of Business Letters, Faxes, and E-mail by Robert W. Bly and Regina Ann Kelly">
 			</a>
 		</div>
 	</div>
