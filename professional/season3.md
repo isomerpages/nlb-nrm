@@ -21,7 +21,7 @@ Our speakers recommended the following book titles as essential reading for anyo
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
-				<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
+			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">Borrow now</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
