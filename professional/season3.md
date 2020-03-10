@@ -28,16 +28,14 @@ Our speakers recommended the following book titles as essential reading for anyo
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">
 			<img src="/images/brokenstars.jpg" style="width:50%" alt="Broken Stars" />
-			<div>
-				<b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">Borrow now</a>
-			</div>
+			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
+			<b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">Borrow now
 			<img src="/images/eatup.jpg" style="width:50%" alt="Eat Up" />
-			<div>
-				<b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">Borrow now</a>
-			</div>
+			</a>
 		</div>
 	</div>
 
