@@ -16,13 +16,13 @@ Our speakers recommended the following book titles as essential reading for anyo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">
-				<img src="https://secure.syndetics.com/index.aspx?isbn=9780749475567/mc.gif&client=natlibsingapore&upc=&oclc=" style="width:100%" alt="13 Things Mentally Strong People Don't Do">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52168119/265283637,1">
+				<img src="https://secure.syndetics.com/index.aspx?isbn=9780749475567/mc.gif&client=natlibsingapore&upc=&oclc=" style="width:50%" alt="How to Write Effective Business English: Excel at E-mail, Social Media and All Your Professional Communications by Fiona Talbot">
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">
-				<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?optionsDrop=Full+Catalogue&ENTRY=Faster%2C+Fewer%2C+Better+Emails&ENTRY_NAME=BS&ENTRY_TYPE=K&SORTS=SQL_REL_BIB&GQ=Faster%2C+Fewer%2C+Better+Emails&ISGLB=0&NRECS=20&QRY=&QRYTEXT=&FORCESORT=1">
+				<img src="https://secure.syndetics.com/index.aspx?isbn=9781523085132/mc.gif&client=natlibsingapore&upc=&oclc=" style="width:50%" alt="Faster, Fewer, Better Emails: Manage the Volume, Reduce the Stress, Love the Result by Dianna Booher">
 			</a>
 		</div>
 	</div>
