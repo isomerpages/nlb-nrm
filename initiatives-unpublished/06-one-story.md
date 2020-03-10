@@ -13,6 +13,8 @@ One Story is a multi-year project by the National Library Board (NLB) that makes
 
 <img src="/images/Dharma_book_cover.jpg" style="width:30%" alt="Dharmas Chariot"/>
 
+Borrow [HERE](https://nlb.overdrive.com/media/5328742?cid=2102){:target="_blank"}.
+
 **About the Story**
 
 Written by award-winning writer Sithuraj Ponraj, Dharma's Chariot is about Palaniappan, a cloth merchant, who sells a shipment of defective cloth to his old friend Jamal in order to pay the rent for his shop in Arab street. Jamal had helped him set up his business, and this act of cheating causes Palaniappan to feel guilty.
@@ -44,4 +46,4 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 
 <hr/>
 
-Updated 05 Mar 2020
+Updated 10 Mar 2020
