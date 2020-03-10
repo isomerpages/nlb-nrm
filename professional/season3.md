@@ -9,8 +9,8 @@ permalink: /professional/
 The *Get Professional* series focuses on vital communication skills to improve workplace productivity and efficiency, especially soft skills that are often overlooked. Designed for working adults, the third season covers essential skills such as EQ at Work and networking, business writing, presentation skills and more. 
 
 View all our upcoming *[Get Professional](https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D)* Workshops.
-<aref="(https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D)"
-</a>
+
+<a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/%5BProfessional%20Series%5D" target="_blank">Get Professional</a>
 <hr/>
 
 Our speakers recommended the following book titles as essential reading for anyone seeking to strengthen their communication skills at work.
