@@ -28,13 +28,13 @@ Our speakers recommended the following book titles as essential reading for anyo
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">
-			<img src="/images/brokenstars.jpg" style="width:50%" alt="Broken Stars" />
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52175461/267229408,1">
+			<img src="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52175461/267229408,1" style="width:50%" alt="E-mail Etiquette: How to Get the Best Results from Your E-mails by Bloomsbury Publishing">
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">
-			<img src="/images/eatup.jpg" style="width:50%" alt="Eat Up" />
+			<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/52176891/1218561,1">
+			<img src="https://secure.syndetics.com/index.aspx?isbn=1601630298/mc.gif&client=natlibsingapore&upc=&oclc=223881326" style="width:50%" alt="The Encyclopedia of Business Letters, Faxes, and E-mail by Robert W. Bly and Regina Ann Kelly">
 			</a>
 		</div>
 	</div>
