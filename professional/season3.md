@@ -33,7 +33,7 @@ Our speakers recommended the following book titles as essential reading for anyo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">Borrow now
+			<b>Eat Up by Ruby Tandoh</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8e24dd4a-c17c-4e14-9fe7-20f58078cc78" target="_blank">
 			<img src="/images/eatup.jpg" style="width:50%" alt="Eat Up" />
 			</a>
 		</div>
