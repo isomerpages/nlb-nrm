@@ -20,7 +20,7 @@ Our speakers recommended the following book titles as essential reading for anyo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9" target="_blank">
+			<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2e57a811-62c3-4a0a-9adc-cb77e38dcfd9">
 				<img src="/images/13things.jpg" style="width:50%" alt="13 Things Mentally Strong People Don't Do">
 			 </a>
 		</div>
