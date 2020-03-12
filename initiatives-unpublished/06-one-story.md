@@ -1,5 +1,5 @@
 ---
-title: "One Story: Dharma's Chariot Resource Page"
+title: "One Story: Dharma's Chariot"
 permalink: /initiatives/one-story/
 ---
 
