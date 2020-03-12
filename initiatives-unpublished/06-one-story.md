@@ -3,7 +3,7 @@ title: "One Story: Dharma's Chariot"
 permalink: /initiatives/one-story/
 ---
 
-![banner Dharma](\images\Dharma_color.jpg)
+![banner Dharma](\images\One Story Feature Banner.jpg)
 
 **About the One Story project**
 
@@ -21,29 +21,13 @@ Written by award-winning writer Sithuraj Ponraj, Dharma's Chariot is about Palan
 
 **About the Author**
 
+<img src="/images/Sithuraj.png" style="width:30%" alt="Sithuraj Ponraj"/>
+
 Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works have since been published in several leading periodicals in India, Malaysia, and Singapore. In 2016, he won the Singapore Literature Prize for Tamil Fiction for his debut short story collection, *Maariligal* (The Unchangeables), as well as the Singapore Literature Merit Prize for Tamil poety for his debut poety collection, *Kaatrai Kadanthaai* (You Passed Like the Wind).
 
 
 <hr/>
 
 
-<hr/>
 
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://google.com" class="project-link">
-				<img src="/dharma/onestory_resources.jpg" alt="One Story Resources" class="project-image">
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="https://google.com" class="project-link">
-				<img src="/dharma/onestory_events.jpg" alt="One Story Events" class="project-image">
-			</a>
-		</div>
-	</div>
-</div>
-
-<hr/>
-
-Updated 10 Mar 2020
+Updated 12 Mar 2020
