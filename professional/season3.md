@@ -12,7 +12,7 @@ View all our upcoming <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/resu
 
 <hr/>
 
-#### <b>Speakers' Recommendations<br>The essential reading to strengthen communication skills at work</b>
+#### <b>Speakers' Recommendations</b><br>The essential reading to strengthen communication skills at work
 
 <b>Writing Effective Emails</b>
 <div>
