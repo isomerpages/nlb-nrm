@@ -219,4 +219,6 @@ For current club meeting dates and registration, please visit [GoLibrary](http:/
 			</div>
 		</div>
 	</div>
-</div></div>
+</div>
+</div>
+</div>
