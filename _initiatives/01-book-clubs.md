@@ -172,7 +172,10 @@ For current club meeting dates and registration, please visit [GoLibrary](http:/
 					<i>Yishun Public Library</i><br/>4th Saturday of the month, 11:30am – 12:30pm<p/>
 				</div>
 			</div>
+		</div>
+		</div>
 			
+		<div>
 			<input type="radio" name="acc" id="acc4">
 			<label for="acc4"><i></i>Tamil</label>
 			<div class="acc-body">
