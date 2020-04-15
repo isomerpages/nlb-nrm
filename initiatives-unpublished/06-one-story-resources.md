@@ -83,9 +83,4 @@ A traditional medicine shop, Unani Medical Hall, can still be found in Golden La
 
 
 
-
-<hr/>
-
-
-
 Updated 15 Apr 2020
