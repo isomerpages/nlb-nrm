@@ -25,19 +25,25 @@ Written by award-winning writer Sithuraj Ponraj, Dharma's Chariot is about Palan
 
 Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works have since been published in several leading periodicals in India, Malaysia, and Singapore. In 2016, he won the Singapore Literature Prize for Tamil Fiction for his debut short story collection, *Maariligal* (The Unchangeables), as well as the Singapore Literature Merit Prize for Tamil poety for his debut poety collection, *Kaatrai Kadanthaai* (You Passed Like the Wind).
 
-**Discussion Questions**
 
-[English](/dharma/OS Discussion Questions English.pdf){:target="_blank"} 
 
-[Mandarin](/dharma/OS Discussion Questions Mandarin.pdf){:target="_blank"} 
+<div>
 
-[Malay](/dharma/OS Discussion Questions Malay.pdf){:target="_blank"} 
-
-[Tamil](/dharma/OS Discussion Questions Tamil.pdf){:target="_blank"} 
-
+	<div class="row is-multiline">
+	
+		<div class="col is-half-tablet padding--bottom--lg">
+	
+			<a href="/initiatives/one-story-resources/" class="project-link">
+	
+				<img src="/dharma/onestory_resources.jpg" alt="One Story Resources" class="project-image">
+	
+			</a>
+	
+		</div>
+		</div>
+		</div>
+		
 
 <hr/>
 
-
-
-Updated 08 Apr 2020
+Updated 15 Apr 2020
