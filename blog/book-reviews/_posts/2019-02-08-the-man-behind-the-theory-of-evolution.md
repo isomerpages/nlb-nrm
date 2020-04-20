@@ -38,7 +38,7 @@ He eventually married his first cousin Emma Wedgwood in 1839.
 
 Darwin’s father was a successful doctor and Darwin was to follow his footsteps by studying in one of Britain’s top medical schools. Unfortunately, he hated the sight of blood and found the lectures boring. 
 
-[![tired](http://giphygifs.s3.amazonaws.com/media/me0mqrZiCbxwQ/giphy.gif)
+[![tired](https://giphygifs.s3.amazonaws.com/media/me0mqrZiCbxwQ/giphy.gif)
 ](https://imgbb.com/)Source: https://gph.is/XKnxpF
 
 And of all the fields of study he could’ve chosen after dropping out of medical school, the man—who would come to challenge the dogma of creationism—enrolled in Cambridge to study divinity. But his faith wavered when he encountered slavery during his travels later on in his life, and the death of three of his children. 
@@ -49,7 +49,7 @@ And of all the fields of study he could’ve chosen after dropping out of medica
 
 Animal activists today would have a thing or two to say to Darwin. While at Cambridge, he formed the Glutton Club to seek out and eat “strange flesh”. But the group chickened out after a particularly hard-to-digest brown owl.
 
-[![patrick](http://giphygifs.s3.amazonaws.com/media/12uXi1GXBibALC/giphy.gif)
+[![patrick](https://giphygifs.s3.amazonaws.com/media/12uXi1GXBibALC/giphy.gif)
 ](https://imgbb.com/)Source: https://gph.is/197G1XA
 
 He managed to continue his foodie hobby when he was travelling on the *HMS Beagle*—he dined on armadillos, ostriches, pumas, and a “20lb chocolate-coloured rodent” which he [thought](https://www.theguardian.com/lifeandstyle/2003/mar/09/foodanddrink.features15) was “the best meat [he] ever tasted”. 
