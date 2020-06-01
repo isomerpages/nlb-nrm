@@ -16,7 +16,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Work_From_Home](/edms/Read@Work_Work_From_Home.pdf){:target="_blank"}
+Latest EDM: [Read@Work_Work_Life_Balance](/edms/Read@Work_Work-Life Balance.pdf){:target="_blank"}
 
 Past EDMs:
 
@@ -28,9 +28,12 @@ Past EDMs:
 * [Read@Work_Digital Quotient](/edms/Read@Work_Digital Quotient.pdf){:target="_blank"}
 * [Read@Work_Social Quotient](/edms/Read@Work_Social Quotient.pdf){:target="_blank"}
 * [Read@Work_Well-Being](/edms/Read@Work_Well-Being.pdf){:target="_blank"}
+* [Read@Work_Work_From_Home](/edms/Read@Work_Work_From_Home.pdf){:target="_blank"}
+
+
 
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
 
 
 
-Updated 29 Apr 2020
+Updated 01 Jun 2020
