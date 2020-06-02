@@ -32,6 +32,10 @@ Past EDMs:
 
 
 
+[Terms & Conditions of Read@Work EDM Quiz](/edms/Read@Work eNewsletter Quiz_Terms and Conditions.pdf){:target="_blank"}
+
+
+
 Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
 
 
