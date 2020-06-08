@@ -35,17 +35,13 @@ NOTE: Please note that all updates must be completed by **31 July 2020 (Friday),
 
 **What is Zoom Read Together?** 
 
-Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. To find out when the sessions are taking place, go to https://go.gov.sg/zoomreadtogether.
-
- 
-
-Check back for the schedule of sessions and their topics.
+Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. Check back for the schedule of sessions!
 
  
 
 Want to conduct Zoom Read Together for your organization or learning community? We can provide you with a self-guided kit comprising of powerpoint slides for your selected genre. 
 
-Email [read@nlb.gov.sg](mailto:read@nlb.gov.sg) with [ZRT kit] in the subject.
+Email [read@nlb.gov.sg](mailto:read@nlb.gov.sg) with **[ZRT kit]** in the subject.
 
  
 
