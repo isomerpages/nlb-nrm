@@ -9,7 +9,9 @@ logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
     url: /initiatives/book-clubs/
-    sublinks: 
+    sublinks:
+      - title: Read for Books
+        url: /read-for-books/ 
       - title: Book Clubs
         url: /initiatives/book-clubs/
       - title: askST@NLB
