@@ -106,6 +106,7 @@ If the initiative interests you, check out the following titles that have been u
 			<div>
 				<b>To Kill a Mocking Bird</b><br>for Chicago Public Library 2001<br>Harper Lee<br>[New York] : Caedmon, 2014<br>Translated into over 40 languages, a young girl’s father who is a lawyer risks everything to defend a black man unjustly accused of a crime.<br><a href="https://nlb.overdrive.com/media/DFD5E83A-42D9-4151-AC37-C4E43D87CFD9" target="_blank">Borrow now</a>
        </div>
+        </div>
 			</div>
 		</div>
 
