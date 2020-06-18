@@ -92,12 +92,11 @@ If the initiative interests you, check out the following titles that have been u
 				<b>There There</b><br>for San Francisco Public Library 2019<br>Tommy Orange<br>[New York] : Random House, 2018<br>This Pulitzer shortlist (2019) explores themes of native people living in urban spaces in California and their ambivalence related to their struggles with identity.<br><a href="https://nlb.overdrive.com/media/C4E8DAFD-7AE8-4F87-8B5D-97833D0E989F" target="_blank">Borrow now</a>
 			</div>
 		</div>	
-    <div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/dharma/Country_Girls.jpg" style="width:50%" alt="The Country Girls Trilogy" />
 			<div>
 				<b>The Country Girls Trilogy</b><br>for Dublin City Council 2019
-<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69758464/222565056,1">Borrow now</a>
+<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69986282/222565056,2">Borrow now</a>
 			</div>
 		</div>	
       <div class="row is-multiline">
