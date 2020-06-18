@@ -96,7 +96,7 @@ If the initiative interests you, check out the following titles that have been u
 			<img src="/dharma/Country_Girls.jpg" style="width:50%" alt="The Country Girls Trilogy" />
 			<div>
 				<b>The Country Girls Trilogy</b><br>for Dublin City Council 2019
-<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69986282/222565056,2">Borrow now</a>
+<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://nlb.overdrive.com/media/4238870">Borrow now</a>
 			</div>
 		</div>	
       <div class="row is-multiline">
@@ -113,5 +113,8 @@ If the initiative interests you, check out the following titles that have been u
 
 
 
-Updated 18 Jun 2020
+ Updated 18 Jun 2020
+
+
+
 
