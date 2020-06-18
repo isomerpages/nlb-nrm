@@ -80,17 +80,32 @@ If the initiative interests you, check out the following titles that have been u
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/alice.jpg" style="width:50%" alt="Alice's Adventures in Wonderland">
+			<img src="/dharma/Sat_Night_Ghost_Club.jpg" style="width:50%" alt="The Saturday Night Ghost Club">
 			<div>
-				<b>Alice's Adventures in Wonderland by Lewis Carroll</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c280e18d-9cbd-4f5e-bee9-4c28f7aac55b" target="_blank">Borrow now</a>
+				<b>The Saturday Night Ghost Club</b><br>for London Public Library 2020<br>Craig Davidson<br>[New York] : Penguin Books, 2019<br>A group of friends learn about the urban myths and legends that haunt their hometown.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69759697/298955834,1" target="_blank">Borrow now</a>
 			</div>
 		</div>
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/brokenstars.jpg" style="width:50%" alt="Broken Stars" />
+			<img src="/dharma/There There.jpg" style="width:50%" alt="There There" />
 			<div>
-				<b>Broken Stars by Ken Liu</b><br><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=68f20880-d1f5-4c34-b1f4-004820ebb1d4" target="_blank">Borrow now</a>
+				<b>There There</b><br>for San Francisco Public Library 2019<br>Tommy Orange<br>[New York] : Random House, 2018<br>This Pulitzer shortlist (2019) explores themes of native people living in urban spaces in California and their ambivalence related to their struggles with identity.<br><a href="https://nlb.overdrive.com/media/C4E8DAFD-7AE8-4F87-8B5D-97833D0E989F" target="_blank">Borrow now</a>
+			</div>
+		</div>	
+    <div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<img src="/dharma/Country_Girls.jpg" style="width:50%" alt="The Country Girls Trilogy" />
+			<div>
+				<b>The Country Girls Trilogy</b><br>for Dublin City Council 2019
+<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69758464/222565056,1">Borrow now</a>
+			</div>
+		</div>	
+      <div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<img src="/dharma/To Kill a Mockingbird.jpg" style="width:50%" alt="To Kill a Mockingbird" />
+			<div>
+				<b>To Kill a Mocking Bird</b><br>for Chicago Public Library 2001<br>Harper Lee<br>[New York] : Caedmon, 2014<br>Translated into over 40 languages, a young girl’s father who is a lawyer risks everything to defend a black man unjustly accused of a crime.<br><a href="https://nlb.overdrive.com/media/DFD5E83A-42D9-4151-AC37-C4E43D87CFD9" target="_blank">Borrow now</a>
 			</div>
 		</div>
 
@@ -98,4 +113,8 @@ If the initiative interests you, check out the following titles that have been u
 
 
 
-Updated 17 Jun 2020
+
+
+
+Updated 18 Jun 2020
+
