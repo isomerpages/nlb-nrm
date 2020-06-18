@@ -85,7 +85,6 @@ If the initiative interests you, check out the following titles that have been u
 				<b>The Saturday Night Ghost Club</b><br>for London Public Library 2020<br>Craig Davidson<br>[New York] : Penguin Books, 2019<br>A group of friends learn about the urban myths and legends that haunt their hometown.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69759697/298955834,1" target="_blank">Borrow now</a>
 			</div>
 		</div>
-	</div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/dharma/There There.jpg" style="width:50%" alt="There There" />
@@ -106,11 +105,9 @@ If the initiative interests you, check out the following titles that have been u
 			<img src="/dharma/To Kill a Mockingbird.jpg" style="width:50%" alt="To Kill a Mockingbird" />
 			<div>
 				<b>To Kill a Mocking Bird</b><br>for Chicago Public Library 2001<br>Harper Lee<br>[New York] : Caedmon, 2014<br>Translated into over 40 languages, a young girl’s father who is a lawyer risks everything to defend a black man unjustly accused of a crime.<br><a href="https://nlb.overdrive.com/media/DFD5E83A-42D9-4151-AC37-C4E43D87CFD9" target="_blank">Borrow now</a>
+       </div>
 			</div>
 		</div>
-
-
-
 
 
 
