@@ -35,7 +35,32 @@ NOTE: Please note that all updates must be completed by **31 July 2020 (Friday),
 
 **What is Zoom Read Together?** 
 
-Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. Check back for the schedule of sessions!
+Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. 
+
+| **Date/Day**       | **Time**     | **Genre or Topic**                                       |
+| ------------------ | ------------ | -------------------------------------------------------- |
+| 11 July, Saturday  | 3pm - 3:30pm | Picture books that adults can enjoy                      |
+| 12 July, Sunday    | 3pm - 3:30pm | Love                                                     |
+| 13 July, Monday    | 3pm - 3:30pm | Bookflix – Print  to Screen                              |
+| 14 July, Tuesday   | 3pm - 3:30pm | Short Stories                                            |
+| 14 July, Tuesday   | 6:30pm - 7pm | Adult Fears through Horror                               |
+| 15 July, Wednesday | 3pm - 3:30pm | Singapore Stories                                        |
+| 15 July, Wednesday | 6:30pm - 7pm | Comics                                                   |
+| 16 July, Thursday  | 3pm - 3:30pm | Thrillers                                                |
+| 16 July, Thursday  | 6:30pm - 7pm | Sci Fi, featuring Centre of Quantum  Technologies at NUS |
+| 17 July, Friday    | 3pm - 3:30pm | Self-help                                                |
+| 18 July, Saturday  | 3pm - 3:30pm | Self-Improvement for the Workplace                       |
+| 20 July, Monday    | 3pm - 3:30pm | Comics – Slice of Life                                   |
+| 20 July, Monday    | 6:30pm - 7pm | Business thinking / Beautiful arts books                 |
+| 21 July, Tuesday   | 3pm - 3:30pm | getAbstract / Harvard Business Review                    |
+| 21 July, Tuesday   | 6:30pm - 7pm | One Story: Dharma’s Chariot                              |
+| 22 July, Wednesday | 3pm - 3:30pm | Personal Productivity                                    |
+| 22 July, Wednesday | 6:30pm - 7pm | One Story: Dharma’s Chariot                              |
+| 23 July, Thursday  | 3pm - 3:30pm | Modern self-help books                                   |
+| 23 July, Thursday  | 6:30pm - 7pm | One Story: Dharma’s Chariot (Mandarin)                   |
+| 24 July, Friday    | 3pm - 3:30pm | Non-Fiction                                              |
+| 24 July, Friday    | 6:30pm -7pm  | One Story: Dharma’s Chariot                              |
+| 25 July, Saturday  | 3-3:30pm     | Sustainability / Climate Fiction                         |
 
  
 
@@ -53,4 +78,4 @@ The WondeRead initiative brings the library closer to children aged 7 – 17 yea
 
 
 
-Updated 08 Jun 2020
+Updated 23 Jun 2020
