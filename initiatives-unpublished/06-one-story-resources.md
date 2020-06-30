@@ -5,6 +5,12 @@ permalink: /initiatives/one-story-resources/
 
 ![banner Dharma](\images\One Story Feature Banner.jpg)
 
+**Resources to Share**
+
+[A3 Poster](/dharma/OneStory_A3.pdf){:target="_blank"} | [Digital Poster](/dharma/OneStory_EDM.jpg){:target="_blank"} 
+
+
+
 **Discussion Questions**
 
 [English](/dharma/OS Discussion Questions English.pdf){:target="_blank"} 
@@ -14,14 +20,6 @@ permalink: /initiatives/one-story-resources/
 [Malay](/dharma/OS Discussion Questions Malay.pdf){:target="_blank"} 
 
 [Tamil](/dharma/OS Discussion Questions Tamil.pdf){:target="_blank"} 
-
-
-
-**Resources to Share**
-
-[A3 Poster](/dharma/OneStory_A3.pdf){:target="_blank"} 
-
-[EDM](/dharma/OneStory_EDM.jpg){:target="_blank"} 
 
 
 
