@@ -17,6 +17,14 @@ permalink: /initiatives/one-story-resources/
 
 
 
+**Resources to Share**
+
+[A3 Poster](/dharma/OneStory_A3.pdf){:target="_blank"} 
+
+[EDM](/dharma/OneStory_EDM.jpg){:target="_blank"} 
+
+
+
 **Streets and Places in the Story**
 
 Even though *Dharma’s Chariot* is set in 2006, the story frequently takes us back in time to Palaniappan’s life in Singapore in the 1960s-90s. 
@@ -57,9 +65,9 @@ A traditional medicine shop, Unani Medical Hall, can still be found in Golden La
 
 [**Malabar Mosque on Victoria Street, p.24 (2)**](http://www.malabar.org.sg/about/){:target="_blank"}  
 
-[**Bidadari Cemetry at Mount Vernon, p.25**](https://www.roots.sg/learn/resources/virtual-tours/bidadari-memorial-garden){:target="_blank"}  
+[**Bidadari Cemetery at Mount Vernon, p.25**](https://www.roots.sg/learn/resources/virtual-tours/bidadari-memorial-garden){:target="_blank"}  
 
-[**Bidadari Cemetry at Mount Vernon, p.25 (2)**](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html?s=bidadari){:target="_blank"}  
+[**Bidadari Cemetery at Mount Vernon, p.25 (2)**](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html?s=bidadari){:target="_blank"}  
 
 
 
