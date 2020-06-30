@@ -8,8 +8,8 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/WordsAre_Web.png
-        url: /contact-us/
+        background: /images/RFBMainBanner2.jpg
+        url: /read-for-books/
         button: 
         key_highlights:
             - title: About Us

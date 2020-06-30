@@ -5,6 +5,12 @@ permalink: /initiatives/one-story-resources/
 
 ![banner Dharma](\images\One Story Feature Banner.jpg)
 
+**Resources to Share**
+
+[A3 Poster](/dharma/OneStory_A3.pdf){:target="_blank"} | [Digital Poster](/dharma/OneStory_EDM.jpg){:target="_blank"} 
+
+
+
 **Discussion Questions**
 
 [English](/dharma/OS Discussion Questions English.pdf){:target="_blank"} 
@@ -57,9 +63,9 @@ A traditional medicine shop, Unani Medical Hall, can still be found in Golden La
 
 [**Malabar Mosque on Victoria Street, p.24 (2)**](http://www.malabar.org.sg/about/){:target="_blank"}  
 
-[**Bidadari Cemetry at Mount Vernon, p.25**](https://www.roots.sg/learn/resources/virtual-tours/bidadari-memorial-garden){:target="_blank"}  
+[**Bidadari Cemetery at Mount Vernon, p.25**](https://www.roots.sg/learn/resources/virtual-tours/bidadari-memorial-garden){:target="_blank"}  
 
-[**Bidadari Cemetry at Mount Vernon, p.25 (2)**](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html?s=bidadari){:target="_blank"}  
+[**Bidadari Cemetery at Mount Vernon, p.25 (2)**](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html?s=bidadari){:target="_blank"}  
 
 
 
