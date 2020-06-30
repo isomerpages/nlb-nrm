@@ -9,7 +9,7 @@ sections:
         title: 
         subtitle: 
         background: /images/RFBMainBanner2.jpg
-        url: /initiatives/read-for-books/
+        url: /read-for-books/
         button: 
         key_highlights:
             - title: About Us
