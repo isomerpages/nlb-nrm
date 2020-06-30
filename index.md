@@ -8,7 +8,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/RFBMainBanner2.jpg
+        background: /images/RFBMainBanner2.png
         url: /initiatives/read-for-books/
         button: 
         key_highlights:
