@@ -53,9 +53,6 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 
 
 
-----------
-
-
 
 **Market Street**
 
@@ -69,6 +66,8 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 
 
 
+
+
 <div>
   <img src="/dharma/MarketStreet.jpg" style="width:50%" alt="Market Street in the 1970s. Chu Sui Mang Collection, courtesy of National Archives of Singapore" />	<div>
 			<b>Market Street in the 1970s.</b><br>Chu Sui Mang Collection, courtesy of National Archives of Singapore<br><br>
@@ -77,23 +76,21 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 		<img src="/dharma/Kittengi.jpg" style="width:50%" alt="The building where the kittengi at 49 Market Street was located. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
 		<div>
 			<b>The building where the kittengi at 49 Market Street was located.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore
+</div>	
+      <div>
+		<img src="/dharma/Doorway49MarketStreet.jpg" style="width:50%" alt="Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
+		<div>
+			<b>Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore<br><br>
 </div>
+            <div>
+		<img src="/dharma/Cook49MarketStreet.jpg" style="width:50%" alt="A cook grinding some spices at the cooking area inside the 49 Market Street Kittengi, 1970. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
+		<div>
+      <b>A cook grinding some spcies at the cooking area instead the 49 Market Street Kittengi, 1970.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore </div>
 
 
-
-     	<div>
-			<img src="/dharma/Doorway49MarketStreet.jpg" style="width:50%" alt="Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
-			<div>
-				<b>Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore<br><br>
-       </div>
-        </div>
-        			<div>
-			<img src="/dharma/Cook49MarketStreet.jpg" style="width:50%" alt="A cook grinding some spices at the cooking area inside the 49 Market Street Kittengi, 1970. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
-			<div>
-				<b>A cook grinding some spcies at the cooking area instead the 49 Market Street Kittengi, 1970.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore
-<br><br>
-			</div>
-		</div>
+    
+    	
 
 
+Updated 30 Jun 2020
 
