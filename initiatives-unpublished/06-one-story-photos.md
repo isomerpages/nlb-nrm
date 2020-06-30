@@ -16,41 +16,34 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 **Arab Street & North Bridge Road**
 
 <div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/dharma/ArabStreet.jpg" style="width:50%" alt="Arab Street shophouses, 1963. Courtesy of National Archives of Singapore">
 			<div>
 				<b>Arab Street shophouses, 1963. </b><br>Courtesy of National Archives of Singapore<br><br>
-			</div>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
+			<div>
 			<img src="/dharma/NorthBridgeRd.jpg" style="width:50%" alt="North Bridge Road, with top of Sultan Mosque visible, 1979. Paul Piollet Collection, courtesy of National Archives of Singapore">
 			<div>
 				<b>North Bridge Road, with top of Sultan Mosque visible, 1979.</b><br>Paul Piollet Collection, courtesy of National Archives of Singapore<br><br>
 			</div>
 		</div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
+	<div>
 			<img src="/dharma/ArabStreet2.jpg" style="width:50%" alt="Shophouse along Arab Street at the junction of North Bridge Road, 1985. URA Collection, courtesy of National Archives of Singapore" />
 			<div>
 				<b>Shophouse along Arab Street at the junction of North Bridge Road, 1985.</b><br>Urban Redevelopment Authority Collection, courtesy of National Archives of Singapore<br><br>
 			</div>
 		</div>	
-		<div class="col is-half-tablet padding--bottom--lg">
+		<div>
 			<img src="/dharma/ArabStreetTailor.jpg" style="width:50%" alt="Tailoring shop on Arab Street, 1985. URA Collection, courtesy of National Archives of Singapore" />
 			<div>
 				<b>Tailoring shop on Arab Street, 1985.</b><br>Urban Redevelopment Authority Collection, courtesy of National Archives of Singapore
 <br><br>
 			</div>
 		</div>	
-      <div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
+      	<div>
 			<img src="/dharma/ArabStreet3.jpg" style="width:50%" alt="Arab Street, 1985. URA Collection, courtesy of National Archives of Singapore" />
 			<div>
 				<b>Arab Street, 1985.</b><br>Urban Redevelopment Authority, courtesy of National Archives of Singapore<br><br>
        </div>
-        </div>
-        		<div class="col is-half-tablet padding--bottom--lg">
+        	<div>
 			<img src="/dharma/ArabStreetTextile.jpg" style="width:50%" alt="Textile shops along Arab Street, 1987. Courtesy of National Archives of Singapore" />
 			<div>
 				<b>Textile stops along Arab Street, 1987.</b><br>Courtesy of National Archives of Singapore
