@@ -29,7 +29,7 @@ Step 2: Read for 15 minutes at your own space from 11 to 26 July 2020, or join o
 
 Step 3: Take 1 to 2 photos or screengrabs of the activity.
 
-Step 4: Upon completion of the activity, please email **read@nlb.gov.sg** with the number of participants and photos taken.
+Step 4: Upon completion of the activity, please email [read@nlb.gov.sg](mailto:read@nlb.gov.sg){:target="_blank"} with the number of participants and photos taken.
 
 NOTE: Please note that all updates must be completed by **31 July 2020 (Friday), 11.59pm**.
 
@@ -41,7 +41,7 @@ Can’t decide what to read? Join your friendly neighbourhood librarian in a hal
 
 | **Date/Day**       | **Time**     | **Genre or Topic**                                         |
 | ------------------ | ------------ | ---------------------------------------------------------- |
-| 11 July, Saturday  | 3pm - 3:30pm | Picture books That Adults Can Enjoy                        |
+| 11 July, Saturday  | 3pm - 3:30pm | Picture Books That Adults Can Enjoy                        |
 | 12 July, Sunday    | 3pm - 3:30pm | Serious Humour                                             |
 | 13 July, Monday    | 3pm - 3:30pm | Bookflix – Print to Screen                                 |
 | 14 July, Tuesday   | 3pm - 3:30pm | Short Stories                                              |
