@@ -41,7 +41,7 @@ Can’t decide what to read? Join your friendly neighbourhood librarian in a hal
 
 | **Date/Day**       | **Time**     | **Genre or Topic**                                         |
 | ------------------ | ------------ | ---------------------------------------------------------- |
-| 11 July, Saturday  | 3pm - 3:30pm | Picture books That Adults Can Enjoy                        |
+| 11 July, Saturday  | 3pm - 3:30pm | Picture Books That Adults Can Enjoy                        |
 | 12 July, Sunday    | 3pm - 3:30pm | Serious Humour                                             |
 | 13 July, Monday    | 3pm - 3:30pm | Bookflix – Print to Screen                                 |
 | 14 July, Tuesday   | 3pm - 3:30pm | Short Stories                                              |
