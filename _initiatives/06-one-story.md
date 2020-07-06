@@ -13,9 +13,7 @@ One Story is a multi-year project by the National Library Board (NLB) that makes
 
 <img src="/images/Dharma_book_cover.jpg" style="width:30%" alt="Dharmas Chariot"/>
 
-[Borrow here](https://nlb.overdrive.com/media/5328742){:target="_blank"}
-
-[Click for PDF version](/dharma/Dharmas Chariot EPUB.pdf){:target="_blank"}
+[Borrow here](https://nlb.overdrive.com/media/5328742){:target="_blank"} | [Click for PDF version](/dharma/Dharmas Chariot EPUB.pdf){:target="_blank"}
 
 
 
@@ -56,4 +54,4 @@ Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works h
 
 
 
-Updated 18 Jun 2020
+Updated 06 Jul 2020
