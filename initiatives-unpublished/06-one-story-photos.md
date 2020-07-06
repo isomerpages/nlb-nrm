@@ -95,7 +95,7 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 <div align="center">
       <b>A cook grinding some spcies at the cooking area instead the 49 Market Street Kittengi, 1970.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore </div>	
         </div>
-		</div>	
+		</div>		</div>	
 
 
 
