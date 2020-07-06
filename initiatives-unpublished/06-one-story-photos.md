@@ -17,42 +17,43 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 
 <div>
 			<img src="/dharma/ArabStreet.jpg" style="width:50%" alt="Arab Street shophouses, 1963. Courtesy of National Archives of Singapore">
-			<div>
+			<div align="center">
 				<b>Arab Street shophouses, 1963. </b><br>Courtesy of National Archives of Singapore<br><br>
 			<div>
 			<img src="/dharma/NorthBridgeRd.jpg" style="width:50%" alt="North Bridge Road, with top of Sultan Mosque visible, 1979. Paul Piollet Collection, courtesy of National Archives of Singapore">
-			<div>
+			<div align="center">
 				<b>North Bridge Road, with top of Sultan Mosque visible, 1979.</b><br>Paul Piollet Collection, courtesy of National Archives of Singapore<br><br>
 			</div>
 		</div>
 	<div>
 			<img src="/dharma/ArabStreet2.jpg" style="width:50%" alt="Shophouse along Arab Street at the junction of North Bridge Road, 1985. URA Collection, courtesy of National Archives of Singapore" />
-			<div>
+			<div align="center">
 				<b>Shophouse along Arab Street at the junction of North Bridge Road, 1985.</b><br>Urban Redevelopment Authority Collection, courtesy of National Archives of Singapore<br><br>
 			</div>
 		</div>	
 		<div>
 			<img src="/dharma/ArabStreetTailor.jpg" style="width:50%" alt="Tailoring shop on Arab Street, 1985. URA Collection, courtesy of National Archives of Singapore" />
-			<div>
+			<div align="center">
 				<b>Tailoring shop on Arab Street, 1985.</b><br>Urban Redevelopment Authority Collection, courtesy of National Archives of Singapore
 <br><br>
 			</div>
 		</div>	
       	<div>
 			<img src="/dharma/ArabStreet3.jpg" style="width:50%" alt="Arab Street, 1985. URA Collection, courtesy of National Archives of Singapore" />
-			<div>
+			<div align="center">
 				<b>Arab Street, 1985.</b><br>Urban Redevelopment Authority, courtesy of National Archives of Singapore<br><br>
        </div>
            </div>
         	<div>
 			<img src="/dharma/ArabStreetTextile.jpg" style="width:50%" alt="Textile shops along Arab Street, 1987. Courtesy of National Archives of Singapore" />
-			<div>
+			<div align="center">
 				<b>Textile stops along Arab Street, 1987.</b><br>Courtesy of National Archives of Singapore
 <br><br>
 			</div>
 		</div>	
   </div>
 		</div>		
+
 
 ​          		
 
@@ -75,25 +76,27 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 
 
 <div>
-  <img src="/dharma/MarketStreet.jpg" style="width:50%" alt="Market Street in the 1970s. Chu Sui Mang Collection, courtesy of National Archives of Singapore" />	<div>
+  <img src="/dharma/MarketStreet.jpg" style="width:50%" alt="Market Street in the 1970s. Chu Sui Mang Collection, courtesy of National Archives of Singapore" />	
+  <div align="center">
 			<b>Market Street in the 1970s.</b><br>Chu Sui Mang Collection, courtesy of National Archives of Singapore<br><br>
 </div>
   	<div>
 		<img src="/dharma/Kittengi.jpg" style="width:50%" alt="The building where the kittengi at 49 Market Street was located. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
-		<div>
+		<div align="center">
 			<b>The building where the kittengi at 49 Market Street was located.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore
 </div>	
       <div>
 		<img src="/dharma/Doorway49MarketStreet.jpg" style="width:50%" alt="Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
-		<div>
+		<div align="center">
 			<b>Doorway of the 49 Market Street kittengi which was managed by the Chettiar Cooperative Society, 1971.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore<br><br>
 </div>
             <div>
 		<img src="/dharma/Cook49MarketStreet.jpg" style="width:50%" alt="A cook grinding some spices at the cooking area inside the 49 Market Street Kittengi, 1970. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore" />
-		<div>
+<div align="center">
       <b>A cook grinding some spcies at the cooking area instead the 49 Market Street Kittengi, 1970.</b><br>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore </div>	
         </div>
-		</div>	
+		</div>		</div>	
+
 
 
 
@@ -101,5 +104,5 @@ Get to see what Arab Street, North Bridge Road, and Market Street once looked li
 ​    	
 
 
-Updated 30 Jun 2020
+Updated 06 Jul 2020
 
