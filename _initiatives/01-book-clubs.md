@@ -24,7 +24,7 @@ For current club meeting dates and registration, please visit [GoLibrary](http:/
 					<i>Central Public Library</i><br/>The Book Lovers Club is a bimonthly book club for adults. Our book discussions focus on relationships and inspirational stories that can be applied to both our professional and private lives. Look out for new sessions on the GoLibrary Portal!<p/>
 				</div>
 				<div col is-half-tablet padding--bottom--lg>
-					<b>English Club 2</b><br/>
+					<b>Communities: Reading Allowed</b><br/>
 					<i>library@orchard</i><br/>No silence here as we gather to read aloud and listen to stories’ highs and lows. Discover books that you might have otherwise missed, or sit in for an alternative community reading experience with a different book each session. Co-organised with Read-Aloud Sg Book Club. For adults.<p/>
 				</div>
 				<div col is-half-tablet padding--bottom--lg>
@@ -78,7 +78,7 @@ For current club meeting dates and registration, please visit [GoLibrary](http:/
 			</div>
 		</div>
 		</div>
-	
+
 		<div>
 			<input type="radio" name="acc" id="acc2">
 			<label for="acc2"><i></i>Chinese</label>
@@ -134,7 +134,7 @@ For current club meeting dates and registration, please visit [GoLibrary](http:/
 			</div>
 		</div>
 		</div>
-
+	
 		<div>
 			<input type="radio" name="acc" id="acc3">
 			<label for="acc3"><i></i>Malay</label>
