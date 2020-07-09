@@ -49,18 +49,18 @@ Can’t decide what to read? Join your friendly neighbourhood librarian in a hal
 | 15 July, Wednesday | 3pm - 3:30pm | Health                                                     |
 | 15 July, Wednesday | 6:30pm - 7pm | Graphic Novels                                             |
 | 16 July, Thursday  | 3pm - 3:30pm | Thrillers                                                  |
-| 16 July, Thursday  | 6:30pm - 7pm | Sci-fi, featuring Centre of Quantum Technologies at NUS    |
+| 16 July, Thursday  | 6:30pm - 7pm | Sci-fi, featuring Centre for Quantum Technologies at NUS   |
 | 17 July, Friday    | 3pm - 3:30pm | Self-help                                                  |
 | 17 July, Friday    | 6.30pm - 7pm | Fantasy                                                    |
 | 18 July, Saturday  | 3pm - 3:30pm | [SkillsFuture Month] Data Visualisation                    |
 | 20 July, Monday    | 3pm - 3:30pm | Evolution and Life                                         |
-| 20 July, Monday    | 6:30pm - 7pm | Business Thinking / Beautiful Arts Books                   |
+| 20 July, Monday    | 6:30pm - 7pm | Business Thinking                                          |
 | 21 July, Tuesday   | 3pm - 3:30pm | [SkillsFuture Month] getAbstract / Harvard Business Review |
 | 21 July, Tuesday   | 6:30pm - 7pm | Memoirs                                                    |
 | 22 July, Wednesday | 3pm - 3:30pm | [SkillsFuture Month] Personal Productivity                 |
 | 22 July, Wednesday | 6:30pm - 7pm | One Story: Dharma’s Chariot                                |
 | 23 July, Thursday  | 3pm - 3:30pm | Modern Self-help Books                                     |
-| 23 July, Thursday  | 6:30pm - 7pm | One Story: Dharma’s Chariot (Mandarin)                     |
+| 23 July, Thursday  | 6:30pm - 7pm | 分享《正法的战车》                                         |
 | 24 July, Friday    | 3pm - 3:30pm | Personal Development                                       |
 | 24 July, Friday    | 6:30pm -7pm  | One Story: Dharma’s Chariot                                |
 | 25 July, Saturday  | 3pm - 3:30pm | Sustainability / Climate Fiction                           |
