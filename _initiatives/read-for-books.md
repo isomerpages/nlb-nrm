@@ -60,7 +60,7 @@ Can’t decide what to read? Join your friendly neighbourhood librarian in a hal
 | 22 July, Wednesday | 3pm - 3:30pm | [SkillsFuture Month] Personal Productivity                 |
 | 22 July, Wednesday | 6:30pm - 7pm | One Story: Dharma’s Chariot                                |
 | 23 July, Thursday  | 3pm - 3:30pm | Modern Self-help Books                                     |
-| 23 July, Thursday  | 6:30pm - 7pm | One Story: Dharma’s Chariot (Mandarin)                     |
+| 23 July, Thursday  | 6:30pm - 7pm | 分享《正法的战车》                                         |
 | 24 July, Friday    | 3pm - 3:30pm | Personal Development                                       |
 | 24 July, Friday    | 6:30pm -7pm  | One Story: Dharma’s Chariot                                |
 | 25 July, Saturday  | 3pm - 3:30pm | Sustainability / Climate Fiction                           |
