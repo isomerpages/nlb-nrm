@@ -8,8 +8,8 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/RFBMainBanner2.jpg
-        url: /read-for-books/
+        background: /dharma/Dharma_banner.jpg
+        url: /initiatives/one-story/
         button: 
         key_highlights:
             - title: About Us
