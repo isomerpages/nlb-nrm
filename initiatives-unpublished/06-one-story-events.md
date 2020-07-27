@@ -13,14 +13,14 @@ Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_bla
 
 
 
-**Calender**
+**Calendar**
 
 | Date/Day                | Time             | Event                                                        |
 | :---------------------- | :--------------- | ------------------------------------------------------------ |
 | 19 August, Wednesday    | 1pm – 3pm        | [One Story] 交流点读书会线上导读《正法的战车》               |
-| 22 August, Saturday     | 9:30am – 11:30am | [One Story] Bengkel Penulisan Fiksyen Kilasan untuk  Remaja  |
-| 29 August, Saturday     | 2pm – 4pm        | [One Story] Bengkel Penulisan Lirik Lagu Warisan Anak  Watan |
-| 05 September, Saturday  | 11am             | [One Story] Tamil Read Aloud Session and Discussion by  Author Sithuraj |
+| 22 August, Saturday     | 9:30am – 11:30am | [One Story] Bengkel Penulisan Fiksyen Kilasan untuk Remaja   |
+| 29 August, Saturday     | 2pm – 4pm        | [One Story] Bengkel Penulisan Lirik Lagu Warisan Anak Watan  |
+| 05 September, Saturday  | 11am             | [One Story] Tamil Read Aloud Session and Discussion by Author Sithuraj |
 | 10 September, Thursday  | 8pm – 9.30pm     | [One Story] Singapore Literature Book Club                   |
 | 12 September, Saturday  | 11am - 11:15am   | [One Story] Tamil Flash Fiction Writing Competition          |
 | 19 September, Saturday  | 2.30pm – 3pm     | [One Story] Teater Forum: Bukan Suka-suka! Berdasarkan  Cerpen Perang Pedati Dharma |
