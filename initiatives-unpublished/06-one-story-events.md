@@ -21,12 +21,14 @@ Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_bla
 | 22 August, Saturday     | 9:30am – 11:30am | [One Story] Bengkel Penulisan Fiksyen Kilasan untuk Remaja   |
 | 29 August, Saturday     | 2pm – 4pm        | [One Story] Bengkel Penulisan Lirik Lagu Warisan Anak Watan  |
 | 05 September, Saturday  | 11am             | [One Story] Tamil Read Aloud Session and Discussion by Author Sithuraj |
+| 05 September, Saturday  | 2.30pm - 3pm     | [One Story] Bacaan Cerpen Pedati Perang Dharma               |
 | 10 September, Thursday  | 8pm – 9.30pm     | [One Story] Singapore Literature Book Club                   |
 | 12 September, Saturday  | 11am - 11:15am   | [One Story] Tamil Flash Fiction Writing Competition          |
 | 19 September, Saturday  | 2.30pm – 3pm     | [One Story] Teater Forum: Bukan Suka-suka! Berdasarkan  Cerpen Perang Pedati Dharma |
 | 20 September, Sunday    | 11.30am – 12pm   | [One Story] Teater Forum: Bukan Suka-suka! Berdasarkan  Cerpen Perang Pedati Dharma |
 | 20 September, Sunday    | 5pm – 6pm        | [One Story] Book Club Discussion by Maya Ilakiya Vattam      |
 | 23 September, Wednesday | 8pm – 9:30pm     | [One Story] FOL Book Club                                    |
+| 26 September, Saturday  | 2pm - 4pm        | [One Story] Kelab Membaca Ilham Pustaka: Menelusuri lorong-lorong nostalgia di Arab Street bersama Hidayah Amin |
 | 26 September, Saturday  | 7pm – 9pm        | [One Story] 德士师傅与好友读书会线上导读《正法的战车》       |
 | 27 September, Sunday    | 5:30pm – 6:30pm  | [One Story] Book Club Discussion by Vaasagar Vattam          |
 | 07 October, Wednesday   | 10.30am – 12pm   | [One Story] 分享阅读读书会导读《正法的战车》                 |
@@ -35,7 +37,7 @@ Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_bla
 
 
 
-Updated 27 July 2020
+Updated 28 July 2020
 
 
 
