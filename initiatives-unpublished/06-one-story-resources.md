@@ -69,6 +69,10 @@ A traditional medicine shop, Unani Medical Hall, can still be found in Golden La
 
 
 
+**Check out NLB’s Curiocity, to find out more about Kampong Glam’s [streets](https://curiocity.nlb.gov.sg/resource-room/story-maps/streets-of-kampong-glam) and [landmarks](https://curiocity.nlb.gov.sg/resource-room/story-maps/landmarks-of-kampong-glam).**
+
+
+
 **Further Reading**
 
 One Story is a multilingual publication project with the objective to allow greater readership outside of the language community it was originally written for. It also aims to spark a common literary conversation amongst all readers regardless of language. The chosen story for 2020 is Dharma’s Chariot by Sithuraj Ponraj and will run from 1 August to 12 October 2020.
