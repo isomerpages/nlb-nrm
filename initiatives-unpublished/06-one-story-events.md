@@ -32,12 +32,10 @@ Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_bla
 | 26 September, Saturday  | 7pm – 9pm        | [[One Story] 德士师傅与好友读书会线上导读《正法的战车》](https://www.eventbrite.com/e/one-story-registration-113755850812?aff=ebcollection){:target="_blank"} |
 | 27 September, Sunday    | 5:30pm – 6:30pm  | [[One Story] Book Club Discussion by Vaasagar Vattam](https://www.eventbrite.com/e/one-story-book-club-discussion-by-vaasagar-vattam-registration-113865472694?aff=ebcollection){:target="_blank"} |
 | 07 October, Wednesday   | 10.30am – 12pm   | [[One Story] 分享阅读读书会导读《正法的战车》](https://www.eventbrite.com/e/one-story-registration-113860445658?aff=ebcollection){:target="_blank"} |
-| 08 October, Thursday    | 3pm – 4:30pm     | [[One Story] 碧山乐龄读书会导读《正法的战车》](https://www.eventbrite.com/e/one-story-registration-113862447646?aff=ebcollection){:target="_blank"} |
-| 24 October, Saturday    | 1pm – 3pm        | [Communities: Reading Allowed](https://www.eventbrite.com/e/one-story-communities-reading-allowed-libraryorchard-registration-113723301456?aff=ebcollection){:target="_blank"} |
 
 
 
-Updated 07 Aug 2020
+Updated 09 Sep 2020
 
 
 
