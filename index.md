@@ -8,8 +8,8 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/FourConvoBanner.jpg
-        url: /initiatives/four-conversations/
+        background: /dharma/Dharma_banner.jpg
+        url: /initiatives/one-story/
         button: 
         key_highlights:
             - title: About Us
