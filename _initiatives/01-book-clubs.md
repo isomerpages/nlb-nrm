@@ -9,7 +9,9 @@ permalink: /initiatives/book-clubs/
 
 Keen to share your thoughts about books you have read? Why not join a book club? Check out the clubs we have at the public libraries conducted in English, Chinese, Malay and Tamil for various age groups.
 
-For current club meeting dates and registration, please visit [GoLibrary](http://www.nlb.gov.sg/golibrary){:target="_blank"}.
+For current club meeting dates and registration, please visit [GoLibrary](http://www.go.gov.sg/golibrary){:target="_blank"}.
+
+If you'd like to set up your own book club, you can check out our [Book Club Guide](/edms/Book Club Guide.pdf){:target="_blank"} for tips on getting started!
 
 <p/>
 
