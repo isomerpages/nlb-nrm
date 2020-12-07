@@ -5,7 +5,7 @@ permalink: /read-at-work/
 
 ![banner read@work](\images\readwork.jpg)
 
-Launched in late 2016, Read@Work supports organisations in seeding a reading culture at the workplace. More than 60 organisations are on board Read@Work to strengthen their staff’s learning and reading habits. Join us to enjoy a complimentary suite of services designed to encourage working adults to read and learn:
+Launched in late 2016, Read@Work supports organisations in seeding a reading culture at the workplace. More than 100 organisations are on board Read@Work to strengthen their staff’s learning and reading habits. Join us to enjoy a complimentary suite of services designed to encourage working adults to read and learn:
 
 * Monthly Read@Work EDMs to get staff in the mood for reading.
 * Free Lunch and Learn programmes, including bite-sized talks by professional trainers and librarians’ sharing on intriguing topics like graphic novels or poetry.
@@ -45,4 +45,4 @@ Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
 
 
 
-Updated 12 Nov 2020
+Updated 07 Dec 2020
