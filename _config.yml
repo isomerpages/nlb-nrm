@@ -10,7 +10,7 @@ collections:
     output: true
 resources_name: blog
 
-google_analytics: UA-99939731-1
+google_analytics: UA-96770499-2
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
