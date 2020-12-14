@@ -17,7 +17,7 @@ More details will be on the registration page.
 
 
 
-**Registration for Nadya's Masterclass at https://go.gov.sg/nadyamasterclass starting 24 December 2020**
+**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) starts 24 December 2020****
 
 
 
@@ -37,7 +37,9 @@ The programme will be conducted entirely online. Participants may access the Zoo
 
 More details will be on the registration page.  
 
-**Registration for Dawn's Masterclass at https://go.gov.sg/dawnmasterclass starting 24 December 2020
+
+
+**Registration for [Dawn's Masterclass](https://go.gov.sg/dawnmasterclass) starts 24 December 2020**
 
 
 
@@ -53,7 +55,9 @@ The programme will be conducted entirely online. Participants may access the Zoo
 
 More details will be on the registration page.  
 
-**Registration for Nuseir's Masterclass at https://go.gov.sg/nuseirmasterclass starting 24 December 2020
+
+
+**Registration for [Nuseir's Masterclass](https://go.gov.sg/nuseirmasterclass) starts 24 December 2020**
 
 
 
