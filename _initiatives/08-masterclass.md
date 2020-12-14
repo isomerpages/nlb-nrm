@@ -17,7 +17,7 @@ More details will be on the registration page.
 
 
 
-**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) starts 24 December 2020****
+**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) starts 24 December 2020**
 
 
 
