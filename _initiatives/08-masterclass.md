@@ -43,6 +43,10 @@ More details will be on the registration page.
 
 
 
+Learn more with our exclusive learning package: [Personal Finance and Investing](/Masterclass/Masterclass 2020 Personal Finance.pdf){:target="_blank"}
+
+
+
 ![banner Masterclass](\masterclass\Masterclass_NUSEIR.jpg)
 
 **Personal Finance and Investing**
@@ -63,5 +67,5 @@ More details will be on the registration page.
 
 
 
-Updated 14 Dec 2020
+Updated 22 Dec 2020
 
