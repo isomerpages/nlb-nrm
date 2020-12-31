@@ -49,7 +49,7 @@ Learn more with our exclusive learning package: [Personal Finance and Investing]
 
 ![banner Masterclass](\masterclass\Masterclass_NUSEIR.jpg)
 
-**Personal Finance and Investing**
+**The Art of Storytelling**
 
 **05 February 2021, 8pm - 9pm**
 
