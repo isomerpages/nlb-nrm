@@ -17,7 +17,7 @@ More details will be on the registration page.
 
 
 
-**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) starts 24 December 2020**
+**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) is full.**
 
 
 
@@ -39,7 +39,7 @@ More details will be on the registration page.
 
 
 
-**Registration for [Dawn's Masterclass](https://go.gov.sg/dawnmasterclass) starts 24 December 2020**
+**Registration for [Dawn's Masterclass](https://go.gov.sg/dawnmasterclass) is full.**
 
 
 
@@ -61,11 +61,15 @@ More details will be on the registration page.
 
 
 
-**Registration for [Nuseir's Masterclass](https://go.gov.sg/nuseirmasterclass) starts 24 December 2020**
+Learn more with our exclusive learning package: [The Art of Storytelling](/Masterclass/Masterclass 2020 Storytelling.pdf){:target="_blank"}
+
+
+
+**Registration for [Nuseir's Masterclass](https://go.gov.sg/nuseirmasterclass) is full.**
 
 
 
 
 
-Updated 22 Dec 2020
+Updated 21 Jan 2020
 
