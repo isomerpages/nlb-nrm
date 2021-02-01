@@ -13,15 +13,13 @@ Join Founder of We The Good and Advisor of The Contentment Foundation, Nadya Hut
 
 The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
 
-More details will be on the registration page.  
-
-
-
-**Registration for [Nadya's Masterclass](https://go.gov.sg/nadyamasterclass) is full.**
-
-
-
 Learn more with our exclusive learning package: [Adaptive Resilience](/Masterclass/Masterclass 2020 Adaptive Resilience.pdf){:target="_blank"}
+
+![banner AdaptiveR](\masterclass\Adaptive Resilience Sketch.PNG)
+
+Download the sketch: [Adaptive Resilience Sketch](/Masterclass/Adaptive Resilience Sketch.pdf){:target="_blank"}
+
+---
 
 
 
@@ -35,15 +33,11 @@ Join Dawn Cher aka SG Budget Babe as she explores the importance of taking care 
 
 The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
 
-More details will be on the registration page.  
-
-
-
-**Registration for [Dawn's Masterclass](https://go.gov.sg/dawnmasterclass) is full.**
-
-
-
 Learn more with our exclusive learning package: [Personal Finance and Investing](/Masterclass/Masterclass 2020 Personal Finance.pdf){:target="_blank"}
+
+Sketch will be ready soon! Watch this space.
+
+---
 
 
 
@@ -71,5 +65,5 @@ Learn more with our exclusive learning package: [The Art of Storytelling](/Maste
 
 
 
-Updated 21 Jan 2020
+Updated 01 Feb 2021
 
