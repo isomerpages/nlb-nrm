@@ -35,7 +35,9 @@ The programme will be conducted entirely online. Participants may access the Zoo
 
 Learn more with our exclusive learning package: [Personal Finance and Investing](/Masterclass/Masterclass 2020 Personal Finance.pdf){:target="_blank"}
 
-Sketch will be ready soon! Watch this space.
+![banner PersonalF](\masterclass\Personal Finance Sketch.PNG)
+
+Download the sketch: [Personal Finance Sketch](/Masterclass/Personal Finance Sketch.pdf){:target="_blank"}
 
 ---
 
@@ -65,5 +67,5 @@ Learn more with our exclusive learning package: [The Art of Storytelling](/Maste
 
 
 
-Updated 01 Feb 2021
+Updated 02 Feb 2021
 
