@@ -53,7 +53,7 @@ Join Nuseir Yassin of NAS Daily as he shares what you need to know to tell a gre
 
 The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
 
-More details will be on the registration page.  
+
 
 
 
@@ -61,11 +61,13 @@ Learn more with our exclusive learning package: [The Art of Storytelling](/Maste
 
 
 
-**Registration for [Nuseir's Masterclass](https://go.gov.sg/nuseirmasterclass) is full.**
+![banner PersonalF](\masterclass\The Art of Storytelling Sketch.png)
+
+Download the sketch: [The Art of Storytelling Sketch](/Masterclass/The Art of Storytelling Sketch.pdf){:target="_blank"}
 
 
 
 
 
-Updated 02 Feb 2021
+Updated 15 Feb 2021
 
