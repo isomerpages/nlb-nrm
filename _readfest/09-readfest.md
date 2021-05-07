@@ -1,6 +1,6 @@
 ---
 title: "About Read! Fest 2021"
-permalink: /readfest/about/
+permalink: /readfest/
 ---
 
 ![banner RF](\images\RF_Draft.png)
