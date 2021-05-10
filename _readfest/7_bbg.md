@@ -9,17 +9,20 @@ permalink: /readfest/bigbookgiveaway
 
 The Big Book Giveaway is an annual community event by the National Library Board where people can bring books home for free. This year, BBG is travelling out into the community to spread the joy of reading! Look out for pop-ups hosted by our partner organisations and in the public libraries.
 
- <div>
-		<input type="radio" name="acc" id="acc2">
-		<label for="acc2"><i></i>Partners</label>
-		<div class="acc-body">
-			<div class="row is-multiline">
-				<div class="col is-4 padding--right--xl padding--bottom">
+ <div class="content">
+	<div class="acc-kontainer">
+		<div>
+			<input type="radio" name="acc" id="acc1">
+			<label for="acc1"><i></i>Organisations that supported Read for Books, Read! Fest and National Reading Day</label>
+			<div class="acc-body">
+				<div class="row is-multiline">
+					<div class="col is-4 padding--right--xl padding--bottom">
 					<div class="margin--top--none">ABC</div>
 				</div>
 				<div class="col is-4 padding--right--xl padding--bottom">
 					<div class="margin--top--none">XYZ</div>
-        </div> </div></div></div>
+        </div> </div></div></div></div></div>
+
 
 
 
