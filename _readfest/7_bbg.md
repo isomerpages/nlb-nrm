@@ -13,7 +13,7 @@ The Big Book Giveaway is an annual community event by the National Library Board
 	<div class="acc-kontainer">
 		<div>
 			<input type="radio" name="acc" id="acc1">
-			<label for="acc1"><i></i>Organisations that supported Read for Books, Read! Fest and National Reading Day</label>
+			<label for="acc1"><i></i>Partners</label>
 			<div class="acc-body">
 				<div class="row is-multiline">
 					<div class="col is-4 padding--right--xl padding--bottom">
