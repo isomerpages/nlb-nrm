@@ -23,45 +23,8 @@ Where will you find yourself?
 
 
 
-**Download the festival booklet**
+**Festival booklet to be available soon. Watch this space.**
 
 
 
-
-
-<hr/>
-
-<div class="row is-multiline">
-
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-resources/" class="project-link">
-	
-			<img src="/dharma/onestory_resources.jpg" alt="One Story Resources" class="project-image">
-	
-		</a>
-	
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-photos/" class="project-link">
-	
-			<img src="/dharma/onestory_photo.jpg" alt="One Story Photos" class="project-image">
-	
-		</a>
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-events/" class="project-link">
-	
-			<img src="/dharma/onestory_events.jpg" alt="One Story Resources" class="project-image">
-	
-		</a>
-	
-	</div>
-	</div>
-
-
-
-Updated 26 Feb 2021
-
+Updated 10 May 2021
