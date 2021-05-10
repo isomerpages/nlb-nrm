@@ -19,7 +19,7 @@ The Big Book Giveaway is an annual community event by the National Library Board
 				</div>
 				<div class="col is-4 padding--right--xl padding--bottom">
 					<div class="margin--top--none">XYZ</div>
-				</div>
+        </div> </div></div></div>
 
 
 
