@@ -24,7 +24,5 @@ The Big Book Giveaway is an annual community event by the National Library Board
 
 
 
-
-
 Updated 10 May 2021
 
