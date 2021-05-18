@@ -8,8 +8,8 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /dharma/Dharma_banner.jpg
-        url: /initiatives/one-story/
+        background: /images/RF_WebsiteHeader.png
+        url: /readfest/main
         button: 
         key_highlights:
             - title: About Us

@@ -66,10 +66,6 @@ If you'd like to set up your own book club, you can check out our [Book Club Gui
 					<i>Toa Payoh Public Library</i><br/>Writing the City Writers’ Group is a community of writers committed to the craft of writing. Our workshops offer participants writing exercises, guest lectures, and exposure to literature from both established and emerging writers. In creating a group where writers are encouraged to give and receive feedback on their work, the Writers’ Group aims to give writers the tools to take their writing forward. To register, please send an email to jongresham11 [at] gmail.com with your name and contact details.<p/>
 				</div>
 				<div col is-half-tablet padding--bottom--lg>
-					<b>The Straits Times Book Club</b><br/>
-					<i>Central Public Library</i><br/>The Straits Times Book Club seeks to create a platform for book lovers to meet the authors of important and bestselling titles, as well as build a community around the written word. This club features a slate of The Straits Times journalists moderating sessions on new titles every last Wednesday of each month from 7.00pm – 8.30pm.<p/>
-				</div>
-				<div col is-half-tablet padding--bottom--lg>
 					<b>The U Presence Book Club</b><br/>
 					<i>Yishun Public Library</i><br/>This book club is a platform for readers and fans of the four authors of the book “Presence: Human Purpose and the Field of the Future” to meet, discuss and share life changing experiences during or after reading their books. It is also a good start for anyone interested in learning more about organisational learning, and how to co-facilitate it.<p/>
 				</div>
