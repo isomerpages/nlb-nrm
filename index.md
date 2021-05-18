@@ -8,8 +8,8 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/RF_Draft.png
-        url: 
+        background: /images/RF_WebsiteHeader.png
+        url: /readfest/main
         button: 
         key_highlights:
             - title: About Us
