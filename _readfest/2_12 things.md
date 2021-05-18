@@ -9,7 +9,7 @@ permalink: /readfest/12things
 
 Read! Fest is anchored by 12 key books and topics. From myths and minimalism to work and womanhood, click on the books to jumpstart your discovery of the topics!
 
-Keen to explore more? Click here to discover more resources on each topic.
+Keen to explore more? Watch out for additional resources available soon.
 
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
