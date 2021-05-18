@@ -25,4 +25,19 @@ Where will you find yourself?
 
 
 
+Read! Fest would like to thank the following partners for their support.
+
+
+
+| <img src="/images/AKT.png" style="width:25%" alt="AKT Creations"/> |      |      |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+|                                                              |      |      |      |
+|                                                              |      |      |      |
+|                                                              |      |      |      |
+|                                                              |      |      |      |
+
+
+
+
+
 Updated 18 May 2021
