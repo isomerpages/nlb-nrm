@@ -25,19 +25,4 @@ Where will you find yourself?
 
 
 
-Read! Fest would like to thank the following partners for their support.
-
-
-
-| <img src="/images/AKT.png" style="width:20%" alt="AKT Creations"/> | <img src="/images/Association of Singapore Tamil Writers logo.jpg" style="width:20%" alt="Association of Singapore Tamil Writers"/> | <img src="/images/Blacspice_logo.jpg" style="width:20%" alt="Blacspice"/> | <img src="/images/DBS High Res Logo.jpg" style="width:20%" alt="Department of Biological Sciences, Faculty of Science, National University of Singapore"/> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-
-
-
-
-
 Updated 18 May 2021
