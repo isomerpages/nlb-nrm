@@ -3,23 +3,21 @@ title: "About Read! Fest 2021"
 permalink: /readfest/main
 ---
 
-![banner RF](\images\RF_Draft.png)
+![banner RF](\images\RF_WebsiteHeader.png)
 
 **About Read! Fest 2021**
 
 A time of change is a time for reflection and growth. 
 
-Read! Fest 2021 invites you to gaze inward with the theme: Reboot. While grappling with uncertainty, we are also pushed to question, seek and chart new paths for ourselves. What aspects have we overlooked in our day-to-day, and what demands too much of our attention? 
+Read! Fest 2021 invites you on a forward-looking journey of self-discovery. With the theme of **Reboot**, take a moment to re-examine and refresh your lenses on ubiquitous aspects of life today – such as how we approach work, nature, creativity, identity, and technology.
 
-Anchored by 12 key books and topics, Read! Fest features talks, workshops and experiences by world-renowned authors and thought leaders from various fields. Take your pick from over 60 programmes and immerse yourself in thoughtful ideas prompted by challenging times. 
+Anchored by 12 key books and topics, Read! Fest will host over 60 programmes – from talks by world-renowned authors to workshops and experiences – each curated to immerse you in a world of thoughtful ideas for our time. 
 
-From myths and minimalism to work and womanhood, stretch out to explore new realms and perspectives. 
+Stretch out to explore new worlds and perspectives. 
 
- 
+
 
 Where will you find yourself?
-
-
 
 
 
@@ -27,4 +25,4 @@ Where will you find yourself?
 
 
 
-Updated 10 May 2021
+Updated 18 May 2021

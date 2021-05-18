@@ -3,7 +3,7 @@ title: "Big Book Giveaway"
 permalink: /readfest/bigbookgiveaway
 ---
 
-![banner RF](\images\RF_Draft.png)
+![banner RF](\images\RF_WebsiteHeader.png)
 
 **Big Book Giveaway**
 

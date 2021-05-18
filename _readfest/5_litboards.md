@@ -3,7 +3,7 @@ title: "Interactive Boards"
 permalink: /readfest/interactiveboards
 ---
 
-![banner RF](\images\RF_Draft.png)
+![banner RF](\images\RF_Inner.png)
 
 **Interactive Boards**
 

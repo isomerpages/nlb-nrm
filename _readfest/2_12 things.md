@@ -3,13 +3,13 @@ title: "12 Titles, 12 Insights"
 permalink: /readfest/12things
 ---
 
-![banner RF](\images\RF_Draft.png)
+![banner RF](\images\RF_Inner.png)
 
 **12 Titles, 12 Insights**
 
 Read! Fest is anchored by 12 key books and topics. From myths and minimalism to work and womanhood, click on the books to jumpstart your discovery of the topics!
 
-Keen on exploring more? 
+Keen to explore more? Click here to discover more resources on each topic.
 
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -22,5 +22,5 @@ Keen on exploring more?
 
 
 
-Updated 10 May 2021
+Updated 18 May 2021
 

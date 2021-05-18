@@ -3,7 +3,7 @@ title: "Interactive Lit Trail"
 permalink: /readfest/littrail
 ---
 
-![banner RF](\images\RF_Draft.png)
+![banner RF](\images\RF_Inner.png)
 
 **Interactive Lit Trail**
 
