@@ -24,8 +24,8 @@ Event link will be provided soon.
 |                                                              |    3 July    |   10am – 11am   | Staying Creative  in Chaotic Times                           |
 |                                                              |   10 July    |   11am – 12pm   | How to Read Like  an Artist                                  |
 |                                                              |   14 July    | 8.30pm – 9.30pm | Humans Behind Our  Grandfathers' Stories                     |
-| 人生算法                                                     |   26 June    |  2pm – 3.30pm   | 从科幻小说看AI的未来冲击                                     |
-| Ren Sheng Suan Fa (Algorithms for Life)                      |   28 June    | 6.30pm – 7.30pm | 从游戏出发，纵览VR 与 AR科技的发展                           |
+| 人生算法 (Algorithms for Life)                               |   26 June    |  2pm – 3.30pm   | 从科幻小说看AI的未来冲击                                     |
+|                                                              |   28 June    | 6.30pm – 7.30pm | 从游戏出发，纵览VR 与 AR科技的发展                           |
 |                                                              |   30 June    | 6.30pm – 7.30pm | 当人工智能走进生活                                           |
 |                                                              |    5 July    | 8.30pm – 9.30pm | Back to the Future with AI                                   |
 |                                                              |    5 July    | 8.30pm – 9.30pm | 大数据与大趋势                                               |
