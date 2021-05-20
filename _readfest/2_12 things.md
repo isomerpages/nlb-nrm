@@ -79,21 +79,70 @@ Keen to explore more? Watch out for additional resources available soon.
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.</div>
     
     </div>
+    
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://nlbsg.ebook.hyread.com.tw/bookDetail.jsp?id=179510"><img src="/images/But Its Really Not For Me.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">可是我偏偏不喜欢 by 吴晓乐
+    </h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.</div>
+    
+    </div>
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://nlb.overdrive.com/media/4503139"><img src="/images/TheWayThroughTheWoods.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">The Way Through the Woods: Of Mushrooms and Mourning by Long Litt Woon </h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Discover nature’s healing power through a memoir of finding new life in grief.</div>
+    
+    </div>
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5482201"><img src="/images/MitosPeribumi-2.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">Mitos Peribumi Malas : Imej orang Jawa, Melayu dan Filipina dalam Kapitalisme Penjajah by Syed Hussein Alatas
+    </h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.</div>
+    
+    </div>
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://nlb.overdrive.com/media/4022749"><img src="/images/Digital Minimalism.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport</h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Take control of your digital life with these tips.</div>
+    
+    </div>
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205368708"><img src="/images/Meinigari.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">Dமெய்நிகரி by கபிலன் வைரமுத்து</h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.</div>
+    
+    </div>
+    <div class="image-container" style="margin: auto; margin-top: 10px">
+    
+        <a href="https://nlb.overdrive.com/media/3357353"><img src="/images/Salt Fat.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+    
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat
+    </h4>
+    
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Get confident in the kitchen by mastering the use of four simple elements.</div>
+    
+    </div>
 
 </div>
 
 </div>
 
-|                                                              |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Stay creative, focused, and true to  yourself in ten simple ways. | Meet our fast approaching AI-led future through stories where  the lines between man and machine become increasingly blurred. | Reconnect with hope and find conscious  optimism in an age of anxiety |
-| Explore what happens when technology takes over our lives in  this cautionary tale. | Look beyond our nation’s gleaming  exterior to explore diverse experiences of life in Singapore. | Unearth how ancestral knowledge holds the answers to our most  pressing environmental problems. |
-| Question perspectives on gender through these personal  explorations on womanhood | Discover nature’s healing power through  a memoir of finding new life in grief. | Examine the origins of colonial myths  about Southeast Asians that persist even till today. |
-| Take control of your digital life with  these tips.          | Tune in to the world of reality television through this  cinematic story. | Get confident in the kitchen by mastering the use of four simple  elements. |
 
 
-
-
-
-Updated 18 May 2021
+Updated 20 May 2021
 
