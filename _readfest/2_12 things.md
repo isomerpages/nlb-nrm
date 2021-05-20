@@ -122,7 +122,7 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205368708"><img src="/images/Meinigari.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
-        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">Dமெய்நிகரி by கபிலன் வைரமுத்து</h4>
+        <h4 class="title" style="max-width: 15rem; font-size: 25px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.</div>
     
