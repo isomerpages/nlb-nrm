@@ -26,6 +26,13 @@ links:
         url: https://nlb.overdrive.com/library/biz
   - title: Read! Fest
     url: /readfest/main
+    sublinks:
+      - title: 12 Titles, 12 Insights
+        url: /readfest/12things/
+      - title: Festival Programmes
+        url: /readfest/programmes/
+      - title: Read For Books
+        url: /readfest/readforbooks
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Read@Work
