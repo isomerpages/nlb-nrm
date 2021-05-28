@@ -48,11 +48,11 @@ Event link will be provided soon.
 |                                                              |    2 July    | 8.30pm – 9.30pm | Words for Water                                              |
 |                                                              |    4 July    |    4pm – 6pm    | நாவலுக்கு முறையான ஆராய்ச்சி: சாகித்ய அகடாமி விருதாளர் சோ. தர்மன்    |
 |                                                              |   11 July    |    6pm – 8pm    | சோ. தர்மனுடன் ஒரு சந்திப்பு                                      |
-|                                                              |   17 July    |    4pm – 6pm    | அடையாளமும் ஊடகங்களின் சித்தரிப்பும் – நியாயமான தகவல்களை அளிக்கிறதா?  |
+|                                                              |   17 July    |    4pm – 6pm    | அடையாளமும் ஊடகங்களின் சித்தரிப்பும் – நியாயமானவையா?                |
 | 可是我偏偏不喜欢 (But It's Really Not For Me)                |    3 July    |    11am -1pm    | 现代父母与育儿                                               |
 |                                                              |    3 July    |    2pm – 4pm    | 女子当自强                                                   |
 |                                                              |    7 July    | 8.30pm – 9.30pm | The Hidden Bias                                              |
-|                                                              |   10 July    |    6pm – 9pm    | தமிழ் மேடை நகைச்சுவை - வயிறு குலுங்கச் (hybrid programme)        |
+|                                                              |   10 July    |    6pm – 9pm    | தமிழ் மேடை நகைச்சுவை - வயிறு குலுங்கச் சிரிக்கலாம்.                |
 |                                                              |   16 July    | 6.30pm – 7.30pm | 早期新加坡的的弱势女子族群                                   |
 |                                                              |   17 July    |  2pm – 3.30pm   | 为什么读女性文学？                                           |
 | The Way Through the Woods: Of Mushrooms and Mourning         |   26 June    |  5pm – 6.30pm   | Connecting Nature  to Creativity, Community, and Mental Health |
@@ -63,7 +63,6 @@ Event link will be provided soon.
 |                                                              |    1 July    | 8.30pm – 9.30pm | Reclaiming the Narrative of the Native                       |
 |                                                              |    4 July    |   11am – 1pm    | Pembinaan dan  Pengukuhan Mitos dalam Industri Budaya Singapura |
 |                                                              |   14 July    |  8pm – 9.30pm   | Mitos-mitos Dalam  Sastera – Ke Mana Kita Dibawa?            |
-|                                                              |   16 July    |  9pm – 8.30pm   | The Myth of the Civilized Colonizers                         |
 |                                                              |   23 July    | 7.30pm – 9.30pm | [Kelab Buku]  Mitos Peribumi Malas                           |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World |   29 June    | 8.30pm – 9.30pm | Why We Need Digital Minimalism?                              |
 |                                                              |    3 July    | 2.30pm – 4.30pm | The BuJo Workshop                                            |
@@ -71,10 +70,10 @@ Event link will be provided soon.
 |                                                              |   10 July    |   10am – 11am   | Use Social Media like a Pro                                  |
 |                                                              |   17 July    |   9am – 12pm    | No Talking: Silent Retreat in Progress                       |
 |                                                              |    21 Aug    |    3pm – 6pm    | Digital Minimalism \| Book Lovers Club                       |
-| மெய்நிகரி (Meynikari)                                         |   26 July    |    6pm – 8pm    | கபிலன் வைரமுத்துவின் தலைமை உரை: ... என்றான் கவிஞன்                 |
+| மெய்நிகரி (Meynikari)                                         |   26 June    |    6pm – 8pm    | கபிலன் வைரமுத்துவின் தலைமை உரை: ... என்றான் கவிஞன்                 |
 |                                                              |    3 July    |    6pm – 8pm    | கபிலன் வைரமுத்துவுடன் ஒரு சந்திப்பு                               |
 |                                                              |   10 July    |    4pm – 6pm    | மெய்நிகரி கவிதை வாசிப்பு                                       |
-|                                                              |   11 July    |    4pm – 6pm    | நீங்களும் ஒரு நடிகர் ஆகலாம் by AKT கிரியேஷன்ஸ், ஆனந்த கண்ணன்           |
+|                                                              |   11 July    |    4pm – 6pm    | நீங்களும் ஒரு நடிகர் ஆகலாம் by AKT கிரியேஷன்ஸ், ஆனந்தக் கண்ணன்          |
 |                                                              |   18 July    |    3pm – 6pm    | பட்டறை: சிறுகதையிலிருந்து திரைக்கதை, வசனம் உருவாக்குதல்            |
 | Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking |   25 June    |    7pm – 8pm    | Salt, Fat, Acid, Heat in Asian Cooking                       |
 |                                                              |    5 July    |    7pm – 8pm    | Cultured Flavours and Fermentation                           |
@@ -85,5 +84,5 @@ Event link will be provided soon.
 
 
 
-Updated 20 May 2021
+Updated 28 May 2021
 

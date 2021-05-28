@@ -9,7 +9,7 @@ permalink: /readfest/readforbooks
 
 Read for Books is a charity book drive with the intention of raising awareness of reading and share the gift of reading with the less privileged. From 10 to 26 July 2021, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. 
 
-Read for Books 2021 is supported by Scholastic Education International (Singapore) Pte Ltd, Kinokuniya Bookstores of Singapore Pte. Ltd, and POPULAR.
+Read for Books 2021 is supported by Scholastic Education International (Singapore) Pte Ltd, Kinokuniya Bookstores of Singapore Pte. Ltd, and Popular Book Co (Pte) Ltd.
 
 
 
@@ -51,5 +51,5 @@ ItsRainingRaincoats (IRR) is an initiative that aims to improve the lives of mig
 
 
 
-Updated 18 May 2021
+Updated 28 May 2021
 
