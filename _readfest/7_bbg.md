@@ -41,11 +41,11 @@ Lakeside Family Services is a charity which has served the community since 1993,
 
 **E-mail:** [contact@viriya.org.sg](mailto:contact@viriya.org.sg) | **Contact number:** 6285 8033
 
+Viriya Community Services (VCS) promotes fulfilling lives by providing social services with the right effort and compassion by a multi-disciplinary team of professionals. Our children and youth programmes encourage reading to build a strong foundation for literacy development for our children and youths to achieve their fullest educational potential, especially for those with disadvantages. 
+
   
 
 **Tsao Foundation**   
-
-Viriya Community Services (VCS) promotes fulfilling lives by providing social services with the right effort and compassion by a multi-disciplinary team of professionals. Our children and youth programmes encourage reading to build a strong foundation for literacy development for our children and youths to achieve their fullest educational potential, especially for those with disadvantages. 
 
 **E-mail:** [comsa@tsaofoundation.org](mailto:comsa@tsaofoundation.org) | **Contact number:** 9684 9367
 
