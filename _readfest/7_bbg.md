@@ -25,7 +25,6 @@ Click on each partner to find out more about their cause and how you can help.
 			<input type="radio" name="acc" id="acc1">
 			<label for="acc1"><i></i>Filos Community Services</label>
 			<div class="acc-body">
-				<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 					<b>E-mail: volunteer@filos.sg</b><br/>
           <b>Contact number: 8789 6485</b><br/>Filos Community Services focuses on building the strengths of the community and works towards empowering individuals and families to live more fulfilling and happier lives.
           The Reading Room programme encourages children aged 4-8 years old to read more and to build up their command of the English Language. Our volunteer storytellers spend time reading with kids weekly to inculcate the habit of reading from young and empower them for the lifelong learning journey ahead. Join Filos as a Volunteer Storyteller or Volunteer Phonics Teacher today! </div>
