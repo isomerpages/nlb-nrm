@@ -29,12 +29,11 @@ Click on each partner to find out more about their cause and how you can help.
 					<b>E-mail: volunteer@filos.sg</b><br/>
           <b>Contact number: 8789 6485</b><br/>Filos Community Services focuses on building the strengths of the community and works towards empowering individuals and families to live more fulfilling and happier lives.
           The Reading Room programme encourages children aged 4-8 years old to read more and to build up their command of the English Language. Our volunteer storytellers spend time reading with kids weekly to inculcate the habit of reading from young and empower them for the lifelong learning journey ahead. Join Filos as a Volunteer Storyteller or Volunteer Phonics Teacher today! </div></div>
-
 <p/><div class="content"><div class="acc-kontainer"><div class="content">
 <div class="content">
   <div class="acc-kontainer">
 	<div>
-		<input type="radio" name="acc" id="acc1">
+		<input type="radio" name="acc" id="acc2">
 		<label for="acc1"><i></i>Lakeside Family Services</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
@@ -46,7 +45,7 @@ Click on each partner to find out more about their cause and how you can help.
 <div class="content">
 <div class="acc-kontainer">
 	<div>
-		<input type="radio" name="acc" id="acc1">
+		<input type="radio" name="acc" id="acc3">
 		<label for="acc1"><i></i>Viriya Community Services</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
@@ -58,12 +57,13 @@ Click on each partner to find out more about their cause and how you can help.
 <div class="content">
 <div class="acc-kontainer">
 	<div>
-		<input type="radio" name="acc" id="acc1">
+		<input type="radio" name="acc" id="acc4">
 		<label for="acc1"><i></i>Tsao Foundation</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: comsa@tsaofoundation.org</b><br/>
       <b>Contact number: 9684 9367</b><br/>Tsao Foundation aims for the positive transformation of the ageing experience through mindset and societal change. We undertake innovations in service, training, education, research and collaboration, as well as advocacy for that purpose. If you share these values and would like to volunteer with us, feel free to reach out! </div></div>
+
 
 
 
