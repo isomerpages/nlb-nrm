@@ -32,7 +32,7 @@ Click on each partner to find out more about their cause and how you can help.
 
 	<div>
 		<input type="radio" name="acc" id="acc2">
-		<label for="acc1"><i></i>Lakeside Family Services</label>
+		<label for="acc2"><i></i>Lakeside Family Services</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: lfstj@lakeside.org.sg</b><br/>
@@ -43,7 +43,7 @@ Click on each partner to find out more about their cause and how you can help.
 
 	<div>
 		<input type="radio" name="acc" id="acc3">
-		<label for="acc1"><i></i>Viriya Community Services</label>
+		<label for="acc3"><i></i>Viriya Community Services</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: contact@viriya.org.sg</b><br/>
@@ -54,7 +54,7 @@ Click on each partner to find out more about their cause and how you can help.
 
 	<div>
 		<input type="radio" name="acc" id="acc4">
-		<label for="acc1"><i></i>Tsao Foundation</label>
+		<label for="acc4"><i></i>Tsao Foundation</label>
 		<div class="acc-body">
 			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: comsa@tsaofoundation.org</b><br/>
