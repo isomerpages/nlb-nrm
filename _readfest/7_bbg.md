@@ -64,7 +64,9 @@ Click on each partner to find out more about their cause and how you can help.
 		<label for="acc4"><i></i>Tsao Foundation</label>
 		<div class="acc-body">
 				<b>E-mail: comsa@tsaofoundation.org</b><br/>
-	  <b>Contact number: 9684 9367</b><br/>Tsao Foundation aims for the positive transformation of the ageing experience through mindset and societal change. We undertake innovations in service, training, education, research and collaboration, as well as advocacy for that purpose. If you share these values and would like to volunteer with us, feel free to reach out! </div></div>
+	  <b>Contact number: 9684 9367</b><br/>Tsao Foundation aims for the positive transformation of the ageing experience through mindset and societal change. We undertake innovations in service, training, education, research and collaboration, as well as advocacy for that purpose. If you share these values and would like to volunteer with us, feel free to reach out! </div></div><br/>
+
+
 
 
 
