@@ -37,7 +37,6 @@ Click on each partner to find out more about their cause and how you can help.
 			<input type="radio" name="acc" id="acc2">
 			<label for="acc2"><i></i>Lakeside Family Services</label>
 			<div class="acc-body">
-				<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 					<b>E-mail: lfstj@lakeside.org.sg</b><br/>
           <b>Contact number: 6265 6522</b><br/>Lakeside Family Services is a charity which has served the community since 1993, regardless of race, language, or religion. We run The GRIT Project (TGP), a Children and Youth Centre that nurtures a caring generation to serve the community and addresses the needs of disadvantaged children and youths. TGP provides a safe space for self-discovery and empowerment so young people can grow to be confident, competent, connected, caring, and of good character.</div>
 
@@ -52,7 +51,6 @@ Click on each partner to find out more about their cause and how you can help.
 		<input type="radio" name="acc" id="acc3">
 		<label for="acc3"><i></i>Viriya Community Services</label>
 		<div class="acc-body">
-			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: contact@viriya.org.sg</b><br/>
 	  <b>Contact number: 6285 8033</b><br/>Viriya Community Services (VCS) promotes fulfilling lives by providing social services with the right effort and compassion by a multi-disciplinary team of professionals. Our children and youth programmes encourage reading to build a strong foundation for literacy development for our children and youths to achieve their fullest educational potential, especially for those with disadvantages. </div></div>
 
@@ -65,7 +63,6 @@ Click on each partner to find out more about their cause and how you can help.
 		<input type="radio" name="acc" id="acc4">
 		<label for="acc4"><i></i>Tsao Foundation</label>
 		<div class="acc-body">
-			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 				<b>E-mail: comsa@tsaofoundation.org</b><br/>
 	  <b>Contact number: 9684 9367</b><br/>Tsao Foundation aims for the positive transformation of the ageing experience through mindset and societal change. We undertake innovations in service, training, education, research and collaboration, as well as advocacy for that purpose. If you share these values and would like to volunteer with us, feel free to reach out! </div></div>
 
