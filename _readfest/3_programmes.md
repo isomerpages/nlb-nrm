@@ -18,7 +18,7 @@ Event link will be provided soon.
 | **Title**                                                    | **Date/Day** |    **Time**     | **Event**                                                    |
 | :----------------------------------------------------------- | :----------: | :-------------: | :----------------------------------------------------------- |
 | Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |    2pm - 4pm    | படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?                      |
-|                                                              |   26 June    |   10am - 1pm    | Making Sense of Creativity: In-Person Workshop               |
+| <img src="/images/Keep Going.jpg" style="width:30%" alt="Keep Going"/> |   26 June    |   10am - 1pm    | Making Sense of Creativity: In-Person Workshop               |
 |                                                              |   27 June    |    2pm - 4pm    | Making Sense of Creativity: Online Workshop                  |
 |                                                              |    2 July    |  7pm – 8.30pm   | Keep Going: Staying True to the Creative Process             |
 |                                                              |    3 July    |   10am – 11am   | Staying Creative in Chaotic Times                            |
@@ -84,5 +84,5 @@ Event link will be provided soon.
 
 
 
-Updated 28 May 2021
+Updated 31 May 2021
 
