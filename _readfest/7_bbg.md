@@ -28,20 +28,21 @@ Click on each partner to find out more about their cause and how you can help.
 				<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
 					<b>E-mail: volunteer@filos.sg</b><br/>
           <b>Contact number: 8789 6485</b><br/>Filos Community Services focuses on building the strengths of the community and works towards empowering individuals and families to live more fulfilling and happier lives.
-          The Reading Room programme encourages children aged 4-8 years old to read more and to build up their command of the English Language. Our volunteer storytellers spend time reading with kids weekly to inculcate the habit of reading from young and empower them for the lifelong learning journey ahead. Join Filos as a Volunteer Storyteller or Volunteer Phonics Teacher today! </div></div>
+          The Reading Room programme encourages children aged 4-8 years old to read more and to build up their command of the English Language. Our volunteer storytellers spend time reading with kids weekly to inculcate the habit of reading from young and empower them for the lifelong learning journey ahead. Join Filos as a Volunteer Storyteller or Volunteer Phonics Teacher today! </div>
 
 
 
-	<div class="content">
-		<div class="acc-kontainer">
+<div class="content">
+	<div class="acc-kontainer">
 		<div>
-		<input type="radio" name="acc" id="acc2">
-		<label for="acc2"><i></i>Lakeside Family Services</label>
-		<div class="acc-body">
-			<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
-				<b>E-mail: lfstj@lakeside.org.sg</b><br/>
-	  <b>Contact number: 6265 6522</b><br/>Lakeside Family Services is a charity which has served the community since 1993, regardless of race, language, or religion. We run The GRIT Project (TGP), a Children and Youth Centre that nurtures a caring generation to serve the community and addresses the needs of disadvantaged children and youths. TGP provides a safe space for self-discovery and empowerment so young people can grow to be confident, competent, connected, caring, and of good character. </div></div>
-	
+			<input type="radio" name="acc" id="acc2">
+			<label for="acc2"><i></i>Lakeside Family Services</label>
+			<div class="acc-body">
+				<div class="row is-multiline"><div col is-half-tablet padding--bottom--lg>
+					<b>E-mail: lfstj@lakeside.org.sg</b><br/>
+          <b>Contact number: 6265 6522</b><br/>Lakeside Family Services is a charity which has served the community since 1993, regardless of race, language, or religion. We run The GRIT Project (TGP), a Children and Youth Centre that nurtures a caring generation to serve the community and addresses the needs of disadvantaged children and youths. TGP provides a safe space for self-discovery and empowerment so young people can grow to be confident, competent, connected, caring, and of good character.</div>
+
+
 
 
 
