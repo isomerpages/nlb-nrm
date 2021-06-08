@@ -17,7 +17,7 @@ Event link will be provided soon.
 
 | **Title**                                                    | **Date/Day** |     **Time**      | **Event**                                                    |
 | :----------------------------------------------------------- | :----------: | :---------------: | :----------------------------------------------------------- |
-| Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |  2.00pm - 4.00pm  | படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி? **[படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?](https://go.gov.sg/rfb-submit)** |
+| Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |  2.00pm - 4.00pm  | படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?                      |
 | <img src="/images/Keep Going.jpg" style="width:50%" alt="Keep Going"/> |   26 June    | 10.00am - 1.00pm  | Making Sense of Creativity: In-Person Workshop               |
 |                                                              |   27 June    |  2.00pm - 4.00pm  | Making Sense of Creativity: Online Workshop                  |
 |                                                              |    2 July    |  7.00pm – 8.30pm  | Keep Going: Staying True to the Creative Process             |
