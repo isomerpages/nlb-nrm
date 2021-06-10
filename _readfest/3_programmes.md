@@ -17,30 +17,30 @@ Event link will be provided soon.
 
 | **Title**                                                    | **Date/Day** |     **Time**      | **Event**                                                    |
 | :----------------------------------------------------------- | :----------: | :---------------: | :----------------------------------------------------------- |
-| Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |  2.00pm - 4.00pm  | படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?                      |
-| <img src="/images/Keep Going.jpg" style="width:50%" alt="Keep Going"/> |   26 June    | 10.00am - 1.00pm  | Making Sense of Creativity: In-Person Workshop               |
-|                                                              |   27 June    |  2.00pm - 4.00pm  | Making Sense of Creativity: Online Workshop                  |
+| Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |  2.00pm - 4.00pm  | [படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?](https://www.eventbrite.sg/e/157760224077){:target="_blank"}. |
+| <img src="/images/Keep Going.jpg" style="width:50%" alt="Keep Going"/> |   26 June    | 10.00am - 1.00pm  | [Making Sense of Creativity: In-Person Workshop](https://www.eventbrite.sg/e/157067225299){:target="_blank"}. |
+|                                                              |   27 June    |  2.00pm - 4.00pm  | [Making Sense of Creativity: Online Workshop](https://www.eventbrite.sg/e/156944235433){:target="_blank"}. |
 |                                                              |    2 July    |  7.00pm – 8.30pm  | Keep Going: Staying True to the Creative Process             |
-|                                                              |    3 July    | 10.00am – 11.00am | Staying Creative in Chaotic Times                            |
-|                                                              |   10 July    | 11.00am – 12.00pm | How to Read Like  an Artist                                  |
-|                                                              |   14 July    |  8.30pm – 9.30pm  | Humans Behind Our  Grandfathers' Stories                     |
-| 人生算法 (Algorithms for Life)                               |   26 June    |  2.00pm – 3.30pm  | 从科幻小说看AI的未来冲击                                     |
-| <img src="/images/Algorithms of Life.jpg" style="width:50%" alt="Algorithms of Life"/> |   28 June    |  6.30pm – 7.30pm  | 从游戏出发，纵览VR 与 AR科技的发展                           |
-|                                                              |   30 June    |  6.30pm – 7.30pm  | 当人工智能走进生活                                           |
-|                                                              |    5 July    |  8.30pm – 9.30pm  | 大数据与大趋势                                               |
-|                                                              |   13 July    |  8.30pm – 9.30pm  | Back to the Future with AI                                   |
-| How To Stay Sane in an Age of Division                       |   25 June    |  8.00pm – 9.30pm  | In Conversation with Elif Shafak                             |
-| <img src="/images/How To Stay Sane.jpg" style="width:50%" alt="How To Stay Sane"/> |    8 July    |  6.30pm – 8.00pm  | Journaling: Write to Wellness                                |
-|                                                              |    9 July    |  8.30pm – 9.30pm  | A Conversation  about Social Media: Does it Unite or Divide Us |
-|                                                              |   18 July    | 11.00am – 12.30pm | Listening to Complexity                                      |
-|                                                              |   18 July    |  2.00pm – 4.00pm  | Terjerat Dalam Alam Maya: Mencari Jalan Keluar               |
-| Kerumunan Terakhir (The Last Crowd)                          |   26 June    |  2.00pm – 4.00pm  | Bicara Buku: Kerumunan Terakhir                              |
-| <img src="/images/Kerumunan Terakhir.jpg" style="width:50%" alt="Kerumunan Terakhir"/> |   30 June    |  8.00pm – 9.30pm  | Masihkah Ada Harapan? Mempertimbangkan Visi Kemanusiaan Masyarakat Teknologi |
-|                                                              |    2 July    |  8.00pm – 9.30pm  | Bahasa Vernakular Dalam Era Digital                          |
+|                                                              |    3 July    | 10.00am – 11.00am | [Staying Creative in Chaotic Times](https://www.eventbrite.sg/e/157341991131){:target="_blank"}. |
+|                                                              |   10 July    | 11.00am – 12.00pm | [How to Read Like  an Artist](https://www.eventbrite.sg/e/157344215785){:target="_blank"}. |
+|                                                              |   14 July    |  8.30pm – 9.30pm  | [Humans Behind Our  Grandfathers' Stories](https://www.eventbrite.sg/e/157772671307){:target="_blank"}. |
+| 人生算法 (Algorithms for Life)                               |   26 June    |  2.00pm – 3.30pm  | [从科幻小说看AI的未来冲击](https://www.eventbrite.sg/e/153934085995){:target="_blank"}. |
+| <img src="/images/Algorithms of Life.jpg" style="width:50%" alt="Algorithms of Life"/> |   28 June    |  6.30pm – 7.30pm  | [从游戏出发，纵览VR 与 AR科技的发展](https://www.eventbrite.sg/e/153934266535){:target="_blank"}. |
+|                                                              |   30 June    |  6.30pm – 7.30pm  | [当人工智能走进生活](https://www.eventbrite.sg/e/153934406955){:target="_blank"}. |
+|                                                              |    5 July    |  8.30pm – 9.30pm  | [大数据与大趋势](https://www.eventbrite.sg/e/156490829283){:target="_blank"}. |
+|                                                              |   13 July    |  8.30pm – 9.30pm  | [Back to the Future with AI](https://www.eventbrite.sg/e/157769022393){:target="_blank"}. |
+| How To Stay Sane in an Age of Division                       |   25 June    |  8.00pm – 9.30pm  | [In Conversation with Elif Shafak](https://www.eventbrite.sg/e/157086777781){:target="_blank"}. |
+| <img src="/images/How To Stay Sane.jpg" style="width:50%" alt="How To Stay Sane"/> |    8 July    |  6.30pm – 8.00pm  | [Journaling: Write to Wellness](https://www.eventbrite.sg/e/157088212071){:target="_blank"}. |
+|                                                              |    9 July    |  8.30pm – 9.30pm  | [A Conversation  about Social Media: Does it Unite or Divide Us](https://www.eventbrite.sg/e/157089261209){:target="_blank"}. |
+|                                                              |   18 July    | 11.00am – 12.30pm | [Listening to Complexity](https://www.eventbrite.sg/e/157077259311){:target="_blank"}. |
+|                                                              |   18 July    |  2.00pm – 4.00pm  | [Terjerat Dalam Alam Maya: Mencari Jalan Keluar](https://www.eventbrite.sg/e/156450416407){:target="_blank"}. |
+| Kerumunan Terakhir (The Last Crowd)                          |   26 June    |  2.00pm – 4.00pm  | [Bicara Buku: Kerumunan Terakhir](https://www.eventbrite.sg/e/156447134591){:target="_blank"}. |
+| <img src="/images/Kerumunan Terakhir.jpg" style="width:50%" alt="Kerumunan Terakhir"/> |   30 June    |  8.00pm – 9.30pm  | [Masihkah Ada Harapan? Mempertimbangkan Visi Kemanusiaan Masyarakat Teknologi](https://www.eventbrite.sg/e/156448958045){:target="_blank"}. |
+|                                                              |    2 July    |  8.00pm – 9.30pm  | [Bahasa Vernakular Dalam Era Digital](https://www.eventbrite.sg/e/156450195747){:target="_blank"}. |
 |                                                              |    4 July    |  2.00pm – 4.00pm  | Kerumunan Yang Terasing                                      |
-|                                                              |    6 July    |  6.30pm – 7.30pm  | My Life Through Posts and Tweets                             |
-| Hard at Work: Life In Singapore                              |    1 July    |  8.00pm – 9.00pm  | Deep Human: Practical Superskills for a Future of Success    |
-| <img src="/images/Hard At Work.jpg" style="width:50%" alt="Hard At Work"/> |    8 July    |  8.00pm – 9.00pm  | Redefining Work Culture                                      |
+|                                                              |    6 July    |  6.30pm – 7.30pm  | [My Life Through Posts and Tweets](https://www.eventbrite.sg/e/156940570471){:target="_blank"}. |
+| Hard at Work: Life In Singapore                              |    1 July    |  8.00pm – 9.00pm  | [Deep Human: Practical Superskills for a Future of Success](https://www.eventbrite.sg/e/156133673019){:target="_blank"}. |
+| <img src="/images/Hard At Work.jpg" style="width:50%" alt="Hard At Work"/> |    8 July    |  8.00pm – 9.00pm  | [Redefining Work Culture](https://www.eventbrite.sg/e/redefining-work-culture-read-fest-registration-157904072331){:target="_blank"}. |
 |                                                              |   10 July    |  3.30pm – 4.30pm  | Finding (Re)purpose: Work and Life in a Changing World       |
 |                                                              |   12 July    |  8.30pm – 9.30pm  | Human Library Reinvented                                     |
 |                                                              |   14 July    |  6.30pm – 7.30pm  | Lessons on Observation from Sherlock Holmes                  |
