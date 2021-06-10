@@ -3,7 +3,7 @@ title: "Read for Books"
 permalink: /readfest/readforbooks
 ---
 
-![banner RF](\images\RF_WebsiteHeader.png)
+![banner RF](\images\RF_RFB.jpg)
 
 **Read for Books**
 

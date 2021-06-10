@@ -3,7 +3,7 @@ title: "Big Book Giveaway"
 permalink: /readfest/bigbookgiveaway
 ---
 
-![banner RF](\images\RF_WebsiteHeader.png)
+![banner RF](\images\RF_BBG.jpg)
 
 The **Big Book Giveaway (BBG)** is an annual community event by the National Library Board where pre-loved books can be taken home for free. This year, BBG is travelling out into the community to spread the joy of reading!
 
