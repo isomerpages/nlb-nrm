@@ -3,7 +3,7 @@ title: "12 Titles, 12 Insights"
 permalink: /readfest/12titles
 ---
 
-![banner RF](\images\RF_Inner.png)
+![banner RF](\images\RF_12.jpg)
 
 
 

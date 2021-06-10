@@ -3,7 +3,7 @@ title: "Festival Programmes"
 permalink: /readfest/programmes
 ---
 
-![banner RF](\images\RF_Inner.png)
+![banner RF](\images\RF_Prog.jpg)
 
 **Festival Programmes**
 
