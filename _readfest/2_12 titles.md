@@ -5,7 +5,7 @@ permalink: /readfest/12titles
 
 ![banner RF](\images\RF_Inner.png)
 
-**12 Titles, 12 Insights**
+
 
 Read! Fest is anchored by 12 key books and topics. From myths and minimalism to work and womanhood, click on the books to jumpstart your discovery of the topics!
 
@@ -143,5 +143,5 @@ Keen to explore more? Watch out for additional resources available soon.
 
 
 
-Updated 20 May 2021
+Updated 10 Jun 2021
 

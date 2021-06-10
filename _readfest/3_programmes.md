@@ -7,7 +7,7 @@ permalink: /readfest/programmes
 
 **Festival Programmes**
 
-Read! Fest features talks, workshops and experiences by world-renowned authors and thought leaders from various fields. From myths and minimalism to work and womanhood, take your pick from over 60 programmes and immerse yourself in thoughtful ideas prompted by challenging times. 
+Read! Fest features talks, workshops and experiences by world-renowned authors and thought leaders from various fields. From myths and minimalism to work and womanhood, take your pick from over 60 programmes and immerse yourself in thoughtful ideas for our time.
 
 Most programmes will be conducted online. 
 
@@ -27,8 +27,8 @@ Event link will be provided soon.
 | 人生算法 (Algorithms for Life)                               |   26 June    |  2.00pm – 3.30pm  | 从科幻小说看AI的未来冲击                                     |
 | <img src="/images/Algorithms of Life.jpg" style="width:50%" alt="Algorithms of Life"/> |   28 June    |  6.30pm – 7.30pm  | 从游戏出发，纵览VR 与 AR科技的发展                           |
 |                                                              |   30 June    |  6.30pm – 7.30pm  | 当人工智能走进生活                                           |
-|                                                              |    5 July    |  8.30pm – 9.30pm  | Back to the Future with AI                                   |
 |                                                              |    5 July    |  8.30pm – 9.30pm  | 大数据与大趋势                                               |
+|                                                              |   13 July    |  8.30pm – 9.30pm  | Back to the Future with AI                                   |
 | How To Stay Sane in an Age of Division                       |   25 June    |  8.00pm – 9.30pm  | In Conversation with Elif Shafak                             |
 | <img src="/images/How To Stay Sane.jpg" style="width:50%" alt="How To Stay Sane"/> |    8 July    |  6.30pm – 8.00pm  | Journaling: Write to Wellness                                |
 |                                                              |    9 July    |  8.30pm – 9.30pm  | A Conversation  about Social Media: Does it Unite or Divide Us |
@@ -72,7 +72,7 @@ Event link will be provided soon.
 |                                                              |    21 Aug    |  3.00pm – 6.00pm  | Digital Minimalism \| Book Lovers Club                       |
 | மெய்நிகரி (Meynikari)                                         |   26 June    |  6.00pm – 8.00pm  | கபிலன் வைரமுத்துவின் தலைமை உரை: ... என்றான் கவிஞன்                 |
 | <img src="/images/Meinigari.jpg" style="width:50%" alt="Meinigari"/> |    3 July    |  6.00pm – 8.00pm  | கபிலன் வைரமுத்துவுடன் ஒரு சந்திப்பு                               |
-|                                                              |   10 July    |  4.00pm – 6.00pm  | மெய்நிகரி கவிதை வாசிப்பு                                       |
+|                                                              |   10 July    |  4.00pm – 6.00pm  | மெய்நிகரி:  ஒரு கவிப்பார்வை                                     |
 |                                                              |   11 July    |  4.00pm – 6.00pm  | நீங்களும் ஒரு நடிகர் ஆகலாம் by AKT கிரியேஷன்ஸ், ஆனந்தக் கண்ணன்          |
 |                                                              |   18 July    |  3.00pm – 6.00pm  | பட்டறை: சிறுகதையிலிருந்து திரைக்கதை, வசனம் உருவாக்குதல்            |
 | Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking |   25 June    |  7.00pm – 8.00pm  | Salt, Fat, Acid, Heat in Asian Cooking                       |
@@ -84,5 +84,5 @@ Event link will be provided soon.
 
 
 
-Updated 08 June 2021
+Updated 10 June 2021
 
