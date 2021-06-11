@@ -25,8 +25,8 @@ Most programmes will be conducted online. For most updated information on each p
 |                                                              |   30 June    |  6.30pm – 7.30pm  | [当人工智能走进生活](https://www.eventbrite.sg/e/153934406955){:target="_blank"}. |
 |                                                              |    5 July    |  8.30pm – 9.30pm  | [大数据与大趋势](https://www.eventbrite.sg/e/156490829283){:target="_blank"}. |
 |                                                              |   13 July    |  8.30pm – 9.30pm  | [Back to the Future with AI](https://www.eventbrite.sg/e/157769022393){:target="_blank"}. |
-| How To Stay Sane in an Age of Division                       |   25 June    |  8.00pm – 9.30pm  | [In Conversation with Elif Shafak](https://www.eventbrite.sg/e/157086777781){:target="_blank"}. |
-| <img src="/images/How To Stay Sane.jpg" style="width:50%" alt="How To Stay Sane"/> |    8 July    |  6.30pm – 8.00pm  | [Journaling: Write to Wellness](https://www.eventbrite.sg/e/157088212071){:target="_blank"}. |
+| How To Stay Sane in an Age of Division                       |   25 June    |  8.00pm – 9.00pm  | [In Conversation with Elif Shafak](https://www.eventbrite.sg/e/157086777781){:target="_blank"}. |
+| <img src="/images/How To Stay Sane.jpg" style="width:50%" alt="How To Stay Sane"/> |    8 July    |  6.30pm – 8.00pm  | [Journaling: Writing to Wellness](https://www.eventbrite.sg/e/157088212071){:target="_blank"}. |
 |                                                              |    9 July    |  8.30pm – 9.30pm  | [A Conversation  about Social Media: Does it Unite or Divide Us](https://www.eventbrite.sg/e/157089261209){:target="_blank"}. |
 |                                                              |   18 July    | 11.00am – 12.30pm | [Listening to Complexity](https://www.eventbrite.sg/e/157077259311){:target="_blank"}. |
 |                                                              |   18 July    |  2.00pm – 4.00pm  | [Terjerat Dalam Alam Maya: Mencari Jalan Keluar](https://www.eventbrite.sg/e/156450416407){:target="_blank"}. |
@@ -60,7 +60,7 @@ Most programmes will be conducted online. For most updated information on each p
 |                                                              |    4 July    | 11.00am – 1.00pm  | [Pembinaan dan  Pengukuhan Mitos dalam Industri Budaya Singapura](https://www.eventbrite.sg/e/156448514719){:target="_blank"}. |
 |                                                              |   14 July    |  8.00pm – 9.30pm  | [Mitos-mitos Dalam  Sastera – Ke Mana Kita Dibawa?](https://www.eventbrite.sg/e/156449531761){:target="_blank"}. |
 |                                                              |   23 July    |  7.30pm – 9.30pm  | [Kelab Buku]  Mitos Peribumi Malas                           |
-| Digital Minimalism: Choosing a Focused Life in a Noisy World |   29 June    |  8.30pm – 9.30pm  | [Why We Need Digital Minimalism?](https://www.eventbrite.sg/e/156915828467){:target="_blank"}. |
+| Digital Minimalism: Choosing a Focused Life in a Noisy World |   29 June    |  8.30pm – 9.30pm  | [Why You Need Digital Minimalism?](https://www.eventbrite.sg/e/156915828467){:target="_blank"}. |
 | <img src="/images/Digital Minimalism.jpg" style="width:50%" alt="Digital Minimalism"/> |    3 July    |  2.30pm – 4.30pm  | [The BuJo Workshop](https://www.eventbrite.sg/e/156932985785){:target="_blank"}. |
 |                                                              |    6 July    |  8.30pm – 9.30pm  | [How to be a Digital Minimalist in a Digital Age](https://www.eventbrite.sg/e/157073893243){:target="_blank"}. |
 |                                                              |   10 July    | 10.00am – 11.00am | [Use Social Media like a Pro](https://www.eventbrite.sg/e/156922251679){:target="_blank"}. |
@@ -80,5 +80,5 @@ Most programmes will be conducted online. For most updated information on each p
 
 
 
-Updated 10 June 2021
+Updated 11 June 2021
 
