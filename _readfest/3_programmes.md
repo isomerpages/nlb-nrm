@@ -16,7 +16,7 @@ Most programmes will be conducted online. For most updated information on each p
 | Keep Going: 10 Ways to Stay Creative in Good Times and Bad   |   26 June    |  2.00pm - 4.00pm  | [படைப்பாற்றல் மிக்கத் தொழில் முனைவராவது எப்படி?](https://www.eventbrite.sg/e/157760224077){:target="_blank"}. |
 | <img src="/images/Keep Going.jpg" style="width:50%" alt="Keep Going"/> |   26 June    | 10.00am - 1.00pm  | [Making Sense of Creativity: In-Person Workshop](https://www.eventbrite.sg/e/157067225299){:target="_blank"}. |
 |                                                              |   27 June    |  2.00pm - 4.00pm  | [Making Sense of Creativity: Online Workshop](https://www.eventbrite.sg/e/156944235433){:target="_blank"}. |
-|                                                              |    2 July    |  7.00pm – 8.30pm  | Keep Going: Staying True to the Creative Process             |
+|                                                              |    2 July    |  7.00pm – 8.30pm  | [Keep Going: Staying True to the Creative Process](https://www.eventbrite.sg/e/157068402821){:target="_blank"}. |
 |                                                              |    3 July    | 10.00am – 11.00am | [Staying Creative in Chaotic Times](https://www.eventbrite.sg/e/157341991131){:target="_blank"}. |
 |                                                              |   10 July    | 11.00am – 12.00pm | [How to Read Like  an Artist](https://www.eventbrite.sg/e/157344215785){:target="_blank"}. |
 |                                                              |   14 July    |  8.30pm – 9.30pm  | [Humans Behind Our  Grandfathers' Stories](https://www.eventbrite.sg/e/157772671307){:target="_blank"}. |
