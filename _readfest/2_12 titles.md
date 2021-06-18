@@ -9,7 +9,7 @@ permalink: /readfest/12titles
 
 Read! Fest is anchored by 12 key books and topics. From myths and minimalism to work and womanhood, click on the books to jumpstart your discovery of the topics!
 
-Keen to explore more? Watch out for additional resources available soon.
+Keen to explore more? Explore the additional resources in the links below. 
 
 
 
@@ -24,7 +24,8 @@ Keen to explore more? Watch out for additional resources available soon.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Keep Going: 10 Ways to Stay Creative in Good Times and Bad by Austin Kleon</h4>
     
         <div class="book-description" style="max-width: 15rem; padding: 0px 10px;">
-    Stay creative, focused, and true to yourself in ten simple ways.
+    Stay creative, focused, and true to yourself in ten simple ways.<br>
+    <a href="https://go.gov.sg/resource-keepgoing">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -35,7 +36,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br>
+    <a href="https://go.gov.sg/resource-aiforlife">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -45,7 +47,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">How To Stay Sane in an Age of Division by Elif Shafak</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Reconnect with hope and find conscious optimism in an age of anxiety.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Reconnect with hope and find conscious optimism in an age of anxiety.<br>
+    <a href="https://go.gov.sg/resource-staysane">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -55,7 +58,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Kerumunan Terakhir by Okky Madasari</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Explore what happens when technology takes over our lives in this cautionary tale.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Explore what happens when technology takes over our lives in this cautionary tale.<br>
+    <a href="https://go.gov.sg/resource-kerumunan">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -65,7 +69,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Hard at Work: Life In Singapore by Gerard Sasges and Ng Shi Wen </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Look beyond our nation’s gleaming exterior to explore diverse experiences of life in Singapore.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Look beyond our nation’s gleaming exterior to explore diverse experiences of life in Singapore.<br>
+    <a href="https://go.gov.sg/resource-hardatwork">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -75,7 +80,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">சூல் by சோ.தர்மன்</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br>
+    <a href="https://go.gov.sg/resource-sool">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -86,7 +92,8 @@ Keen to explore more? Watch out for additional resources available soon.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">可是我偏偏不喜欢 by 吴晓乐
     </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.<br>
+    <a href="https://go.gov.sg/resource-notforme">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -95,7 +102,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">The Way Through the Woods: Of Mushrooms and Mourning by Long Litt Woon </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Discover nature’s healing power through a memoir of finding new life in grief.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Discover nature’s healing power through a memoir of finding new life in grief.<br>
+    <a href="https://go.gov.sg/resource-waythroughthewoods">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -105,7 +113,8 @@ Keen to explore more? Watch out for additional resources available soon.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Mitos Peribumi Malas : Imej orang Jawa, Melayu dan Filipina dalam Kapitalisme Penjajah by Syed Hussein Alatas
     </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.<br>
+    <a href="https://go.gov.sg/resource-mitos">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -114,7 +123,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Take control of your digital life with these tips.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Take control of your digital life with these tips.<br>
+    <a href="https://go.gov.sg/resource-digitalminimalism">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -123,7 +133,8 @@ Keen to explore more? Watch out for additional resources available soon.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br>
+    <a href="https://go.gov.sg/resource-meinigari">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -133,7 +144,8 @@ Keen to explore more? Watch out for additional resources available soon.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat
     </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Get confident in the kitchen by mastering the use of four simple elements.</div>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Get confident in the kitchen by mastering the use of four simple elements.<br>
+    <a href="https://go.gov.sg/resource-saltfatacidheat">CLICK TO KNOW MORE</a></div>
     
     </div>
 
@@ -143,5 +155,5 @@ Keen to explore more? Watch out for additional resources available soon.
 
 
 
-Updated 10 Jun 2021
+Updated 18 Jun 2021
 
