@@ -5,11 +5,15 @@ permalink: /readfest/bigbookgiveaway
 
 ![banner RF](\images\RF_BBG.jpg)
 
-The **Big Book Giveaway (BBG)** is an annual community event by the National Library Board where pre-loved books can be taken home for free. This year, BBG is travelling out into the community to spread the joy of reading!
+The **Big Book Giveaway (BBG)** is an annual community event by the National Library Board where pre-loved books can be taken home for free. This year, BBG is travelling out into the community to spread the joy of reading through mini-BBGs in the public libraries! From **15 - 18 July**, look out for a mini-BBG book corner near you* to select some pre-loved books, while stocks last.
 
-Keep checking this page for more information on how you can get involved. 
 
- 
+
+*Mini-BBGs will be hosted in our public libraries except library@orchard, library@esplanade and library@chinatown. When arranging for your visit to the mini-BBG, it is recommended that you check the library crowd levels [HERE](https://nlb.gov.sg/visitors){:target="_blank"}. 
+
+On weekends, be sure to [BOOK](https://go.gov.sg/library-visit-booking) your library visit before heading down. 
+
+
 
 **Our Partners** 
 
