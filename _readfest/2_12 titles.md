@@ -9,7 +9,7 @@ permalink: /readfest/12titles
 
 Read! Fest is anchored by 12 key books and topics. From myths and minimalism to work and womanhood, click on the books to jumpstart your discovery of the topics!
 
-Keen to explore more? Watch out for additional resources available soon.
+Keen to explore more? Explore the additional resources in the links below. 
 
 
 
@@ -24,7 +24,8 @@ Keen to explore more? Watch out for additional resources available soon.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Keep Going: 10 Ways to Stay Creative in Good Times and Bad by Austin Kleon</h4>
     
         <div class="book-description" style="max-width: 15rem; padding: 0px 10px;">
-    Stay creative, focused, and true to yourself in ten simple ways.
+    Stay creative, focused, and true to yourself in ten simple ways.<br>
+    <a href="https://go.gov.sg/resource-keepgoing">FIND OUT MORE</a>
     </div>
     
     </div>
@@ -143,5 +144,5 @@ Keen to explore more? Watch out for additional resources available soon.
 
 
 
-Updated 10 Jun 2021
+Updated 18 Jun 2021
 
