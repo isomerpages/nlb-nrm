@@ -25,7 +25,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <div class="book-description" style="max-width: 15rem; padding: 0px 10px;">
     Stay creative, focused, and true to yourself in ten simple ways.<br>
-    <a href="https://go.gov.sg/resource-keepgoing">ADDITIONAL RESOURCE</a>
+    <a href="https://go.gov.sg/resource-keepgoing">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -37,7 +37,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br>
-    <a href="https://go.gov.sg/resource-aiforlife">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-aiforlife">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -48,7 +48,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">How To Stay Sane in an Age of Division by Elif Shafak</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Reconnect with hope and find conscious optimism in an age of anxiety.<br>
-    <a href="https://go.gov.sg/resource-staysane">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-staysane">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -59,7 +59,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Kerumunan Terakhir by Okky Madasari</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Explore what happens when technology takes over our lives in this cautionary tale.<br>
-    <a href="https://go.gov.sg/resource-kerumunan">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-kerumunan">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -70,7 +70,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Hard at Work: Life In Singapore by Gerard Sasges and Ng Shi Wen </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Look beyond our nation’s gleaming exterior to explore diverse experiences of life in Singapore.<br>
-    <a href="https://go.gov.sg/resource-hardatwork">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-hardatwork">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -81,7 +81,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">சூல் by சோ.தர்மன்</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br>
-    <a href="https://go.gov.sg/resource-sool">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-sool">CLICK TO KNOW MORE</a></div>
     
     </div>
     
@@ -93,7 +93,7 @@ Keen to explore more? Explore the additional resources in the links below.
     </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.<br>
-    <a href="https://go.gov.sg/resource-notforme">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-notforme">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -103,7 +103,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">The Way Through the Woods: Of Mushrooms and Mourning by Long Litt Woon </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Discover nature’s healing power through a memoir of finding new life in grief.<br>
-    <a href="https://go.gov.sg/resource-waythroughthewoods">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-waythroughthewoods">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -114,7 +114,7 @@ Keen to explore more? Explore the additional resources in the links below.
     </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.<br>
-    <a href="https://go.gov.sg/resource-mitos">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-mitos">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -124,7 +124,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Take control of your digital life with these tips.<br>
-    <a href="https://go.gov.sg/resource-digitalminimalism">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-digitalminimalism">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -134,7 +134,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br>
-    <a href="https://go.gov.sg/resource-meinigari">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-meinigari">CLICK TO KNOW MORE</a></div>
     
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
@@ -145,7 +145,7 @@ Keen to explore more? Explore the additional resources in the links below.
     </h4>
     
         <div class="description" style="max-width: 15rem; padding: 0px 10px;">Get confident in the kitchen by mastering the use of four simple elements.<br>
-    <a href="https://go.gov.sg/resource-saltfatacidheat">ADDITIONAL RESOURCE</a></div>
+    <a href="https://go.gov.sg/resource-saltfatacidheat">CLICK TO KNOW MORE</a></div>
     
     </div>
 
