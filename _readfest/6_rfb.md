@@ -35,7 +35,9 @@ NOTE: Please note that all submissions must be completed by **6 August 2021 (Fri
 
 **What is Zoom Read Together?**
 
-Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. Sign up [HERE](https://go.gov.sg/zoomrfb2021){:target="_blank"}.
+Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. 
+
+Sign up [HERE](https://go.gov.sg/zoomrfb2021){:target="_blank"}.
 
 | Date         | Time            | Topic                  |
 | ------------ | --------------- | ---------------------- |
@@ -73,5 +75,5 @@ ItsRainingRaincoats (IRR) is an initiative that aims to improve the lives of mig
 
 
 
-Updated 18 June 2021
+Updated 18 Jun 2021
 
