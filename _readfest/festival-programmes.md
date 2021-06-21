@@ -33,7 +33,7 @@ Most programmes will be conducted online. For most updated information on each p
 | Kerumunan Terakhir (The Last Crowd)                          |   26 June    |  2.00pm – 4.00pm  | [Bicara Buku: Kerumunan Terakhir](https://www.eventbrite.sg/e/156447134591){:target="_blank"}. |
 | <img src="/images/Kerumunan Terakhir.jpg" style="width:50%" alt="Kerumunan Terakhir"/> |   30 June    |  8.00pm – 9.30pm  | [Masihkah Ada Harapan? Mempertimbangkan Visi Kemanusiaan Masyarakat Teknologi](https://www.eventbrite.sg/e/156448958045){:target="_blank"}. |
 |                                                              |    2 July    |  8.00pm – 9.30pm  | [Bahasa Vernakular Dalam Era Digital](https://www.eventbrite.sg/e/156450195747){:target="_blank"}. |
-|                                                              |    4 July    |  2.00pm – 4.00pm  | Kerumunan Yang Terasing                                      |
+|                                                              |    4 July    |  2.00pm – 4.00pm  | [Kerumunan Yang Terasing](https://www.eventbrite.sg/e/kerumunan-yang-terasing-read-fest-registration-156446779529?aff=ebcollection){:target="_blank"}. |
 |                                                              |    6 July    |  6.30pm – 7.30pm  | [My Life Through Posts and Tweets](https://www.eventbrite.sg/e/156940570471){:target="_blank"}. |
 | Hard at Work: Life In Singapore                              |    1 July    |  8.00pm – 9.00pm  | [Deep Human: Practical Superskills for a Future of Success](https://www.eventbrite.sg/e/156133673019){:target="_blank"}. |
 | <img src="/images/Hard At Work.jpg" style="width:50%" alt="Hard At Work"/> |    8 July    |  8.00pm – 9.00pm  | [Redefining Work Culture](https://www.eventbrite.sg/e/redefining-work-culture-read-fest-registration-157904072331){:target="_blank"}. |
@@ -59,7 +59,7 @@ Most programmes will be conducted online. For most updated information on each p
 | <img src="/images/MitosPeribumi-2.jpg" style="width:50%" alt="MitosPeribumi-2"/> |    1 July    |  8.30pm – 9.30pm  | [Reclaiming the Narrative of the Native](https://www.eventbrite.sg/e/157332677273){:target="_blank"}. |
 |                                                              |    4 July    | 11.00am – 1.00pm  | [Pembinaan dan  Pengukuhan Mitos dalam Industri Budaya Singapura](https://www.eventbrite.sg/e/156448514719){:target="_blank"}. |
 |                                                              |   14 July    |  8.00pm – 9.30pm  | [Mitos-mitos Dalam  Sastera – Ke Mana Kita Dibawa?](https://www.eventbrite.sg/e/156449531761){:target="_blank"}. |
-|                                                              |   23 July    |  7.30pm – 9.30pm  | [Kelab Buku]  Mitos Peribumi Malas                           |
+|                                                              |   23 July    |  7.30pm – 9.30pm  | [[Kelab Buku]  Mitos Peribumi Malas](https://www.eventbrite.sg/e/158874482855){:target="_blank"}. |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World |   29 June    |  8.30pm – 9.30pm  | [Why You Need Digital Minimalism?](https://www.eventbrite.sg/e/156915828467){:target="_blank"}. |
 | <img src="/images/Digital Minimalism.jpg" style="width:50%" alt="Digital Minimalism"/> |    3 July    |  2.30pm – 4.30pm  | [The BuJo Workshop](https://www.eventbrite.sg/e/156932985785){:target="_blank"}. |
 |                                                              |    6 July    |  8.30pm – 9.30pm  | [How to be a Digital Minimalist in a Digital Age](https://www.eventbrite.sg/e/157073893243){:target="_blank"}. |
@@ -80,5 +80,4 @@ Most programmes will be conducted online. For most updated information on each p
 
 
 
-Updated 11 June 2021
-
+Updated 18 June 2021
