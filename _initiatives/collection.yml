@@ -1,0 +1,9 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - book-clubs.md
+      - askst-nlb.md
+      - dharma-s-chariot.md
+      - four-conversations.md
+      - masterclass-series.md
