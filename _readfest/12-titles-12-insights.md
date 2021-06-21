@@ -36,7 +36,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br><a href="https://go.gov.sg/aiforlife">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -58,7 +58,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Kerumunan Terakhir by Okky Madasari</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Explore what happens when technology takes over our lives in this cautionary tale.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Explore what happens when technology takes over our lives in this cautionary tale.<br><a href="https://go.gov.sg/resource-kerumunan">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -80,7 +80,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">சூல் by சோ.தர்மன்</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br><a href="https://go.gov.sg/resource-sool">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -92,7 +92,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">可是我偏偏不喜欢 by 吴晓乐
     </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Question perspectives on gender through these personal explorations on womanhood.<br><a href="https://go.gov.sg/resource-notforme">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -113,7 +113,7 @@ Keen to explore more? Explore the additional resources in the links below.
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Mitos Peribumi Malas : Imej orang Jawa, Melayu dan Filipina dalam Kapitalisme Penjajah by Syed Hussein Alatas
     </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Examine the origins of colonial myths about Southeast Asians that persist even till today.<br><a href="https://go.gov.sg/resource-mitos">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -133,7 +133,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br><a href="https://go.gov.sg/resource-meinigari">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -155,4 +155,4 @@ Keen to explore more? Explore the additional resources in the links below.
 
 
 
-Updated 18 Jun 2021
+Updated 21 Jun 2021
