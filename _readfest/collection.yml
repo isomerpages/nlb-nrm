@@ -1,0 +1,10 @@
+collections:
+  readfest:
+    output: true
+    order:
+      - about-read-fest-2021.md
+      - 12-titles-12-insights.md
+      - festival-programmes.md
+      - literary-trails.md
+      - read-for-books.md
+      - big-book-giveaway.md
