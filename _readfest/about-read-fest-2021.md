@@ -38,7 +38,7 @@ Read! Fest 2021 would like to thank the following partners for their support.
 | <img src="/images/RFPartners/Epigram.png" style="width:30%" alt="Epigram_Logo"/> | <img src="/images/RFPartners/Ethos.png" style="width:30%" alt="Ethos"/> |
 | <img src="/images/RFPartners/Kavimaalai_Logo.png" style="width:30%" alt="Kavimaalai_Logo"/> | <img src="/images/RFPartners/Kino.png" style="width:40%" alt="Kino"/> |
 | <img src="/images/RFPartners/Lisha.png" style="width:30%" alt="Lisha"/> |                     Maya Ilakkiya Vattam                     |
-| <img src="/images/RFPartners/MC Logo.jpg" style="width:100%" alt="Marshall_Logo"/> |                                                              |
+| <img src="/images/RFPartners/Marshall Logo.png" style="width:100%" alt="Marshall_Logo"/> |                                                              |
 | <img src="/images/RFPartners/NORLA.png" style="width:40%" alt="Norla"/> | <img src="/images/RFPartners/NParks.png" style="width:30%" alt="NParks"/> |
 | <img src="/images/RFPartners/POPULARLogo-01.jpg" style="width:50%" alt="POPULARLogo-01"/> | <img src="/images/RFPartners/RavaUpma Logo.png" style="width:25%" alt="RavaUpma Logo"/> |
 | <img src="/images/RFPartners/Scholastic.png" style="width:70%" alt="Scholastic"/> | <img src="/images/RFPartners/Singai Tamil Singam LOGO.jpg" style="width:30%" alt="Singai Tamil Singam LOGO"/> |
