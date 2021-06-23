@@ -53,8 +53,8 @@ Maya Ilakkiya Vattam </br></br>
 <img src="/images/RFPartners/Singai Tamil Singam LOGO.jpg" style="width:30%" alt="Singai Tamil Singam LOGO"/> </br>
 <img src="/images/RFPartners/Logo_SBC.jpg" style="width:70%" alt="Logo_SBC"/></br>
 <img src="/images/RFPartners/Tamil Pattimandra Kalai Kazhagam logo.jpg" style="width:100%" alt="Tamil Pattimandra Kalai Kazhagam logo"/></br>
-<img src="/images/RFPartners/Times.jpg" style="width:30%" alt="Times"/></br>
-<img src="/images/RFPartners/Tusi.jpg" style="width:30%" alt="Tusi"/></br>
+<img src="/images/RFPartners/Times Logo.jpg" style="width:30%" alt="Times"/></br>
+<img src="/images/RFPartners/Tusi.png" style="width:30%" alt="Tusi"/></br>
 <img src="/images/RFPartners/Vaasagar Vattam.png" style="width:50%" alt="Vaasagar Vattam"/></br>
 <img src="/images/RFPartners/Young Writers.png" style="width:25%" alt="Young Writers"/></br>
 
