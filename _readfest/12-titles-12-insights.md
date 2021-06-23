@@ -1,8 +1,7 @@
 ---
-title: "12 Titles, 12 Insights"
+title: 12 Titles, 12 Insights
 permalink: /readfest/12titles
 ---
-
 ![banner RF](\images\RF_12.jpg)
 
 
@@ -36,7 +35,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br><a href="https://go.gov.sg/aiforlife">CLICK TO KNOW MORE</a>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br><a href="https://go.gov.sg/resource-aiforlife">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
