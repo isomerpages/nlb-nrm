@@ -1,8 +1,7 @@
 ---
-title: "About Read! Fest 2021"
+title: About Read! Fest 2021
 permalink: /readfest/main
 ---
-
 ![banner RF](\images\RF_WebsiteHeader.png)
 
 **About Read! Fest 2021**
@@ -21,7 +20,7 @@ Where will you find yourself?
 
 
 
-**Festival booklet to be available soon. Watch this space.**
+**Download the festival booklet [HERE ](https://go.gov.sg/readfest21-booklet)**
 
 
 
@@ -48,4 +47,4 @@ Read! Fest 2021 would like to thank the following partners for their support.
 
 
 
-Updated 21 Jun 2021
+Updated 22 Jun 2021
