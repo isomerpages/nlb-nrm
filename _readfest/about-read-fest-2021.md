@@ -42,7 +42,9 @@ Read! Fest 2021 would like to thank the following partners for their support.
 <img src="/images/RFPartners/Kavimaalai_Logo.png" style="width:30%" alt="Kavimaalai_Logo"/>
 <img src="/images/RFPartners/Kino.png" style="width:60%" alt="Kino"/>
 <img src="/images/RFPartners/Lisha.png" style="width:30%" alt="Lisha"/>
+
 Maya Ilakkiya Vattam 
+
 <img src="/images/RFPartners/Marshall Logo.png" style="width:70%" alt="Marshall_Logo"/>
 <img src="/images/RFPartners/NORLA.png" style="width:40%" alt="Norla"/>
 <img src="/images/RFPartners/NParks.png" style="width:30%" alt="NParks"/>
