@@ -37,8 +37,8 @@ Read! Fest 2021 would like to thank the following partners for their support.
  <img src="/images/RFPartners/Blacspice_logo.jpg" style="width:60%" alt="Blacspice_logo"/>
  <img src="/images/RFPartners/DBS High Res Logo.jpg" style="width:70%" alt="DBS High Res Logo"/>
 <img src="/images/RFPartners/Epigram.png" style="width:30%" alt="Epigram_Logo"/>
-<img src="/images/RFPartners/Ethos.png" style="width:30%" alt="Ethos"/> </br>
-<img src="/images/RFPartners/GoGuru.jpg" style="width:30%" alt="GoGuru"/> </br>
+<img src="/images/RFPartners/Ethos.png" style="width:30%" alt="Ethos"/> 
+<img src="/images/RFPartners/GoGuru.jpg" style="width:30%" alt="GoGuru"/>
 <img src="/images/RFPartners/Kavimaalai_Logo.png" style="width:30%" alt="Kavimaalai_Logo"/>
 <img src="/images/RFPartners/Kino.png" style="width:60%" alt="Kino"/>
 <img src="/images/RFPartners/Lisha.png" style="width:30%" alt="Lisha"/>
