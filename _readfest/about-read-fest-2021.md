@@ -33,6 +33,7 @@ Read! Fest 2021 would like to thank the following partners for their support.
 
 
 <img src="/images/RFPartners/AKT Creations2.png" style="width:20%" alt="AKT Creations"/>
+<img src="/images/RFPartners/Asiapac.jpg" style="width:30%" alt="Asiapac"/>
 <img src="/images/RFPartners/Association of Singapore Tamil Writers logo.jpg" style="width:40%" alt="Association of Singapore Tamil Writers logo"/> 
  <img src="/images/RFPartners/Blacspice_logo.jpg" style="width:60%" alt="Blacspice_logo"/>
  <img src="/images/RFPartners/DBS High Res Logo.jpg" style="width:70%" alt="DBS High Res Logo"/>
@@ -54,6 +55,7 @@ Maya Ilakkiya Vattam
 <img src="/images/RFPartners/Singai Tamil Singam LOGO.jpg" style="width:30%" alt="Singai Tamil Singam LOGO"/>
 <img src="/images/RFPartners/Logo_SBC.jpg" style="width:70%" alt="Logo_SBC"/>
 <img src="/images/RFPartners/Tamil Pattimandra Kalai Kazhagam logo.jpg" style="width:100%" alt="Tamil Pattimandra Kalai Kazhagam logo"/>
+<img src="/images/RFPartners/TAH.png" style="width:30%" alt="The Arts House"/>
 <img src="/images/RFPartners/Times Logo.jpg" style="width:40%" alt="Times"/>
 <img src="/images/RFPartners/Tusi.png" style="width:30%" alt="Tusi"/>
 <img src="/images/RFPartners/Vaasagar Vattam.png" style="width:50%" alt="Vaasagar Vattam"/><
@@ -61,4 +63,4 @@ Maya Ilakkiya Vattam
 
 
 
-Updated 22 Jun 2021
+Updated 29 Jun 2021
