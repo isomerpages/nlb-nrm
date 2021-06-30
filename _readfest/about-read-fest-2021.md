@@ -26,7 +26,7 @@ Where will you find yourself?
 
 Look out for special discount codes given by our esteemed partners during relevant Read! Fest [programmes](https://www.nationalreadingmovement.sg/readfest/programmes) to purchase the featured titles! 
 
-Also watch out for special Read! Fest promotions by Kinokuniya, Popular Bookstore, Times and GoGuru.com. 
+Also watch out for special Read! Fest promotions by Kinokuniya, Popular Bookstore, Times and GoGuru.com.sg.
 
 
 Read! Fest 2021 would like to thank the following partners for their support.
@@ -53,6 +53,7 @@ Maya Ilakkiya Vattam
 <img src="/images/RFPartners/RavaUpma Logo.png" style="width:25%" alt="RavaUpma Logo"/>
 <img src="/images/RFPartners/Scholastic.png" style="width:70%" alt="Scholastic"/>
 <img src="/images/RFPartners/Singai Tamil Singam LOGO.jpg" style="width:30%" alt="Singai Tamil Singam LOGO"/>
+<img src="/images/RFPartners/Singlit_Station.png" style="width:30%" alt="SingLit Station"/>
 <img src="/images/RFPartners/Logo_SBC.jpg" style="width:70%" alt="Logo_SBC"/>
 <img src="/images/RFPartners/Tamil Pattimandra Kalai Kazhagam logo.jpg" style="width:100%" alt="Tamil Pattimandra Kalai Kazhagam logo"/>
 <img src="/images/RFPartners/TAH.png" style="width:30%" alt="The Arts House"/>
@@ -63,4 +64,4 @@ Maya Ilakkiya Vattam
 
 
 
-Updated 29 Jun 2021
+Updated 30 Jun 2021
