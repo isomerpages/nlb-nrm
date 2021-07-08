@@ -1,8 +1,7 @@
 ---
-title: "Festival Programmes"
+title: Festival Programmes
 permalink: /readfest/programmes
 ---
-
 ![banner RF](\images\RF_Prog.jpg)
 
 **Festival Programmes**
@@ -66,7 +65,7 @@ Most programmes will be conducted online. For most updated information on each p
 |                                                              |   10 July    | 10.00am – 11.00am | [Use Social Media like a Pro](https://www.eventbrite.sg/e/156922251679){:target="_blank"}. |
 |                                                              |   17 July    | 9.00am – 12.00pm  | [No Talking: Silent Retreat in Progress](https://www.eventbrite.sg/e/156942424015){:target="_blank"}. |
 |                                                              |    21 Aug    |  3.00pm – 6.00pm  | Digital Minimalism \| Book Lovers Club                       |
-| மெய்நிகரி (Meynikari)                                         |   26 June    |  6.00pm – 8.00pm  | [கபிலன் வைரமுத்துவின் தலைமை உரை: ... என்றான் கவிஞன்](https://www.eventbrite.sg/e/157779202843){:target="_blank"}. |
+| மெய்நிகரி (Meinigari)                                         |   26 June    |  6.00pm – 8.00pm  | [கபிலன் வைரமுத்துவின் தலைமை உரை: ... என்றான் கவிஞன்](https://www.eventbrite.sg/e/157779202843){:target="_blank"}. |
 | <img src="/images/Meinigari.jpg" style="width:50%" alt="Meinigari"/> |    3 July    |  6.00pm – 8.00pm  | [கபிலன் வைரமுத்துவுடன் ஒரு சந்திப்பு](https://www.eventbrite.sg/e/157790819589){:target="_blank"}. |
 |                                                              |   10 July    |  4.00pm – 6.00pm  | [மெய்நிகரி:  ஒரு கவிப்பார்வை ](https://www.eventbrite.sg/e/157792867715){:target="_blank"}. |
 |                                                              |   11 July    |  4.00pm – 6.00pm  | [நீங்களும் ஒரு நடிகர் ஆகலாம் by AKT கிரியேஷன்ஸ், ஆனந்தக் கண்ணன்](https://www.eventbrite.sg/e/157923199541){:target="_blank"}. |
@@ -80,4 +79,4 @@ Most programmes will be conducted online. For most updated information on each p
 
 
 
-Updated 18 June 2021
+Updated 08 July 2021
