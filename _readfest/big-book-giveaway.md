@@ -1,8 +1,7 @@
 ---
-title: "Big Book Giveaway"
+title: Big Book Giveaway
 permalink: /readfest/bigbookgiveaway
 ---
-
 ![banner RF](\images\RF_BBG.jpg)
 
 The **Big Book Giveaway (BBG)** is an annual community event by the National Library Board where pre-loved books can be taken home for free. This year, BBG is travelling out into the community to spread the joy of reading through mini-BBGs in the public libraries! From **15 - 18 July**, look out for a mini-BBG book corner near you* to select some pre-loved books, while stocks last.
@@ -36,7 +35,7 @@ Click on each partner to find out more about their cause and how you can help.
 	<div class="acc-kontainer">
 		<div>
 			<input type="radio" name="acc" id="acc2">
-			<label for="acc2"><i></i>KidsSTART</label>
+			<label for="acc2"><i></i>KidSTART</label>
 			<div class="acc-body">
 					<b>E-mail: kidstart@ecda.gov.sg</b><br/>
           <b>Website: www.kidstart.sg</b><br/>KidSTART is a programme that journeys with low-income families with young children till the age of 6 years old. The aim of the programme is to empower parents to give their children a good start in life. A child’s early years set the foundation in giving them a good future! Start young to nurture a love for lifelong learning in children. Books help stimulate creativity and imagination in children and nurturing good reading habits definitely help broaden a child’s wealth of knowledge. </div>
@@ -99,4 +98,4 @@ Click on each partner to find out more about their cause and how you can help.
 
 
 
-Updated 18 Jun 2021
+Updated 13 Jul 2021
