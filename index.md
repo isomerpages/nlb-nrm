@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/Trail%20Banner%20-%20NRM.jpg
+      background: /images/Trail%20Banner%20-%20NRM%20Updated.png
       url: /readfest/main
       key_highlights:
         - title: About Us
