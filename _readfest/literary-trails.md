@@ -2,7 +2,7 @@
 title: Literary Trails
 permalink: /readfest/littrails
 ---
-![banner RF](\images\RF_Lit.jpg)
+![banner RF](\images\RF Trail Banner.jpg)
 
 
 
