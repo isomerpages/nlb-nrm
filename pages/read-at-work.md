@@ -8,7 +8,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 * Monthly Read@Work EDMs to get staff in the mood for reading.
 * Free Lunch and Learn programmes, including bite-sized talks by professional trainers and librarians’ sharing on intriguing topics like graphic novels or poetry.
-* Sharing by librarians about eResources such as Digital Business Library, Press Display, Lynda.com and Overdrive.
+* Sharing by librarians about eResources such as Digital Business Library, PressReader, LinkedIn Learning for Library and Overdrive.
 * Supplementary reading recommendations for Leaders as Reading Advocates, where we encourage our partners’ leaders and avid readers to share their favourite reads with colleagues.
 * Services of a dedicated librarian to tailor programmes that fit your organisations' needs.
 * Include our support at events e.g. learning festivals and membership drives.
@@ -42,12 +42,12 @@ Past EDMs:
 
 
 
-[Terms & Conditions of Read@Work EDM Quiz](/edms/Read@Work eNewsletter Quiz_Terms and Conditions.pdf){:target="_blank"}
+[Terms and Conditions of Read@Work EDM Quiz](/edms/Read@Work eNewsletter Quiz_Terms and Conditions.pdf){:target="_blank"}
 
 
 
-Enquire through <read@nlb.gov.sg> with "Read@Work" in the subject.
+Enquire through read@nlb.gov.sg  with "Read@Work" in the subject.
 
 
 
-Updated 11 Aug 2021
+Updated 23 Aug 2021
