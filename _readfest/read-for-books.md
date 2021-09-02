@@ -1,11 +1,12 @@
 ---
-title: "Read for Books"
+title: Read for Books
 permalink: /readfest/readforbooks
 ---
-
 ![banner RF](\images\RF_RFB.jpg)
 
 **Read for Books**
+
+*Thank you to all our participants for their contribution to Read for Books 2021. We have managed to hit our target of 1160 books to be donated to our two benefiaciaries. We hope  all our participants will continue to share the love of reading with others and look forward to their participation in future Read for Books. *
 
 Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 10 to 26 July 2021, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. 
 
@@ -40,39 +41,4 @@ Can’t decide what to read? Join your friendly neighbourhood librarian in a hal
 Sign up [HERE](https://go.gov.sg/zoomrfb2021){:target="_blank"}.
 
 | Date         | Time            | Topic                  |
-| ------------ | --------------- | ---------------------- |
-| 10 July 2021 | 3.00pm - 3.30pm | Feel Good  Horror      |
-| 12 July 2021 | 6.30pm – 7.00pm | Poetry                 |
-| 13 July 2021 | 6.30pm - 7.00pm | Japanese  Fiction      |
-| 14 July 2021 | 6.30pm - 7.00pm | Funny Novels           |
-| 15 July 2021 | 6.30pm - 7.00pm | Mythologies            |
-| 16 July 2021 | 6.30pm - 7.00pm | Twisted Picture  Books |
-| 17 July 2021 | 3.00pm - 3.30pm | Graphic Novels         |
-| 19 July 2021 | 6.30pm – 7.00pm | Historical  Fiction    |
-| 21 July 2021 | 6.30pm – 7.00pm | Self-Management  Books |
-| 22 July 2021 | 6.30pm – 7.00pm | Absurdity in  Fiction  |
-| 23 July 2021 | 6.30pm – 7.00pm | Non-Fiction  Books     |
-| 24 July 2021 | 3.00pm - 3.30pm | Young Adults  Books    |
-| 26 July 2021 | 6.30pm – 7.00pm | Short Stories          |
-
-
-
-**Want to conduct your own Read for Books session?**
-
-Feel free to download and use our Read for Books slides [HERE](https://go.gov.sg/rfb2021-slides){:target="_blank"}. You can use them for your school, organisation or even for your own book club.
-
-
-
-*About the Beneficiaries*
-
-**WondeRead**
-
-The WondeRead initiative brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children. 
-
-**ItsRainingRaincoats**
-
-ItsRainingRaincoats (IRR) is an initiative that aims to improve the lives of migrant workers in Singapore, by building bridges to strengthen their integration into our community, city and country.
-
-
-
-Updated 18 Jun 2021
+|
