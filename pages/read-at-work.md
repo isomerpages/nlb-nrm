@@ -15,7 +15,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Rethink_Communications](/files/ReadWork_Rethink_Communications.pdf)
+Latest EDM: [Read@Work_Rethink_Communication](/files/ReadWork_Rethink_Communication.pdf)
 
 Past EDMs:
 
