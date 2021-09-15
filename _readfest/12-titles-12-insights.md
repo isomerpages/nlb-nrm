@@ -1,8 +1,7 @@
 ---
-title: "12 Titles, 12 Insights"
+title: 12 Titles, 12 Insights
 permalink: /readfest/12titles
 ---
-
 ![banner RF](\images\RF_12.jpg)
 
 
@@ -36,7 +35,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br><a href="https://go.gov.sg/aiforlife">CLICK TO KNOW MORE</a>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Meet our fast approaching AI-led future through stories where the lines between man and machine become increasingly blurred.<br><a href="https://go.gov.sg/resource-aiforlife">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -80,7 +79,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">சூல் by சோ.தர்மன்</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Unearth how ancestral knowledge holds the answers to our most pressing environmental problems.<br><a href="https://go.gov.sg/resource-sool">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -133,7 +132,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     
-        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br>
+        <div class="description" style="max-width: 15rem; padding: 0px 10px;">Tune in to the world of reality television through this cinematic story.<br><a href="https://go.gov.sg/resource-meinigari">CLICK TO KNOW MORE</a>
     </div>
     
     </div>
@@ -155,4 +154,4 @@ Keen to explore more? Explore the additional resources in the links below.
 
 
 
-Updated 21 Jun 2021
+Updated 25 Jun 2021
