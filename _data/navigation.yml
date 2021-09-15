@@ -1,19 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/nrm-logo.jpg
-
 links:
   - title: Initiatives
     url: /initiatives/book-clubs/
     sublinks:
       - title: Masterclass Series
         url: /initiatives/masterclass/
-      - title: Four Conversations
-        url: /initiatives/four-conversations/
       - title: One Story
         url: /initiatives/one-story/
       - title: Book Clubs
@@ -46,7 +37,7 @@ links:
   - title: About Us
     url: /about-us/about-national-reading-movement/
     sublinks:
-      - title: "About National Reading Movement"
+      - title: About National Reading Movement
         url: /about-us/about-national-reading-movement/
       - title: Visit Us
         url: https://www.nlb.gov.sg/VisitUs.aspx
