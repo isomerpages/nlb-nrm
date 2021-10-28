@@ -2,7 +2,7 @@
 title: "One Story: Razi"
 permalink: /initiatives/one-story/
 ---
-![banner Razi](\images\OS21 Website Banner.jpg)
+![Alt text for image on Isomer site](/images/one-story-razi/OS21%20Website%20Banner.jpg)
 
 **About the One Story project**
 
