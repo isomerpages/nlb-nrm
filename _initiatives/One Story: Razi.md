@@ -2,81 +2,37 @@
 title: "One Story: Razi"
 permalink: /initiatives/one-story/
 ---
-
-
-![banner Dharma](\images\One Story Feature Banner.jpg)
+![banner Razi](\images\OS Website Banner.jpg)
 
 **About the One Story project**
 
-One Story is a multi-year project by the National Library Board (NLB) that makes local short stories - originally written in Tamil, Malay, Chinese, or English - available in other languages. The project aims to create a common literary conversation for everyone, regardless of language.
+One Story is a National Reading Movement initiative by the National Library Board to make Singapore short stories – originally written in Tamil, Malay, Chinese, or English – available in the other languages. The project aims to bring these stories to more readers beyond the language communities that they were originally written for. “Razi” is a short story by Dr Sa’eda Buang that was originally written in Malay. This book features the story in all four languages.
 
-**Dharma's Chariot**
+**Razi**
 
-<img src="/images/Dharma_book_cover.jpg" style="width:30%" alt="Dharmas Chariot"/>
+<img src="/images/Razi_BookCover.jpg" style="width:30%" alt="Dharmas Chariot"/>
 
-[Borrow here](https://nlb.overdrive.com/media/5328742){:target="_blank"}
-
-
-
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/lUnB3eiwyu4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+Watch this space for link to book.
 
 
 
-**About the Story**
+**Story Synopsis**
 
-Written by award-winning writer Sithuraj Ponraj, Dharma's Chariot is about Palaniappan, a cloth merchant, who sells a shipment of defective cloth to his old friend Jamal in order to pay the rent for his shop in Arab street. Jamal had helped him set up his business, and this act of cheating causes Palaniappan to feel guilty.
+Every day is a painful struggle for Nani, the mother of Razi, a boy with special needs. As Nani finds herself increasingly frustrated by society’s lack of understanding and empathy for Razi’s condition, she is by turns swayed and pressured by her sister’s incessant cajoling to seek help from a traditional Malay healer. Nani keeps the treatment a secret from her husband – out of fear and perhaps guilt. Razi is slowly tamed into obedience. The healer sees it as progress, but is submission into silent acquiescence a cure at all?
+
+“Razi” will make you ponder over the great lengths people would go to and the sacrifices they make for their loved ones.  Readers will be tempted to weigh in on the dilemmas that Nani has to grapple with and tread along the emotional rollercoaster of her struggle and guilt. Will we condemn her choices? Or empathise with her challenges? 
+
 
 **About the Author**
 
-<img src="/images/Sithuraj.png" style="width:30%" alt="Sithuraj Ponraj"/>
+<img src="/images/Saeda.png" style="width:30%" alt="Saeda Buang"/>
 
-Sithuraj Ponraj began writing fiction and poetry at 18 years old and his works have since been published in several leading periodicals in India, Malaysia, and Singapore. In 2020, he won the Singapore Literature Prize for Poetry in Tamil for *It is Easy to be an Italian* and Fiction in Tamil (Co-merit) for *The Wooden Elephant*. In 2016, he won the Singapore Literature Prize for Tamil Fiction for his debut short story collection, *Maariligal* (The Unchangeables), as well as the Singapore Literature Merit Prize for Tamil poety for his debut poety collection, *Kaatrai Kadanthaai* (You Passed Like the Wind).
+Dr Sa’eda Buang is a Senior Lecturer in the Asian Languages and Cultures academic group, National Institute of Education (NIE) at the Nanyang Technological University (NTU), Singapore. Her research interests are in the areas of comparative literature, cultural studies, curriculum development and reformation, critical literacy, Muslim education, alternative assessments, and Jawi manuscripts. 
 
+Dr Sa’eda writes poetry, short stories, and academic papers on literature. She won the much-coveted Literary Prize (poetry) for “Pustakaku Dalam Remang Senja” (My Reading Room in the Twilight) awarded by the Singapore Malay Language Council in 2003; the Literary Prize (short story) for “Ke Puncak Pun Tidak” (To Summit No More); and the Literary Prize (commendation, poetry) for “Malang, Senda dan Citra” (Misfortune, Hope and Comedy), both in 2005. Her award-winning poem, “Pustakaku Dalam Remang Senja” was translated into Mandarin and was featured in Singapore’s Chinese daily Lianhe Zaobao in 2003. 
 
-
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/28KCa9rWZxg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/2Sdzqb3P7x8" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-<hr/>
-
-<div class="row is-multiline">
-
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-resources/" class="project-link">
-	
-			<img src="/dharma/onestory_resources.jpg" alt="One Story Resources" class="project-image">
-	
-		</a>
-	
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-photos/" class="project-link">
-	
-			<img src="/dharma/onestory_photo.jpg" alt="One Story Photos" class="project-image">
-	
-		</a>
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-	
-		<a href="/initiatives/one-story-events/" class="project-link">
-	
-			<img src="/dharma/onestory_events.jpg" alt="One Story Resources" class="project-image">
-	
-		</a>
-	
-	</div>
-	</div>
+Apart from conducting workshops on creative writing at schools and for the public, she currently serves as Singapore’s representative in the Southeast Asian Literature Council (MASTERA) as well as an advisor and consultant in the international and local Malay literary industry. In addition to being a member of several editorial advisory boards in Indonesia and Malaysia, Dr Sa’eda was also the guest editor for the Asia-Pacific Journal of Education’s special issue on Muslim Education − Challenges, Opportunities and Beyond (2007) and Associate Editor of the Asia-Pacific Journal of Education (Routledge), NIE-NTU (2014-2016). She also reviews numerous international journals.
 
 
 
-Updated 26 Feb 2021
-
+Updated 28 Oct 2021
