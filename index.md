@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/one-story-razi/OS21%20Website%20Banner.jpg
+      background: /images/one-story-razi/hero%20banner%20razi.jpg
       url: /readfest/main
       key_highlights:
         - title: About Us
