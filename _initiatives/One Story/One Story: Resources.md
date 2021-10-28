@@ -11,14 +11,17 @@ If the initiative interests you, here are resource packages that will help you d
    <img src="/images/one-story-razi/OS21%20Cover_English.jpg" style="width:40%" alt="Razi"/>
 </a>
 
+<a href="/files/One%20Story%20Resource%20Package_CL_27Oct.pdf" target="_blank">
+   <img src="/images/one-story-razi/OS21%20Cover_Chinese.jpg" style="width:40%" alt="Razi"/>
+</a>
 
-<img src="/images/one-story-razi/OS21%20Cover_Chinese.jpg" style="width:40%" alt="Razi"/>
-[Resources in Mandarin](/files/One%20Story%20Resource%20Package_ML_26Oct.pdf)
+<a href="/files/One%20Story%20Resource%20Package_ML_26Oct.pdf" target="_blank">
+   <img src="/images/one-story-razi/OS21%20Cover_Malay.jpg" style="width:40%" alt="Razi"/>
+</a>
 
-<img src="/images/one-story-razi/OS21%20Cover_Malay.jpg" style="width:40%" alt="Razi"/>
-[Resources in Malay](/files/One%20Story%20Resource%20Package_ML_26Oct.pdf)
+<a href="/files/One%20Story%20Resource%20Package_TL_26Oct.pdf" target="_blank">
+   <img src="/images/one-story-razi/OS21%20Cover_Tamil.jpg" style="width:40%" alt="Razi"/>
+</a>
 
-<img src="/images/one-story-razi/OS21%20Cover_Tamil.jpg" style="width:40%" alt="Razi"/>
-[Resources in Tamil](/files/One%20Story%20Resource%20Package_TL_26Oct.pdf)
 
 Updated 28 Oct 2021
