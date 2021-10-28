@@ -2,7 +2,7 @@
 title: "One Story: Razi"
 permalink: /initiatives/one-story/
 ---
-![banner Razi](\images\OS Website Banner.jpg)
+![banner Razi](\images\OS21 Website Banner.jpg)
 
 **About the One Story project**
 
