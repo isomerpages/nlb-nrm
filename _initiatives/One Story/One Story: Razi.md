@@ -35,5 +35,4 @@ Dr Sa’eda writes poetry, short stories, and academic papers on literature. She
 Apart from conducting workshops on creative writing at schools and for the public, she currently serves as Singapore’s representative in the Southeast Asian Literature Council (MASTERA) as well as an advisor and consultant in the international and local Malay literary industry. In addition to being a member of several editorial advisory boards in Indonesia and Malaysia, Dr Sa’eda was also the guest editor for the Asia-Pacific Journal of Education’s special issue on Muslim Education − Challenges, Opportunities and Beyond (2007) and Associate Editor of the Asia-Pacific Journal of Education (Routledge), NIE-NTU (2014-2016). She also reviews numerous international journals.
 
 
-
 Updated 28 Oct 2021
