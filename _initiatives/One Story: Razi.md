@@ -25,7 +25,7 @@ Every day is a painful struggle for Nani, the mother of Razi, a boy with special
 
 **About the Author**
 
-<img src="/images/Saeda Buang.jpg" style="width:30%" alt="Saeda Buang"/>
+<img src="/images/one-story-razi/Saeda Buang.jpg" style="width:30%" alt="Saeda Buang"/>
 
 Dr Sa’eda Buang is a Senior Lecturer in the Asian Languages and Cultures academic group, National Institute of Education (NIE) at the Nanyang Technological University (NTU), Singapore. Her research interests are in the areas of comparative literature, cultural studies, curriculum development and reformation, critical literacy, Muslim education, alternative assessments, and Jawi manuscripts. 
 
