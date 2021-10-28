@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - "Razi: Recommended Reads.md"
       - book-clubs.md
       - askst-nlb.md
       - "One Story: Razi.md"
