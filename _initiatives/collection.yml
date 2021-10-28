@@ -2,9 +2,9 @@ collections:
   initiatives:
     output: true
     order:
-      - "One Story/One Story: Resources.md"
-      - "One Story/One Story: Razi.md"
       - One Story/.keep
+      - "One Story/One Story: Razi.md"
+      - "One Story/One Story: Resources.md"
       - book-clubs.md
       - askst-nlb.md
       - masterclass-series.md
