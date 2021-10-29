@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/Trail%20Banner%20-%20NRM%20Updated.png
+      background: /images/one-story-razi/hero%20banner%20razi.jpg
       url: /readfest/main
       key_highlights:
         - title: About Us
