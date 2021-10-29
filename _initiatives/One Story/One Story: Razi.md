@@ -11,7 +11,7 @@ One Story is a National Reading Movement initiative by the National Library Boar
 
 **Razi**
 
-<img src="/images/OS BookCover.jpg" style="width:30%" alt="Razi"/>
+<img src="/images/OS BookCover1.jpg" style="width:30%" alt="Razi"/>
 
 Watch this space for link to book.
 
