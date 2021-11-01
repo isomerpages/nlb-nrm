@@ -1,6 +1,7 @@
 ---
 title: "One Story: Dharma's Chariot - Events"
 permalink: /initiatives/one-story-events/
+third_nav_title: One Story
 ---
 
 ![banner Dharma](\images\One Story Feature Banner.jpg)
