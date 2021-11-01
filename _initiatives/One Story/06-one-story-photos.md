@@ -1,6 +1,7 @@
 ---
 title: "One Story: Dharma's Chariot - Photos"
 permalink: /initiatives/one-story-photos/
+third_nav_title: One Story
 ---
 
 ![banner Dharma](\images\One Story Feature Banner.jpg)
