@@ -31,7 +31,7 @@ Call No.  English 618.9285882 SUN
 		<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/images/one-story-razi/Pengurusan.png" style="width:50%" alt="Pengurusan" />
 			<div>
-				<b>Pengurusan tingkah laku kanak-kanak autisme: panduan untuk golongan profesional dan ibu bapa</b><br><br>Normah Che Din, Noh Amit<br>[Kuala Lumpur: Dewan Bahasa dan Pustaka (2019)<br>ISBN  9789834921118 (hardcopy)<br>
+				<b>Pengurusan tingkah laku kanak-kanak autisme: panduan untuk golongan profesional dan ibu bapa</b><br><br>Normah Che Din, Noh Amit<br>Kuala Lumpur: Dewan Bahasa dan Pustaka (2019)<br>ISBN  9789834921118 (hardcopy)<br>
 Call No.  Malay 618.9285882 NOR -[HEA]
 <br>
 			</div>
@@ -47,30 +47,34 @@ Call No.  Malay 618.9285882 NOR -[HEA]
 		</div>	
       <div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/MySon.png" style="width:50%" alt="To Kill a Mockingbird" />
+			<img src="/images/one-story-razi/MySon.png" style="width:50%" alt="My Son" />
 			<div>
-				<b>To Kill a Mocking Bird</b><br>for Chicago Public Library 2001<br>Harper Lee<br>[New York] : Caedmon, 2014<br>Translated into over 40 languages, a young girl’s father who is a lawyer risks everything to defend a black man unjustly accused of a crime.<br><a href="https://nlb.overdrive.com/media/DFD5E83A-42D9-4151-AC37-C4E43D87CFD9" target="_blank">Borrow now</a>
-       </div>
+				<b>我和儿子的每一步 : 关于教养自闭症孩子常见的50个问题 </b><br><br>陈锦鸿 <br>香港 : 世界出版社 (2016)<br>ISBN  9789888289141 (hardcopy)<br>
+Call No.  618.9285882 CJH-[HEA] / Chinese
+<br>
+      </div>
         </div>
 					<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/ThisWorld.png" style="width:50%" alt="The Country Girls Trilogy" />
+			<img src="/images/one-story-razi/ThisWorld.png" style="width:50%" alt="This World" />
 			<div>
-				<b>The Country Girls Trilogy</b><br>for Dublin City Council 2019
-<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://nlb.overdrive.com/media/4238870">Borrow now</a>
+				<b>这世界唯一的你 : 自闭症人士独特行为背后的真相</b><br>
+<br>巴瑞·普瑞桑 ; 汤姆·菲尔兹-迈耶著 ; 陈丹, 黄艳, 杨广学译.<br>北京市 : 机械工业出版社 (2016)<br>ISBN  9789888289141 (hardcopy)<br>
+Call No.  618.9285882 PRI-[HEA] / Chinese
+<br>
 			</div>
 		</div>	
 				    <div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/Autism Understanding.png" style="width:50%" alt="To Kill a Mockingbird" />
+			<img src="/images/one-story-razi/Autism Understanding.png" style="width:50%" alt="Autism Understanding" />
 			<div>
-				<b>To Kill a Mocking Bird</b><br>for Chicago Public Library 2001<br>Harper Lee<br>[New York] : Caedmon, 2014<br>Translated into over 40 languages, a young girl’s father who is a lawyer risks everything to defend a black man unjustly accused of a crime.<br><a href="https://nlb.overdrive.com/media/DFD5E83A-42D9-4151-AC37-C4E43D87CFD9" target="_blank">Borrow now</a>
+				<b>ஆட்டிசம்: சில புரிதல்கள்</b><br><br>யெஸ். பாலபாரதி <br>சென்னை : Books for Children, (2013)<br>Call No.  Tamil 618.9285882 BAL - [HEA] <br>
        </div>
         </div>
 					<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/Mental Developmental.png" style="width:50%" alt="The Country Girls Trilogy" />
+			<img src="/images/one-story-razi/Mental Developmental.png" style="width:50%" alt="Mental Developmental" />
 			<div>
-				<b>The Country Girls Trilogy</b><br>for Dublin City Council 2019
-<br>Edna O’Brien<br>[London] : Faber and Faber, 2017<br>The story follows the lives of the characters from convent school IN the countryside all the way to the challenges of married life.<br><a href="https://nlb.overdrive.com/media/4238870">Borrow now</a>
+				<b>மன வளர்ச்சிக் குறைபாடுகள் : ஆட்டிசம், அறிவுத்திறன் குறைபாடு, கற்றல் குறைபாடு ஓர் அறிமுகம் </b><br>
+<br>எம்.எஸ். தம்பிராஜா <br>நாகர்கோவில் : காலச்சுவடு பதிப்பகம் (2018) <br>Call No  Tamil 616.85882 THA - [HEA]<br>
 			</div>
 		</div>
 			</div>
