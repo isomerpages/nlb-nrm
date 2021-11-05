@@ -6,6 +6,10 @@ description: ""
 ---
 ![banner Razi](/images/one-story-razi/OS21%20Website%20Banner.jpg)
 
+One Story features talks, workshops and experiences by authors and trained professionals from various fields. Take your pick from the programmes and immerse yourself in conversations on inclusivity towards caregivers and people on the spectrum.
+
+For programme details, visit the respective event link. 
+
 
 **Calendar**
 
