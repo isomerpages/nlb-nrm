@@ -3,15 +3,7 @@ title: "One Story: Dharma's Chariot - Events"
 permalink: /initiatives/one-story-events/
 third_nav_title: One Story
 ---
-
-![banner Dharma](\images\One Story Feature Banner.jpg)
-
-
-
-Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_blank"} or the links below to register for the One Story: Dharma's Chariot events.
-
-<img src="/dharma/QRcode.gif" style="width:30%" alt="Dharmas Chariot Events"/>
-
+![banner Razi](/images/one-story-razi/OS21%20Website%20Banner.jpg)
 
 
 **Calendar**
@@ -37,8 +29,3 @@ Scan the QR code or click [HERE](https://go.gov.sg/onestoryevents){:target="_bla
 
 
 Updated 09 Sep 2020
-
-
-
-
-
