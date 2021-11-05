@@ -12,15 +12,19 @@ description: ""
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/ADHD.jpg" style="width:50%" alt="Gods of Jade and Shadow">
+			<img src="/images/one-story-razi/ADHD.jpg" style="width:50%" alt="ADHD 2.0">
 			<div>
-				<b>Gods of Jade and Shadow </b>for Santa Clarita Public Library 2020. <br>Silvia Moreno-Garcia. <br> [New York] : Penguin Random House 2019. <br>Inspired by Mexican folklore, the Mayan god of death sends a young woman on a harrowing, life-changing journey.<br><a href="https://nlb.overdrive.com/media/CE5A2FB8-3D96-492E-8B7F-E7C3336770D8" target="_blank">Borrow now</a><br>
+				<b>ADHD 2.0 : new science and essential strategies for thriving with distraction-from childhood through adulthood  </b> <br>Edward M. Hallowell, M.D. and John J. Ratey, M.D. <br> New York : Ballantine Books (2021) <br>ISBN	 9780399178733 (hardcover) <br>
+Call No. English 616.8589 HAL -[HEA]
+.<br><a href="https://nlb.overdrive.com/media/5403801" target="_blank">Borrow now</a><br>
 			</div>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="/images/one-story-razi/Autism.jpg" style="width:50%" alt="The Saturday Night Ghost Club">
+			<img src="/images/one-story-razi/Autism.jpg" style="width:50%" alt="Autism">
 			<div>
-				<b>The Saturday Night Ghost Club</b><br>for London Public Library 2020<br>Craig Davidson<br>[New York] : Penguin Books, 2019<br>A group of friends learn about the urban myths and legends that haunt their hometown.<br><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/69759697/298955834,1" target="_blank">Borrow now</a>
+				<b>Living with Autism</b><br><br>Dr Sung Min, Lena Heng, Magdalene Foo, Kheng Joo Lian.<br>Singapore : Marshall Cavendish Editions (2015)<br>ISBN  9789814634175 <br>
+Call No.  English 618.9285882 SUN
+<br><a href="https://nlb.overdrive.com/media/2472113" target="_blank">Borrow now</a>
 			</div>
 		</div>
 	<div class="row is-multiline">
