@@ -4,7 +4,6 @@ permalink: /initiatives/one-story-events/
 third_nav_title: One Story
 description: ""
 ---
-
 ![banner Razi](/images/one-story-razi/OS21%20Website%20Banner.jpg)
 
 
@@ -12,8 +11,8 @@ description: ""
 
 | Date/Day                | Time             | Event                                                        |
 | :---------------------- | :--------------- | ------------------------------------------------------------ |
-| 19 August, Wednesday    | 1pm – 3pm        | [[One Story] 交流点读书会线上导读《正法的战车》](https://www.eventbrite.com/e/one-story-registration-113754940088?aff=ebcollection){:target="_blank"} |
-| 22 August, Saturday     | 9:30am – 11:30am | [[One Story] Bengkel Penulisan Fiksyen Kilasan untuk Remaja](https://www.eventbrite.com/e/one-story-bengkel-penulisan-fiksyen-kilasan-untuk-remaja-registration-113724525116?aff=ebcollection){:target="_blank"} |
+| 22 November, Monday  | 8.00pm – 9.00pm        | [[ONE STORY 21 x ASD Conversations] Making Spaces for Autism Stories](https://www.eventbrite.sg/e/one-story-21-making-spaces-for-autism-stories-tickets-188136249587?aff=ebdssbonlinesearch){:target="_blank"} |
+| 24 November, Wednesday     | 7.00pm - 8.30pm| [[ONE STORY 21 x ASD Conversations] Demystifying Myths about Autism Spectrum](https://www.eventbrite.sg/e/one-story-21-demystifying-myths-about-autism-spectrum-tickets-188137653787?aff=ebdssbonlinesearch){:target="_blank"} |
 | 29 August, Saturday     | 2pm – 4pm        | [[One Story] Bengkel Penulisan Lirik Lagu Warisan Anak Watan](https://www.eventbrite.com/e/one-story-bengkel-penulisan-lirik-lagu-warisan-anak-watan-registration-113729257270?aff=ebcollection){:target="_blank"} |
 | 05 September, Saturday  | 11am             | [[One Story] Tamil Read Aloud Session and Discussion by Author Sithuraj](https://www.eventbrite.com/e/one-story-tamil-read-aloud-session-and-discussion-by-author-sithuraj-registration-114383698722?aff=ebcollection){:target="_blank"} |
 | 05 September, Saturday  | 2.30pm - 3pm     | [[One Story] Bacaan Cerpen Pedati Perang Dharma](https://www.eventbrite.com/e/one-story-bacaan-cerpen-pedati-perang-dharma-registration-114379225342?aff=ebcollection){:target="_blank"} |
