@@ -25,9 +25,13 @@ For programme details, visit the respective event link.
 | 26 December, Sunday  | 6.00pm – 7.30pm     | [[ONE STORY 21] வாசகர் வட்டம் வழிநடத்தும் கதை கலந்துரையாடல்](https://www.eventbrite.sg/e/one-story-21-tickets-198045337937?aff=ebdssbonlinesearch){:target="_blank"} |
 | 16 January, Sunday    | 11.00am – 12.30pm   | [[ONE STORY 21] உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல்](https://www.eventbrite.sg/e/one-story-21-tickets-198075528237){:target="_blank"} |
 | 19 January, Wednesday    | 1.00pm – 3.00pm        | [[ONE STORY 21] 交流点读书会线上导读《拉择》](https://www.eventbrite.sg/e/one-story-21-registration-195994975247){:target="_blank"} |
+| 17 February, Thursday | 8.00pm – 9:00pm     | ["Razi" by Sa'eda Buang / Sing Lit Book Club x One Story](https://www.eventbrite.sg/e/razi-by-saeda-buang-sing-lit-book-club-x-one-story-registration-203655136997){:target="_blank"} |
+| 21 February, Monday | 8.00pm – 9:00pm     | [Storytelling Today / Stories on Disabilities](https://www.eventbrite.sg/e/storytelling-today-stories-on-disabilities-registration-203656049727){:target="_blank"} |
 | 26 March, Saturday | 7.00pm – 9:00pm     | [[ONE STORY 21] 德士师傅与好友读书会线上导读《拉择》](https://www.eventbrite.sg/e/one-story-21-registration-195999117637){:target="_blank"} |
+| 26 April, Tuesday | 8.00pm – 9:00pm     | [Head2Head / Exploring Autism Through Literature](https://www.eventbrite.sg/e/head2head-exploring-autism-through-literature-registration-203657534167){:target="_blank"} |
+| 29 April, Friday | 8.00pm – 9:30pm     | [Heartlands Book Club / "Razi" by Dr Sa'eda Buang](https://www.eventbrite.sg/e/heartlands-book-club-razi-by-dr-saeda-buang-registration-203660472957){:target="_blank"} |
 
 
 
 
-Updated 05 Nov 2021
+Updated 08 Nov 2021
