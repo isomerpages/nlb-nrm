@@ -14,13 +14,10 @@ You can be a part of this movement by simply downloading eBooks via our [NLB Mob
 
 Let’s grow with every read and start by sharing a read #readingnationsg and tagging us at @readingnationsg.
 
-<div class="resp-container">
-	<iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/watch?v=7SLrSpuE2O4" class="resp-iframe"></iframe>
-</div>
 <p>
-	</p><div class="resp-container">
-	<iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/watch?v=oNhw93mFoWk" class="resp-iframe"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7SLrSpuE2O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oNhw93mFoWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p
 <p>
 </p><div class="resp-container">
 	<iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/d6Q05WdKEy0" class="resp-iframe"></iframe>
