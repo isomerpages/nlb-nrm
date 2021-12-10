@@ -15,7 +15,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Rethink_WLB2](/files/ReadWork_WLB2.pdf)
+Latest EDM: [Read@Work_Rethink_MentalHealth](/files/ReadWork_MentalHealth.pdf)
 
 Past EDMs:
 
@@ -42,6 +42,8 @@ Past EDMs:
 * [Read@Work_Rethink_Productivity](/files/ReadWork_Rethink_Productivity.pdf)
 * [Read@Work_Rethink_Communication](/files/ReadWork_Rethink_Communication.pdf)
 * [Read@Work_Rethink_WLB](/files/ReadWork_Rethink_WLB.pdf)
+* [Read@Work_Rethink_WLB2](/files/ReadWork_WLB2.pdf)
+
 
 
 
@@ -55,4 +57,4 @@ Enquire through read@nlb.gov.sg  with "Read@Work" in the subject.
 
 
 
-Updated 11 Nov 2021
+Updated 10 Dec 2021
