@@ -7,14 +7,15 @@ The National Reading Movement, which was launched in 2016, is a 5-year campaign 
 
 The Movement’s key priorities are to reach out to adults and seniors, promote reading in mother tongue languages and galvanise the community via collaborations – all with the aim to build a vibrant reading culture in Singapore.
 
-**[Read More Be More Book Hunt @ the Library Terms and Conditions]**(/edms/Library Activation TCs.pdf){:target="_blank"}
-
 ## The Movement in 2021
 In 2016, we encouraged Singaporeans to read more, by starting with little bits of reading. In 2016, NLB conducted the inaugural [National Reading Habits Survey](http://www.nlb.gov.sg/Portals/0/Docs/AboutUs/National%20Reading%20Habits%20Study_21%20Feb.pdf){:target="_blank"}, and found that 80% of Singapore residents were already reading more than once a week, be it books, magazines, news online or social media.
 
 You can be a part of this movement by simply downloading eBooks via our [NLB Mobile app](go.nlb.gov.sg/nlbmobile), or visiting our public libraries, which offer a wide array of collections.
 
 Let’s grow with every read and start by sharing a read #readingnationsg and tagging us at @readingnationsg.
+
+
+**[Read More Be More Book Hunt @ the Library Terms and Conditions](/files/Library%20Activation%20TCs.pdf)**
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7SLrSpuE2O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/oNhw93mFoWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
