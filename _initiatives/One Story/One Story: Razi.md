@@ -47,4 +47,6 @@ Apart from conducting workshops on creative writing at schools and for the publi
          <img src="/images/one-story-razi/programmes.jpg" style="width:30%" alt="Saeda Buang"/> 
       </a>
 
-Updated 25 Nov 2021
+Terms & Conditions for One Story Social Media Contests [HERE](/files/One%20Story%20Social%20Contest%20TCs.pdf)
+
+Updated 10 Jan 2022
