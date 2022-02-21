@@ -11,7 +11,7 @@ We have curated Read, Reap, Write activity packages in English and Mother Tongue
 
 These activities are meant to stimulate students’ thinking processes and initiate meaningful discussions.  They are suitable for upper secondary school students and above. 
 
-[ENGLISH RESOURCE](/files/RRW%20Activity_English%20with%20cover%20letter%20and%20report%20form.pdf)
+[ENGLISH RESOURCE](/files/RRW%20Activity_English%20with%20cover%20letter%20and%20report%20form_final.pdf)
 
 On top of that, if the One Sotry initiative interests you, here are resource packages that will help you discuss the story with your communities. 
 
