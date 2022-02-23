@@ -13,6 +13,10 @@ These activities are meant to stimulate students’ thinking processes and initi
 
 [ENGLISH RESOURCE](/files/RRW%20Activity_English%20with%20cover%20letter%20and%20report%20form_final.pdf)
 
+[CHINESE RESOURCE](/files/RRW%20Activity_CL.pdf)
+
+[TAMIL RESOURCE](/files/RRW%20Activity_TL.pdf)
+
 On top of that, if the One Sotry initiative interests you, here are resource packages that will help you discuss the story with your communities. 
 
 Click on the respective covers to download the resource package:
@@ -34,4 +38,4 @@ Click on the respective covers to download the resource package:
 </a>
 
 
-Updated 21 Feb 2022
+Updated 23 Feb 2022
