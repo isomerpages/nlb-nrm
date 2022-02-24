@@ -15,7 +15,7 @@ These activities are meant to stimulate students’ thinking processes and initi
 
 [CHINESE RESOURCE](/files/RRW%20Activity_CL.pdf)
 
-[MALAY RESOURCE](/files/RRW%20Activity_ML.pdf)
+[MALAY RESOURCE](/files/RRW%20Activity_ML-2.pdf)
 
 [TAMIL RESOURCE](/files/RRW%20Activity_TL.pdf)
 
