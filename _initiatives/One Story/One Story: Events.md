@@ -29,10 +29,12 @@ For programme details, visit the respective event link.
 | 21 February, Monday | 8.00pm – 9:00pm     | [Storytelling Today / Stories on Disabilities](https://www.eventbrite.sg/e/storytelling-today-stories-on-disabilities-registration-203656049727){:target="_blank"} |
 | 26 March, Saturday | 7.00pm – 9:00pm     | [[ONE STORY 21] 德士师傅与好友读书会线上导读《拉择》](https://www.eventbrite.sg/e/one-story-21-registration-195999117637){:target="_blank"} |
 | 02 April, Saturday | 11.00am – 12:30pm     | [[ONE STORY 21] 我家有个自闭儿 2](https://www.eventbrite.sg/e/one-story-21-2-registration-276315124977){:target="_blank"} |
+| 02 April, Saturday | 11.00am – 1:00pm     | [Autisme & Cabarannya](https://www.eventbrite.sg/e/autisme-cabarannya-one-story-project-registration-292245412897){:target="_blank"} |
+| 16 April, Saturday | 2.00pm – 4:00pm     | [Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen](https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877){:target="_blank"} |
 | 26 April, Tuesday | 8.00pm – 9:00pm     | [Head2Head / Exploring Autism Through Literature](https://www.eventbrite.sg/e/head2head-exploring-autism-through-literature-registration-203657534167){:target="_blank"} |
 | 29 April, Friday | 8.00pm – 9:30pm     | [Heartlands Book Club / "Razi" by Dr Sa'eda Buang](https://www.eventbrite.sg/e/heartlands-book-club-razi-by-dr-saeda-buang-registration-203660472957){:target="_blank"} |
 
 
 
 
-Updated 01 Mar 2022
+Updated 10 Mar 2022
