@@ -15,8 +15,6 @@ You can be a part of this movement by participating in our programmes, check out
 If you would like to join in the Movement as an organisation, do email <NLB_NRM_PO@nlb.gov.sg> with the header <**National Reading Movement – Partnership**>.
 
 
-**[Read More Be More Book Hunt @ the Library Terms and Conditions](/files/Library%20Activation%20TCs.pdf)**
-
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7SLrSpuE2O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/oNhw93mFoWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qWK6vxtXbOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
@@ -29,4 +27,4 @@ If you would like to join in the Movement as an organisation, do email <NLB_NRM_
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vHb9PtBSeco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-Updated 11 Mar 2022
+Updated 18 Mar 2022
