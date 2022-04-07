@@ -15,7 +15,7 @@ Launched in late 2016, Read@Work supports organisations in seeding a reading cul
 
 Join Read@Work today.
 
-Latest EDM: [Read@Work_Rethink_MentalHealth](/files/ReadWork_MentalHealth.pdf)
+Latest EDM: [Read@Work_Rethink_Self-Care](/files/ReadWork_Rethink_Self-Care.pdf)
 
 Past EDMs:
 
