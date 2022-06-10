@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/one-story-razi/hero%20banner%20razi.jpg
+      background: /images/RFB Website Banner_Final.png
       url: /readfest/main
       key_highlights:
         - title: About Us
