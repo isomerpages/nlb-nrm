@@ -3,6 +3,8 @@ links:
   - title: Initiatives
     url: /initiatives/book-clubs/
     sublinks:
+      - title: Read For Books
+        url: /initiatives/readforbooks/
       - title: One Story
         url: /initiatives/one-story/
       - title: Masterclass Series
@@ -24,8 +26,6 @@ links:
         url: /readfest/programmes/
       - title: Literary Trails
         url: /readfest/littrails
-      - title: Read For Books
-        url: /readfest/readforbooks
       - title: Big Book Giveaway
         url: /readfest/bigbookgiveaway
   - title: Blog
