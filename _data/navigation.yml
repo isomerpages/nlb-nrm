@@ -1,8 +1,10 @@
 logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
-    url: /initiatives/book-clubs/
+    url: /initiatives/RAD/
     sublinks:
+      - title: RAD
+        url: /initiatives/RAD
       - title: Read For Books
         url: /initiatives/readforbooks
       - title: One Story
