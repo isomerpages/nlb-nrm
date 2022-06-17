@@ -12,7 +12,7 @@ Speakers include Nicholas Carr, author of "The Shallows: What the Internet is do
 
 Watch the recordings [HERE](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi).
 
-![banner RAD](/images/RAD/RAD 2021/the reading brain.png)
+![banner RAD](/images/RAD/RAD 2021/the reading  brain.png)
 
 
 **The Reading Brain in the Digital World**
