@@ -20,13 +20,13 @@ sections:
             join a book club? Find out more.
           url: /initiatives/book-clubs/
   - infopic:
-      title: Read@Work
+      title: Read for Books
       subtitle: Highlights
-      description: Find out how you can incorporate reading habits in the workplace
+      description: Find out how to participate in this charity book drive
       button: Learn More
-      url: /read-at-work/
-      image: /images/readwork.jpg
-      alt: Read@Work
+      url: /initiatives/readforbooks
+      image: /images/RFB Website Banner_Final.png
+      alt: Read for Books
   - infopic:
       title: Book Recommendations, Reviews and More!
       subtitle: Highlights
