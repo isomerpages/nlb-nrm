@@ -28,3 +28,32 @@ Sign up for the programme [HERE](https://www.eventbrite.sg/e/read-to-focus-the-
 
 ![banner RAD](/images/RAD/RAD 2022/Read to Connect.png)
 
+**Read to Connect: The Importance of Reading Aloud for the Young and Old**
+
+**16 July 2022, Saturday, 10am – 11.30am**
+
+For much of history, reading was a rather noisy and communal activity. Today, it has evolved into a silent solitary activity, and reading aloud is mostly reserved for young children. In this session, join Dr Cyndi Giorgis, co-author of Jim Trelease’s [Read-Aloud Handbook](https://go.nlb.gov.sg/m-link/details?type=ebook&id=1D9C3298-A070-41BF-B0E5-1D142FE1E4C9&utm_source=rad&utm_campaign=rad&utm_medium=bookrec), and Dr Jo Ann Netto-Shek as they discuss on the invigorating value of reading aloud to one another - even as adults, and how this practice can counter fractured attention spans in the age of distraction. 
+
+Sign up for the programme [HERE](https://www.eventbrite.sg/e/read-to-connect-the-importance-of-reading-aloud-for-the-young-and-old-tickets-359136235147?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb).
+
+![banner RAD](/images/RAD/RAD 2022/Read to Retain.png)
+
+**Read to Retain: How to Take Smart Notes**
+
+**23 July 2022, Saturday, 10am – 11.30am**
+
+Have you spent hours poring over a book, only to forget what you read? According to geniuses from the likes of Benjamin Franklin to Richard Feynman, the trick to remember what we read is to read actively with a pen in hand and build a habit of note-taking. Hear from Dr. Sönke Ahrens, author of [How to Take Smart Notes](https://go.nlb.gov.sg/m-link/details?type=ebook&id=B41A3269-BC2A-4497-8C71-0A3F1FA3C694&utm_source=rad&utm_campaign=rad&utm_medium=bookrec) as he deconstructs the strategy of reading to retain.
+
+Sign up for the programme [HERE](https://www.eventbrite.sg/e/read-to-retain-how-to-take-smart-notes-tickets-359126796917?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb).
+
+![banner RAD](/images/RAD/RAD 2022/Read to See.png)
+
+**Read to See: Honing Your Skills of Perception through Art**
+
+**30 July 2022, Saturday, 10am – 11.30am**
+
+As we spend more time buried in our devices and our own worlds, are we losing touch with the art of observation and perception? Visual awareness allows us to better read people, places and situations. Join Amy E. Herman, author of [Visual Intelligence](https://go.nlb.gov.sg/m-link/details?type=ebook&id=58FCD54F-0D1C-49FE-89C5-69418FD55386&utm_source=rad&utm_campaign=rad&utm_medium=bookrec) , as she breaks down how we can hone our visual perception skills through art.
+
+Sign up for the programme [HERE](https://www.eventbrite.sg/e/read-to-see-honing-your-skills-of-perception-through-art-tickets-359134369567?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb).
+
+Updated 17 Jun 2022
