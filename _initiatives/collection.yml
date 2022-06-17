@@ -2,9 +2,9 @@ collections:
   initiatives:
     output: true
     order:
-      - RAD/Reading in the Age of Distraction 2021.md
-      - RAD/Reading in the Age of Distraction 2022.md
       - RAD/.keep
+      - RAD/Reading in the Age of Distraction 2022.md
+      - RAD/Reading in the Age of Distraction 2021.md
       - Read for Books.md
       - One Story/.keep
       - "One Story/One Story: Razi.md"
