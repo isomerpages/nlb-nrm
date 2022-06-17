@@ -6,8 +6,8 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/RFB Website Banner_Final.png
-      url: /readfest/main
+      background: /images/RAD/RAD 2022/RAD Banner.png
+      url: /initiatives/RAD/
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
