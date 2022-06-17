@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - RAD/.keep
       - Read for Books.md
       - One Story/.keep
       - "One Story/One Story: Razi.md"
