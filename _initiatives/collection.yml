@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - RAD/Reading in the Age of Distraction 2022.md
       - RAD/.keep
       - Read for Books.md
       - One Story/.keep
