@@ -4,7 +4,6 @@ permalink: /initiatives/RAD/
 description: ""
 third_nav_title: RAD
 ---
-
 ![banner RAD](/images/RAD/RAD 2022/RAD banner.png)
 
 **About Reading in the Age of Distraction**
@@ -14,6 +13,9 @@ Reading in the Age of Distraction (RAD) is a series of conversations featuring a
 RAD’22 is scheduled to take place on **Saturdays, 9, 16, 23 & 30 July 2022, from 10am – 11.30am.**
 
 Sign up for the programmes [HERE](https://go.gov.sg/rad2022).
+
+Download the learning package [HERE](https://go.gov.sg/radlearningpackage)
+
 
 ![banner RAD](/images/RAD/RAD 2022/Read to Focus.png)
 
@@ -57,4 +59,4 @@ As we spend more time buried in our devices and our own worlds, are we losing to
 
 Sign up for the programme [HERE](https://www.eventbrite.sg/e/read-to-see-honing-your-skills-of-perception-through-art-tickets-359134369567?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb).
 
-Updated 17 Jun 2022
+Updated 21 Jun 2022
