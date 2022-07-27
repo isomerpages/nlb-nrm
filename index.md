@@ -6,8 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/RAD/RAD 2022/RAD Banner.png
-      url: /initiatives/RAD/
+      background: /images/RFB Website Banner_Final.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
@@ -19,6 +18,7 @@ sections:
           description: Keen to share your thoughts about the books you have read? Why not
             join a book club? Find out more.
           url: /initiatives/book-clubs/
+      url: /initiatives/readforbooks
   - infopic:
       title: Read for Books
       subtitle: Highlights
