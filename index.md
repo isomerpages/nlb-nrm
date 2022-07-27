@@ -18,6 +18,7 @@ sections:
           description: Keen to share your thoughts about the books you have read? Why not
             join a book club? Find out more.
           url: /initiatives/book-clubs/
+      url: /initiatives/readforbooks
   - infopic:
       title: Read for Books
       subtitle: Highlights
