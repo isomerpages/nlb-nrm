@@ -3,12 +3,23 @@ title: Read for Books
 permalink: /initiatives/readforbooks
 description: ""
 ---
-
 ![banner RF](\images\RFB Website Banner_Final.png)
 
 **Read for Books**
 
 Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 August to 31 August 2022, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.
+
+Our beneficiaries for Read for Books 2022 are WondeRead and the Migrant Worker Library: 
+
+WondeRead:
+
+The WondeRead initiative brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children. 
+
+Migrant Worker Library: 
+
+Migrant Worker Library (MWL) is an initiative started by Kranji District of the ACE Group, MOM. As the project name suggests, it wants to make the books accessible to migrant workers within their community (dormitories and Recreation Centers) in Singapore at no cost. MWL aims to cultivate a reading culture amongst migrant workers and promote reading as a form of mental relaxation. MWL also serves as a resource center for migrant workers to sign up for various fun and educational activities.  The first MWL was launched in Pasir Panjang Residence on 2 June 2022 with plans to expand to Kranji Recreation Center in August 2022.
+
+Read for Books 2022 is sponsored by Scholastic Education International (Singapore) Pte Ltd, Kinokuniya Bookstores of Singapore Pte. Ltd, Bubbly Books Pte Ltd and Straits Times Press.
 
 
 **How to participate in Read for Books:**
