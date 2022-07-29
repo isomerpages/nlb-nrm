@@ -64,3 +64,18 @@ Happening On-site
 **21 August, Sunday, 12.30pm – 1.30pm** | Jurong Regional Library, Programme Zone | Children | Branch Storytelling session + Read for Books 2022 Read Together session | |
 **27 August, Saturday, 1pm – 1.30pm** | Woodlands Regional Library, Programme Zone | Teens and Up | Book sharing: Teen Reading Ambassador's/Librarian's pick | [HERE](https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=odcleoeventsincollection)|
 
+Happening Online
+
+
+
+| Date and Time | Audience | Genre | Registration Link |
+| -------- | -------- | -------- | -------- |
+| **01 August, Monday, 7.30pm – 8pm**  | Adults     | Poetry     | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-poetry-tickets-387378739237?aff=odcleoeventsincollection)     |
+**03 August, Wednesday, 7.30pm – 8pm** | Adults | Japanese Literature | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-japanese-literature-tickets-387379110347?aff=odcleoeventsincollection) | 
+**05 August, Friday, 7.30pm – 8pm** | Adults | Coming of Age | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-coming-of-age-tickets-387379451367?aff=odcleoeventsincollection) |
+**07 August, Sunday, 11.30am – 12pm** | Adults | Self-help | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-self-help-tickets-387380113347?aff=odcleoeventsincollection) |
+**08 August, Monday, 7.30pm – 8pm** | Adults | Sing Lit *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs) | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-singlit-tickets-387381667997?aff=odcleoeventsincollection) | 
+**10 August, Wednesday, 7.30pm – 8pm** | Adults | Children's Sing Lit Adults Can Enjoy *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs) | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-singlit-tickets-387382239707?aff=odcleoeventsincollection) | 
+**14 August, Sunday, 11.30pm – 12pm** | Adults | Translated Short Stories | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-translated-short-stories-tickets-387384215617?aff=odcleoeventsincollection) |
+**15 August, Monday, 7.30pm – 8pm** | Adults | Japanese Literature | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-japanese-literature-tickets-387384376097?aff=odcleoeventsincollection) | 
+
