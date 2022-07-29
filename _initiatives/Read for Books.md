@@ -41,9 +41,12 @@ Step 4: Upon completion of the activity, please submit your photo(s) and the num
 NOTE: Please note that all submissions must be completed by **9 September 2022 (Friday), 11.59pm**.
 
 
+**Need ideas on what to read?**
 
-**What is Zoom Read Together?**
+In line with National Day happening in August, the Read for Books team has brought together some book recommendations from our Sing Lit collection. Download the curated list [**HERE**](https://go.gov.sg/rfb2022-singlitrecs)**.**
 
-Can’t decide what to read? Join your friendly neighbourhood librarian in a half-hour session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together. 
+**What is a Read Together session?**
 
-Look forward to more details soon.
+Can’t decide what to read? Join your friendly neighbourhood librarian in a session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together.
+
+For the collection of Read Together sessions, head to [HERE](https://go.gov.sg/readtogether22).
