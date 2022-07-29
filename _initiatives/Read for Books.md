@@ -77,5 +77,14 @@ Happening Online
 **08 August, Monday, 7.30pm – 8pm** | Adults | Sing Lit *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs) | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-singlit-tickets-387381667997?aff=odcleoeventsincollection) | 
 **10 August, Wednesday, 7.30pm – 8pm** | Adults | Children's Sing Lit Adults Can Enjoy *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs) | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-singlit-tickets-387382239707?aff=odcleoeventsincollection) | 
 **14 August, Sunday, 11.30pm – 12pm** | Adults | Translated Short Stories | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-translated-short-stories-tickets-387384215617?aff=odcleoeventsincollection) |
-**15 August, Monday, 7.30pm – 8pm** | Adults | Japanese Literature | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-japanese-literature-tickets-387384376097?aff=odcleoeventsincollection) | 
+**15 August, Monday, 7.30pm – 8pm** | Adults | Japanese Literature | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-japanese-literature-tickets-387384376097?aff=odcleoeventsincollection) |
+**17 August, Wednesday, 7.30pm – 8pm** | Adults | Reading Art | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-reading-art-tickets-387390765207) |
+**19 August, Friday, 7.30pm – 8pm** | Adults | Self-help | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-self-help-tickets-387393403097?aff=odcleoeventsincollection) |
+**21 August, Sunday, 11.30pm – 12pm** | Adults | Slice of Life | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-slice-of-life-tickets-387400253587?aff=odcleoeventsincollection) |
+**22 August, Monday, 7.30pm – 8pm** | Adults | Comics | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-comics-tickets-387402450157?aff=odcleoeventsincollection) |
+**24 August, Wednesday, 7.30pm – 8pm** | Adults | Poetry | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-poetry-tickets-387404827267?aff=odcleoeventsincollection) |
+**28 August, Sunday, 11.30pm – 12pm** | Adults | Creativity | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-creativity-tickets-387407114107?aff=odcleoeventsincollection) |
+**29 August, Monday, 7.30pm – 8pm** | Adults | Thriller/Mystery | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-thrillermystery-tickets-387411166227?aff=odcleoeventsincollection) |
+**31 August, Wednesday, 7.30pm – 8pm** | Adults | Chick-Lit: Historical, Modern, and Alternative Romances | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-chick-lit-tickets-387411416977?aff=odcleoeventsincollection) |
 
+Updated 29 Jul 2022
