@@ -50,3 +50,17 @@ In line with National Day happening in August, the Read for Books team has broug
 Can’t decide what to read? Join your friendly neighbourhood librarian in a session where we will recommend short reads for different book categories or genres. Pick from your favourite genre and cosy up alongside other book lovers as we **Read for Books** together.
 
 For the collection of Read Together sessions, head to [HERE](https://go.gov.sg/readtogether22).
+
+Happening On-site
+
+
+
+| Date and Time | Location | Audience | Content | Registration Link
+| -------- | -------- | -------- | -------- | -------- |
+| **06 August, Saturday, 2pm – 2.30pm**    | Jurong Regional Library, Programme Zone    | Children    | Book sharing: Sing Lit Special *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs)    | [HERE](https://www.eventbrite.sg/e/on-site-read-together-session-for-children-read-for-books-2022-tickets-388568377477?aff=odcleoeventsincollection)     |
+| **07 August, Sunday, 12.30pm – 1.30pm** | Tampines Regional Library, Level 3 Public Space | Children | Branch Storytelling session + Read for Books 2022 Read Together session | |
+**13 August, Saturday, 1pm – 1.30pm** | Woodlands Regional Library, Programme Zone | Teens and Up | Book sharing: Sing Lit Special *Check out our Sing Lit book recs* [HERE](https://go.gov.sg/rfb2022-singlitrecs) | [HERE](https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388573402507?aff=odcleoeventsincollection)|
+**20 August, Saturday, 2pm – 2.30pm** | Tampines Regional Library, Level 3 Public Space | Children | Book sharing: Junior Reading Ambassador's/Librarian's pick | [HERE](https://www.eventbrite.sg/e/on-site-read-together-session-for-children-read-for-books-2022-tickets-388571567017?aff=odcleoeventsincollection) |
+**21 August, Sunday, 12.30pm – 1.30pm** | Jurong Regional Library, Programme Zone | Children | Branch Storytelling session + Read for Books 2022 Read Together session | |
+**27 August, Saturday, 1pm – 1.30pm** | Woodlands Regional Library, Programme Zone | Teens and Up | Book sharing: Teen Reading Ambassador's/Librarian's pick | [HERE](https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=odcleoeventsincollection)|
+
