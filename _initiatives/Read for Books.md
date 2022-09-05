@@ -1,9 +1,13 @@
 ---
 title: Read for Books
-permalink: /initiatives/readforbooks
+permalink: /initiatives/readforbooks/
 description: ""
 ---
 ![banner RF](\images\RFB Website Banner_Final.png)
+
+The deadline for participation in Read for Books 2022 has been extended to **16 September 2022 (Friday), 2359 hours**. You may continue to conduct sessions and submit participation numbers before then.
+
+Do submit your photos and participation numbers [HERE](https://go.gov.sg/rfb2022-submit) in order for your participation to be counted towards the charity drive.
 
 **Read for Books**
 
@@ -87,4 +91,4 @@ Happening Online
 **29 August, Monday, 7.30pm – 8pm** | Adults | Thriller/Mystery | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-thrillermystery-tickets-387411166227?aff=odcleoeventsincollection) |
 **31 August, Wednesday, 7.30pm – 8pm** | Adults | Chick-Lit: Historical, Modern, and Alternative Romances | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-chick-lit-tickets-387411416977?aff=odcleoeventsincollection) |
 
-Updated 29 Jul 2022
+Updated 05 Sep 2022
