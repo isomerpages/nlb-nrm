@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/RFB Website Banner_Final.png
+      background: /images/NATL 2022/Website Banner.jpg
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
