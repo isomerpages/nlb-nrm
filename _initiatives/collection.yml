@@ -2,7 +2,7 @@ collections:
   initiatives:
     output: true
     order:
-      - Night at The Library.md
+      - Night at the Library.md
       - RAD/.keep
       - RAD/Reading in the Age of Distraction 2022.md
       - RAD/Reading in the Age of Distraction 2021.md

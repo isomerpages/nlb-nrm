@@ -20,14 +20,6 @@ sections:
           url: /initiatives/book-clubs/
       url: /initiatives/readforbooks
   - infopic:
-      title: Read for Books
-      subtitle: Highlights
-      description: Find out how to participate in this charity book drive
-      button: Learn More
-      url: /initiatives/readforbooks
-      image: /images/RFB Website Banner_Final.png
-      alt: Read for Books
-  - infopic:
       title: Book Recommendations, Reviews and More!
       subtitle: Highlights
       description: Make reading part of your lifestyle. Explore featured titles and
