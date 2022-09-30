@@ -5,13 +5,11 @@ description: ""
 ---
 ![banner RF](\images\RFB Website Banner_Final.png)
 
-The deadline for participation in Read for Books 2022 has been extended to **16 September 2022 (Friday), 2359 hours**. You may continue to conduct sessions and submit participation numbers before then.
-
-Do submit your photos and participation numbers [HERE](https://go.gov.sg/rfb2022-submit) in order for your participation to be counted towards the charity drive.
+Thank you for participating in Read for Books 2022. The participation period has concluded as of 16 September 2022. With your reading efforts and the generous donation of our 2022 sponsors, we will be donating a total of 1215 books to our beneficiaries for 2022. 
 
 **Read for Books**
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 August to 31 August 2022, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.
+Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 August to 16 September 2022, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.
 
 Our beneficiaries for Read for Books 2022 are WondeRead and the Migrant Worker Library: 
 
@@ -91,4 +89,4 @@ Happening Online
 **29 August, Monday, 7.30pm – 8pm** | Adults | Thriller/Mystery | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-thrillermystery-tickets-387411166227?aff=odcleoeventsincollection) |
 **31 August, Wednesday, 7.30pm – 8pm** | Adults | Chick-Lit: Historical, Modern, and Alternative Romances | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2022-chick-lit-tickets-387411416977?aff=odcleoeventsincollection) |
 
-Updated 05 Sep 2022
+Updated 30 Sep 2022
