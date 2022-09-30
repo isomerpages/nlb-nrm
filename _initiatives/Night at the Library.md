@@ -3,12 +3,11 @@ title: Night at the Library
 permalink: /initiatives/natl/
 description: ""
 ---
-
 ![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
 **About Night at the Library**
 
-Night at The Library is back with its fourth edition!
+Night at the Library is back with its fourth edition!
 
 Partnering hyperlocal communities, this annual after-dark event, explores the collective belonging and self-image identities that we assume. Most of us live our lives in daylight but at night, stories and ruminations unfold.
 
