@@ -68,9 +68,9 @@ This programme is a collaboration with [Supernatural Confessions](https://www.y
 
 An Ode is a type of lyrical stanza. A formal, often ceremonious lyrical poem that addresses and often celebrates a person, place, thing, or idea.
 
-Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kia Seh, celebrate Night at The Library with Ode to The Night, a writing workshop with poetry readings. Does the night offer a space for inspiration and creativity? Is night-time different in Singapore from other countries? 
+Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kia Seh, celebrate Night at The Library with Ode to The Night, a writing workshop with poetry readings. 
 
-Who are some poets of the night who inspire us and why?
+Does the night offer a space for inspiration and creativity? Is night-time different in Singapore from other countries? Who are some poets of the night who inspire us and why?
 
 ![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
