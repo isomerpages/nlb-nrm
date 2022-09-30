@@ -3,7 +3,7 @@ title: Night at The Library
 permalink: /initiatives/natl/
 description: ""
 ---
-![banner NATL](/images/NATL/Website Banner.jpg)
+![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
 **About Night at the Library**
 
@@ -16,7 +16,7 @@ Come along for blended experiential trails and explore through workshops and tal
 Registration links to be revealed soon. 
 
 
-![banner NATL](/images/NATL/Website TSM.jpg)
+![banner NATL](/images/NATL 2022/Website TSM.jpg)
 
 **15 Nov 7.30pm - 9pm**
 
@@ -30,7 +30,7 @@ This programme is a collaboration with [Difference Engine.](https://differencee
 
 
 
-![banner NATL](/images/NATL/Website TL.jpg)
+![banner NATL](/images/NATL 2022/Website TL.jpg)
 
 **15 Nov 7.30pm - 8.30pm**
 
@@ -38,7 +38,7 @@ Erotic literature has existed for as long as our literary tradition, from Sappho
 
 Join Balli Kaur Jaswal, Kayce Teo and Marylyn Tan as they chart the course of romance novels, from the conventional paperback stashed on the bookshelf of a lonesome romantic to the online collective of speculative fan-fiction.
 
-![banner NATL](/images/NATL/Website Banner.jpg)
+![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
 **The Stargazer 16 Nov**
 
@@ -48,7 +48,7 @@ If the weather conditions are unsuitable for stargazing, participants will parta
 
 This programme is a collaboration with the [Science Centre Singapore](https://www.science.edu.sg/) and [The Astronomical Society of Singapore (TASOS).](http://tasos.org.sg/about_tasos/about_tasos.html)
 
-![banner NATL](/images/NATL/Website TBP.jpg)
+![banner NATL](/images/NATL 2022/Website TBP.jpg)
 
 **16 Nov 6.30pm - 8.30pm**
 
@@ -56,7 +56,7 @@ With the stresses of urban living in a ‘concrete jungle’, having greenery in
 
 Possible sightings of frogs, large-tailed nightjars, white breasted waterhen, baya weavers and the white-bellied sea eagle. Spot flora and fauna as they fluoresce in the dark! Participants will gain a deeper appreciation for eco-literacy, park ethics and be immersed in readings of nature speculative fiction.
 
-![banner NATL](/images/NATL/Website TFP.jpg)
+![banner NATL](/images/NATL 2022/Website TFP.jpg)
 
 **17 Nov 6.30pm - 8.30pm**
 
@@ -64,7 +64,7 @@ What tales lie beneath the skin of the deceased? When the body no longer has a v
 
 Moderated by prolific crime thriller author and content creator, Neil Humphreys, join Liz Porter, David Ranson and Dr Lee Chin Thye as they demystify the craft of forensic pathologists - their lives, experiences, and the grisly bits in between. Pundits will share their slice of life, from day-to-day operations, morgue duties, and autopsies to determine the cause, manner and mechanism of death.
 
-![banner NATL](/images/NATL/Website TH.jpg)
+![banner NATL](/images/NATL 2022/Website TH.jpg)
 
 **18 Nov 10pm - 11.30pm**
 
@@ -72,7 +72,7 @@ Hosted by product director by day and content creator by night, Eugene Tay, list
 
 This programme is a collaboration with [Supernatural Confessions](https://www.youtube.com/c/SupernaturalConfessions), Singapore’s largest active community of horror enthusiasts’, managed by Pilgrim Pte Ltd.
 
-![banner NATL](/images/NATL/Website Banner.jpg)
+![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
 **The Nocturnal Poet 18 Nov**
 
@@ -82,7 +82,7 @@ Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kia Se
 
 Who are some poets of the night who inspire us and why?
 
-![banner NATL](/images/NATL/Website Banner.jpg)
+![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
 **The Photographer 19 Nov**
 
