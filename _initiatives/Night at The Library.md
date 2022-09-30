@@ -9,44 +9,42 @@ description: ""
 
 Night at The Library is back with its fourth edition!
 
-Partnering hyperlocal communities, this annual after-dark event, explores the collective belonging and self-image identities that we assume. Most of us live our lives in daylight but at night, stroeis and ruminations unfold.
+Partnering hyperlocal communities, this annual after-dark event, explores the collective belonging and self-image identities that we assume. Most of us live our lives in daylight but at night, stories and ruminations unfold.
 
-Come along for blended experiential trails and explore through workships and talks by writers, content creators, animators, photographers, forensic pathologists and astronomy clubs, unravelling the stories through the activities we engage in.
+Come along for blended experiential trails and explore through workshops and talks by writers, content creators, animators, photographers, forensic pathologists and astronomy clubs, unravelling the stories through the activities we engage in.
 
 
 ![banner NATL](/images/NATL/Website TSM.jpg)
 
+**15 Nov 7.30pm - 9pm**
+The Salaryman aspires to be more than his day job. Moderated by Charlene Shepherdson, join Benjamin Chee and Wayne Rée, co-creators of the prose-comic hybrid, _Work-Life Balance: Malevolent Managers and Folkloric Freelancers_, as they discuss suffocating work cultures, side hustles and the perennial balance between who you are and your company’s values. 
 
-**Story Synopsis**
+Learn more about the book _Work-Life Balance_ and get a sneak peek at the web browser game – _Internal Damnation: Pick Your Hell._ Through an interactive poll, join the audience as you collectively play as an intern at The Company. Try to impress your supervisors by fetching coffee, craft SEO-friendly social media posts and slog through other average office tasks.
 
-Every day is a painful struggle for Nani, the mother of Razi, a boy with special needs. As Nani finds herself increasingly frustrated by society’s lack of understanding and empathy for Razi’s condition, she is by turns swayed and pressured by her sister’s incessant cajoling to seek help from a traditional Malay healer. Nani keeps the treatment a secret from her husband – out of fear and perhaps guilt. Razi is slowly tamed into obedience. The healer sees it as progress, but is submission into silent acquiescence a cure at all?
+Re-invent, DIY upskill and recalibrate work mindsets with curated reads too!
 
-“Razi” will make you ponder over the great lengths people would go to and the sacrifices they make for their loved ones.  Readers will be tempted to weigh in on the dilemmas that Nani has to grapple with and tread along the emotional rollercoaster of her struggle and guilt. Will we condemn her choices? Or empathise with her challenges? 
-
-
-**About the Author**
-
-<img src="/images/one-story-razi/Saeda Buang.jpg" style="width:30%" alt="Saeda Buang"/>
-
-Dr Sa’eda Buang is a Senior Lecturer in the Asian Languages and Cultures academic group, National Institute of Education (NIE) at the Nanyang Technological University (NTU), Singapore. Her research interests are in the areas of comparative literature, cultural studies, curriculum development and reformation, critical literacy, Muslim education, alternative assessments, and Jawi manuscripts. 
-
-Dr Sa’eda writes poetry, short stories, and academic papers on literature. She won the much-coveted Literary Prize (poetry) for “Pustakaku Dalam Remang Senja” (My Reading Room in the Twilight) awarded by the Singapore Malay Language Council in 2003; the Literary Prize (short story) for “Ke Puncak Pun Tidak” (To Summit No More); and the Literary Prize (commendation, poetry) for “Malang, Senda dan Citra” (Misfortune, Hope and Comedy), both in 2005. Her award-winning poem, “Pustakaku Dalam Remang Senja” was translated into Mandarin and was featured in Singapore’s Chinese daily Lianhe Zaobao in 2003. 
-
-Apart from conducting workshops on creative writing at schools and for the public, she currently serves as Singapore’s representative in the Southeast Asian Literature Council (MASTERA) as well as an advisor and consultant in the international and local Malay literary industry. In addition to being a member of several editorial advisory boards in Indonesia and Malaysia, Dr Sa’eda was also the guest editor for the Asia-Pacific Journal of Education’s special issue on Muslim Education − Challenges, Opportunities and Beyond (2007) and Associate Editor of the Asia-Pacific Journal of Education (Routledge), NIE-NTU (2014-2016). She also reviews numerous international journals.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwVLNZOvTuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This programme is a collaboration with [Difference Engine.](https://differenceengine.sg/)
 
 
-<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story/resources" target = "_self"> 
-         <img src="/images/one-story-razi/resources.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a><br>
-		<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story-recommended" target = "_self"> 
-         <img src="/images/one-story-razi/recommended.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a><br>
-			<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story-events/" target = "_self"> 
-         <img src="/images/one-story-razi/programmes.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a>
 
-Terms & Conditions for One Story Social Media Contests [HERE](/files/One%20Story%20Social%20Contest%20TCs.pdf)
+![banner NATL](/images/NATL/Website TL.jpg)
+
+**15 Nov 7.30pm - 8.30pm**
+Erotic literature has existed for as long as our literary tradition, from Sappho, Catullus, Ovid, Shakespeare, to the modern day E. L. James. It is hard to fathom how words can even begin to describe the sensual pleasure of another person’s skin, but that is exactly what writers have been aspiring to contain within their words ever since humanity could put pen to paper. 
+
+Join Balli Kaur Jaswal, Kayce Teo and Marylyn Tan as they chart the course of romance novels, from the conventional paperback stashed on the bookshelf of a lonesome romantic to the online collective of speculative fan-fiction.
+
+![banner NATL](/images/NATL/Website Banner.jpg)
+
+**The Stargazer 16 Nov**
+Throughout history, star patterns in the night sky are given names woven with mythical stories, in what we now know as constellations. Learn about the constellations that are visible in Singapore’s night sky and the myths behind them at The Omni-Theatre and glean into the stories of Perseus, Andromeda, Cassiopeia and Cepheus the King through a stargazing activity!
+
+If the weather conditions are unsuitable for stargazing, participants will partake in a digital planetarium show in the Omni-Theatre instead.
+
+This programme is a collaboration with the [Science Centre Singapore](https://www.science.edu.sg/) and [The Astronomical Society of Singapore (TASOS).](http://tasos.org.sg/about_tasos/about_tasos.html)
+
+![banner NATL](/images/NATL/Website TBP.jpg)
+
+**16 Nov**
 
 Updated 10 Jan 2022
