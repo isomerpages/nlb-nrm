@@ -18,8 +18,6 @@ Registration links to be revealed soon.
 
 ![banner NATL](/images/NATL 2022/Website TSM.jpg)
 
-**15 Nov 7.30pm - 9pm**
-
 The Salaryman aspires to be more than his day job. Moderated by Charlene Shepherdson, join Benjamin Chee and Wayne Rée, co-creators of the prose-comic hybrid, _Work-Life Balance: Malevolent Managers and Folkloric Freelancers_, as they discuss suffocating work cultures, side hustles and the perennial balance between who you are and your company’s values. 
 
 Learn more about the book _Work-Life Balance_ and get a sneak peek at the web browser game – _Internal Damnation: Pick Your Hell._ Through an interactive poll, join the audience as you collectively play as an intern at The Company. Try to impress your supervisors by fetching coffee, craft SEO-friendly social media posts and slog through other average office tasks.
@@ -31,8 +29,6 @@ This programme is a collaboration with [Difference Engine.](https://differencee
 
 
 ![banner NATL](/images/NATL 2022/Website TL.jpg)
-
-**15 Nov 7.30pm - 8.30pm**
 
 Erotic literature has existed for as long as our literary tradition, from Sappho, Catullus, Ovid, Shakespeare, to the modern day E. L. James. It is hard to fathom how words can even begin to describe the sensual pleasure of another person’s skin, but that is exactly what writers have been aspiring to contain within their words ever since humanity could put pen to paper. 
 
@@ -50,23 +46,17 @@ This programme is a collaboration with the [Science Centre Singapore](https://w
 
 ![banner NATL](/images/NATL 2022/Website TBP.jpg)
 
-**16 Nov 6.30pm - 8.30pm**
-
 With the stresses of urban living in a ‘concrete jungle’, having greenery in our midst provides some respite. Join nature guide-writer, Cheyenne Alexandria Phillips, for a 3km diversity walk to observe wildlife as she connects with nature through words and imagery.
 
 Possible sightings of frogs, large-tailed nightjars, white breasted waterhen, baya weavers and the white-bellied sea eagle. Spot flora and fauna as they fluoresce in the dark! Participants will gain a deeper appreciation for eco-literacy, park ethics and be immersed in readings of nature speculative fiction.
 
 ![banner NATL](/images/NATL 2022/Website TFP.jpg)
 
-**17 Nov 6.30pm - 8.30pm**
-
 What tales lie beneath the skin of the deceased? When the body no longer has a voice to tell their story, the forensic pathologist steps in as interpreter. Deciphering the clues left behind, they piece the evidence to reconstruct the fatal narrative. 
 
 Moderated by prolific crime thriller author and content creator, Neil Humphreys, join Liz Porter, David Ranson and Dr Lee Chin Thye as they demystify the craft of forensic pathologists - their lives, experiences, and the grisly bits in between. Pundits will share their slice of life, from day-to-day operations, morgue duties, and autopsies to determine the cause, manner and mechanism of death.
 
 ![banner NATL](/images/NATL 2022/Website TH.jpg)
-
-**18 Nov 10pm - 11.30pm**
 
 Hosted by product director by day and content creator by night, Eugene Tay, listen to untold horror stories encountered by those working in the dead of the night - a content producer , a musician  and an ex-convict . Learn about the trade taboos and urban myths that only people in the industry would know about. 
 
