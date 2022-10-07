@@ -5,8 +5,6 @@ description: ""
 ---
 ![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
-**About Night at the Library**
-
 Night at the Library is back with its fourth edition!
 
 Partnering hyperlocal communities, this annual after-dark event, explores the collective belonging and self-image identities that we assume. Most of us live our lives in daylight but at night, stories and ruminations unfold.
@@ -68,7 +66,7 @@ This programme is a collaboration with [Supernatural Confessions](https://www.y
 
 An Ode is a type of lyrical stanza. A formal, often ceremonious lyrical poem that addresses and often celebrates a person, place, thing, or idea.
 
-Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh, celebrate Night at The Library with Ode to The Night, a writing workshop with poetry readings. 
+Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh, celebrate Night at the Library with Ode to The Night, a writing workshop with poetry readings. 
 
 Does the night offer a space for inspiration and creativity? Is night-time different in Singapore from other countries? Who are some poets of the night who inspire us and why?
 
