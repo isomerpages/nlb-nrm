@@ -32,9 +32,7 @@ Erotic literature has existed for as long as our literary tradition, from Sappho
 
 Join Balli Kaur Jaswal, Kayce Teo and Marylyn Tan as they chart the course of romance novels, from the conventional paperback stashed on the bookshelf of a lonesome romantic to the online collective of speculative fan-fiction.
 
-![banner NATL](/images/NATL 2022/Website Banner.jpg)
-
-**The Stargazer 16 Nov, 7.30pm - 9.30pm**
+![banner NATL](/images/NATL 2022/Website TSG.jpg)
 
 Throughout history, star patterns in the night sky are given names woven with mythical stories, in what we now know as constellations. Learn about the constellations that are visible in Singapore’s night sky and the myths behind them at The Omni-Theatre and glean into the stories of Perseus, Andromeda, Cassiopeia and Cepheus the King through a stargazing activity!
 
@@ -60,9 +58,7 @@ Hosted by product director by day and content creator by night, Eugene Tay, list
 
 This programme is a collaboration with [Supernatural Confessions](https://www.youtube.com/c/SupernaturalConfessions), Singapore’s largest active community of horror enthusiasts’, managed by Pilgrim Pte Ltd.
 
-![banner NATL](/images/NATL 2022/Website Banner.jpg)
-
-**The Nocturnal Poet 18 Nov 7.30pm - 9.30pm**
+![banner NATL](/images/NATL 2022/Website TNP.jpg)
 
 An Ode is a type of lyrical stanza. A formal, often ceremonious lyrical poem that addresses and often celebrates a person, place, thing, or idea.
 
@@ -70,10 +66,8 @@ Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian S
 
 Does the night offer a space for inspiration and creativity? Is night-time different in Singapore from other countries? Who are some poets of the night who inspire us and why?
 
-![banner NATL](/images/NATL 2022/Website Banner.jpg)
-
-**The Photographer 19 Nov 7.30pm - 9pm**
+![banner NATL](/images/NATL 2022/Website TP.jpg)
 
 Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, participants will learn about the photographers’ creation process to capture the emotions and tell a story through the image. Join this night street photography hands-on session where participants will spend time around the Bras Basah-Bugis precinct, to unlock the essential techniques and creative approaches to street photography after dark.
 
-Updated 30 Sep 2022
+Updated 11 Oct 2022
