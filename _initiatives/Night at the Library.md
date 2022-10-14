@@ -70,4 +70,4 @@ Does the night offer a space for inspiration and creativity? Is night-time diffe
 
 Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, participants will learn about the photographers’ creation process to capture the emotions and tell a story through the image. Join this night street photography hands-on session where participants will spend time around the Bras Basah-Bugis precinct, to unlock the essential techniques and creative approaches to street photography after dark.
 
-Updated 11 Oct 2022
+Updated 14 Oct 2022
