@@ -18,7 +18,7 @@ Registration links to be revealed soon.
 
 The Salaryman aspires to be more than his day job. Moderated by Charlene Shepherdson, join Benjamin Chee and Wayne Rée, co-creators of the prose-comic hybrid, _Work-Life Balance: Malevolent Managers and Folkloric Freelancers_, as they discuss suffocating work cultures, side hustles and the perennial balance between who you are and your company’s values. 
 
-Learn more about the book _Work-Life Balance_ and get a sneak peek at the web browser game – _Internal Damnation: Pick Your Hell._ Through an interactive poll, join the audience as you collectively play as an intern at The Company. Try to impress your supervisors by fetching coffee, craft SEO-friendly social media posts and slog through other average office tasks.
+Learn more about the book _Work-Life Balance_ and get a sneak peek at the web browser game – [[Internal Damnation: Pick Your Hell.](https://go.gov.sg/wlbgame)](https://go.gov.sg/wlbgame ) Through an interactive poll, join the audience as you collectively play as an intern at The Company. Try to impress your supervisors by fetching coffee, craft SEO-friendly social media posts and slog through other average office tasks.
 
 Re-invent, DIY upskill and recalibrate work mindsets with curated reads too!
 
@@ -42,9 +42,9 @@ This programme is a collaboration with the [Science Centre Singapore](https://w
 
 ![banner NATL](/images/NATL 2022/Website TBP.jpg)
 
-With the stresses of urban living in a ‘concrete jungle’, having greenery in our midst provides some respite. Join nature guide-writer, Cheyenne Alexandria Phillips, for a 3km diversity walk to observe wildlife as she connects with nature through words and imagery.
+With the stresses of urban living in a ‘concrete jungle’, having greenery in our midst provides some respite. Join nature guide-writer, Cheyenne Alexandria Phillips, for a 3km biophilia walk and connect with nature through words and imagery.
 
-Possible sightings of frogs, large-tailed nightjars, white breasted waterhen, baya weavers and the white-bellied sea eagle. Spot flora and fauna as they fluoresce in the dark! Participants will gain a deeper appreciation for eco-literacy, park ethics and be immersed in readings of nature speculative fiction.
+Participants will gain a deeper appreciation for eco-literacy and be immersed in readings of nature speculative fiction.
 
 ![banner NATL](/images/NATL 2022/Website TFP.jpg)
 
@@ -70,4 +70,6 @@ Does the night offer a space for inspiration and creativity? Is night-time diffe
 
 Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, participants will learn about the photographers’ creation process to capture the emotions and tell a story through the image. Join this night street photography hands-on session where participants will spend time around the Bras Basah-Bugis precinct, to unlock the essential techniques and creative approaches to street photography after dark.
 
-Updated 14 Oct 2022
+If the weather conditions are unsuitable for outdoor activities, the photo walk will be conducted within the building.
+
+Updated 17 Oct 2022
