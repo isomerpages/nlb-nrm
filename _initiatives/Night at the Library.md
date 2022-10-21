@@ -59,7 +59,7 @@ What tales lie beneath the skin of the deceased? When the body no longer has a v
 Moderated by prolific crime thriller author and content creator, Neil Humphreys, join Liz Porter, David Ranson and Dr Lee Chin Thye as they demystify the craft of forensic pathologists - their lives, experiences, and the grisly bits in between. Pundits will share their slice of life, from day-to-day operations, morgue duties, and autopsies to determine the cause, manner and mechanism of death.
 
 ![banner NATL](/images/NATL 2022/Website TH.jpg)
-Click [https://go.gov.sg/hustler](https://go.gov.sg/hustler) to register.
+Click [HERE](https://go.gov.sg/hustler) to register.
 
 Hosted by product director by day and content creator by night, Eugene Tay, listen to untold horror stories encountered by those working in the dead of the night - a content producer , a musician  and an ex-convict . Learn about the trade taboos and urban myths that only people in the industry would know about. 
 
