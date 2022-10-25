@@ -13,6 +13,8 @@ Come along for blended experiential trails and explore through workshops and tal
 
 Click [HERE](https://go.gov.sg/nighteb22) or the links below to register.
 
+Access the learning package [HERE](https://go.gov.sg/nightlearn).
+
 
 ![banner NATL](/images/NATL 2022/Website TSM.jpg)
 Click [HERE](https://go.gov.sg/salaryman) to register by 15 Nov, 12 noon.
@@ -81,4 +83,4 @@ Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, partici
 
 If the weather conditions are unsuitable for outdoor activities, the photo walk will be conducted within the building.
 
-Updated 21 Oct 2022
+Updated 25 Oct 2022
