@@ -18,6 +18,7 @@ Access the learning package [HERE](https://go.gov.sg/nightlearn).
 
 ![banner NATL](/images/NATL 2022/Website TSM.jpg)
 
+
 The Salaryman aspires to be more than his day job. Moderated by Charlene Shepherdson, join Benjamin Chee and Wayne Rée, co-creators of the prose-comic hybrid, _Work-Life Balance: Malevolent Managers and Folkloric Freelancers_, as they discuss suffocating work cultures, side hustles and the perennial balance between who you are and your company’s values. 
 
 Learn more about the book _Work-Life Balance_ and get a sneak peek at the web browser game – [[Internal Damnation: Pick Your Hell.](https://go.gov.sg/wlbgame)](https://go.gov.sg/wlbgame ) Through an interactive poll, join the audience as you collectively play as an intern at The Company. Try to impress your supervisors by fetching coffee, craft SEO-friendly social media posts and slog through other average office tasks.
@@ -30,11 +31,13 @@ This programme is a collaboration with [Difference Engine.](https://differencee
 
 ![banner NATL](/images/NATL 2022/Website TL.jpg)
 
+
 Erotic literature has existed for as long as our literary tradition, from Sappho, Catullus, Ovid, Shakespeare, to the modern day E. L. James. It is hard to fathom how words can even begin to describe the sensual pleasure of another person’s skin, but that is exactly what writers have been aspiring to contain within their words ever since humanity could put pen to paper. 
 
 Join Balli Kaur Jaswal, Kayce Teo and Marylyn Tan as they chart the course of romance novels, from the conventional paperback stashed on the bookshelf of a lonesome romantic to the online collective of speculative fan-fiction.
 
 ![banner NATL](/images/NATL 2022/Website TSG.jpg)
+
 
 Throughout history, star patterns in the night sky are given names woven with mythical stories, in what we now know as constellations. Learn about the constellations that are visible in Singapore’s night sky and the myths behind them at The Omni-Theatre and glean into the stories of Perseus, Andromeda, Cassiopeia and Cepheus the King through a stargazing activity!
 
@@ -72,6 +75,7 @@ Prolific poets Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian S
 Does the night offer a space for inspiration and creativity? Is night-time different in Singapore from other countries? Who are some poets of the night who inspire us and why?
 
 ![banner NATL](/images/NATL 2022/Website TP.jpg)
+
 
 Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, participants will learn about the photographers’ creation process to capture the emotions and tell a story through the image. Join this night street photography hands-on session where participants will spend time around the Bras Basah-Bugis precinct, to unlock the essential techniques and creative approaches to street photography after dark.
 
