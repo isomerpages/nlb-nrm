@@ -48,7 +48,7 @@ This programme is a collaboration with the [Science Centre Singapore](https://w
 ![banner NATL](/images/NATL 2022/Website TBP.jpg)
 
 
-With the stresses of urban living in a ‘concrete jungle’, having greenery in our midst provides some respite. Join nature guide-writer, Cheyenne Alexandria Phillips, for a 3km biophilia walk and connect with nature through words and imagery.
+With the stresses of urban living in a ‘concrete jungle’, having greenery in our midst provides some respite. Join nature guide-writer, Cheyenne Alexandria Phillips, for a biophilia walk and connect with nature through words and imagery.
 
 Participants will gain a deeper appreciation for eco-literacy and be immersed in readings of nature speculative fiction.
 
@@ -81,4 +81,4 @@ Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, partici
 
 If the weather conditions are unsuitable for outdoor activities, the photo walk will be conducted within the building.
 
-Updated 25 Oct 2022
+Updated 02 Nov 2022
