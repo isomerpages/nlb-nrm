@@ -5,15 +5,15 @@ description: ""
 ---
 ![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
-Night at the Library is back with its fourth edition!
+Thank you for being a part of the fourth edition of Night at the Library. 
+
+Check out the recorded sessions on [National Reading Movement Facebook page](http://fb.com/readingnationsg) and access the learning package [HERE](https://go.gov.sg/nightlearn).
+
+----
 
 Partnering hyperlocal communities, this annual after-dark event, explores the collective belonging and self-image identities that we assume. Most of us live our lives in daylight but at night, stories and ruminations unfold.
 
 Come along for blended experiential trails and explore through workshops and talks by writers, content creators, animators, photographers, forensic pathologists and astronomy clubs, unravelling the stories through the activities we engage in.
-
-Click [HERE](https://go.gov.sg/nighteb22) or the links below to register.
-
-Access the learning package [HERE](https://go.gov.sg/nightlearn).
 
 
 ![banner NATL](/images/NATL 2022/Website TSM.jpg)
@@ -81,4 +81,4 @@ Together with poet-photographer Marc Nair, Aik Beng Chia and Daniel Tan, partici
 
 If the weather conditions are unsuitable for outdoor activities, the photo walk will be conducted within the building.
 
-Updated 02 Nov 2022
+Updated 24 Nov 2022
