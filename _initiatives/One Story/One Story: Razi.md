@@ -3,7 +3,7 @@ title: "One Story: Razi"
 permalink: /initiatives/one-story/
 third_nav_title: One Story
 ---
-![banner Razi](/images/one-story-razi/OS21%20Website%20Banner.jpg)
+![banner OS23](/images/one-story-2023/Inner Main Banner.png)
 
 **About the One Story project**
 
