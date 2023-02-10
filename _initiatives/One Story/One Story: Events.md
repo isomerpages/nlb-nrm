@@ -4,7 +4,7 @@ permalink: /initiatives/one-story-events/
 third_nav_title: One Story
 description: ""
 ---
-![banner OS23](/images/One Story 2023/OS23 Inner Main Page.png)
+![banner OS23](/images/One Story 2023/OS23 Inner Main Page 2.png)
 
 One Story features talks, workshops and experiences by authors and trained professionals from various fields. Take your pick from the programmes and immerse yourself in conversations on home, tradition and human instinct.
 
