@@ -26,7 +26,7 @@ For programme details, visit the respective event link.
 | 24 March, Sunday   | 6.30pm – 8.30pm   | [[ONE STORY 23] The challenges in Following Traditions in a Modern Society](https://www.eventbrite.com/e/one-story-23-the-challenges-in-following-traditions-in-a-modern-society-tickets-518287189937?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 25 March, Saturday    | 3.00pm – 5.00pm        | \[ONE STORY 23] Colours of Our Heritage |
 | 25 March, Saturday | 7.00pm – 8.30pm     | [[ONE STORY 23] 德士师傅与好友读书会导读《蹲向传统或坐看现代》](https://www.eventbrite.com/e/one-story-23-tickets-536045184577?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
-| 01 April, Saturday | 2.30pm – 4:30pm     | [ONE STORY 23] Dari Kampung ke HDB: Yang Kekal, Mekar dan Menyepi]|
+| 01 April, Saturday | 2.30pm – 4:30pm     | [ONE STORY 23] Dari Kampung ke HDB: Yang Kekal, Mekar dan Menyepi|
 | 08 April, Saturday | 2.30pm – 4:00pm     | [[ONE STORY 23] 华人的厕所文化 – 人人有“粪”](https://www.eventbrite.com/e/one-story-23-tickets-540477120617?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 13 April, Thursday| 7.00pm – 8.00pm     | [[ONE STORY 23] 5 Questions for a Conservation Planner](https://www.eventbrite.sg/e/one-story-23-5-questions-for-a-conservation-planner-tickets-526318441627?aff=odcleoeventsincollection){:target="_blank"} |
 | 16 April, Sunday | 11.00am – 1:00pm     | [[ONE STORY 23] Tamil Short Story Writing Workshop for Teens](https://www.eventbrite.com/e/one-story-23-tamil-short-story-writing-workshop-for-teens-tickets-518274843007?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
