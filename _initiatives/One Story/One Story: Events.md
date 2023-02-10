@@ -34,6 +34,7 @@ For programme details, visit the respective event link.
 | 22 April, Saturday| 11.00am – 12:00pm     | [[ONE STORY 23] From the Pit to the Bowl: A Brief History of Toilets in SG](https://www.eventbrite.com/e/one-story-23-from-the-pit-to-the-bowl-a-brief-history-of-toilets-in-sg-tickets-526312995337?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 29 April, Saturday | 11.00am – 12:30pm     | [[ONE STORY 23] Love in Other Tongues](https://www.eventbrite.com/e/one-story-23-love-in-other-tongues-tickets-526314379477?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 20 May, Saturday | 2.30pm – 4.30pm     | [ONE STORY 23\] Sepetang Meraikan Warisan
-
+| 27 May, Saturday | 10.30am – 12:00pm     | [ONE STORY 23\] Mendokumentasi Kami: Warisan@Kediaman |
+| 27 May, Saturday | 2.30pm – 4.30pm     | \[ONE STORY 23\] Yang Tradisi Cangkung, Yang Moden Duduk: Sebuah Perbincangan Tentang Tradisi dan Masa kini |
 
 Updated 10 Feb 2023
