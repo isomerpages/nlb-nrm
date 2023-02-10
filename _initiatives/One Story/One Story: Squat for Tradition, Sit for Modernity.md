@@ -4,14 +4,12 @@ permalink: /initiatives/one-story/
 third_nav_title: One Story
 description: ""
 ---
-
 ![banner OS23](/images/one-story-2023/OS23 Inner Main Page.png)
 
 **About the One Story project**
 
+One Story is a National Reading Movement initiative to make Singapore short stories - originally written in Tamil, Malay and Chinese - available in the other languages. The project aims to bring these stories to more readers beyond the language communities that they were originally written for. *"Squat for Tradition, Sit for Modernity"* is a short story by Cultural Medallion recipient Chia Joo Ming that was originally written in Chinese. This book features the story in all four languages.
 
-
-**Razi**
 
 <img src="/images/one-story-razi/OS BookCover1.jpg" style="width:30%" alt="Razi"/>
 
