@@ -10,7 +10,7 @@ description: ""
 
 One Story is a National Reading Movement initiative to make Singapore short stories - originally written in Tamil, Malay and Chinese - available in the other languages. The project aims to bring these stories to more readers beyond the language communities that they were originally written for. *"Squat for Tradition, Sit for Modernity"* is a short story by Cultural Medallion recipient Chia Joo Ming that was originally written in Chinese. This book features the story in all four languages.
 
-<img src="/images/One Story 2023/OS23Cover.png" style="width:30%" alt="SitforModernity"/>
+<img src="/images/One Story 2023/OS23Cover.png" style="width:30%" alt="Squat for Tradition Sit for Modernity"/>
 
 Borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
 
@@ -18,34 +18,26 @@ Borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
 
 **Story Synopsis**
 
-Every day is a painful struggle for Nani, the mother of Razi, a boy with special needs. As Nani finds herself increasingly frustrated by society’s lack of understanding and empathy for Razi’s condition, she is by turns swayed and pressured by her sister’s incessant cajoling to seek help from a traditional Malay healer. Nani keeps the treatment a secret from her husband – out of fear and perhaps guilt. Razi is slowly tamed into obedience. The healer sees it as progress, but is submission into silent acquiescence a cure at all?
+When the story's characters attempt to replace their squatting toilet with a sitting toilet bowl, they discover this will not be possible because their pre-war house is in a heritage conservation district and event its toilets are protected by regulations.
 
-“Razi” will make you ponder over the great lengths people would go to and the sacrifices they make for their loved ones.  Readers will be tempted to weigh in on the dilemmas that Nani has to grapple with and tread along the emotional rollercoaster of her struggle and guilt. Will we condemn her choices? Or empathise with her challenges? 
+Cultural Medallion recipient Chia Joo Ming embeds this thwarted renovation attempt in a light-hearted story that ultimately poses the question to readers: "What do home, tradition and natural instinct mean to each of us?"
 
 
 **About the Author**
 
-<img src="/images/one-story-razi/Saeda Buang.jpg" style="width:30%" alt="Saeda Buang"/>
+<img src="/images/One Story 2023/OS23 CJM.jpg" style="width:30%" alt="Chia Joo Ming"/>
 
-Dr Sa’eda Buang is a Senior Lecturer in the Asian Languages and Cultures academic group, National Institute of Education (NIE) at the Nanyang Technological University (NTU), Singapore. Her research interests are in the areas of comparative literature, cultural studies, curriculum development and reformation, critical literacy, Muslim education, alternative assessments, and Jawi manuscripts. 
+Born in Singapore in 1959, Chia Joo Ming was presented with the Young Artist Award for Literature by the National Arts Council of Singapore in 1193. He was subsequently invited to participate in the Iowa International Writing Program in 1995. In 2024, he was appointed as Writer-in-Residence at Nanyang Technological University. He was conferred the S.E.A Write Award in 2017 and the Cultural Medallion in 2021.
 
-Dr Sa’eda writes poetry, short stories, and academic papers on literature. She won the much-coveted Literary Prize (poetry) for “Pustakaku Dalam Remang Senja” (My Reading Room in the Twilight) awarded by the Singapore Malay Language Council in 2003; the Literary Prize (short story) for “Ke Puncak Pun Tidak” (To Summit No More); and the Literary Prize (commendation, poetry) for “Malang, Senda dan Citra” (Misfortune, Hope and Comedy), both in 2005. Her award-winning poem, “Pustakaku Dalam Remang Senja” was translated into Mandarin and was featured in Singapore’s Chinese daily Lianhe Zaobao in 2003. 
+He has been described as "one of the ten keywords of Singapore's Chinese cultural perspectives" by Professor David Der-Wei Wang, Department of East Asian Languages and Civilizations, Harvard University.
 
-Apart from conducting workshops on creative writing at schools and for the public, she currently serves as Singapore’s representative in the Southeast Asian Literature Council (MASTERA) as well as an advisor and consultant in the international and local Malay literary industry. In addition to being a member of several editorial advisory boards in Indonesia and Malaysia, Dr Sa’eda was also the guest editor for the Asia-Pacific Journal of Education’s special issue on Muslim Education − Challenges, Opportunities and Beyond (2007) and Associate Editor of the Asia-Pacific Journal of Education (Routledge), NIE-NTU (2014-2016). She also reviews numerous international journals.
+Chia has 11 pubished books. He won the Singapore Book Award in 1996 for *New Words of Worldly Tales*. He also won the Singapore Literature Prize in 2006, 2010 and 2020 for *Reconstructing Nanyang*, *m40* and *Kian Kok* respectively. His novel, *Exile* or *Pursuit* received a commendation award at Singapore Literature Prize in 2016.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwVLNZOvTuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+In 2016, Taiwan's literary magazine (Wen Hsun) put *m40* on its list of top 20 novels (2001-15) while *Kian Kok* was on Yazhou Zhoukan's list of 2018's top 10 novels. *Exile* or *Pursuit* was selected as a Chinese literature textbook for secondary schools by Ministry of Education in 2018. An English translation of the novel was published in 2019, and the novel was adapted into a Chinese stage performance in 2021.
 
 
-<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story/resources" target = "_self"> 
-         <img src="/images/one-story-razi/resources.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a><br>
-		<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story-recommended" target = "_self"> 
-         <img src="/images/one-story-razi/recommended.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a><br>
-			<a href = "https://readingnation.nlb.gov.sg/initiatives/one-story-events/" target = "_self"> 
-         <img src="/images/one-story-razi/programmes.jpg" style="width:30%" alt="Saeda Buang"/> 
-      </a>
 
-Terms & Conditions for One Story Social Media Contests [HERE](/files/One%20Story%20Social%20Contest%20TCs.pdf)
 
-Updated 10 Jan 2022
+
+
+Updated 10 Feb 2023
