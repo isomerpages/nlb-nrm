@@ -27,14 +27,13 @@ For programme details, visit the respective event link.
 | 25 March, Saturday    | 3.00pm – 5.00pm        | \[ONE STORY 23] Colours of Our Heritage |
 | 25 March, Saturday | 7.00pm – 8.30pm     | [[ONE STORY 23] 德士师傅与好友读书会导读《蹲向传统或坐看现代》](https://www.eventbrite.com/e/one-story-23-tickets-536045184577?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 01 April, Saturday | 2.30pm – 4:30pm     | [ONE STORY 23] Dari Kampung ke HDB: Yang Kekal, Mekar dan Menyepi] |
-| 26 March, Saturday | 7.00pm – 9:00pm     | [[ONE STORY 21] 德士师傅与好友读书会线上导读《拉择》](https://www.eventbrite.sg/e/one-story-21-registration-195999117637){:target="_blank"} |
-| 02 April, Saturday | 11.00am – 12:30pm     | [[ONE STORY 21] 我家有个自闭儿 2](https://www.eventbrite.sg/e/one-story-21-2-registration-276315124977){:target="_blank"} |
-| 02 April, Saturday | 11.00am – 1:00pm     | [Autisme & Cabarannya](https://www.eventbrite.sg/e/autisme-cabarannya-one-story-project-registration-292245412897){:target="_blank"} |
-| 16 April, Saturday | 2.00pm – 4:00pm     | [Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen](https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877){:target="_blank"} |
-| 26 April, Tuesday | 8.00pm – 9:00pm     | [Head2Head / Exploring Autism Through Literature](https://www.eventbrite.sg/e/head2head-exploring-autism-through-literature-registration-203657534167){:target="_blank"} |
-| 29 April, Friday | 8.00pm – 9:30pm     | [Heartlands Book Club / "Razi" by Dr Sa'eda Buang](https://www.eventbrite.sg/e/heartlands-book-club-razi-by-dr-saeda-buang-registration-203660472957){:target="_blank"} |
-| 21 May, Saturday | 9.30am – 12.30pm     | [[One Story 21] 金文泰联络所华语读书会线上导读《拉择》](https://www.eventbrite.sg/e/world-book-day-2022-registration-292229926577)
+| 08 April, Saturday | 2.30pm – 4:00pm     | [[ONE STORY 23] 华人的厕所文化 – 人人有“粪”](https://www.eventbrite.com/e/one-story-23-tickets-540477120617?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
+| 13 April, Thursday| 7.00pm – 8.00pm     | [[ONE STORY 23] 5 Questions for a Conservation Planner](https://www.eventbrite.sg/e/one-story-23-5-questions-for-a-conservation-planner-tickets-526318441627?aff=odcleoeventsincollection)]{:target="_blank"} |
+| 16 April, Sunday | 11.00am – 1:00pm     | [[ONE STORY 23] Tamil Short Story Writing Workshop for Teens](https://www.eventbrite.com/e/one-story-23-tamil-short-story-writing-workshop-for-teens-tickets-518274843007?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
+| 20 April,  Thursday | 7.00pm – 8:00pm     | [[ONE STORY 23] Squat for Tradition, Sit for Modernity | Sing Lit Book Club](https://www.eventbrite.com/e/one-story-23-squat-for-tradition-sit-for-modernity-sing-lit-book-club-tickets-526317358387?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
+| 22 April, Saturday| 11.00am – 12:00pm     | [[ONE STORY 23] From the Pit to the Bowl: A Brief History of Toilets in SG](https://www.eventbrite.com/e/one-story-23-from-the-pit-to-the-bowl-a-brief-history-of-toilets-in-sg-tickets-526312995337?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
+| 29 April, Saturday | 11.00am – 12:30pm     | [[ONE STORY 23] Love in Other Tongues](https://www.eventbrite.com/e/one-story-23-love-in-other-tongues-tickets-526314379477?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
+| 20 May, Saturday | 2.30pm – 4.30pm     | [ONE STORY 23\] Sepetang Meraikan Warisan
 
 
-
-Updated 07 Apr 2022
+Updated 10 Feb 2023
