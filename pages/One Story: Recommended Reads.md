@@ -1,9 +1,9 @@
 ---
 title: "One Story: Recommended Reads"
-permalink: /initiatives/one-story-recommended
-third_nav_title: One Story
+permalink: /initiatives/one-story-recommended/
 description: ""
 ---
+
 ![banner Razi](/images/one-story-razi/OS21%20Website%20Banner.jpg)
 
 **Recommended Reads**
