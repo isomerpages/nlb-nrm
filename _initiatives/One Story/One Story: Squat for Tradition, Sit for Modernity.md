@@ -10,17 +10,52 @@ description: ""
 
 One Story is a National Reading Movement initiative to make Singapore short stories - originally written in Tamil, Malay and Chinese - available in the other languages. The project aims to bring these stories to more readers beyond the language communities that they were originally written for. *"Squat for Tradition, Sit for Modernity"* is a short story by Cultural Medallion recipient Chia Joo Ming that was originally written in Chinese. This book features the story in all four languages.
 
-<img src="/images/One Story 2023/OS23Cover.png" style="width:30%" alt="Squat for Tradition Sit for Modernity"/>
-
-Borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
-
-
 
 **Story Synopsis**
 
 When the story's characters attempt to replace their squatting toilet with a sitting toilet bowl, they discover this will not be possible because their pre-war house is in a heritage conservation district and event its toilets are protected by regulations.
 
 Cultural Medallion recipient Chia Joo Ming embeds this thwarted renovation attempt in a light-hearted story that ultimately poses the question to readers: "What do home, tradition and natural instinct mean to each of us?"
+
+
+**Squat for Tradition, Sit for Modernity**
+
+<img src="/images/One Story 2023/OS23Cover.png" style="width:60%" alt="Squat for Tradition Sit for Modernity"/>
+
+
+
+ 1. 
+
+I’ve often wondered how to describe a home. 
+
+First, what is a home? 
+
+A television set (including a VCR and disc player), a telephone (including a fax machine), a hi-fi system (including a radio cassette recorder, a CD player), a computer, an air conditioner, a washing machine, an electric iron, a cooker hood, a refrigerator, an electric stove (that bakes, roasts, pan-fries, deep-fries), a microwave oven, an electric kettle, a hair dryer, a vacuum cleaner, and of course, electric lights (including standing and wall lamps). Do these, together, make up a ‘90s-era home? 
+
+What exactly is a home? 
+
+It is Christmas Eve, and the fine drizzle outside has made its way through the gauze curtains, speckling the air like dust before descending onto the newly waxed floorboards. My first reaction is to wonder why I hadn’t noticed this earlier, after which it occurs to me that I’ll need to mop the floors again tomorrow. My first reaction should have been to get up to stand at the window, to feel the evening spray on my face, my hair, on this tranquil Christmas Eve, as the Female Lead makes her entrance… 
+
+But she doesn’t enter. She has just fallen asleep in the bedroom. Prior to that, she handed me a list of the basic appliances that make up a home. Only five items have checkmarks next to them. 
+
+I ought to get up to walk to the windows to shut them, not to stand there transfixed, lost in thought. The rain grows heavier. I’ve begun to find the regularity of these showers intolerable, even though I had, in the past, spent countless rainy days in front of the windows with her. 
+
+I get up, and the only thing left in the living room is a six-foot-tall (I never could convert that into the darned metric system) plastic Christmas tree, one of the emotional ties that binds her and me. A Christmas tree in our house, festooned with lights like a starry night, creates a festive atmosphere in our home. The other furniture can wait. 
+
+As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home?
+
+Read the rest of the story in [ENGLISH](go.gov.sg/os23-english)
+
+[CHINESE](go.gov.sg/os23-chinese)
+
+[MALAY](go.gov.sg/os23-malay) 
+
+[TAMIL](go.gov.sg/os23-tamil)
+
+Alternatively, borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
+
+
+
 
 
 **About the Author**
