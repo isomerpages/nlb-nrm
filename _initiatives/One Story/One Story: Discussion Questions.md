@@ -4,7 +4,7 @@ permalink: /initiatives/One-Story/discussion/
 third_nav_title: One Story
 description: ""
 ---
-![banner OS23](/images/One Story 2023/OS23 Inner Main Page.png)
+![banner OS23](/images/One Story 2023/OS23 Inner Main Page 2.png)
 
 **Discussion Questions**
 
