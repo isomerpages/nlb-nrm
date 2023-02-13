@@ -10,13 +10,13 @@ description: ""
 
 If the One Story initiative interests you, here are some questions that will help you discuss the story with your communities.
 
-[ENGLISH](go.gov.sg/os23-discussion-el)
+[ENGLISH](https://go.gov.sg/os23-discussion-el)
 
-[CHINESE](go.gov.sg/os23-discussion-cl)
+[CHINESE](https://go.gov.sg/os23-discussion-cl)
 
-[MALAY](go.gov.sg/os23-discussion-ml)
+[MALAY](https://go.gov.sg/os23-discussion-ml)
 
-[TAMIL](go.gov.sg/os23-discussion-tl)
+[TAMIL](https://go.gov.sg/os23-discussion-tl)
 
 
-Updated 10 Feb 2023
+Updated 13 Feb 2023
