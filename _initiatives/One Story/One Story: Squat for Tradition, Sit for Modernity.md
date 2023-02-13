@@ -66,7 +66,7 @@ Born in Singapore in 1959, Chia Joo Ming was presented with the Young Artist Awa
 
 He has been described as "one of the ten keywords of Singapore's Chinese cultural perspectives" by Professor David Der-Wei Wang, Department of East Asian Languages and Civilizations, Harvard University.
 
-Chia has 11 pubished books. He won the Singapore Book Award in 1996 for *New Words of Worldly Tales*. He also won the Singapore Literature Prize in 2006, 2010 and 2020 for *Reconstructing Nanyang*, *m40* and *Kian Kok* respectively. His novel, *Exile* or *Pursuit* received a commendation award at Singapore Literature Prize in 2016.
+Chia has 11 published books. He won the Singapore Book Award in 1996 for *New Words of Worldly Tales*. He also won the Singapore Literature Prize in 2006, 2010 and 2020 for *Reconstructing Nanyang*, *m40* and *Kian Kok* respectively. His novel, *Exile* or *Pursuit* received a commendation award at Singapore Literature Prize in 2016.
 
 In 2016, Taiwan's literary magazine (Wen Hsun) put *m40* on its list of top 20 novels (2001-15) while *Kian Kok* was on Yazhou Zhoukan's list of 2018's top 10 novels. *Exile* or *Pursuit* was selected as a Chinese literature textbook for secondary schools by Ministry of Education in 2018. An English translation of the novel was published in 2019, and the novel was adapted into a Chinese stage performance in 2021.
 
