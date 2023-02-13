@@ -44,13 +44,13 @@ I get up, and the only thing left in the living room is a six-foot-tall (I never
 
 As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home?
 
-Read the rest of the story in [ENGLISH](go.gov.sg/os23-english)
+Read the rest of the story in [ENGLISH](https://go.gov.sg/os23-english)
 
-[CHINESE](go.gov.sg/os23-chinese)
+[CHINESE](https://go.gov.sg/os23-chinese)
 
-[MALAY](go.gov.sg/os23-malay) 
+[MALAY](https://go.gov.sg/os23-malay) 
 
-[TAMIL](go.gov.sg/os23-tamil)
+[TAMIL](https://go.gov.sg/os23-tamil)
 
 Alternatively, borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
 
