@@ -62,7 +62,7 @@ Alternatively, borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)
 
 <img src="/images/One Story 2023/OS23 CJM.jpg" style="width:30%" alt="Chia Joo Ming"/>
 
-Born in Singapore in 1959, Chia Joo Ming was presented with the Young Artist Award for Literature by the National Arts Council of Singapore in 1193. He was subsequently invited to participate in the Iowa International Writing Program in 1995. In 2014, he was appointed as Writer-in-Residence at Nanyang Technological University. He was conferred the S.E.A Write Award in 2017 and the Cultural Medallion in 2021.
+Born in Singapore in 1959, Chia Joo Ming was presented with the Young Artist Award for Literature by the National Arts Council of Singapore in 1993. He was subsequently invited to participate in the Iowa International Writing Program in 1995. In 2014, he was appointed as Writer-in-Residence at Nanyang Technological University. He was conferred the S.E.A Write Award in 2017 and the Cultural Medallion in 2021.
 
 He has been described as "one of the ten keywords of Singapore's Chinese cultural perspectives" by Professor David Der-Wei Wang, Department of East Asian Languages and Civilizations, Harvard University.
 
