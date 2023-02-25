@@ -22,8 +22,38 @@ Cultural Medallion recipient Chia Joo Ming embeds this thwarted renovation attem
 
 <img src="/images/One Story 2023/OS23Cover.png" style="width:60%" alt="Squat for Tradition Sit for Modernity"/>
 
+ 1. 
 
-Check out the full story in English, Chinese, Malay and Tamil from 25 February 2023.
+I’ve often wondered how to describe a home. 
+
+First, what is a home? 
+
+A television set (including a VCR and disc player), a telephone (including a fax machine), a hi-fi system (including a radio cassette recorder, a CD player), a computer, an air conditioner, a washing machine, an electric iron, a cooker hood, a refrigerator, an electric stove (that bakes, roasts, pan-fries, deep-fries), a microwave oven, an electric kettle, a hair dryer, a vacuum cleaner, and of course, electric lights (including standing and wall lamps). Do these, together, make up a ‘90s-era home? 
+
+What exactly is a home? 
+
+It is Christmas Eve, and the fine drizzle outside has made its way through the gauze curtains, speckling the air like dust before descending onto the newly waxed floorboards. My first reaction is to wonder why I hadn’t noticed this earlier, after which it occurs to me that I’ll need to mop the floors again tomorrow. My first reaction should have been to get up to stand at the window, to feel the evening spray on my face, my hair, on this tranquil Christmas Eve, as the Female Lead makes her entrance… 
+
+But she doesn’t enter. She has just fallen asleep in the bedroom. Prior to that, she handed me a list of the basic appliances that make up a home. Only five items have checkmarks next to them. 
+
+I ought to get up to walk to the windows to shut them, not to stand there transfixed, lost in thought. The rain grows heavier. I’ve begun to find the regularity of these showers intolerable, even though I had, in the past, spent countless rainy days in front of the windows with her. 
+
+I get up, and the only thing left in the living room is a six-foot-tall (I never could convert that into the darned metric system) plastic Christmas tree, one of the emotional ties that binds her and me. A Christmas tree in our house, festooned with lights like a starry night, creates a festive atmosphere in our home. The other furniture can wait. 
+
+As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home? As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home? The other day, I said to her that people in the past had to have livestock to set up a home. That is why the Chinese character for “home” (jia, 家) positions the character for “pig” (豕) under a “roof” ( 宀 ). But in today’s homes, the component for “pig” can probably be replaced by the character for “electricity” (电):
+
+<img src="/images/One Story 2023/OS23_1.png" style="width:20%" alt="Squat for Tradition Sit for Modernity"/>
+
+Read the rest of the story in [ENGLISH](https://go.gov.sg/os23-english)
+
+[CHINESE](https://go.gov.sg/os23-chinese)
+
+[MALAY](https://go.gov.sg/os23-malay) 
+
+[TAMIL](https://go.gov.sg/os23-tamil)
+
+Alternatively, borrow the book **[HERE](https://nlb.overdrive.com/media/9599478)**.
+
 
 
 **About the Author**
@@ -43,4 +73,4 @@ In 2016, Taiwan's literary magazine (Wen Hsun) put *m40* on its list of top 20 n
 
 
 
-Updated 15 Feb 2023
+Updated 25 Feb 2023
