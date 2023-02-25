@@ -4,8 +4,6 @@ permalink: /initiatives/One-Story/discussion/
 description: ""
 third_nav_title: One Story
 ---
-
-
 ![banner OS23](/images/One Story 2023/OS23 Inner Main Page 2.png)
 
 **Discussion Questions**
@@ -21,4 +19,4 @@ If the One Story initiative interests you, here are some questions that will hel
 [TAMIL](https://go.gov.sg/os23-discussion-tl)
 
 
-Updated 13 Feb 2023
+Updated 25 Feb 2023
