@@ -13,7 +13,7 @@ One Story is a National Reading Movement initiative to make Singapore short stor
 
 **Story Synopsis**
 
-When the story's characters attempt to replace their squatting toilet with a sitting toilet bowl, they discover this will not be possible because their pre-war house is in a heritage conservation district and event its toilets are protected by regulations.
+When the story's characters attempt to replace their squatting toilet with a sitting toilet bowl, they discover this will not be possible because their pre-war house is in a heritage conservation district and even its toilets are protected by regulations.
 
 Cultural Medallion recipient Chia Joo Ming embeds this thwarted renovation attempt in a light-hearted story that ultimately poses the question to readers: "What do home, tradition and natural instinct mean to each of us?"
 
