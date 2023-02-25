@@ -42,7 +42,7 @@ I get up, and the only thing left in the living room is a six-foot-tall (I never
 
 As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home? As my breathing echoes in the bare, square hall with teak flooring, the question returns: What makes a home? The other day, I said to her that people in the past had to have livestock to set up a home. That is why the Chinese character for “home” (jia, 家) positions the character for “pig” (豕) under a “roof” ( 宀 ). But in today’s homes, the component for “pig” can probably be replaced by the character for “electricity” (电):
 
-<img src="/images/One Story 2023/OS23_1.jpg" style="width:60%" alt="Squat for Tradition Sit for Modernity"/>
+<img src="/images/One Story 2023/OS23_1.png" style="width:20%" alt="Squat for Tradition Sit for Modernity"/>
 
 Read the rest of the story in [ENGLISH](https://go.gov.sg/os23-english)
 
