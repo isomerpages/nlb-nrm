@@ -2,7 +2,7 @@ collections:
   readfest:
     output: true
     order:
-      - about-read-fest-2021.md
+      - About Read! Fest 2021.md
       - 12-titles-12-insights.md
       - festival-programmes.md
       - literary-trails.md
