@@ -1,7 +1,9 @@
 ---
 title: About Read! Fest 2021
-permalink: /readfest/main
+permalink: /readfest/main/
+description: ""
 ---
+
 ![banner RF](\images\RF_WebsiteHeader.png)
 
 **About Read! Fest 2021**
