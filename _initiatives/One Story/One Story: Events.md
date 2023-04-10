@@ -32,9 +32,9 @@ For programme details, visit the respective event link.
 | 20 April,  Thursday | 7.00pm – 8:00pm     | [[ONE STORY 23] Squat for Tradition, Sit for Modernity Sing Lit Book Club](https://www.eventbrite.com/e/one-story-23-squat-for-tradition-sit-for-modernity-sing-lit-book-club-tickets-526317358387?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 23 April, Sunday | 11.00am – 12.30pm     | [[ONE STORY 23] உயர்நிலைப் பள்ளி மாணவர்களுக்கான புனைகதை எழுதும் பயிலரங்கு](https://go.gov.sg/os23-tamilworkshop){:target="_blank"} |
 | 29 April, Saturday | 11.00am – 12:30pm     | [[ONE STORY 23] Love in Other Tongues](https://www.eventbrite.com/e/one-story-23-love-in-other-tongues-tickets-526314379477?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
-04 May, Sunday| 1.00pm – 2:00pm     | [[ONE STORY 23] From the Pit to the Bowl: A Brief History of Toilets in SG](https://www.eventbrite.sg/e/one-story-23-from-the-pit-to-the-bowl-a-brief-history-of-toilets-in-sg-tickets-599969233127){:target="_blank"} |
+14 May, Sunday| 1.00pm – 2:00pm     | [[ONE STORY 23] From the Pit to the Bowl: A Brief History of Toilets in SG](https://www.eventbrite.sg/e/one-story-23-from-the-pit-to-the-bowl-a-brief-history-of-toilets-in-sg-tickets-599969233127){:target="_blank"} |
 | 20 May, Saturday | 2.30pm – 4.30pm     | [[ONE STORY 23] Sepetang Meraikan Warisan](https://www.eventbrite.com/e/one-story-23-sepetang-meraikan-warisan-tickets-545845788447?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} 
 | 27 May, Saturday | 10.30am – 12:00pm     | [[ONE STORY 23] Mendokumentasi Kami: Warisan@Kediaman](https://www.eventbrite.com/e/one-story-23-mendokumentasi-kami-warisankediaman-tickets-545858536577?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 27 May, Saturday | 2.30pm – 4.30pm     | [[ONE STORY 23] Yang Tradisi Cangkung, Yang Moden Duduk: Sebuah Perbincangan Tentang Tradisi dan Masa kini](https://www.eventbrite.com/e/one-story-23-kelab-membaca-ilham-pustaka-tentang-tradisi-masa-kini-tickets-545865968807?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"}  |
 
-Updated 06 Apr 2023
+Updated 10 Apr 2023
