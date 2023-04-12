@@ -1,19 +1,16 @@
 ---
-title: "Masterclass Series"
+title: Masterclass Series
 permalink: /initiatives/masterclass/
 ---
-
 ![banner Masterclass](\masterclass\Masterclass_NADYA.jpg)
 
 **Adaptive Resilience for Challenging Times**
 
 **22 January 2021, 8pm - 9pm**
 
-Join Founder of We The Good and Advisor of The Contentment Foundation, Nadya Hutagalung, as she explores the tools you need to build up resilience for challenging times. Hear Nadya talk about how she lives life mindfully and pick up tips and recommended reads for your own journey.
+Founder of We The Good and Advisor of The Contentment Foundation, Nadya Hutagalung, explored the tools you need to build up resilience for challenging times. 
 
-The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
-
-Learn more with our exclusive learning package: [Adaptive Resilience](/Masterclass/Masterclass 2020 Adaptive Resilience.pdf){:target="_blank"}
+Exclusive learning package: [Adaptive Resilience](/Masterclass/Masterclass 2020 Adaptive Resilience.pdf){:target="_blank"}
 
 ![banner AdaptiveR](\masterclass\Adaptive Resilience Sketch.PNG)
 
@@ -29,11 +26,9 @@ Download the sketch: [Adaptive Resilience Sketch](/Masterclass/Adaptive Resilien
 
 **29 January 2021, 8pm - 9pm**
 
-Join Dawn Cher aka SG Budget Babe as she explores the importance of taking care of your personal wealth and finance. Dawn will share her framework of personal finance whilst profiving an authentic and balanced view on financial management, types of income and building a portfolio for your future.
+Dawn Cher aka SG Budget Babe explored the importance of taking care of your personal wealth and finance. Dawn shared her framework of personal finance whilst providing an authentic and balanced view on financial management, types of income and building a portfolio for your future.
 
-The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
-
-Learn more with our exclusive learning package: [Personal Finance and Investing](/Masterclass/Masterclass 2020 Personal Finance.pdf){:target="_blank"}
+Exclusive learning package: [Personal Finance and Investing](/Masterclass/Masterclass 2020 Personal Finance.pdf){:target="_blank"}
 
 ![banner PersonalF](\masterclass\Personal Finance Sketch.PNG)
 
@@ -49,15 +44,15 @@ Download the sketch: [Personal Finance Sketch](/Masterclass/Personal Finance Ske
 
 **05 February 2021, 8pm - 9pm**
 
-Join Nuseir Yassin of NAS Daily as he shares what you need to know to tell a great story. The right words are priceless and the ability to practice unique storytelling can be a powerful tool to reach out to your target audience.
-
-The programme will be conducted entirely online. Participants may access the Zoom platform via the app or using a web browser. 
+Nuseir Yassin of NAS Daily shared what you need to know to tell a great story. The right words are priceless and the ability to practice unique storytelling can be a powerful tool to reach out to your target audience.
 
 
 
 
 
-Learn more with our exclusive learning package: [The Art of Storytelling](/Masterclass/Masterclass 2020 Storytelling.pdf){:target="_blank"}
+
+
+Exclusive learning package: [The Art of Storytelling](/Masterclass/Masterclass 2020 Storytelling.pdf){:target="_blank"}
 
 
 
@@ -69,5 +64,4 @@ Download the sketch: [The Art of Storytelling Sketch](/Masterclass/The Art of St
 
 
 
-Updated 15 Feb 2021
-
+Updated 12 Apr 2023
