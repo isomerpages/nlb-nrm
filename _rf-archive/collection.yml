@@ -1,0 +1,4 @@
+collections:
+  rf-archive:
+    output: true
+    order: []
