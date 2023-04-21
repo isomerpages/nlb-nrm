@@ -2,8 +2,8 @@ collections:
   rf-archive:
     output: true
     order:
-      - big-book-giveaway.md
-      - literary-trails.md
-      - festival-programmes.md
-      - 12-titles-12-insights.md
       - About Read! Fest 2021.md
+      - 12-titles-12-insights.md
+      - festival-programmes.md
+      - literary-trails.md
+      - big-book-giveaway.md
