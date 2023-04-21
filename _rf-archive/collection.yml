@@ -2,6 +2,7 @@ collections:
   rf-archive:
     output: true
     order:
+      - big-book-giveaway.md
       - literary-trails.md
       - festival-programmes.md
       - 12-titles-12-insights.md
