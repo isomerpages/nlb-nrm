@@ -1,6 +1,7 @@
 ---
 title: 12 Titles, 12 Insights
-permalink: /readfest/12titles
+permalink: /rfarchive/12titles/
+description: ""
 ---
 ![banner RF](\images\RF_12.jpg)
 
@@ -31,7 +32,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
     <div class="image-container" style="margin: auto; margin-top: 10px">
     
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204393951"><img src="/images/Algorithms of Life.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204393951"><img src="/images/Algorithms of Life.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">人生算法 by 陈楸帆 </h4>
     
@@ -53,7 +54,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
     <div class="image-container" style="margin: auto; margin-top: 10px">
     
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204069504"><img src="/images/Kerumunan Terakhir.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204069504"><img src="/images/Kerumunan Terakhir.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Kerumunan Terakhir by Okky Madasari</h4>
     
@@ -75,7 +76,7 @@ Keen to explore more? Explore the additional resources in the links below.
     
     <div class="image-container" style="margin: auto; margin-top: 10px">
     
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202723702"><img src="/images/Sool.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202723702"><img src="/images/Sool.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">சூல் by சோ.தர்மன்</h4>
     
@@ -107,7 +108,7 @@ Keen to explore more? Explore the additional resources in the links below.
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
     
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5482201"><img src="/images/MitosPeribumi-2.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5482201"><img src="/images/MitosPeribumi-2.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">Mitos Peribumi Malas : Imej orang Jawa, Melayu dan Filipina dalam Kapitalisme Penjajah by Syed Hussein Alatas
     </h4>
@@ -128,7 +129,7 @@ Keen to explore more? Explore the additional resources in the links below.
     </div>
     <div class="image-container" style="margin: auto; margin-top: 10px">
     
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205368708"><img src="/images/Meinigari.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205368708"><img src="/images/Meinigari.jpg" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
     
         <h4 class="title" style="max-width: 15rem; font-size: 20px; padding: 0px 10px;">மெய்நிகரி by கபிலன் வைரமுத்து</h4>
     

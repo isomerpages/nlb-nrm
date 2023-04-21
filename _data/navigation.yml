@@ -19,15 +19,7 @@ links:
         url: https://mobileapp.nlb.gov.sg
   - title: Read! Fest
     url: /readfest/main
-    sublinks:
-      - title: 12 Titles, 12 Insights
-        url: /readfest/12titles/
-      - title: Festival Programmes
-        url: /readfest/programmes/
-      - title: Literary Trails
-        url: /readfest/littrails
-      - title: Big Book Giveaway
-        url: /readfest/bigbookgiveaway
+    sublinks: []
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Partners

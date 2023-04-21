@@ -6,7 +6,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/One Story 2023/OS23 Website Banner.png
+      background: /images/RF23/rf23_websiteheader_main.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
@@ -18,7 +18,7 @@ sections:
           description: Keen to share your thoughts about the books you have read? Why not
             join a book club? Find out more.
           url: /initiatives/book-clubs/
-      url: /initiatives/one-story
+      url: /readfest/main/
   - infopic:
       title: Book Recommendations, Reviews and More!
       subtitle: Highlights

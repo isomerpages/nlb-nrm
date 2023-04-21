@@ -1,6 +1,7 @@
 ---
 title: Literary Trails
-permalink: /readfest/littrails
+permalink: /rfarchive/littrails/
+description: ""
 ---
 ![banner RF](\images\RF Trail Banner.jpg)
 
