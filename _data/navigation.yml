@@ -18,8 +18,7 @@ links:
       - title: NLB Mobile app
         url: https://mobileapp.nlb.gov.sg
   - title: Read! Fest
-    url: /readfest/main
-    sublinks: []
+    url: /readfest/main/
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Partners
