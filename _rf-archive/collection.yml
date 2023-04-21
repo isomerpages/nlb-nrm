@@ -2,5 +2,6 @@ collections:
   rf-archive:
     output: true
     order:
+      - festival-programmes.md
       - 12-titles-12-insights.md
       - About Read! Fest 2021.md
