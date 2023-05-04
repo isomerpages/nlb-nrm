@@ -11,7 +11,9 @@ Read for Books is a charity book drive to raise awareness and share the gift of 
 
 From 1 to 31 July 2023, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries, for up to a certain number of books.
 
-Read for Books 2023 is held in conjunction with Read! Fest. Find out more about Read! Fest here: [https://go.gov.sg/rf23](https://go.gov.sg/rf23)  
+Read for Books 2023 is held in conjunction with Read! Fest. 
+
+Find out more about Read! Fest here: [https://go.gov.sg/rf23](https://go.gov.sg/rf23)  
 
 * * *
 
@@ -32,7 +34,7 @@ Step 1: Register your interest by submitting the registration forms via the link
 
 [**Organisations**](https://go.gov.sg/rfb23-organisations)
 
-Step 2: Read for 15 minutes at your own physical or virtual space from 1 to 31 July 2023, or join one of the Read Together sessions organised by NLB (will be updated closer to date).
+Step 2: Read for 15 minutes at your own physical or virtual space from 1 to 31 July 2023, or join one of the Read Together sessions organised by NLB (more information closer to date).
 
 Step 3: Take 1 to 2 photos or screengrabs of the activity.
 
