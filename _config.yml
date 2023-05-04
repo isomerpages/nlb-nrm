@@ -1,27 +1,38 @@
 title: National Reading Movement
-url: "https://readingnation.nlb.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://readingnation.nlb.gov.sg
 favicon: /images/nrm-logo.jpg
-description: 'The National Reading Movement, which was launched in 2016, is a 5-year campaign by the National Library Board (NLB) to get Singapore residents to “Read More, Read Widely and Read Together”. It aims to encourage people to “Read More” by getting them to set aside some time to read regularly, “Read Widely” by going beyond the usual genres and read in mother tongue languages, and to “Read Together” with family and friends.'
-
+description: The National Reading Movement, which was launched in 2016, is a
+  5-year campaign by the National Library Board (NLB) to get Singapore residents
+  to “Read More, Read Widely and Read Together”. It aims to encourage people to
+  “Read More” by getting them to set aside some time to read regularly, “Read
+  Widely” by going beyond the usual genres and read in mother tongue languages,
+  and to “Read Together” with family and friends.
 resources_name: blog
-
 google_analytics: UA-99939731-1
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -34,16 +45,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#037C82'
-  secondary-color: '#D79204'
+  primary-color: "#037C82"
+  secondary-color: "#D79204"
   media-colors:
     - title: media-color-one
-      color: '#037C82'
+      color: "#037C82"
     - title: media-color-two
-      color: '#123690'
+      color: "#123690"
     - title: media-color-three
-      color: '#D79204'
+      color: "#D79204"
     - title: media-color-four
-      color: '#D76504'
+      color: "#D76504"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics_ga4: G-YW1JDJN80V
+linkedin-insights: ""
