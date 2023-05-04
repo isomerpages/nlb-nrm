@@ -1,7 +1,12 @@
 ---
 layout: homepage
 title: National Reading Movement
-description: Read More, Read Widely, Read Together
+description: The National Reading Movement, which was launched in 2016, is a
+  5-year campaign by the National Library Board (NLB) to get Singapore residents
+  to “Read More, Read Widely and Read Together”. It aims to encourage people to
+  “Read More” by getting them to set aside some time to read regularly, “Read
+  Widely” by going beyond the usual genres and read in mother tongue languages,
+  and to “Read Together” with family and friends.
 permalink: /
 notification: null
 sections:
@@ -28,4 +33,5 @@ sections:
       url: https://go.gov.sg/nlb-nrmmedium
       image: /images/nrm_pl.jpg
       alt: Explore reads and more
+image: /images/isomer-logo.svg
 ---
