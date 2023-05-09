@@ -1,6 +1,6 @@
 ---
 title: "One Story: Discussion Questions"
-permalink: /initiatives/One-Story/discussion/
+permalink: /initiatives/one-story/discussion/
 description: ""
 third_nav_title: One Story
 ---
