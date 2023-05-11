@@ -1,6 +1,6 @@
 ---
 title: "Interactive Boards"
-permalink: /readfest/interactiveboards
+permalink: /readfest/interactiveboards/
 ---
 
 ![banner RF](\images\RF_Inner.png)
