@@ -13,7 +13,7 @@ From 1 to 31 July 2023, for every 10 people who read for 15 minutes, one book wi
 
 Read for Books 2023 is held in conjunction with Read! Fest. 
 
-Find out more about Read! Fest here: [https://go.gov.sg/rf23](https://go.gov.sg/rf23)  
+Find out more about Read! Fest here: [https://go.gov.sg/readfest23](https://go.gov.sg/readfest23)  
 
 * * *
 
@@ -44,4 +44,4 @@ NOTE: Please note that all submissions must be completed by **7 August 2023 (Mo
 
 More information on our sponsors will be released at a later date.|
 
-Updated 04 May 2023
+Updated 12 May 2023
