@@ -3,7 +3,7 @@ title: Read for Books
 permalink: /initiatives/readforbooks/
 description: ""
 ---
-![banner RF](\images\RFB Website Banner_Final.jpg)
+![banner RF](\images\RFB Website Banner2.jpg)
 
 **Read for Books**
 
@@ -36,12 +36,35 @@ Step 1: Register your interest by submitting the registration forms via the link
 
 Step 2: Read for 15 minutes at your own physical or virtual space from 1 to 31 July 2023, or join one of the Read Together sessions organised by NLB (more information closer to date).
 
+NOTE: If you are organising a session with a group, DIY slides are available for your use. Download them [**HERE**](https://go.gov.sg/rfb23-diyslides).
+
 Step 3: Take 1 to 2 photos or screengrabs of the activity.
 
 Step 4: Upon completion of the activity, please submit your photo(s) and the number of participants [**HERE**](https://go.gov.sg/rfb23-submit). (This link will be made available on 1 July.)
 
 NOTE: Please note that all submissions must be completed by **7 August 2023 (Monday), 11.59pm**.
 
-More information on our sponsors will be released at a later date.|
 
-Updated 12 May 2023
+**Sponsors**
+
+Read for Books 2023 is made possible through the generous sponsorships from the following organisations:
+
+·       Bubbly Books
+
+·       Focus Publishing
+
+·       Kinokuniya Bookstores of Singapore
+
+·       Read With You
+
+·       Scholastic Asia
+
+·       Singapore Book Publishers Association
+
+**Need ideas on what to read?**
+
+In line with Read! Fest (23 June – 16 July 2023), we have curated a list of titles. 
+
+Download the curated list [HERE](https://go.gov.sg/rfb23-bookrecs).
+
+Updated 19 May 2023
