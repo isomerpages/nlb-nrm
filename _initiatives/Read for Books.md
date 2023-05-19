@@ -3,7 +3,7 @@ title: Read for Books
 permalink: /initiatives/readforbooks/
 description: ""
 ---
-![banner RF](\images\RFB Website Banner_Final.jpg)
+![banner RF](\images\RFB Website Banner2.jpg)
 
 **Read for Books**
 
