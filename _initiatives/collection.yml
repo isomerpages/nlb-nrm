@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Big Book Giveaway.md
       - One Story/.keep
       - "One Story/One Story: Squat for Tradition, Sit for Modernity.md"
       - "One Story/One Story: Discussion Questions.md"
