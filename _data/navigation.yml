@@ -1,16 +1,18 @@
 logo: /images/nrm-logo.jpg
 links:
   - title: Initiatives
-    url: /initiatives/one-story/
+    url: /initiatives/readforbooks/
     sublinks:
+      - title: Read For Books
+        url: /initiatives/readforbooks
+      - title: Big Book Giveaway
+        url: /initiatives/bigbookgiveaway
       - title: One Story
         url: /initiatives/one-story/
       - title: Night at the Library
-        url: initiatives/natl
+        url: initiatives/natl/
       - title: RAD
         url: /initiatives/rad
-      - title: Read For Books
-        url: /initiatives/readforbooks
       - title: Masterclass Series
         url: /initiatives/masterclass/
       - title: LearnX Community
