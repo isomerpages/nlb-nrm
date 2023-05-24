@@ -3,7 +3,7 @@ title: Big Book Giveaway
 permalink: /initiatives/bigbookgiveaway/
 description: ""
 ---
-
+![banner RF](\images\Big Book Giveaway 2023.png)
 
 The Big Book Giveaway (BBG) is a community event by the National Library Board where pre-loved books can be taken home for free\* to spread the joy of reading. This year, we’ll be bringing the event to four libraries across Singapore, on **15 and 16 July 2023, from 11am – 6pm**. 
 
