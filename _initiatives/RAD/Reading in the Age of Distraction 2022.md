@@ -4,7 +4,7 @@ permalink: /initiatives/rad/
 description: ""
 third_nav_title: RAD
 ---
-![banner RAD](/images/RAD/RAD 2022/RAD banner.png)
+![banner RAD](/images/RAD/RAD 2022/RAD Banner.png)
 
 **About Reading in the Age of Distraction**
 
