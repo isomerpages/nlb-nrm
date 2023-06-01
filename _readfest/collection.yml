@@ -2,4 +2,5 @@ collections:
   readfest:
     output: true
     order:
+      - "Flourish: 12 Titles, 12 Insights.md"
       - About Read! Fest 2023.md
