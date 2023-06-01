@@ -25,7 +25,7 @@ Read! Fest is anchored by 12 key books that offer unique insights on what it mea
 <br>
 
 
-|![Aram Tamil Title 2](/images/RF23/aram2%20tamil%20title.png)<br> **Aram : uṇmai man̲itarkaḷin̲ kataikaḷ**<br>  | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table**<br> Pamelia Chia | ![Covidivination 2030](/images/RF23/covidivination.png) <br> **疫言 2030** <br>吴庆康 |
+|![Aram Tamil Title 2](/images/RF23/aram2%20tamil%20title.png)<br> **Aram : Unmai Manithargalin Kathaigal**<br>  | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table**<br> Pamelia Chia | ![Covidivination 2030](/images/RF23/covidivination.png) <br> **疫言 2030** <br>吴庆康 |
 | -------- | -------- | -------- |
 | Morality need not be compromised in the pursuit of success.&nbsp;<br> [MORE INFO](https://go.gov.sg/rf23-rp11)| Expand your kitchen vocabulary — make the wet market your friend. <br>[MORE INFO](https://go.gov.sg/rf23-rp6)| Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[MORE INFO](https://go.gov.sg/rf23-rp10)     |
 
@@ -33,7 +33,7 @@ Read! Fest is anchored by 12 key books that offer unique insights on what it mea
 <br>
 
 
-| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas** <br> Azizi Haji Abdullah |  ![beneath the rug book cover](/images/RF23/beneath%20the%20rug.png)<br> **Beneath the Rug** <br> Solve n+1 | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **Rauttiram pal̲aku** |
+| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas** <br> Azizi Haji Abdullah |  ![beneath the rug book cover](/images/RF23/beneath%20the%20rug.png)<br> **Beneath the Rug** <br> Solve n+1 | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **Rowthiram Pazhagu** |
 | -------- | -------- | -------- |
 | Work together to overcome obstacles and scale new heights.&nbsp;<br> [MORE INFO](https://go.gov.sg/rf23-rp8)| Reimagine the status quo and find ways to progress together. <br>[MORE INFO](https://go.gov.sg/rf23-rp7)| Be courageous and stand up against injustice! <br> [MORE INFO](https://go.gov.sg/rf23-rp12) |
 
