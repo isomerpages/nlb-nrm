@@ -25,7 +25,7 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-| ![Aram Book Cover](/images/RF23/aram_tamil_title.jpg) **அறம்:&nbsp;உண்மை&nbsp;மனிதர்களின்&nbsp;கதைகள்&nbsp;by&nbsp;ஜெயமோகன்** | Column 2 | ![Covidivination 2030](/images/RF23/covidivination.png) **疫言**2030&nbsp;by&nbsp;**吴庆康** |
+|  **அறம்:&nbsp;உண்மை&nbsp;மனிதர்களின்&nbsp;கதைகள்&nbsp;by&nbsp;ஜெயமோகன்** | Column 2 | ![Covidivination 2030](/images/RF23/covidivination.png) **疫言**2030&nbsp;by&nbsp;**吴庆康** |
 | -------- | -------- | -------- |
 | Morality need not be compromised in the pursuit of success.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp11)    | Expand your kitchen vocabulary — make the wet market your friend. <br>[BORROW](https://go.gov.sg/rf23-rp6)     | Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp10)     |
 
