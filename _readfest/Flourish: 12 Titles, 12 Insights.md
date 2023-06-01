@@ -31,7 +31,7 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** | ![Beneath the Rug Book Cover](/images/RF23/beneath%20the%20rug.jpg) <br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **Rauttiram pal̲aku** |
+| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** |  ![beneath the rug book cover](/images/RF23/beneath%20the%20rug.png)<br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **Rauttiram pal̲aku** |
 | -------- | -------- | -------- |
 | Work together to overcome obstacles and scale new heights.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp8)| Reimagine the status quo and find ways to progress together. <br>[BORROW](https://go.gov.sg/rf23-rp7)| Be courageous and stand up against injustice! <br> [BORROW](https://go.gov.sg/rf23-rp12) |
 
