@@ -20,7 +20,12 @@ links:
       - title: NLB Mobile app
         url: https://mobileapp.nlb.gov.sg
   - title: Read! Fest
-    url: /readfest/main/
+    url: /readfest/main
+    sublinks:
+      - title: Flourish:12 Titles,12 Insights
+        url: /readfest/flourish
+      - title: Activations
+        url: /readfest/activations
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Partners
