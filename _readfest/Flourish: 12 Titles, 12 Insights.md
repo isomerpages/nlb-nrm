@@ -19,7 +19,7 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-| ![We Need To Hang Out Book Cover](/images/RF23/we%20need%20to%20hang%20out.jpg) <br> **We Need to Hang Out&nbsp;by Billy Baker** | ![A Central European Odyssey Book Cover](/images/RF23/central_european.jpg) **午夜降临前抵达**&nbsp;**by**&nbsp;**刘子超** | ![Kerusi Book Cover](/images/RF23/kerusi.jpg) Kerusi Rantai Celung Keramat&nbsp;by Wan Jumaiah Mohd Jubri |
+| ![We Need To Hang Out Book Cover](/images/RF23/we%20need%20to%20hang%20out.jpg) <br> **We Need to Hang Out&nbsp;by Billy Baker** | **午夜降临前抵达**&nbsp;**by**&nbsp;**刘子超** |  Kerusi Rantai Celung Keramat&nbsp;by Wan Jumaiah Mohd Jubri |
 | -------- | -------- | -------- |
 | Celebrate companionship and connection in a noisy world. <br> [BORROW](https://go.gov.sg/rf23-rp3) | To travel is to find yourself and start a new journey. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp5)     | Shape the future by understanding history. <br> [BORROW](https://go.gov.sg/rf23-rp9)     |
 
