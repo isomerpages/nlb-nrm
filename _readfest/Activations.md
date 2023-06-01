@@ -9,7 +9,7 @@ description: ""
 
 23 June – 9 July 2023
 
-Rediscover the joy of reading as Read! Fest heads to Funan Mall. Listen to story excerpts, write a postcard to connect with yourself or an old friend, and watch a mini-performance. You will also get to collect unique mementos* to assemble a customised Flourish scrapbook with reminders to yourself on how to flourish!
+Rediscover the joy of reading as Read! Fest heads to Funan Mall. Listen to stories, write a postcard to connect with yourself or a friend, and enjoy a performance. You will also get to collect unique mementos* to assemble a customised Flourish scrapbook with reminders to yourself on how to flourish!
 
 And don’t miss out on a 1-for-1 coffee redemption with PPP Coffee*! 
 
