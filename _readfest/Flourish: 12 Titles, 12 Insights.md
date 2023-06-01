@@ -15,7 +15,7 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 | ![Oh! William book cover](/images/RF23/oh%20william.jpg)<br><br>**Oh William! by Elizabeth Strout** | ![The Most Important Comic Book Book Cover](/images/RF23/the%20most%20important%20comic%20book.png)<br>**The Most Important Comic Book on Earth** | ![Maybe You Should Talk to Someone](/images/RF23/maybe%20you%20should.jpg)<br>**Maybe You Should Talk to Someone by Lori Gottlieb** |
 | -------- | -------- | -------- |
-| Find tender company in the gentle observations of a complex life.&nbsp;<br><br> [BORROW](https://go.gov.sg/rf23-rp1) | Contemplate the climate crisis through the power of art and storytelling. <br><br>[BORROW](https://go.gov.sg/rf23-rp4)| Look deep into the self – with the help of someone else. <br> [BORROW](https://go.gov.sg/rf23-rp2)|
+| Find tender company in the gentle observations of a complex life.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp1) | Contemplate the climate crisis through the power of art and storytelling. <br>[BORROW](https://go.gov.sg/rf23-rp4)| Look deep into the self – with the help of someone else. <br> [BORROW](https://go.gov.sg/rf23-rp2)|
 
 
 
@@ -27,13 +27,13 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 |![Aram Tamil Title 2](/images/RF23/aram2%20tamil%20title.png) <br>   | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table by Pamelia Chia** | ![Covidivination 2030](/images/RF23/covidivination.png) **疫言**2030&nbsp;by&nbsp;**吴庆康** |
 | -------- | -------- | -------- |
-| Morality need not be compromised in the pursuit of success.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp11)    | Expand your kitchen vocabulary — make the wet market your friend. <br>[BORROW](https://go.gov.sg/rf23-rp6)     | Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp10)     |
+| Morality need not be compromised in the pursuit of success.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp11)| Expand your kitchen vocabulary — make the wet market your friend. <br>[BORROW](https://go.gov.sg/rf23-rp6)| Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp10)     |
 
 
 
 | ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** | ![Beneath the Rug Book Cover](/images/RF23/beneath%20the%20rug.jpg) <br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)**ரௌத்திரம் பழகு&nbsp;by&nbsp;வழக்கறிஞர் சுமதி** |
 | -------- | -------- | -------- |
-| Work together to overcome obstacles and scale new heights.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp8)     | Reimagine the status quo and find ways to progress together. <br>[BORROW](https://go.gov.sg/rf23-rp7)    | Be courageous and stand up against injustice! <br> [BORROW](https://go.gov.sg/rf23-rp12)    |
+| Work together to overcome obstacles and scale new heights.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp8)| Reimagine the status quo and find ways to progress together. <br>[BORROW](https://go.gov.sg/rf23-rp7)| Be courageous and stand up against injustice! <br> [BORROW](https://go.gov.sg/rf23-rp12) |
 
 
 
