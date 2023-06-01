@@ -13,21 +13,15 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-| ![Oh! William book cover](/images/RF23/oh%20william.jpg)**Oh William! by Elizabeth Strout** | ![The Most Important Comic Book Book Cover](/images/RF23/the%20most%20important%20comic%20book.png)**The Most Important Comic Book on Earth** | ![Maybe You Should Talk to Someone](/images/RF23/maybe%20you%20should.jpg)**Maybe You Should Talk to Someone by Lori Gottlieb** |
+| ![Oh! William book cover](/images/RF23/oh%20william.jpg)<br><br>**Oh William! by Elizabeth Strout** | ![The Most Important Comic Book Book Cover](/images/RF23/the%20most%20important%20comic%20book.png)<br>**The Most Important Comic Book on Earth** | ![Maybe You Should Talk to Someone](/images/RF23/maybe%20you%20should.jpg)<br>**Maybe You Should Talk to Someone by Lori Gottlieb** |
 | -------- | -------- | -------- |
-| Find tender company in the gentle observations of a complex life. 
-
-[BORROW](https://go.gov.sg/rf23-rp1) | Contemplate the climate crisis through the power of art and storytelling.
-
-[BORROW](https://go.gov.sg/rf23-rp4)     | Look deep into the self – with the help of someone else. 
-
-[BORROW](https://go.gov.sg/rf23-rp2)|
+| Find tender company in the gentle observations of a complex life.&nbsp;<br><br> [BORROW](https://go.gov.sg/rf23-rp1) | Contemplate the climate crisis through the power of art and storytelling. <br><br>[BORROW](https://go.gov.sg/rf23-rp4)| Look deep into the self – with the help of someone else. <br> [BORROW](https://go.gov.sg/rf23-rp2)|
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| ![We Need To Hang Out Book Cover](/images/RF23/we%20need%20to%20hang%20out.jpg) <br> **We Need to Hang Out&nbsp;by Billy Baker** | ![A Central European Odyssey Book Cover](/images/RF23/central_european.jpg) **午夜降临前抵达**&nbsp;**by**&nbsp;**刘子超** | ![Kerusi Book Cover](/images/RF23/kerusi.jpg) Kerusi Rantai Celung Keramat&nbsp;by Wan Jumaiah Mohd Jubri |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Celebrate companionship and connection in a noisy world. <br> [BORROW](https://go.gov.sg/rf23-rp3) | To travel is to find yourself and start a new journey. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp5)     | Shape the future by understanding history. <br> [BORROW](https://go.gov.sg/rf23-rp9)     |
 
 
 
