@@ -19,21 +19,21 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-| ![We Need To Hang Out Book Cover](/images/RF23/we%20need%20to%20hang%20out.jpg) <br> **We Need to Hang Out&nbsp;by Billy Baker** | ![Central European Odyssey Book Cover](/images/RF23/central%20european.png)**午夜降临前抵达**&nbsp;**by**&nbsp;**刘子超** |  ![Kerusi Book Cover](/images/RF23/kerusi.png)Kerusi Rantai Celung Keramat&nbsp;by Wan Jumaiah Mohd Jubri |
+| ![We Need to Hang Out Book Cover](/images/RF23/we%20need%20to%20hang%20out.png)<br> **We Need to Hang Out&nbsp;by Billy Baker** | ![Central European Odyssey Book Cover](/images/RF23/central%20european.png)**午夜降临前抵达**&nbsp;**by**&nbsp;**刘子超** |  ![Kerusi Book Cover](/images/RF23/kerusi.png)Kerusi Rantai Celung Keramat&nbsp;by Wan Jumaiah Mohd Jubri |
 | -------- | -------- | -------- |
 | Celebrate companionship and connection in a noisy world. <br> [BORROW](https://go.gov.sg/rf23-rp3) | To travel is to find yourself and start a new journey. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp5)     | Shape the future by understanding history. <br> [BORROW](https://go.gov.sg/rf23-rp9)     |
 
 
 
-|  **அறம்:&nbsp;உண்மை&nbsp;மனிதர்களின்&nbsp;கதைகள்&nbsp;by&nbsp;ஜெயமோகன்** | Column 2 | ![Covidivination 2030](/images/RF23/covidivination.png) **疫言**2030&nbsp;by&nbsp;**吴庆康** |
+|  | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table by Pamelia Chia** | ![Covidivination 2030](/images/RF23/covidivination.png) **疫言**2030&nbsp;by&nbsp;**吴庆康** |
 | -------- | -------- | -------- |
 | Morality need not be compromised in the pursuit of success.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp11)    | Expand your kitchen vocabulary — make the wet market your friend. <br>[BORROW](https://go.gov.sg/rf23-rp6)     | Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp10)     |
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** | ![Beneath the Rug Book Cover](/images/RF23/beneath%20the%20rug.jpg) <br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu Book Cover](/images/RF23/rowthiram%20pazhagu.jpg)**ரௌத்திரம் பழகு&nbsp;by&nbsp;வழக்கறிஞர் சுமதி** |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Work together to overcome obstacles and scale new heights.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp8)     | Reimagine the status quo and find ways to progress together. <br>[BORROW](https://go.gov.sg/rf23-rp7)    | Be courageous and stand up against injustice! <br> [BORROW](https://go.gov.sg/rf23-rp12)    |
 
 
 
