@@ -11,4 +11,4 @@ Read! Fest is anchored by 12 key books that offer unique insights on what it mea
 
 Keen to explore more? Explore the additional reads curated by our own librarians in the links below!
 
-	Updated 01 June 2023
+Updated 01 June 2023
