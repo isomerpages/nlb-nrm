@@ -25,13 +25,13 @@ Keen to explore more? Explore the additional reads curated by our own librarians
 
 
 
-|![Aram Tamil Title 2](/images/RF23/aram2%20tamil%20title.png) <br>  | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table by Pamelia Chia** | ![Covidivination 2030](/images/RF23/covidivination.png) <br> **疫言**2030&nbsp;by&nbsp;**吴庆康** |
+|![Aram Tamil Title 2](/images/RF23/aram2%20tamil%20title.png)<br> **Aram : uṇmai man̲itarkaḷin̲ kataikaḷ**<br>  | ![Wet Market to Table Book Cover](/images/RF23/wet%20market%20to%20table.png) <br> **Wet Market to Table by Pamelia Chia** | ![Covidivination 2030](/images/RF23/covidivination.png) <br> **疫言**2030&nbsp;by&nbsp;**吴庆康** |
 | -------- | -------- | -------- |
 | Morality need not be compromised in the pursuit of success.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp11)| Expand your kitchen vocabulary — make the wet market your friend. <br>[BORROW](https://go.gov.sg/rf23-rp6)| Try new ways of thinking; imagine future possibilities; recalibrate your mind. <br>&nbsp;[BORROW](https://go.gov.sg/rf23-rp10)     |
 
 
 
-| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** | ![Beneath the Rug Book Cover](/images/RF23/beneath%20the%20rug.jpg) <br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **ரௌத்திரம் பழகு&nbsp;by&nbsp;வழக்கறிஞர் சுமதி** |
+| ![Pendoa Book Cover](/images/RF23/pendoa.png) <br> **Pendoa Yang Ikhlas by Azizi Haji Abdullah** | ![Beneath the Rug Book Cover](/images/RF23/beneath%20the%20rug.jpg) <br> **Beneath the Rug by Solve n+1** | ![Rowthiram Pazhagu](/images/RF23/rowthiram%20pazhagu.png)<br> **Rauttiram pal̲aku** |
 | -------- | -------- | -------- |
 | Work together to overcome obstacles and scale new heights.&nbsp;<br> [BORROW](https://go.gov.sg/rf23-rp8)| Reimagine the status quo and find ways to progress together. <br>[BORROW](https://go.gov.sg/rf23-rp7)| Be courageous and stand up against injustice! <br> [BORROW](https://go.gov.sg/rf23-rp12) |
 
