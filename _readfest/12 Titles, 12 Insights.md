@@ -10,7 +10,7 @@ description: ""
 Read! Fest is anchored by 12 key books that offer unique insights on what it means to flourish. From discovering lesser-known regional produce to fighting systemic injustice, click to jumpstart your reading journey!
 
 
-| ![Oh William book cover image](/images/RF23/ohwilliam.png)<br><br>**Oh William!**<br>Elizabeth Strout | ![The Most Important Comic Book on earth book cover image](/images/RF23/comic%20book%20on%20earth.png)<br>**The Most Important Comic Book on Earth**<br> Various Contributors | ![Maybe you should talk to someone book cover image](/images/RF23/maybe%20you%20should%20talk%20to%20someone.png)<br>**Maybe You Should Talk to Someone** <br>Lori Gottlieb |
+| ![Oh William book cover image](/images/RF23/ohwilliam.png)<br>**Oh William!**<br>Elizabeth Strout | ![The Most Important Comic Book on earth book cover image](/images/RF23/comic%20book%20on%20earth.png)<br>**The Most Important Comic Book on Earth**<br> Various Contributors | ![Maybe you should talk to someone book cover image](/images/RF23/maybe%20you%20should%20talk%20to%20someone.png)<br>**Maybe You Should Talk to Someone** <br>Lori Gottlieb |
 | -------- | -------- | -------- |
 | Find tender company in the gentle observations of a complex life.&nbsp;<br> [MORE INFO](https://go.gov.sg/rf23-rp1) | Contemplate the climate crisis through the power of art and storytelling. <br>[MORE INFO](https://go.gov.sg/rf23-rp4)| Look deep into the self – with the help of someone else. <br> [MORE INFO](https://go.gov.sg/rf23-rp2)|
 
