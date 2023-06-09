@@ -30,23 +30,23 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 | 1 Jul, Sat | 11.00am – 12.30pm     | [Forum Kesusasteraan: Sastera Sebagai Alat Dokumentasi](https://www.eventbrite.sg/e/635058185127){:target="_blank"} |
 | 1 Jul, Sat | 2.00pm – 3:30pm     | [Santan, Susu Rendah Lemak & Tairu: Sebuah Dialog Gastronomi](https://www.eventbrite.sg/e/635081735567){:target="_blank"} |
 1 Jul, Sat| 2.00pm – 3:30pm     | [How to Cultivate Relationships](https://www.eventbrite.com/e/how-to-cultivate-relationships-read-fest-23-tickets-644277410077?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
-| 1 Jul, Sat | 2.00pm – 4.00pm     | [எழுத்தாளர் அழகுநிலா வழங்கும் எழுத்துப் பட்டறை: உண்மையும் படைப்பும்](https://www.eventbrite.sg/e/readfest-tickets-645147953897?aff=odcleoeventsincollection) {:target="_blank"} 
+| 1 Jul, Sat | 2.00pm – 4.00pm     | [எழுத்தாளர் அழகுநிலா வழங்கும் எழுத்துப் பட்டறை: உண்மையும் படைப்பும்](https://www.eventbrite.sg/e/readfest-tickets-645147953897?aff=odcleoeventsincollection){:target="_blank"} 
 | 1 Jul, Sat | 4.00pm – 6.15pm     | [The Elephant in The Room: Heart-based Listening Session](https://www.eventbrite.sg/e/the-elephant-in-the-room-heart-based-listening-session-read-fest-23-tickets-638003404357?aff=odcleoeventsincollection){:target="_blank"} |
-| 1 Jul, Sat | 5.30pm – 8.00pm     | [தமிழ் மேடை நகைச்சுவை: வயிறு குலுங்கச் சிரிக்கலாம் வாங்க!](https://www.eventbrite.sg/e/read-fest-23-tickets-645154834477?aff=odcleoeventsincollection) {:target="_blank"}  | 
-2 Jul, Sun | 11.00am – 12.30pm     | [Melayu untuk Melayu: Sebuah Teater Forum Untukmu](https://www.eventbrite.sg/e/635087201917) {:target="_blank"} | 
-2 Jul, Sun | 2.00pm – 4.00pm     | [一起来谈《疫言2030》](https://go.gov.sg/rf23-covid2030-bookclub) {:target="_blank"} | 
+| 1 Jul, Sat | 5.30pm – 8.00pm     | [தமிழ் மேடை நகைச்சுவை: வயிறு குலுங்கச் சிரிக்கலாம் வாங்க!](https://www.eventbrite.sg/e/read-fest-23-tickets-645154834477?aff=odcleoeventsincollection){:target="_blank"}  | 
+2 Jul, Sun | 11.00am – 12.30pm     | [Melayu untuk Melayu: Sebuah Teater Forum Untukmu](https://www.eventbrite.sg/e/635087201917){:target="_blank"} | 
+2 Jul, Sun | 2.00pm – 4.00pm     | [一起来谈《疫言2030》](https://go.gov.sg/rf23-covid2030-bookclub){:target="_blank"} | 
 2 Jul, Sun | 9.00am – 1.00pm     | [அறம் செய்ய விரும்பு: ஒரு கதை சொல்லுதல், படைப்பாற்றல் போட்டி](https://www.eventbrite.com/e/read-fest-23-tickets-645156389127) {:target="_blank"} | 
-2 Jul, Sun | 3.00pm – 5.00pm     | [Body Language: Personal Expression Through Malay Dance](https://www.eventbrite.sg/e/body-language-personal-expression-through-malay-dance-read-fest-23-tickets-645221965267?aff=odcleoeventsincollection) {:target="_blank"} | 
-2 Jul, Sun | 7.00pm – 8.00pm     | [A Conversation with the Author of 'Wet Market to Table'](https://www.eventbrite.sg/e/a-conversation-with-the-author-of-wet-market-to-table-read-fest-23-tickets-637356569657?aff=odcleoeventsincollection) {:target="_blank"} | 
-4 Jul, Tue | 7.00pm – 5.00pm     | [The Place of Comics in Singapore’s Society](https://www.eventbrite.sg/e/the-place-of-comics-in-singapores-society-read-fest-23-tickets-645845600577?aff=odcleoeventsincollection) {:target="_blank"} | 
-6 Jul, Thu | 7.00pm – 8.30pm     | [Preparing your special needs child for employment](https://go.gov.sg/rf23-btr-p2) {:target="_blank"} | 
-6 Jul, Thu | 7.00pm – 8.00pm     | [All in the Family](https://www.eventbrite.sg/e/all-in-the-family-read-fest-23-tickets-631335821437?aff=odcleoeventsincollection) {:target="_blank"} | 
-7 Jul, Fri | 7.00pm – 8.30pm     | [Preserving Orang Laut History through Food](https://www.eventbrite.sg/e/preserving-orang-laut-history-through-food-read-fest-23-tickets-637319548927?aff=odcleoeventsincollection) {:target="_blank"} | | 
-8 Jul, Sat | 11.00am – 12.30pm     | [Sembang Santai Bersama Penulis Wan Jumaiah](https://www.eventbrite.sg/e/635092176797) {:target="_blank"} || 
-8 Jul, Sat | 2.00pm – 3.00pm     | [Gundam Building 101](https://www.eventbrite.com/e/gundam-building-101-read-fest-23-tickets-644277741067?aff=odcleoeventsincollection&keep_tld=1) {:target="_blank"} | | 
-8 Jul, Sat | 2.00pm – 3.00pm     | [My Neighbourhood, My Story](https://go.gov.sg/rf23-btr-p3) {:target="_blank"} | | 
-8 Jul, Sat | 2.00pm – 3.30pm     | [Membangun Generasi Dalam Era Revolusi Digital](https://www.eventbrite.sg/e/635110361187) {:target="_blank"} | | 
-8 Jul, Sat | 2.00pm – 4.00pm     | [Using Conflict to Strengthen Fictional Characters](https://www.eventbrite.com/e/using-conflict-to-strengthen-fictional-characters-read-fest-23-tickets-631337386117?aff=odcleoeventsincollection&keep_tld=1) {:target="_blank"} |  | 
+2 Jul, Sun | 3.00pm – 5.00pm     | [Body Language: Personal Expression Through Malay Dance](https://www.eventbrite.sg/e/body-language-personal-expression-through-malay-dance-read-fest-23-tickets-645221965267?aff=odcleoeventsincollection){:target="_blank"} | 
+2 Jul, Sun | 7.00pm – 8.00pm     | [A Conversation with the Author of 'Wet Market to Table'](https://www.eventbrite.sg/e/a-conversation-with-the-author-of-wet-market-to-table-read-fest-23-tickets-637356569657?aff=odcleoeventsincollection){:target="_blank"} | 
+4 Jul, Tue | 7.00pm – 5.00pm     | [The Place of Comics in Singapore’s Society](https://www.eventbrite.sg/e/the-place-of-comics-in-singapores-society-read-fest-23-tickets-645845600577?aff=odcleoeventsincollection){:target="_blank"} | 
+6 Jul, Thu | 7.00pm – 8.30pm     | [Preparing your special needs child for employment](https://go.gov.sg/rf23-btr-p2){:target="_blank"} | 
+6 Jul, Thu | 7.00pm – 8.00pm     | [All in the Family](https://www.eventbrite.sg/e/all-in-the-family-read-fest-23-tickets-631335821437?aff=odcleoeventsincollection){:target="_blank"} | 
+7 Jul, Fri | 7.00pm – 8.30pm     | [Preserving Orang Laut History through Food](https://www.eventbrite.sg/e/preserving-orang-laut-history-through-food-read-fest-23-tickets-637319548927?aff=odcleoeventsincollection){:target="_blank"} | | 
+8 Jul, Sat | 11.00am – 12.30pm     | [Sembang Santai Bersama Penulis Wan Jumaiah](https://www.eventbrite.sg/e/635092176797){:target="_blank"} || 
+8 Jul, Sat | 2.00pm – 3.00pm     | [Gundam Building 101](https://www.eventbrite.com/e/gundam-building-101-read-fest-23-tickets-644277741067?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} | | 
+8 Jul, Sat | 2.00pm – 3.00pm     | [My Neighbourhood, My Story](https://go.gov.sg/rf23-btr-p3){:target="_blank"} | | 
+8 Jul, Sat | 2.00pm – 3.30pm     | [Membangun Generasi Dalam Era Revolusi Digital](https://www.eventbrite.sg/e/635110361187){:target="_blank"} | | 
+8 Jul, Sat | 2.00pm – 4.00pm     | [Using Conflict to Strengthen Fictional Characters](https://www.eventbrite.com/e/using-conflict-to-strengthen-fictional-characters-read-fest-23-tickets-631337386117?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |  | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Upcycling Through Sashiko Embroidery](https://www.eventbrite.sg/e/upcycling-through-sashiko-embroidery-read-fest-23-tickets-645209658457?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [带着手帐游走中欧](https://go.gov.sg/rf23-travellit-notebook){:target="_blank"} | | 
 8 Jul, Sat | 6.00pm – 7.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
