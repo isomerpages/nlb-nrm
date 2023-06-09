@@ -70,7 +70,8 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 15 Jul, Sat | 11.00am – 12.00pm     | [Back on the Menu: Collecting Local Food Heritage](https://www.eventbrite.sg/e/back-on-the-menu-collecting-local-food-heritage-read-fest-23-tickets-637906905727?aff=odcleoeventsincollection){:target="_blank"} || 
 15 Jul, Sat | 11.00am – 12.30pm     | [Falsafah Pendidikan dalam Karya & Pemikiran Azizi](https://www.eventbrite.sg/e/635068485937){:target="_blank"} || 
 15 Jul, Sat | 1.00pm – 2.30pm     | [《疫言2030》：疫情时代的社会变化](https://go.gov.sg/rf23-covid2030-author){:target="_blank"} || 
-15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} |
+15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} || 
+15 Jul, Sat | 4.00pm – 4.30pm     | [A Sip of Silence: An Experience with Hush TeaBar](https://go.gov.sg/rf23-btr-p5){:target="_blank"} |
 
 
 
