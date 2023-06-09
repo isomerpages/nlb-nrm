@@ -3,7 +3,7 @@ title: Festival Programmes
 permalink: /readfest/programmes/
 description: Read! Fest 2023 Festival Programmes
 ---
-![banner RF](\images\RF23\)
+![banner RF](\images\RF23\festival programmes.png)
 
 Read! Fest features talks, workshops and experiences by world-renowned authors and thought leaders from various fields. Take your pick from this wide array of over 60 programmes and immerse yourself in thoughtful ideas for our time.
 
