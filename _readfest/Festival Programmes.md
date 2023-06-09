@@ -17,7 +17,7 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 | 24 Jun, Sat     | 11.00am – 1.00pm        | [一起来谈《午夜降临前抵达》](https://go.gov.sg/rf23-travellit-bookclub){:target="_blank"} |
 | 24 Jun, Sat  | 11.00am – 12.00pm             | [Kakis for Daddies: An Essential Ingredient in the Fathering Journey](https://www.eventbrite.com/e/kakis-for-daddies-read-fest-23-tickets-644274370987?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |
 | 24 Jun, Sat | 2.00pm - 3.30pm     | [畅谈旅行文学](https://go.gov.sg/rf23-travellit-author){:target="_blank"} |
-| 24 Jun, Sat | 2.00pm – 3.30pm     | Peek Beneath the Rug: Meet-The-Editors Session {:target="_blank"} |
+| 24 Jun, Sat | 2.00pm – 3.30pm     | [Peek Beneath the Rug: Meet-The-Editors Session](https://go.gov.sg/rf23-btr-p1) {:target="_blank"} |
 | 24 Jun, Sat | 6.00pm - 8.00pm   | [எழுத்தாளர் ஜெயமோகனின் சிறப்புரை](https://www.eventbrite.sg/e/read-fest-23-tickets-645139237827?aff=odcleoeventsincollection) |
 | 25 Jun, Sun  | 10.00am – 11.00am     | [Between the Lines with Elizabeth Strout and Melanie Oliveiro](https://www.eventbrite.sg/e/elizabeth-strout-and-melanie-oliveiro-read-fest-23-tickets-631329973947?aff=odcleoeventsincollection) {:target="_blank"} |
 | 25 Jun, Sun   | 2.00pm – 5.00pm   | [All the Right Ingredients: Illustrating Local Produce](https://www.eventbrite.sg/e/all-the-right-ingredients-illustrating-local-produce-read-fest-23-tickets-637228436407?aff=odcleoeventsincollection){:target="_blank"} |
@@ -37,11 +37,11 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 2 Jul, Sun | 2.00pm – 4.00pm     | [一起来谈《疫言2030》](https://go.gov.sg/rf23-covid2030-bookclub) {:target="_blank"} | 
 2 Jul, Sun | 9.00am – 1.00pm     | [அறம் செய்ய விரும்பு: ஒரு கதை சொல்லுதல், படைப்பாற்றல் போட்டி](https://www.eventbrite.com/e/read-fest-23-tickets-645156389127) {:target="_blank"} | 
 2 Jul, Sun | 3.00pm – 5.00pm     | [Body Language: Personal Expression Through Malay Dance](https://www.eventbrite.sg/e/body-language-personal-expression-through-malay-dance-read-fest-23-tickets-645221965267?aff=odcleoeventsincollection) {:target="_blank"} | 
-2 Jul, Sun | 7.00pm – 8.00pm     | A Conversation with the Author of 'Wet Market to Table'  {:target="_blank"} | 
+2 Jul, Sun | 7.00pm – 8.00pm     | [A Conversation with the Author of 'Wet Market to Table'](https://www.eventbrite.sg/e/a-conversation-with-the-author-of-wet-market-to-table-read-fest-23-tickets-637356569657?aff=odcleoeventsincollection) {:target="_blank"} | 
 4 Jul, Tue | 7.00pm – 5.00pm     | [The Place of Comics in Singapore’s Society](https://www.eventbrite.sg/e/the-place-of-comics-in-singapores-society-read-fest-23-tickets-645845600577?aff=odcleoeventsincollection) {:target="_blank"} | 
 6 Jul, Thu | 7.00pm – 8.30pm     | [Preparing your special needs child for employment](https://go.gov.sg/rf23-btr-p2) {:target="_blank"} | 
 6 Jul, Thu | 7.00pm – 8.00pm     | [All in the Family](https://www.eventbrite.sg/e/all-in-the-family-read-fest-23-tickets-631335821437?aff=odcleoeventsincollection) {:target="_blank"} | 
-7 Jul, Fri | 7.00pm – 8.30pm     | Preserving Orang Laut History through Food {:target="_blank"} | | 
+7 Jul, Fri | 7.00pm – 8.30pm     | [Preserving Orang Laut History through Food](https://www.eventbrite.sg/e/preserving-orang-laut-history-through-food-read-fest-23-tickets-637319548927?aff=odcleoeventsincollection) {:target="_blank"} | | 
 8 Jul, Sat | 11.00am – 12.30pm     | [Sembang Santai Bersama Penulis Wan Jumaiah](https://www.eventbrite.sg/e/635092176797) {:target="_blank"} || 
 8 Jul, Sat | 2.00pm – 3.00pm     | [Gundam Building 101](https://www.eventbrite.com/e/gundam-building-101-read-fest-23-tickets-644277741067?aff=odcleoeventsincollection&keep_tld=1) {:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 3.00pm     | [My Neighbourhood, My Story](https://go.gov.sg/rf23-btr-p3) {:target="_blank"} | | 
