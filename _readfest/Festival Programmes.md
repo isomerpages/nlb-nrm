@@ -71,7 +71,13 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 15 Jul, Sat | 11.00am – 12.30pm     | [Falsafah Pendidikan dalam Karya & Pemikiran Azizi](https://www.eventbrite.sg/e/635068485937){:target="_blank"} || 
 15 Jul, Sat | 1.00pm – 2.30pm     | [《疫言2030》：疫情时代的社会变化](https://go.gov.sg/rf23-covid2030-author){:target="_blank"} || 
 15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} || 
-15 Jul, Sat | 4.00pm – 4.30pm     | [A Sip of Silence: An Experience with Hush TeaBar](https://go.gov.sg/rf23-btr-p5){:target="_blank"} |
+15 Jul, Sat | 4.00pm – 5.30pm     | [A Sip of Silence: An Experience with Hush TeaBar](https://go.gov.sg/rf23-btr-p5){:target="_blank"} || 
+16 Jul, Sun | 8.30am – 10.00am     | [Fish Out of water: Local Marine Species in Wet Markets](https://www.eventbrite.sg/e/fish-out-of-water-local-marine-species-in-wet-markets-read-fest-23-tickets-637928299717?aff=odcleoeventsincollection){:target="_blank"} || 
+16 Jul, Sun | 2.00pm – 4.00pm     | [Communities: Zzzink! Rage and Revelry](https://www.eventbrite.com/e/communities-zzzink-rage-and-revelry-libraryorchard-tickets-646786063527){:target="_blank"} || 
+16 Jul, Sun | 2.00pm – 5.00pm     | [走近极简的世界：闪小说与微型小说阅读鉴赏工作坊](https://go.gov.sg/rf23-covid2030-microfic){:target="_blank"} || 
+16 Jul, Sun | 3.00pm – 4.00pm     | [Dungeons & Dragons 101: A Practical Guide to Adventuring](https://www.eventbrite.com/e/dungeons-dragons-101-a-practical-guide-to-adventuring-read-fest-23-tickets-644278001847?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} || 
+16 Jul, Sun | 6.00pm – 8.00pm     | [வெற்றிக் கொடிகட்டு! ஒரு இசை கொண்டாட்டம்](https://www.eventbrite.com/e/read-fest-23-tickets-645183068927){:target="_blank"} |
+
 
 
 
