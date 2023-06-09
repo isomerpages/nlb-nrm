@@ -35,7 +35,7 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 | 1 Jul, Sat | 5.30pm – 8.00pm     | [தமிழ் மேடை நகைச்சுவை: வயிறு குலுங்கச் சிரிக்கலாம் வாங்க!](https://www.eventbrite.sg/e/read-fest-23-tickets-645154834477?aff=odcleoeventsincollection){:target="_blank"}  | 
 2 Jul, Sun | 11.00am – 12.30pm     | [Melayu untuk Melayu: Sebuah Teater Forum Untukmu](https://www.eventbrite.sg/e/635087201917){:target="_blank"} | 
 2 Jul, Sun | 2.00pm – 4.00pm     | [一起来谈《疫言2030》](https://go.gov.sg/rf23-covid2030-bookclub){:target="_blank"} | 
-2 Jul, Sun | 9.00am – 1.00pm     | [அறம் செய்ய விரும்பு: ஒரு கதை சொல்லுதல், படைப்பாற்றல் போட்டி](https://www.eventbrite.com/e/read-fest-23-tickets-645156389127) {:target="_blank"} | 
+2 Jul, Sun | 9.00am – 1.00pm     | [அறம் செய்ய விரும்பு: ஒரு கதை சொல்லுதல், படைப்பாற்றல் போட்டி](https://www.eventbrite.com/e/read-fest-23-tickets-645156389127){:target="_blank"} | 
 2 Jul, Sun | 3.00pm – 5.00pm     | [Body Language: Personal Expression Through Malay Dance](https://www.eventbrite.sg/e/body-language-personal-expression-through-malay-dance-read-fest-23-tickets-645221965267?aff=odcleoeventsincollection){:target="_blank"} | 
 2 Jul, Sun | 7.00pm – 8.00pm     | [A Conversation with the Author of 'Wet Market to Table'](https://www.eventbrite.sg/e/a-conversation-with-the-author-of-wet-market-to-table-read-fest-23-tickets-637356569657?aff=odcleoeventsincollection){:target="_blank"} | 
 4 Jul, Tue | 7.00pm – 5.00pm     | [The Place of Comics in Singapore’s Society](https://www.eventbrite.sg/e/the-place-of-comics-in-singapores-society-read-fest-23-tickets-645845600577?aff=odcleoeventsincollection){:target="_blank"} | 
