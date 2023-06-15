@@ -60,6 +60,12 @@ Want a quick Read Together session? Check out our featured sessions here:
 
 
 
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
+
+
+
 
 
 **Sponsors**
