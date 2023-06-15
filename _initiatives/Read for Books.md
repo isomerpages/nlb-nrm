@@ -84,7 +84,7 @@ Want a quick Read Together session? Check out our featured sessions here:
 | 19 Jul, Wed    | 7.30pm - 8.00pm     |  Adults     | Mystery   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-mystery-tickets-655778429937?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
 | 21 Jul, Fri    | 7.30pm - 8.00pm     |  Adults     | Life Reminders for Adults from Children's Books   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-life-reminders-for-adults-tickets-645257200657?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
 | 22 Jul, Sat    | 1.30pm - 2.00pm     |  General     | Animals   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-animals-tickets-645250631007?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
-| 25 Jul, Tue   | 7.30pm - 8.00pm     |  Adults    | Short Stories  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-adult-short-stories-tickets-655779964527?aff=odcleoeventsincollection)     ||  |  |   |  |  |
+| 25 Jul, Tue   | 7.30pm - 8.00pm     |  Adults    | Short Stories  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-adult-short-stories-tickets-655779964527?aff=odcleoeventsincollection)     ||-------  |-------  |-------   |-------  |------- |
 | 29 Jul, Sat   | 11.00am - 11.30am     |  Teens    | Young Adult Fiction  | [HERE](https://www.eventbrite.com/e/read-together-session-read-for-books-2023-young-adult-fiction-tickets-645194212257?aff=odcleoeventsincollection&amp;keep_tld=1)     |
 
 
