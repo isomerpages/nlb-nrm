@@ -136,5 +136,6 @@ Under the Singapore Book Publishers Association, participating organisations are
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World Scientific Education (An imprint of World Scientific)
 
+![banner RF](\images\rfb sponsors.png)
 
 Updated 15 Jun 2023
