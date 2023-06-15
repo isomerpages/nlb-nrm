@@ -63,22 +63,14 @@ Want a quick Read Together session? Check out our featured sessions here:
 
 | Date | Time | Location | Recommended Audience| Genre/Topic | Registration Link |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
-| 1 Jul, Sat    | 2.00pm - 3.00pm     | Woodlands Regional Library, Programme Zone    | Children     | Sherlock Sam   | [HERE](https://www.eventbrite.sg/e/sherlock-sam-x-read-for-books-2023-tickets-655782211247?aff=odcleoeventsincollection)     | 
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 2 Jul, Sun    | 3.30pm - 4.00pm     | Toa Payoh Public Library, Programme Zone    | Teens    | Young Adult Fiction   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-young-adult-fiction-tickets-645200501067?aff=odcleoeventsincollection)     | 
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 8 Jul, Sat    | 1.00pm - 1.30pm     | Queenstown Public Library, Programme Zone    | General    | Food Memoirs   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-food-memoirs-tickets-655775511207?aff=odcleoeventsincollection)     | 
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 9 Jul, Sun    | 2.00pm - 2.30pm     | Bishan Public Library, Programme Zone    | General    | Singapore   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-singapore-collection-tickets-645195054777?aff=odcleoeventsincollection)     | 
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 15 Jul, Sat    | 2.00pm - 2.30pm     | library@harbourfront, Stories Come Alive Room   | Children   | Sherlock Sam   | [HERE](https://www.eventbrite.sg/e/sherlock-sam-x-read-for-books-2023-tickets-655782622477?aff=odcleoeventsincollection)     |
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 16 Jul, Sun    | 11.00am - 11.30am     | Geylang East Public Library, Activity Room   | General   | Fantasy   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-fantasy-tickets-655777868257?aff=odcleoeventsincollection)     |
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 22 Jul, Sat    | 2.30pm - 3.00pm     | Serangoon Public Library, Programme Zone   | General   | Friends &amp; Families  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-friends-and-families-tickets-655779583387?aff=odcleoeventsincollection)     |
-| -------- | -------- | -------- |  -------- | -------- | -------- |
-| 23 Jul, Sun    | 10.30am - 12.30pm     | Punggol Regional Library, Stories Come Alive Room   | Children  | World &amp; Us  | [HERE](https://www.eventbrite.sg/e/read-for-books-2023-world-and-us-tickets-655782010647?aff=odcleoeventsincollection)     |
-| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1 Jul, Sat    | 2.00pm - 3.00pm     | Woodlands Regional Library, Programme Zone    | Children     | Sherlock Sam   | [HERE](https://www.eventbrite.sg/e/sherlock-sam-x-read-for-books-2023-tickets-655782211247?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 2 Jul, Sun    | 3.30pm - 4.00pm     | Toa Payoh Public Library, Programme Zone    | Teens    | Young Adult Fiction   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-young-adult-fiction-tickets-645200501067?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 8 Jul, Sat    | 1.00pm - 1.30pm     | Queenstown Public Library, Programme Zone    | General    | Food Memoirs   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-food-memoirs-tickets-655775511207?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 9 Jul, Sun    | 2.00pm - 2.30pm     | Bishan Public Library, Programme Zone    | General    | Singapore   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-singapore-collection-tickets-645195054777?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 15 Jul, Sat    | 2.00pm - 2.30pm     | library@harbourfront, Stories Come Alive Room   | Children   | Sherlock Sam   | [HERE](https://www.eventbrite.sg/e/sherlock-sam-x-read-for-books-2023-tickets-655782622477?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 16 Jul, Sun    | 11.00am - 11.30am     | Geylang East Public Library, Activity Room   | General   | Fantasy   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-fantasy-tickets-655777868257?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 22 Jul, Sat    | 2.30pm - 3.00pm     | Serangoon Public Library, Programme Zone   | General   | Friends &amp; Families  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-friends-and-families-tickets-655779583387?aff=odcleoeventsincollection)     || -------- | -------- | -------- |  -------- | -------- | -------- |
+| 23 Jul, Sun    | 10.30am - 12.30pm     | Punggol Regional Library, Stories Come Alive Room   | Children  | World &amp; Us  | [HERE](https://www.eventbrite.sg/e/read-for-books-2023-world-and-us-tickets-655782010647?aff=odcleoeventsincollection)     || -------- | -------- | -------- | -------- | -------- | -------- |
 | 29 Jul, Sat    | 2.00pm - 2.30pm     | Yishun Public Library, Programme Zone   | Children  | Fairytales  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-fairytales-tickets-655780526207?aff=odcleoeventsincollection)     |
 
 
@@ -86,19 +78,13 @@ Want a quick Read Together session? Check out our featured sessions here:
 
 | Date | Time | Recommended Audience| Genre/Topic | Registration Link |
 | -------- | -------- |  -------- | -------- | -------- |
-| 3 Jul, Mon    | 7.30pm - 8.00pm     |  Adults     | Celebrating Women Writers   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-celebrating-women-writers-tickets-645192366737?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
-| 5 Jul, Wed    | 7.30pm - 8.00pm     |  Adults     | Historical Fiction   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-historical-fiction-tickets-645192607457?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
-| 12 Jul, Wed    | 12.00pm - 12.30pm     |  Adults     | Big Tech   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-books-about-big-tech-tickets-645193570337?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
-| 19 Jul, Wed    | 7.30pm - 8.00pm     |  Adults     | Mystery   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-mystery-tickets-655778429937?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
-| 21 Jul, Fri    | 7.30pm - 8.00pm     |  Adults     | Life Reminders for Adults from Children's Books   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-life-reminders-for-adults-tickets-645257200657?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
+| 3 Jul, Mon    | 7.30pm - 8.00pm     |  Adults     | Celebrating Women Writers   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-celebrating-women-writers-tickets-645192366737?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
+| 5 Jul, Wed    | 7.30pm - 8.00pm     |  Adults     | Historical Fiction   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-historical-fiction-tickets-645192607457?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
+| 12 Jul, Wed    | 12.00pm - 12.30pm     |  Adults     | Big Tech   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-books-about-big-tech-tickets-645193570337?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
+| 19 Jul, Wed    | 7.30pm - 8.00pm     |  Adults     | Mystery   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-mystery-tickets-655778429937?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
+| 21 Jul, Fri    | 7.30pm - 8.00pm     |  Adults     | Life Reminders for Adults from Children's Books   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-life-reminders-for-adults-tickets-645257200657?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
 | 22 Jul, Sat    | 1.30pm - 2.00pm     |  General     | Animals   | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-animals-tickets-645250631007?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
-| 25 Jul, Tue   | 7.30pm - 8.00pm     |  Adults    | Short Stories  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-adult-short-stories-tickets-655779964527?aff=odcleoeventsincollection)     |
-| -------- | -------- |  -------- | -------- | -------- |
+| 25 Jul, Tue   | 7.30pm - 8.00pm     |  Adults    | Short Stories  | [HERE](https://www.eventbrite.sg/e/read-together-session-read-for-books-2023-adult-short-stories-tickets-655779964527?aff=odcleoeventsincollection)     || -------- | -------- |  -------- | -------- | -------- |
 | 29 Jul, Sat   | 11.00am - 11.30am     |  Teens    | Young Adult Fiction  | [HERE](https://www.eventbrite.com/e/read-together-session-read-for-books-2023-young-adult-fiction-tickets-645194212257?aff=odcleoeventsincollection&amp;keep_tld=1)     |
 
 
