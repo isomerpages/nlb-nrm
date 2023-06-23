@@ -86,4 +86,4 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 
 
 
-Updated 09 June 2023
+Updated 23 June 2023
