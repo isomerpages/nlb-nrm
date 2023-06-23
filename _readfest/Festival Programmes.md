@@ -76,6 +76,7 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} || 
 15 Jul, Sat | 2.00pm – 3.45pm     | [Let's Unpack This!: A Card Game on Feelings](https://www.eventbrite.sg/e/lets-unpack-this-a-card-game-on-feelings-read-fest-23-tickets-638009382237?aff=odcleoeventsincollection){:target="_blank"} || 
 15 Jul, Sat | 4.00pm – 5.30pm     | [A Sip of Silence: An Experience with Hush TeaBar](https://go.gov.sg/rf23-btr-p5){:target="_blank"} || 
+15 Jul, Sat | 6.00pm – 8.00pm     | [வழக்கறிஞர் சுமதி: நீதிமன்ற வழக்குகள் தரும் வாழ்க்கைப் பாடங்கள்](https://www.eventbrite.com/e/read-fest-tickets-645181444067?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} || 
 16 Jul, Sun | 8.30am – 10.00am     | [Fish Out of water: Local Marine Species in Wet Markets](https://www.eventbrite.sg/e/fish-out-of-water-local-marine-species-in-wet-markets-read-fest-23-tickets-637928299717?aff=odcleoeventsincollection){:target="_blank"} || 
 16 Jul, Sun | 2.00pm – 4.00pm     | [Communities: Zzzink! Rage and Revelry](https://www.eventbrite.com/e/communities-zzzink-rage-and-revelry-libraryorchard-tickets-646786063527){:target="_blank"} || 
 16 Jul, Sun | 2.00pm – 5.00pm     | [走近极简的世界：闪小说与微型小说阅读鉴赏工作坊](https://go.gov.sg/rf23-covid2030-microfic){:target="_blank"} || 
