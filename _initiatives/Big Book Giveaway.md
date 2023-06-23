@@ -16,10 +16,10 @@ BBG will be happening at:
 
 NLB’s eCard is required to participate in this event. 
 
-For smooth entry, do ensure that you have downloaded the NLB Mobile App and registered for a myLibrary account before the event. You may refer to [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/) for more details on how to sign up for a myLibrary account.
+For smooth entry, do ensure that you have downloaded the NLB Mobile app and registered for a myLibrary account before the event. You may refer to [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/) for more details on how to sign up for a myLibrary account.
 
 Join us to enrich your reading journey and give library books a second life! Remember to bring your own bag to carry your ‘new’ books home. See you there!
 
 \*While stocks last.
 
-Updated 23 May 2023
+Updated 23 Jun 2023

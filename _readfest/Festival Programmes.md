@@ -46,10 +46,13 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 8 Jul, Sat | 2.00pm – 3.00pm     | [Gundam Building 101](https://www.eventbrite.com/e/gundam-building-101-read-fest-23-tickets-644277741067?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 3.00pm     | [My Neighbourhood, My Story](https://go.gov.sg/rf23-btr-p3){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 3.30pm     | [Membangun Generasi Dalam Era Revolusi Digital](https://www.eventbrite.sg/e/635110361187){:target="_blank"} | | 
+8 Jul, Sat | 2.00pm – 4.00pm     | [அறம்: உண்மை மனிதர்களின் கதைகள், எழுத்தாளர் ஹேமலதாவுடன் ஓர் கலந்துரையாடல்](https://www.eventbrite.sg/e/645159267737?aff=odcleoeventsincollection){:target="_blank"} || 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Using Conflict to Strengthen Fictional Characters](https://www.eventbrite.com/e/using-conflict-to-strengthen-fictional-characters-read-fest-23-tickets-631337386117?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |  | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Upcycling Through Sashiko Embroidery](https://www.eventbrite.sg/e/upcycling-through-sashiko-embroidery-read-fest-23-tickets-645209658457?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [带着手帐游走中欧](https://go.gov.sg/rf23-travellit-notebook){:target="_blank"} | | 
+8 Jul, Sat | 4.00pm – 6.00pm     | [நமது சமூகத்தின் பச்சாதாப மனப்பாங்கு: ஒரு கருத்தரங்கம்](https://www.eventbrite.sg/e/read-fest-23-tickets-645166088137?aff=odcleoeventsincollection){:target="_blank"} || 
 8 Jul, Sat | 6.00pm – 7.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
+8 Jul, Sat | 6.00pm – 8.00pm     | [நூலாசிரியர் & வழக்கறிஞர் சுமதியின் சிறப்புரை](https://www.eventbrite.sg/e/read-fest-23-tickets-645170140257?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 7.30pm – 8.30pm     | [Heartbreak Hotel: The Art of a Broken Heart](https://www.eventbrite.com/e/heartbreak-hotel-the-art-of-a-broken-heart-read-fest-23-tickets-639742235247){:target="_blank"} | | 
 9 Jul, Sun | 10.00am – 11.30am     | [ரௌத்திரம் பழகு: எழுச்சியூட்டும் ஓர் அலசல் வழக்கறிஞர் ஶ்ரீனிவாசன் லலிதாவுடன்](https://www.eventbrite.com/e/645172657787){:target="_blank"} | | 
 9 Jul, Sun | 2.00pm – 3.30pm     | [慢聊波兰：波兰、台湾与新加坡的文化差异](https://go.gov.sg/rf23-travellit-culture){:target="_blank"} | | 
@@ -71,7 +74,9 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 15 Jul, Sat | 11.00am – 12.30pm     | [Falsafah Pendidikan dalam Karya & Pemikiran Azizi](https://www.eventbrite.sg/e/635068485937){:target="_blank"} || 
 15 Jul, Sat | 1.00pm – 2.30pm     | [《疫言2030》：疫情时代的社会变化](https://go.gov.sg/rf23-covid2030-author){:target="_blank"} || 
 15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} || 
+15 Jul, Sat | 2.00pm – 3.45pm     | [Let's Unpack This!: A Card Game on Feelings](https://www.eventbrite.sg/e/lets-unpack-this-a-card-game-on-feelings-read-fest-23-tickets-638009382237?aff=odcleoeventsincollection){:target="_blank"} || 
 15 Jul, Sat | 4.00pm – 5.30pm     | [A Sip of Silence: An Experience with Hush TeaBar](https://go.gov.sg/rf23-btr-p5){:target="_blank"} || 
+15 Jul, Sat | 6.00pm – 8.00pm     | [வழக்கறிஞர் சுமதி: நீதிமன்ற வழக்குகள் தரும் வாழ்க்கைப் பாடங்கள்](https://www.eventbrite.com/e/read-fest-tickets-645181444067?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} || 
 16 Jul, Sun | 8.30am – 10.00am     | [Fish Out of water: Local Marine Species in Wet Markets](https://www.eventbrite.sg/e/fish-out-of-water-local-marine-species-in-wet-markets-read-fest-23-tickets-637928299717?aff=odcleoeventsincollection){:target="_blank"} || 
 16 Jul, Sun | 2.00pm – 4.00pm     | [Communities: Zzzink! Rage and Revelry](https://www.eventbrite.com/e/communities-zzzink-rage-and-revelry-libraryorchard-tickets-646786063527){:target="_blank"} || 
 16 Jul, Sun | 2.00pm – 5.00pm     | [走近极简的世界：闪小说与微型小说阅读鉴赏工作坊](https://go.gov.sg/rf23-covid2030-microfic){:target="_blank"} || 
@@ -81,4 +86,4 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 
 
 
-Updated 09 June 2023
+Updated 23 June 2023
