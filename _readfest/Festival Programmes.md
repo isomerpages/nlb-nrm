@@ -46,10 +46,13 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 8 Jul, Sat | 2.00pm – 3.00pm     | [Gundam Building 101](https://www.eventbrite.com/e/gundam-building-101-read-fest-23-tickets-644277741067?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 3.00pm     | [My Neighbourhood, My Story](https://go.gov.sg/rf23-btr-p3){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 3.30pm     | [Membangun Generasi Dalam Era Revolusi Digital](https://www.eventbrite.sg/e/635110361187){:target="_blank"} | | 
+8 Jul, Sat | 2.00pm – 4.00pm     | [அறம்: உண்மை மனிதர்களின் கதைகள், எழுத்தாளர் ஹேமலதாவுடன் ஓர் கலந்துரையாடல்](https://www.eventbrite.sg/e/645159267737?aff=odcleoeventsincollection){:target="_blank"} || 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Using Conflict to Strengthen Fictional Characters](https://www.eventbrite.com/e/using-conflict-to-strengthen-fictional-characters-read-fest-23-tickets-631337386117?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |  | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Upcycling Through Sashiko Embroidery](https://www.eventbrite.sg/e/upcycling-through-sashiko-embroidery-read-fest-23-tickets-645209658457?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [带着手帐游走中欧](https://go.gov.sg/rf23-travellit-notebook){:target="_blank"} | | 
+8 Jul, Sat | 4.00pm – 6.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} || 
 8 Jul, Sat | 6.00pm – 7.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
+8 Jul, Sat | 6.00pm – 8.00pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
 8 Jul, Sat | 7.30pm – 8.30pm     | [Heartbreak Hotel: The Art of a Broken Heart](https://www.eventbrite.com/e/heartbreak-hotel-the-art-of-a-broken-heart-read-fest-23-tickets-639742235247){:target="_blank"} | | 
 9 Jul, Sun | 10.00am – 11.30am     | [ரௌத்திரம் பழகு: எழுச்சியூட்டும் ஓர் அலசல் வழக்கறிஞர் ஶ்ரீனிவாசன் லலிதாவுடன்](https://www.eventbrite.com/e/645172657787){:target="_blank"} | | 
 9 Jul, Sun | 2.00pm – 3.30pm     | [慢聊波兰：波兰、台湾与新加坡的文化差异](https://go.gov.sg/rf23-travellit-culture){:target="_blank"} | | 
