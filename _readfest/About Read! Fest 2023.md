@@ -17,10 +17,10 @@ For Read! Fest 2023, we bring books, conversations and experiences to you throug
 
 Through these, we ask: What’s your kind of flourish?
 
-Register for our exciting programmes [HERE](https://go.gov.sg/readfest23progs/)!
+View the Read! Fest 2023 Programme booklet [HERE](https://go.gov.sg/readfest2023booklet).
 
-Check back soon for more details soon!
+Register for our exciting programmes [HERE](https://go.gov.sg/readfest23progs/)!
 
 Have a lookback at [Read! Fest 2021](/rfarchive/rf21/).
 
-Updated 24 May 2023
+Updated 23 Jun 2023
