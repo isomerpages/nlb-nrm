@@ -50,9 +50,9 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 8 Jul, Sat | 2.00pm – 4.00pm     | [Using Conflict to Strengthen Fictional Characters](https://www.eventbrite.com/e/using-conflict-to-strengthen-fictional-characters-read-fest-23-tickets-631337386117?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} |  | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [Upcycling Through Sashiko Embroidery](https://www.eventbrite.sg/e/upcycling-through-sashiko-embroidery-read-fest-23-tickets-645209658457?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 2.00pm – 4.00pm     | [带着手帐游走中欧](https://go.gov.sg/rf23-travellit-notebook){:target="_blank"} | | 
-8 Jul, Sat | 4.00pm – 6.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} || 
+8 Jul, Sat | 4.00pm – 6.00pm     | [நமது சமூகத்தின் பச்சாதாப மனப்பாங்கு: ஒரு கருத்தரங்கம்](https://www.eventbrite.sg/e/read-fest-23-tickets-645166088137?aff=odcleoeventsincollection){:target="_blank"} || 
 8 Jul, Sat | 6.00pm – 7.30pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
-8 Jul, Sat | 6.00pm – 8.00pm     | [Tunjuk Perasaan](https://www.eventbrite.sg/e/635067432787){:target="_blank"} | | 
+8 Jul, Sat | 6.00pm – 8.00pm     | [நூலாசிரியர் & வழக்கறிஞர் சுமதியின் சிறப்புரை](https://www.eventbrite.sg/e/read-fest-23-tickets-645170140257?aff=odcleoeventsincollection){:target="_blank"} | | 
 8 Jul, Sat | 7.30pm – 8.30pm     | [Heartbreak Hotel: The Art of a Broken Heart](https://www.eventbrite.com/e/heartbreak-hotel-the-art-of-a-broken-heart-read-fest-23-tickets-639742235247){:target="_blank"} | | 
 9 Jul, Sun | 10.00am – 11.30am     | [ரௌத்திரம் பழகு: எழுச்சியூட்டும் ஓர் அலசல் வழக்கறிஞர் ஶ்ரீனிவாசன் லலிதாவுடன்](https://www.eventbrite.com/e/645172657787){:target="_blank"} | | 
 9 Jul, Sun | 2.00pm – 3.30pm     | [慢聊波兰：波兰、台湾与新加坡的文化差异](https://go.gov.sg/rf23-travellit-culture){:target="_blank"} | | 
