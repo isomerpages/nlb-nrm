@@ -70,7 +70,6 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 13 Jul, Thu | 7.00pm – 8.30pm     | [Finding Meaning in a Changing World](https://www.eventbrite.sg/e/finding-meaning-in-a-changing-world-read-fest-23-tickets-631340906647?aff=odcleoeventsincollection){:target="_blank"} || 
 14 Jul, Fri | 7.00pm – 8.30pm     | [科技与人际关系的发展](https://go.gov.sg/rf23-covid2030-tech){:target="_blank"} || 
 15 Jul, Sat | 10.30am – 12.00pm     | [Paving the Way: Inclusive Trailblazing](https://go.gov.sg/rf23-pyi-elp){:target="_blank"} || 
-15 Jul, Sat | 11.00am – 12.00pm     | [Back on the Menu: Collecting Local Food Heritage](https://www.eventbrite.sg/e/back-on-the-menu-collecting-local-food-heritage-read-fest-23-tickets-637906905727?aff=odcleoeventsincollection){:target="_blank"} || 
 15 Jul, Sat | 11.00am – 12.30pm     | [Falsafah Pendidikan dalam Karya & Pemikiran Azizi](https://www.eventbrite.sg/e/635068485937){:target="_blank"} || 
 15 Jul, Sat | 1.00pm – 2.30pm     | [《疫言2030》：疫情时代的社会变化](https://go.gov.sg/rf23-covid2030-author){:target="_blank"} || 
 15 Jul, Sat | 2.00pm – 3.30pm     | [Kisahnya! Cerita Lama Untuk Hari Muka](https://www.eventbrite.sg/e/635074664417){:target="_blank"} || 
@@ -86,4 +85,4 @@ Read! Fest features talks, workshops and experiences by world-renowned authors a
 
 
 
-Updated 23 June 2023
+Updated 10 July 2023
