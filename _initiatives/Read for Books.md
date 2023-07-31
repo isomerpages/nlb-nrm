@@ -16,16 +16,7 @@ Read for Books 2023 is held in conjunction with Read! Fest. Find out more about 
 
 * * *
 
-**Beneficiaries**
-
-**The WondeRead initiative**&nbsp;brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children.&nbsp;
-
-**kidsREAD**&nbsp;is a nationwide reading initiative by NLB in partnership with People’s Association, self-help groups, MOE schools and preschools and social service groups to promote the love of reading and cultivate good reading habits among young Singaporeans, specifically children aged 4-8 years old from the less privileged families.
-
-**Ready to READ @ NLB, *Starter kit &amp; Programmes for Babies and Toddlers***_,_&nbsp;is an&nbsp;initiative by NLB to reach out to parents of children aged 0 to 3&nbsp;from&nbsp;the low-income families.&nbsp;This initiative provides parents with ready resources to&nbsp;kick-start&nbsp;positive&nbsp;reading&nbsp;habits&nbsp;with their children&nbsp;at home.&nbsp;NLB is collaborating with several organisations such as Early Childhood Development Agency (KidSTART),&nbsp;selected healthcare and preschool centres to provide these reading resources to them.
-
-
-**How to participate in Read for Books:**
+**How to participate in Read for Books: (Please submit latest by 7 August 2023)**
 
 Step 1: Register your interest by submitting the registration forms via the links below.
 
@@ -47,6 +38,13 @@ Step 4: Upon completion of the activity, please submit your photo(s) and the num
 
 Alternatively, you may also join one of the&nbsp;[Read Together programmes](https://www.eventbrite.com/cc/read-for-books-2023-charity-drive-859569)&nbsp;organised by NLB!
 
+**Beneficiaries**
+
+**The WondeRead initiative**&nbsp;brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children.&nbsp;
+
+**kidsREAD**&nbsp;is a nationwide reading initiative by NLB in partnership with People’s Association, self-help groups, MOE schools and preschools and social service groups to promote the love of reading and cultivate good reading habits among young Singaporeans, specifically children aged 4-8 years old from the less privileged families.
+
+**Ready to READ @ NLB, *Starter kit &amp; Programmes for Babies and Toddlers***_,_&nbsp;is an&nbsp;initiative by NLB to reach out to parents of children aged 0 to 3&nbsp;from&nbsp;the low-income families.&nbsp;This initiative provides parents with ready resources to&nbsp;kick-start&nbsp;positive&nbsp;reading&nbsp;habits&nbsp;with their children&nbsp;at home.&nbsp;NLB is collaborating with several organisations such as Early Childhood Development Agency (KidSTART),&nbsp;selected healthcare and preschool centres to provide these reading resources to them.
 
 **Join a Read Together programme!**
 
@@ -138,4 +136,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 
 ![banner RF](\images\rfb sponsors.png)
 
-Updated 15 Jun 2023
+Updated 31 Jul 2023
