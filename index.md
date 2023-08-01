@@ -8,10 +8,10 @@ description: The National Reading Movement, which was launched in 2016, is a
   Widely” by going beyond the usual genres and read in mother tongue languages,
   and to “Read Together” with family and friends.
 permalink: /
-notification: null
+notification: " "
 sections:
   - hero:
-      background: /images/RF23/rf23_websiteheader_main.png
+      background: /images/rfbmain.jpg
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
