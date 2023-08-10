@@ -16,7 +16,7 @@ Read for Books 2023 is held in conjunction with Read! Fest. Find out more about 
 
 * * *
 
-**How to participate in Read for Books: (Please submit latest by 7 August 2023)**
+**How to participate in Read for Books: (The deadline has been extended. Please submit by 14 August 2023)**
 
 Step 1: Register your interest by submitting the registration forms via the links below.
 
@@ -34,7 +34,7 @@ Step 3: Take 1 to 2 photos or screengrabs of the activity.
 
 Step 4: Upon completion of the activity, please submit your photo(s) and the number of participants&nbsp;[**HERE**](https://go.gov.sg/rfb23-submit). (This link will be made available on 1 July.)
 
-*NOTE: Please note that all submissions must be completed by&nbsp;7 August 2023 (Monday), 11.59pm.*
+*NOTE: Please note that all submissions must be completed by&nbsp;14 August 2023 (Monday), 11.59pm.*
 
 Alternatively, you may also join one of the&nbsp;[Read Together programmes](https://www.eventbrite.com/cc/read-for-books-2023-charity-drive-859569)&nbsp;organised by NLB!
 
@@ -136,4 +136,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 
 ![banner RF](\images\rfb sponsors.png)
 
-Updated 31 Jul 2023
+Updated 10 Aug 2023
