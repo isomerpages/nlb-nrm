@@ -3,12 +3,11 @@ title: Partners
 permalink: /partners/
 breadcrumb: Partners
 ---
-
 The National Reading Movement would like to thank organisations for their support and participation.
 
-<p/>
+<p>
 
-<div class="content">
+</p><div class="content">
 	<div class="acc-kontainer">
 		<div>
 			<input type="radio" name="acc" id="acc1">
@@ -58,7 +57,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Auditor-General's Office</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Baker & Cook Pte Ltd</div>
+						<div class="margin--top--none">Baker &amp; Cook Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Balestier Hill Primary School</div>
@@ -327,7 +326,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Hougang Primary School</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Housing & Development Board</div>
+						<div class="margin--top--none">Housing &amp; Development Board</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Huamin Primary School</div>
@@ -351,7 +350,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">IMDA</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Immigration & Checkpoints Authority</div>
+						<div class="margin--top--none">Immigration &amp; Checkpoints Authority</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Info-Communications Media Development Authority</div>
@@ -450,7 +449,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">LISHA Women Wing</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">LISHA: Little India Shopkeepers & Heritage Association (Lisha toastmasters)</div>
+						<div class="margin--top--none">LISHA: Little India Shopkeepers &amp; Heritage Association (Lisha toastmasters)</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">LIXIL International Pte. Ltd</div>
@@ -510,10 +509,10 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Ministry of Communications and Information</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Ministry of Culture, Community & Youth</div>
+						<div class="margin--top--none">Ministry of Culture, Community &amp; Youth</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Ministry of Culture, Community & Youth (Overseas Singaporean Unit)</div>
+						<div class="margin--top--none">Ministry of Culture, Community &amp; Youth (Overseas Singaporean Unit)</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Ministry of Defence</div>
@@ -525,7 +524,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Ministry Of Education Guidance Branch</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Ministry Of Education Character & Citizenship Education Branch</div>
+						<div class="margin--top--none">Ministry Of Education Character &amp; Citizenship Education Branch</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Ministry of Education, English Language and Literature Branch, Reading Unit</div>
@@ -657,7 +656,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Northoaks Primary School</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">NTU, NIE, English Language & Literature</div>
+						<div class="margin--top--none">NTU, NIE, English Language &amp; Literature</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">NTUC Health Day Centre for Seniors (Silver Circle) [Bedok]</div>
@@ -900,7 +899,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Skills Future Singapore</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">SIP Abacus & Brain Exercise, Singapore</div>
+						<div class="margin--top--none">SIP Abacus &amp; Brain Exercise, Singapore</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Sirpigal Mandram</div>
@@ -1122,10 +1121,10 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Agency for Integrated Care</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Agency for Science, Technology & Research</div>
+						<div class="margin--top--none">Agency for Science, Technology &amp; Research</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Agri-Food & Veterinary Authority of Singapore</div>
+						<div class="margin--top--none">Agri-Food &amp; Veterinary Authority of Singapore</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Al Iman Mosque Kindergarten</div>
@@ -1299,10 +1298,10 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">DBS Bank Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Defence Science & Technology Agency</div>
+						<div class="margin--top--none">Defence Science &amp; Technology Agency</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Dentons Rodyk & Davidson LLP</div>
+						<div class="margin--top--none">Dentons Rodyk &amp; Davidson LLP</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">DesignSingapore Council</div>
@@ -1344,7 +1343,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Era Dance Theatre Limited</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Ernst & Young Solutions LLP</div>
+						<div class="margin--top--none">Ernst &amp; Young Solutions LLP</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Ethos Books</div>
@@ -1401,7 +1400,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Hougang Primary School</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Housing & Development Board</div>
+						<div class="margin--top--none">Housing &amp; Development Board</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Hua Yi Secondary School</div>
@@ -1419,7 +1418,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Iman Childcare (Simei) Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Infant Jesus Homes & Children's Centres</div>
+						<div class="margin--top--none">Infant Jesus Homes &amp; Children's Centres</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Infocomm Development Authority of Singapore</div>
@@ -1797,7 +1796,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">PPIS Child Development Centre Sembawang</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Praiseland Child Care & Learning Centre</div>
+						<div class="margin--top--none">Praiseland Child Care &amp; Learning Centre</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Presbyterian Community Services Child Care Centre (Ang Mo Kio)</div>
@@ -1953,7 +1952,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Sunbeam Place</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Sunflower Childcare & Development Centre Ptd Ltd</div>
+						<div class="margin--top--none">Sunflower Childcare &amp; Development Centre Ptd Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Sunflower Preschool @ Pasir Ris</div>
@@ -2085,7 +2084,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Archer Daniels Midland Company, ADM Asia-Pacific Trading Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">AT&T</div>
+						<div class="margin--top--none">AT&amp;T</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">AUPE</div>
@@ -2109,7 +2108,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">ClickTrue Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Colin Ng & Partners LLP</div>
+						<div class="margin--top--none">Colin Ng &amp; Partners LLP</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">DBS/POSB</div>
@@ -2124,7 +2123,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Dornier MedTech Asia Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">DPA Architecture & Urban Planning</div>
+						<div class="margin--top--none">DPA Architecture &amp; Urban Planning</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Eastman Chemical Asia Pacific Pte Ltd</div>
@@ -2142,7 +2141,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Emerio GlobeSoft Pte Ltd</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Ernst & Young</div>
+						<div class="margin--top--none">Ernst &amp; Young</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Hush TeaBar</div>
@@ -2157,7 +2156,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">JTC Corporation</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Keppel Offshore & Marine</div>
+						<div class="margin--top--none">Keppel Offshore &amp; Marine</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">KPMG</div>
@@ -2214,7 +2213,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Popular Book Co (Pte Ltd)</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Port of Singapore Authority</div>
+						<div class="margin--top--none">PSA Corporation Limited</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">PropNex Singapore</div>
@@ -2241,7 +2240,7 @@ The National Reading Movement would like to thank organisations for their suppor
 						<div class="margin--top--none">Singapore Health Services</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">Singapore Industrial & Services Employeesâ€™ Union</div>
+						<div class="margin--top--none">Singapore Industrial &amp; Services Employeesâ€™ Union</div>
 					</div>
 					<div class="col is-4 padding--right--xl padding--bottom">
 						<div class="margin--top--none">Singapore Post Limited</div>
