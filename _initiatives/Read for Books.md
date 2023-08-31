@@ -3,7 +3,7 @@ title: Read for Books
 permalink: /initiatives/readforbooks/
 description: ""
 ---
-![banner RF](\images\rfb website banner2.jpg)
+![banner RF](\images\rfb2post.jpg)
 
 We extend our heartfelt gratitude to all the wonderful participants who enthusiastically took part in the Read for Books charity drive. With your help, we manage to raise 9,220 books! Thank you for helping us share the gift of reading and making a lasting difference in the lives of the less privileged!
 
