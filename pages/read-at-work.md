@@ -4,18 +4,17 @@ permalink: /read-at-work/
 ---
 ![banner read@work](\images\readwork.jpg)
 
-Launched in late 2016, Read@Work supports organisations in seeding a reading culture at the workplace. More than 100 organisations are on board Read@Work to strengthen their staff’s learning and reading habits. Join us to enjoy a complimentary suite of services designed to encourage working adults to read and learn:
+Launched in late 2016, Read@Work supported organisations in seeding a reading culture at the workplace. More than 100 organisations came on board Read@Work to strengthen their staff’s learning and reading habits, such as through quarterly EDMs to get staff in the mood for reading, and free Lunch and Learn programmes. 
 
-* Quarterly Read@Work EDMs to get staff in the mood for reading.
-* Free Lunch and Learn programmes, including bite-sized talks by professional trainers and librarians’ sharing.
-* Sharing by librarians about eResources such as Digital Business Library, PressReader, Udemy Business and Libby.
-* Services of a dedicated librarian to tailor programmes that fit your organisations' needs.
+**Call for partners: We are looking for organisations to join us in a revamped upskilling initiative at work.** 
 
+This initiative will feature multi-modal ways of learning through NLB’s learning pathways in areas such as the digital, green and care economies. 
 
-Latest EDM: [Read@Work_Rethink_Self-Care](/files/ReadWork_Rethink_Self-Care.pdf)
+If you’re interested to explore how NLB can complement your organisation’s learning efforts, please enquire through [read@nlb.gov.sg](mailto:read@nlb.gov.sg) with “Upskilling at Work” in the subject.
 
 Past EDMs:
 
+* [Read@Work_Rethink_Self-Care](/files/ReadWork_Rethink_Self-Care.pdf)
 * [Read@Work_Curiosity](/edms/Read@Work_Curiosity.pdf){:target="_blank"}
 * [Read@Work_Adaptability](/edms/Read@Work_Adaptability.pdf){:target="_blank"}
 * [Read@Work_Creativity](/edms/Read@Work_Creativity-linkable-PDF.pdf){:target="_blank"}
@@ -44,17 +43,4 @@ Past EDMs:
 
 
 
-
-
-
-
-
-[Terms and Conditions of Read@Work EDM Quiz](/edms/Read@Work eNewsletter Quiz_Terms and Conditions.pdf){:target="_blank"}
-
-
-
-Enquire through read@nlb.gov.sg  with "Read@Work" in the subject.
-
-
-
-Updated 06 May 2022
+Updated 28 Sep 2023
