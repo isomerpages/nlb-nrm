@@ -2,6 +2,7 @@
 title: About Read! Fest 2021
 permalink: /rfarchive/rf21/
 description: ""
+variant: markdown
 ---
 ![banner RF](\images\RF_WebsiteHeader.png)
 
@@ -24,10 +25,6 @@ Where will you find yourself?
 **Download the festival booklet [HERE ](https://go.gov.sg/readfest21-booklet)**
 
 
-
-Look out for special discount codes given by our esteemed partners during relevant Read! Fest [programmes](https://www.nationalreadingmovement.sg/readfest/programmes) to purchase the featured titles! 
-
-Also watch out for special Read! Fest promotions by Kinokuniya, Popular Bookstore, Times and GoGuru.com.sg.
 
 
 Read! Fest 2021 would like to thank the following partners for their support.
