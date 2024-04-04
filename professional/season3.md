@@ -1,6 +1,5 @@
 ---
 title: Get Professional Series (Season 3)
-permalink: /professional/
 ---
 
 <img src="https://www.nlb.gov.sg/golibrary2/e/file/location/files/df6302fdbb506bfa01a05e6915b29a4e/banner_business.jpg" alt="professional series banner"/>

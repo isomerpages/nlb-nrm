@@ -1,6 +1,5 @@
 ---
 title: National Reading Challenge
-permalink: /initiatives/national-reading-challenge/
 ---
 
 ### **Congratulations to our prize winners!**

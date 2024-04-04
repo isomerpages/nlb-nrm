@@ -1,6 +1,5 @@
 ---
 title: Four Conversations
-permalink: /initiatives/four-conversations/
 ---
 
 Check out 2019's four conversations -
