@@ -1,6 +1,5 @@
 ---
 title: Book a Grab, Grab a Book
-permalink: /grab-a-book/
 ---
 
 ![banner Grab](\images\Grab1.jpg)

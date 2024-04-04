@@ -1,6 +1,5 @@
 ---
 title: "Coffee Meets Novel"
-permalink: /initiatives/cmn/
 ---
 
 ![banner cmn](\images\CMN2_Web.png)

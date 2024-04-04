@@ -1,6 +1,5 @@
 ---
 title: "HTML5 Pub"
-permalink: /pub-sample/
 ---
 
 #### *Sample*

@@ -1,6 +1,5 @@
 ---
 title: "Read for Books"
-permalink: /read-for-books/
 ---
 
 ![banner read@work](\images\RFBbanner.jpg)

@@ -1,6 +1,5 @@
 ---
 title: "Words Are Powerful Things"
-permalink: /jointhemovement/
 ---
 
 ![banner cmn](\images\pow.jpeg)
