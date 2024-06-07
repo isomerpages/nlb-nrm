@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rfb2-main.png
+      background: /images/RFB2024banner.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
