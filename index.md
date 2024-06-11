@@ -24,6 +24,7 @@ sections:
             join a book club? Find out more.
           url: /initiatives/book-clubs/
       url: /readfest/main/
+      variant: image
   - infopic:
       title: Book Recommendations, Reviews and More!
       subtitle: Highlights
