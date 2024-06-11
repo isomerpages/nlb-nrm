@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RFB2024banner.png
+      background: /images/RFB2024Main2.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
@@ -24,6 +24,7 @@ sections:
             join a book club? Find out more.
           url: /initiatives/book-clubs/
       url: /readfest/main/
+      variant: image
   - infopic:
       title: Book Recommendations, Reviews and More!
       subtitle: Highlights
