@@ -5,7 +5,10 @@ variant: tiptap
 description: Reading in the Age of Distraction 2024
 third_nav_title: RAD
 ---
-<p>![banner RAD](/images/RAD/RAD 2024/RADBanner2024.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reading in the age of distraction main banner" src="/images/RAD/RAD 2024/RADBanner2024.png">
+</div>
 <p><strong>About Reading in the Age of Distraction</strong>
 </p>
 <p>Reading in the Age of Distraction (RAD) is a series of conversations featuring
@@ -20,7 +23,10 @@ and AI.</p>
 sign up now!</p>
 <p></p>
 <p></p>
-<p>![banner RAD](/images/RAD/RAD 2024/The_Smart_Reader.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Smart Reader 6 July Zoom" src="/images/RAD/RAD 2024/The_Smart_Reader.png">
+</div>
 <p><strong>The Smart Reader: The Best of Print and Screens</strong>
 </p>
 <p><strong>6 July 2024, Saturday, 10am – 11.30am</strong>
@@ -47,7 +53,11 @@ McLuhan’s <a href="https://go.gov.sg/rad24-um" rel="noopener noreferrer nofoll
 <p>&nbsp;</p>
 <p>Sign up for the programme <a href="https://www.eventbrite.sg/e/the-smart-reader-the-best-of-print-and-screens-rad-2024-tickets-904593572727?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p>
-<br>![banner RAD](/images/RAD/RAD 2024/readers_robot_writers.png)</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Readers and Robot Writers 13 July Zoom" src="/images/RAD/RAD 2024/readers_robot_writers.png">
+</div>
 <p><strong>Readers &amp; Robot Writers: Open Chats on AI</strong>
 </p>
 <p><strong>13 July 2024, Saturday, 10am – 11.30am</strong>
@@ -66,7 +76,10 @@ in the future.</p>
 <p>&nbsp;</p>
 <p>Sign up for the programme <a href="https://www.eventbrite.sg/e/readers-robot-writers-open-chats-on-ai-rad-2024-tickets-904596872597?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
-<p>![banner RAD](/images/RAD/RAD 2024/new_gen_readers.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Gen Readers 20 July Zoom" src="/images/RAD/RAD 2024/New_Gen_Readers.png">
+</div>
 <p><strong>New Gen Readers: Decoding Algorithms &amp; BookTok</strong>
 </p>
 <p><strong>20 July 2024, Saturday, 10am – 11.30am</strong>
@@ -85,7 +98,10 @@ reading today to help you become a discerning reader.</p>
 <p>&nbsp;</p>
 <p>Sign up for the programme <a href="https://www.eventbrite.sg/e/new-gen-readers-decoding-algorithms-booktok-rad-2024-tickets-904598146407?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
-<p>![banner RAD](/images/RAD/RAD 2024/The_Ritual_Effect.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Ritual Effect 27 July Zoom" src="/images/RAD/RAD 2024/The_Ritual_Effect.png">
+</div>
 <p><strong>The Ritual Effect: The Reader's Edition | RAD 2024</strong>
 </p>
 <p><strong>27 July 2024, Saturday, 10am – 11.30am</strong>
