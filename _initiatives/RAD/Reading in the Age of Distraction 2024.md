@@ -20,16 +20,91 @@ and AI.</p>
 sign up now!</p>
 <p></p>
 <p></p>
-<p>&nbsp;![banner RAD](/images/RAD/RAD 2022/Read to Focus.png)</p>
-<p><strong>Read to Focus: The Art of Focused Reading in an Age of Distraction</strong>
+<p>![banner RAD](/images/RAD/RAD 2024/The_Smart_Reader.png)</p>
+<p><strong>The Smart Reader: The Best of Print and Screens</strong>
 </p>
-<p>In an age of devices and distractions where focus is elusive, skim reading
-is almost a given. We may be reading more, but are we really reading? Or
-is the barrage of information that we consume all too transient? Join panellists
-Professor Emerita Naomi Baron, Associate Professor Loh Chin Ee and moderator
-Ibrahim Tahir, as they discuss how we are reading today, its understated
-effects, how we can cultivate focused reading – and focus – in the age
-of distraction.</p>
+<p><strong>6 July 2024, Saturday, 10am – 11.30am</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Reading on screens is here to stay. We once thought the ubiquity of screens
+with its accompanying distractions will kill our ability for deep immersed
+reading. Thanks to the rallied efforts of reading experts and thinkers,
+all hope is not lost as we have developed a better understanding of how
+the digital medium affects how we read and how to manage them. Still, reading
+print continues to be key in fostering critical skills. So how do we make
+the best of both print and screen?</p>
+<p>&nbsp;</p>
+<p>Join Dr Annika Schwabe and Professor Ladislao Salmerón as they discuss
+how we can build reading practices to optimise reading for both mediums,
+including audiobooks.</p>
+<p>&nbsp;</p>
+<p>For some background reading for this session, do check out Naomi Baron's&nbsp;
+<a href="https://go.gov.sg/rad24-hwrn" rel="noopener noreferrer nofollow" target="_blank"><u>How We Read Now</u>
+</a><u>,</u> Maryanne Wolf’s <a href="https://go.gov.sg/rad24-rch" rel="noopener noreferrer nofollow" target="_blank"><u>Reader Come Home</u></a> and Marshall
+McLuhan’s <a href="https://go.gov.sg/rad24-um" rel="noopener noreferrer nofollow" target="_blank"><u>Understanding Media (Summary).</u></a>
+</p>
+<p>&nbsp;</p>
+<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/the-smart-reader-the-best-of-print-and-screens-rad-2024-tickets-904593572727?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p>
+<br>![banner RAD](/images/RAD/RAD 2024/readers_robot_writers.png)</p>
+<p><strong>Readers &amp; Robot Writers: Open Chats on AI</strong>
+</p>
+<p><strong>13 July 2024, Saturday, 10am – 11.30am</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>When the internet and social media burst into the homes of the everyday
+man, it was hard to foresee the impact it would have on the way we read.
+Today, we have reached a new technological milestone with ChatGPT. Fears
+of being tossed aside by sentient AI beings have renewed or started afresh.
+But perhaps, the impact of AI could be more subtle than the extermination
+of the human race. We could start with how AI could affect the way we read.
+In this session, hear Author Stanley (Qiufan) Chen and Associate Professor
+Dennis Yi discuss and speculate how AI will impact reading and literacy
+in the future.</p>
+<p>&nbsp;</p>
+<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/readers-robot-writers-open-chats-on-ai-rad-2024-tickets-904596872597?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
+<p>![banner RAD](/images/RAD/RAD 2024/new_gen_readers.png)</p>
+<p><strong>New Gen Readers: Decoding Algorithms &amp; BookTok</strong>
+</p>
+<p><strong>20 July 2024, Saturday, 10am – 11.30am</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>Long before reading became the quiet solitary experience we now know,
+words were read aloud. And before they were scribed onto pages, stories
+were passed through word-of-mouth. With BookTok and BookTube, reading has
+made a comeback as a buzzing social activity, claiming space on our tweets
+and feeds. This has helped create a vast community of readers online. How
+has social media affect how we read? Is what we are reading shaped by invisible
+forces of the algorithm? In this session, join Dr Federico Pianzola and
+Associate Professor Simone Murray as they discuss the phenomena of social
+reading today to help you become a discerning reader.</p>
+<p>&nbsp;</p>
+<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/new-gen-readers-decoding-algorithms-booktok-rad-2024-tickets-904598146407?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
+<p>![banner RAD](/images/RAD/RAD 2024/The_Ritual_Effect.png)</p>
+<p><strong>The Ritual Effect: The Reader's Edition | RAD 2024</strong>
+</p>
+<p><strong>27 July 2024, Saturday, 10am – 11.30am</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>In the age of endless distractions, habits and routines offer a semblance
+of calm and consistency to our lives. However, as we engage in these tasks
+repeatedly, we tend to switch to auto-pilot, carrying them out mindlessly
+and thoughtlessly. Could this be why so many of us struggle to build a
+consistent reading habit? In his book, The Ritual Effect, Dr. Michael Norton
+writes about the benefits of shifting from a habitual to a ritualistic
+mindset and how we can harness rituals to help add intentionality and pleasure
+to our lives. Find out how we can apply this to building a reading ritual
+by joining us for a talk with Michael himself!</p>
+<p>&nbsp;</p>
+<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/the-ritual-effect-the-readers-edition-rad-2024-tickets-904603422187?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
+<p>Updated 11 Jun 2024</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
