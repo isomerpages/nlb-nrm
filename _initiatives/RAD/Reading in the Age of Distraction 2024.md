@@ -18,7 +18,18 @@ and AI.</p>
 10am – 11.30am.</p>
 <p>Click <a href="https://go.gov.sg/nlb-rad2024" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 sign up now!</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p>&nbsp;![banner RAD](/images/RAD/RAD 2022/Read to Focus.png)</p>
+<p><strong>Read to Focus: The Art of Focused Reading in an Age of Distraction</strong>
+</p>
+<p>In an age of devices and distractions where focus is elusive, skim reading
+is almost a given. We may be reading more, but are we really reading? Or
+is the barrage of information that we consume all too transient? Join panellists
+Professor Emerita Naomi Baron, Associate Professor Loh Chin Ee and moderator
+Ibrahim Tahir, as they discuss how we are reading today, its understated
+effects, how we can cultivate focused reading – and focus – in the age
+of distraction.</p>
 <p></p>
 <p>&nbsp;</p>
 <p></p>
