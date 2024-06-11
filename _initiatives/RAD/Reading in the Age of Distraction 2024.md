@@ -5,10 +5,7 @@ variant: tiptap
 description: Reading in the Age of Distraction 2024
 third_nav_title: RAD
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Reading in the age of distraction main banner" src="/images/RAD/RAD 2024/RADBanner2024.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nlb-rad2024"><img style="width: 100%" height="auto" width="100%" alt="Reading in the age of distraction main banner" src="/images/RAD/RAD 2024/RADBanner2024.png"></a>
 <p><strong>About Reading in the Age of Distraction</strong>
 </p>
 <p>Reading in the Age of Distraction (RAD) is a series of conversations featuring
