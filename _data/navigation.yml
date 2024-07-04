@@ -1,0 +1,41 @@
+logo: /images/nrm-logo.jpg
+links:
+  - title: Initiatives
+    url: /initiatives/readforbooks/
+    sublinks:
+      - title: Read For Books
+        url: /initiatives/readforbooks
+      - title: Big Book Giveaway
+        url: /initiatives/bigbookgiveaway
+      - title: One Story
+        url: /initiatives/one-story/
+      - title: RAD
+        url: /initiatives/rad
+      - title: Masterclass Series
+        url: /initiatives/masterclass/
+      - title: LearnX Community
+        url: https://learning.nlb.gov.sg/communities/what-is-a-learnx-community
+      - title: NLB Mobile app
+        url: https://mobileapp.nlb.gov.sg
+  - title: Read! Fest
+    url: /readfest/main
+    sublinks:
+      - title: 12 Titles, 12 Insights
+        url: /readfest/flourish
+      - title: Programmes
+        url: /readfest/programmes/
+      - title: Activations
+        url: /readfest/activations
+  - title: Blog
+    url: https://go.gov.sg/nlb-nrmmedium
+  - title: Partners
+    url: /partners/
+  - title: About Us
+    url: /about-us/about-national-reading-movement/
+    sublinks:
+      - title: About National Reading Movement
+        url: /about-us/about-national-reading-movement/
+      - title: Visit Us
+        url: https://www.nlb.gov.sg/VisitUs.aspx
+      - title: GoLibrary
+        url: https://www.nlb.gov.sg/golibrary2/c/30307529/
