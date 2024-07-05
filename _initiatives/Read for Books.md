@@ -8,7 +8,7 @@ variant: markdown
 
 **Read for Books**
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to a certain number of books.
+Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,502 books.
 
 
 **Beneficiaries**
@@ -19,7 +19,7 @@ Read for Books is a charity book drive to raise awareness and share the gift of 
 
 **Ready to READ @ NLB, Starter kit &amp; Programmes for Babies and Toddlers**,&nbsp;is an initiative by NLB to reach out to parents of children aged 0 to 3 from the low-income families. This initiative provides parents with ready resources to kick-start positive reading habits with their children at home. NLB is collaborating with several organisations such as Early Childhood Development Agency (KidSTART), selected healthcare and preschool centres to provide these reading resources to them.
 
-**MINDSG LTD** has been caring for Persons with Intellectual Disability (PWIDs) and their families since 1962.&nbsp; Grounded in the belief that all PWIDs have innate abilities and talents, MINDS is committed to empowering them and enhancing their quality of life, while advocating for greater inclusivity for PWIDs as a nation.
+**MINDSG Ltd** has been caring for Persons with Intellectual Disability (PWIDs) and their families since 1962.&nbsp; Grounded in the belief that all PWIDs have innate abilities and talents, MINDS is committed to empowering them and enhancing their quality of life, while advocating for greater inclusivity for PWIDs as a nation.
 
 Today, MINDS is one of the largest charities in Singapore, serving close to 9,000 PWIDs and caregivers every year.&nbsp;&nbsp; With the key focus to expand community-based services, improving the employability of PWIDS, strengthening education, and engendering inclusive community living, MINDS offers a holistic range of services and programmes across the PWIDs’ lifespan.&nbsp; These include schools, employment and training development centres, home-based care services and community-based services to cater to the physical, psychological, environmental and social needs of PWIDs and their families.&nbsp;&nbsp;&nbsp;
 
@@ -78,4 +78,14 @@ Read for Books 2024 is made possible through the generous donations from the fol
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Book Publishers Association
 
-Updated 28 Jun 2024
+Under the Singapore Book Publishers Association, participating organisations are:
+
+* Alkem Company
+* Armour Publishing
+* Banjo &amp; Sons Pte Ltd
+* Epigram Books
+* Helang Books
+* Pagesetters Services Pte. Ltd.
+* Praxis Publishing Pte. Ltd.
+
+Updated 05 Jul 2024
