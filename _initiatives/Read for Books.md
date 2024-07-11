@@ -8,7 +8,9 @@ variant: markdown
 
 **Read for Books**
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,502 books.
+Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,500 books*.
+
+**The final number of donations will be determined base on the donations raised through the Giving.SG donation campaign, which runs from 11 Jul 2024 to 14 Aug 2024. You can show your support by making a monetary contribution [HERE](https://www.giving.sg/donate/campaign/give-to-nlb-rfb).*
 
 
 **Beneficiaries**
@@ -88,4 +90,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 * Pagesetters Services Pte. Ltd.
 * Praxis Publishing Pte. Ltd.
 
-Updated 05 Jul 2024
+Updated 11 Jul 2024
