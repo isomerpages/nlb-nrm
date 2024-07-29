@@ -5,7 +5,10 @@ description: ""
 third_nav_title: RAD
 variant: tiptap
 ---
-<p>![banner RAD](/images/RAD/RAD 2022/RAD Banner.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RAD/RAD 2022/RAD Banner.png">
+</div>
 <p><strong>About Reading in the Age of Distraction</strong>
 </p>
 <p>In the second edition of Reading in the Age of Distraction in 2022, we
@@ -18,7 +21,10 @@ Thinking”.</p>
 <p>Watch the recordings&nbsp;<a href="https://go.gov.sg/rad2022-recordings" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <p>Download the learning package <a href="https://go.gov.sg/radlearningpackage" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
 </p>
-<p>![banner RAD](/images/RAD/RAD 2022/Read to Focus.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RAD/RAD 2022/Read to Focus.png">
+</div>
 <p><strong>Read to Focus: The Art of Focused Reading in an Age of Distraction</strong>
 </p>
 <p>In an age of devices and distractions where focus is elusive, skim reading
@@ -31,7 +37,10 @@ of distraction.</p>
 <p>For some background reading for this session, do check out Naomi Baron's&nbsp;
 <a href="https://go.gov.sg/rad2022-howwereadnow" rel="noopener noreferrer nofollow" target="_blank">How We Read Now</a>&nbsp;and Nicholas Carr's&nbsp;<a href="https://go.nlb.gov.sg/m-link/details?type=ebook&amp;id=16E7D9E4-C10C-4D3C-843B-5FB973E8FD76&amp;utm_source=rad&amp;utm_campaign=rad&amp;utm_medium=bookrec" rel="noopener noreferrer nofollow" target="_blank">The Shallows</a>.</p>
 <p>Watch the recordings&nbsp;<a href="https://go.gov.sg/rtf-recording" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
-<p>![banner RAD](/images/RAD/RAD 2022/Read to Connect.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RAD/RAD 2022/Read to Connect.png">
+</div>
 <p><strong>Read to Connect: The Importance of Reading Aloud for the Young and Old</strong>
 </p>
 <p>For much of history, reading was a rather noisy and communal activity.
@@ -42,7 +51,10 @@ and Dr Jo Ann Netto-Shek as they discuss on the invigorating value of reading
 aloud to one another - even as adults, and how this practice can counter
 fractured attention spans in the age of distraction.</p>
 <p>Watch the recordings&nbsp;<a href="https://go.gov.sg/rtc-recording" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
-<p>![banner RAD](/images/RAD/RAD 2022/Read to Retain.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RAD/RAD 2022/Read to Retain.png">
+</div>
 <p><strong>Read to Retain: How to Take Smart Notes</strong>
 </p>
 <p>Have you spent hours poring over a book, only to forget what you read?
@@ -52,7 +64,10 @@ and build a habit of note-taking. Hear from Dr. Sönke Ahrens, author of&nbsp;
 <a href="https://go.gov.sg/rad2022-howtotakesmartnotes" rel="noopener noreferrer nofollow" target="_blank">How to Take Smart Notes</a>&nbsp;as he deconstructs the strategy of reading
 to retain.</p>
 <p>Watch the recordings&nbsp;<a href="https://go.gov.sg/rtr-recording" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
-<p>![banner RAD](/images/RAD/RAD 2022/Read to See.png)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RAD/RAD 2022/Read to See.png">
+</div>
 <p><strong>Read to See: Honing Your Skills of Perception through Art</strong>
 </p>
 <p>As we spend more time buried in our devices and our own worlds, are we
