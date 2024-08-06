@@ -14,6 +14,18 @@ The final number of donations will be determined based on the donations raised t
 
 **Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.*
 
+**How to participate in Read for Books 2024?**
+
+**Step 1:** Gather your friends and family to read together for 15 minutes. (Either virtually or in-person). Snap a picture of the reading session. 
+
+**Step 2:** Submit your photos and participation numbers at&nbsp;[https://go.gov.sg/rfb24-submit](https://go.gov.sg/rfb24-submit)
+
+*Note: All submissions must be completed by 14 August 2024 (Wednesday), 11:59PM.*
+
+![](/images/RFB2024_2.png)
+You can show your support by making a monetary contribution via [this Giving.sg campaign page](https://www.giving.sg/donate/campaign/give-to-nlb-rfb) from 11 Jul to 14 Aug 2024! For more information about this public fundraising appeal, please click [HERE](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?qpuen=T03CC1744D.). Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.
+
+
 **Beneficiaries**
 
 **The WondeRead initiative**&nbsp;brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children.&nbsp;
@@ -27,17 +39,6 @@ The final number of donations will be determined based on the donations raised t
 Today, MINDS is one of the largest charities in Singapore, serving close to 9,000 PWIDs and caregivers every year.&nbsp;&nbsp; With the key focus to expand community-based services, improving the employability of PWIDS, strengthening education, and engendering inclusive community living, MINDS offers a holistic range of services and programmes across the PWIDs’ lifespan.&nbsp; These include schools, employment and training development centres, home-based care services and community-based services to cater to the physical, psychological, environmental and social needs of PWIDs and their families.&nbsp;&nbsp;&nbsp;
 
 For more information, please visit www.minds.org.sg.
-
-**How to participate in Read for Books 2024?**
-
-**Step 1:** Gather your friends and family to read together for 15 minutes. (Either virtually or in-person). Snap a picture of the reading session. 
-
-**Step 2:** Submit your photos and participation numbers at&nbsp;[https://go.gov.sg/rfb24-submit](https://go.gov.sg/rfb24-submit)
-
-*Note: All submissions must be completed by 14 August 2024 (Wednesday), 11:59PM.*
-
-![](/images/RFB2024_2.png)
-You can show your support by making a monetary contribution via [this Giving.sg campaign page](https://www.giving.sg/donate/campaign/give-to-nlb-rfb) from 11 Jul to 14 Aug 2024! For more information about this public fundraising appeal, please click [HERE](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?qpuen=T03CC1744D.). Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.
 
 **Donors**
 
