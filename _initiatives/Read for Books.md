@@ -10,7 +10,9 @@ variant: markdown
 
 Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,500 books*.
 
-The final number of donations will be determined based on the donations raised through the Giving.SG donation campaign, which runs from 11 Jul 2024 to 14 Aug 2024. You can show your support by making a monetary contribution [HERE](https://www.giving.sg/donate/campaign/give-to-nlb-rfb). *Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.*
+The final number of donations will be determined based on the donations raised through the Giving.SG donation campaign, which runs from 11 Jul 2024 to 14 Aug 2024. You can show your support by making a monetary contribution [HERE](https://www.giving.sg/donate/campaign/give-to-nlb-rfb)*. 
+
+**Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.*
 
 **Beneficiaries**
 
@@ -35,6 +37,7 @@ For more information, please visit www.minds.org.sg.
 *Note: All submissions must be completed by 14 August 2024 (Wednesday), 11:59PM.*
 
 ![](/images/RFB2024_2.png)
+You can show your support by making a monetary contribution via [this Giving.sg campaign page](https://www.giving.sg/donate/campaign/give-to-nlb-rfb) from 11 Jul to 14 Aug 2024! For more information about this public fundraising appeal, please click [HERE](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?qpuen=T03CC1744D.). Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.
 
 **Donors**
 
@@ -64,4 +67,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 * Pagesetters Services Pte. Ltd.
 * Praxis Publishing Pte. Ltd.
 
-Updated 30 Jul 2024
+Updated 06 Aug 2024
