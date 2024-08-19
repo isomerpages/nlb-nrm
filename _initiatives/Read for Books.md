@@ -20,7 +20,7 @@ The final number of donations will be determined based on the donations raised t
 
 **Step 2:** Submit your photos and participation numbers at&nbsp;[https://go.gov.sg/rfb24-submit](https://go.gov.sg/rfb24-submit)
 
-*Note: All submissions must be completed by 14 August 2024 (Wednesday), 11:59PM.*
+*Note: All submissions must be completed by 31 August 2024 (Saturday), 11:59PM.*
 
 ![](/images/RFB2024_2.png)
 You can show your support by making a monetary contribution via [this Giving.sg campaign page](https://www.giving.sg/donate/campaign/give-to-nlb-rfb) from 11 Jul to 14 Aug 2024! For more information about this public fundraising appeal, please click [HERE](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?qpuen=T03CC1744D.). Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.
@@ -68,4 +68,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 * Pagesetters Services Pte. Ltd.
 * Praxis Publishing Pte. Ltd.
 
-Updated 06 Aug 2024
+Updated 19 Aug 2024
