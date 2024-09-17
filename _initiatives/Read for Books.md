@@ -4,27 +4,20 @@ permalink: /initiatives/readforbooks/
 description: ""
 variant: markdown
 ---
-![banner RF](\images\RFB2024banner.png)
+![](/images/Thank_You_Banner.png)
 
-**Read for Books**
+We extend our heartfelt gratitude to all the wonderful participants who enthusiastically took part in the Read for Books charity drive. With your help, we manage to raise approximately 5,870 books!
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,600 books*.
+Thank you for helping us share the gift of reading and making a lasting difference in the lives of the less privileged.
 
-The final number of donations will be determined based on the donations raised through the Giving.SG donation campaign, which runs from 11 Jul 2024 to 14 Aug 2024. You can show your support by making a monetary contribution [HERE](https://www.giving.sg/donate/campaign/give-to-nlb-rfb)*. 
+Do stay tuned for Read for Books 2025! If you are interested in participating in the next iteration of Read for Books, do fill out this short form [HERE](https://go.gov.sg/rfb25-interest/) and we will reach out when more details are ready.
 
-**Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.*
 
-**How to participate in Read for Books 2024?**
+**Read for Books 2024**
 
-**Step 1:** Gather your friends and family to read together for 15 minutes. (Either virtually or in-person). Snap a picture of the reading session. 
+![](/images/RFB_Banner.png)
 
-**Step 2:** Submit your photos and participation numbers at&nbsp;[https://go.gov.sg/rfb24-submit](https://go.gov.sg/rfb24-submit)
-
-*Note: All submissions must be completed by 31 August 2024 (Saturday), 11:59PM.*
-
-![](/images/RFB2024_2.png)
-You can show your support by making a monetary contribution via [this Giving.sg campaign page](https://www.giving.sg/donate/campaign/give-to-nlb-rfb) from 11 Jul to 14 Aug 2024! For more information about this public fundraising appeal, please click [HERE](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?qpuen=T03CC1744D.). Excess donations will be rolled over to benefit beneficiaries of Read for Books 2025.
-
+Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,870 books.
 
 **Beneficiaries**
 
@@ -41,6 +34,8 @@ Today, MINDS is one of the largest charities in Singapore, serving close to 9,00
 For more information, please visit www.minds.org.sg.
 
 **Donors**
+
+![](/images/Donor_Banner.png)
 
 Read for Books 2024 is made possible through the generous donations from the following organisations:
 
@@ -68,4 +63,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 * Pagesetters Services Pte. Ltd.
 * Praxis Publishing Pte. Ltd.
 
-Updated 19 Aug 2024
+Updated 17 Sep 2024
