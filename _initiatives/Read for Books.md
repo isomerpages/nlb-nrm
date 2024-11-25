@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/Thank_You_Banner.png)
 
-We extend our heartfelt gratitude to all the wonderful participants who enthusiastically took part in the Read for Books charity drive. With your help, we manage to raise approximately 5,870 books!
+We extend our heartfelt gratitude to all the wonderful participants who enthusiastically took part in the Read for Books charity drive. With your help, we manage to raise approximately 5,790 books!
 
 Thank you for helping us share the gift of reading and making a lasting difference in the lives of the less privileged.
 
@@ -17,7 +17,7 @@ Do stay tuned for Read for Books 2025! If you are interested in participating in
 
 ![](/images/RFB_Banner.png)
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,870 books.
+Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,790 books.
 
 **Beneficiaries**
 
@@ -63,4 +63,4 @@ Under the Singapore Book Publishers Association, participating organisations are
 * Pagesetters Services Pte. Ltd.
 * Praxis Publishing Pte. Ltd.
 
-Updated 17 Sep 2024
+Updated 25 Nov 2024
