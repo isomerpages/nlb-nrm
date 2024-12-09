@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Test 2025.md
       - about-national-reading-movement.md
