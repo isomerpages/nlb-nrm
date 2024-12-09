@@ -1,4 +1,5 @@
 collections:
   one-story-2025:
     output: true
-    order: []
+    order:
+      - Test 2 2025.md
