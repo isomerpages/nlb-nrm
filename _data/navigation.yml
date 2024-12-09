@@ -41,3 +41,12 @@ links:
         url: https://www.nlb.gov.sg/golibrary2/c/30307529/
       - title: Test
         url: /test-2025
+  - title: One Story
+    url: /test-2025
+    sublinks:
+      - title: About One Story
+        url: /test-2025
+      - title: 4 Titles, 10 Stories
+        url: /test-2-2025
+      - title: Programmes
+        url: /permalink
