@@ -2,4 +2,5 @@ collections:
   one-story-2025:
     output: true
     order:
+      - Test 2025.md
       - Test 2 2025.md
