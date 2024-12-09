@@ -2,6 +2,6 @@ collections:
   one-story-2025:
     output: true
     order:
-      - 4 Titles, 10 Stories/Test 2 2025.md
-      - 4 Titles, 10 Stories/.keep
       - Test 2025.md
+      - 4 Titles, 10 Stories/.keep
+      - 4 Titles, 10 Stories/Test 2 2025.md
