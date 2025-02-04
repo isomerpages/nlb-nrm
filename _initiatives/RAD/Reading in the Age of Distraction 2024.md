@@ -15,8 +15,7 @@ the latest digital trends that shape how we read such as audiobooks, BookTok
 and AI.&nbsp;</p>
 <p>RAD 24 is taking place on Saturdays, 6, 13, 20 &amp; 27 July 2024, from
 10am – 11.30am.</p>
-<p>Click <a href="https://go.gov.sg/nlb-rad2024" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-sign up now!</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -45,7 +44,7 @@ including audiobooks.</p>
 McLuhan’s <a href="https://go.gov.sg/rad24-um" rel="noopener noreferrer nofollow" target="_blank"><u>Understanding Media (Summary).</u></a>
 </p>
 <p></p>
-<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/the-smart-reader-the-best-of-print-and-screens-rad-2024-tickets-904593572727?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
 <p>
 <br>
 </p>
@@ -67,7 +66,7 @@ In this session, hear Author Stanley (Qiufan) Chen and Associate Professor
 Dennis Yi discuss and speculate how AI will impact reading and literacy
 in the future.</p>
 <p></p>
-<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/readers-robot-writers-open-chats-on-ai-rad-2024-tickets-904596872597?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -88,7 +87,7 @@ forces of the algorithm? In this session, join Dr Federico Pianzola and
 Associate Professor Simone Murray as they discuss the phenomena of social
 reading today to help you become a discerning reader.</p>
 <p></p>
-<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/new-gen-readers-decoding-algorithms-booktok-rad-2024-tickets-904598146407?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -109,9 +108,9 @@ mindset and how we can harness rituals to help add intentionality and pleasure
 to our lives. Find out how we can apply this to building a reading ritual
 by joining us for a talk with Michael himself!</p>
 <p></p>
-<p>Sign up for the programme <a href="https://www.eventbrite.sg/e/the-ritual-effect-the-readers-edition-rad-2024-tickets-904603422187?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
-<p>Updated 11 Jun 2024</p>
+<p></p>
+<p>Updated 04 Feb 2025</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
