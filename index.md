@@ -31,7 +31,7 @@ sections:
       description: Make reading part of your lifestyle. Explore featured titles and
         author thoughts and more!
       button: Explore
-      url: https://go.gov.sg/nlb-nrmmedium
+      url: https://go.gov.sg/nlb-nrmmedium-new
       image: /images/nrm_pl.jpg
       alt: Explore reads and more
 image: /images/isomer-logo.svg
