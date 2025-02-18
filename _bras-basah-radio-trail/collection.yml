@@ -1,0 +1,5 @@
+collections:
+  bras-basah-radio-trail:
+    output: true
+    order:
+      - Bras Basah Radio Trail.md

@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RFB2024Main2.png
+      background: /images/Bras_Basah_Radio_Trail_NRM_banner.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
