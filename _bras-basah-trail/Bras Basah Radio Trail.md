@@ -17,6 +17,8 @@ the Bras Basah district from now until September 2025.</p>
 <li>
 <p><strong>Visit 5 locations in the Bras Basah area:</strong>
 </p>
+</li>
+</ul>
 <ol data-tight="true" class="tight">
 <li>
 <p>Singapore Alcove, Central Public Library</p>
@@ -35,7 +37,7 @@ the Bras Basah district from now until September 2025.</p>
 <p></p>
 </li>
 </ol>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>At each stop, enjoy a radio segment featuring:</strong>
 </p>
