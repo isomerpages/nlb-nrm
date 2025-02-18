@@ -1,4 +1,5 @@
 collections:
   bras-basah-trail:
     output: true
-    order: []
+    order:
+      - Bras Basah Radio Trail.md
