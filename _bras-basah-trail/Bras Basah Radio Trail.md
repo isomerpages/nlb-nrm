@@ -10,8 +10,7 @@ description: ""
 </div>
 <p>Relax, plug in and immerse yourself with our unique radio trail through
 the Bras Basah district from now until September 2025.</p>
-<p>Here's what to expect:</p>
-<p>&nbsp;</p>
+<p>Here's what to expect:&nbsp;</p>
 <p><strong>Trail Experience:</strong>
 </p>
 <ul data-tight="true" class="tight">
