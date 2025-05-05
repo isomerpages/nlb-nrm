@@ -1,5 +1,4 @@
 collections:
   readfest:
     output: true
-    order:
-      - Activations.md
+    order: []
