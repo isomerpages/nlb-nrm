@@ -2,4 +2,5 @@ collections:
   read30:
     output: true
     order:
+      - Marquee at Plaza.md
       - About Read30.md
