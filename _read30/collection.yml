@@ -2,5 +2,5 @@ collections:
   read30:
     output: true
     order:
-      - Worlds Within.md
       - About Read30.md
+      - Worlds Within.md
