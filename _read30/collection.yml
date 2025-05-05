@@ -2,5 +2,6 @@ collections:
   read30:
     output: true
     order:
+      - Pop up Nodes.md
       - About Read30.md
       - Worlds Within.md
