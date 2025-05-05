@@ -2,5 +2,5 @@ collections:
   read30:
     output: true
     order:
-      - Marquee at Plaza.md
+      - Worlds Within.md
       - About Read30.md
