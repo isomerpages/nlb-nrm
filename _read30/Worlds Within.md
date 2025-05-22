@@ -4,6 +4,8 @@ permalink: /read-30/worlds-within/
 variant: tiptap
 description: ""
 ---
+<p>![banner RF](\images\read30\worlds within main banner.png)</p>
+<p></p>
 <p><strong>Worlds Within</strong>
 </p>
 <p>🌍 Step Into “Worlds Within” from 5–27 July 2025, at the Plaza, National
