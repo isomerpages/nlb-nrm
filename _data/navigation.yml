@@ -20,10 +20,10 @@ links:
       - title: NLB Mobile app
         url: https://mobileapp.nlb.gov.sg
   - title: Read30
-    url: /read30/about-read-30
+    url: /read-30/about-read30/
     sublinks:
       - title: About Read30
-        url: /read30/about-read-30
+        url: /read-30/about-read30/
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Partners
