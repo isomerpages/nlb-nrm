@@ -8,9 +8,11 @@ description: ""
 <p><strong>NODES</strong>
 </p>
 <p>Celebrate READ30 with us and spot 9 vibrant pop-up nodes from Orchard
-Road to the National Library Building - each packed with creative vibes,
+Road to the National Library Building—each packed with creative vibes,
 inspiring picks from 30 personalities, and eye-catching installations.</p>
-<p>Drop by, snap a pick and redeem exclusive goodies* while they last!</p>
+<p></p>
+<p>✨ Drop by, snap a pic, and redeem exclusive goodies* while they last!</p>
+<p>&nbsp;</p>
 <p>*Available at selected nodes only</p>
 <p></p>
 <p>Venues:</p>
