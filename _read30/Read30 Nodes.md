@@ -20,6 +20,7 @@ inspiring picks from 30 personalities, and eye-catching installations.</p>
 <p></p>
 <p>Venues:</p>
 <p>Bynd Artisan, Raffles City #03-24</p>
+<p>Cathay</p>
 <p>Design Orchard Singapore</p>
 <p>ION Orchard, Level B4</p>
 <p>Outside Mandarin Gallery</p>
@@ -28,4 +29,4 @@ inspiring picks from 30 personalities, and eye-catching installations.</p>
 <p>The Paper Bunny, Ngee Ann City, Level B2-12</p>
 <p>TRIFECTA</p>
 <p></p>
-<p>Updated 05 May 2025</p>
+<p>Updated 23 May 2025</p>
