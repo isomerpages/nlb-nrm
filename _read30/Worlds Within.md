@@ -6,6 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Worlds_Within_sub_banner.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/worlds within main banner.png">
 </div>
 <p></p>
