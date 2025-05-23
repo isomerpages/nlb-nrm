@@ -4,7 +4,10 @@ permalink: /read-30/pop-up-nodes/
 variant: tiptap
 description: ""
 ---
-<p>![banner RF](\images\)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Read30_nodes_sub_banner.png">
+</div>
 <p><strong>NODES</strong>
 </p>
 <p>Celebrate READ30 with us and spot 9 vibrant pop-up nodes from Orchard
