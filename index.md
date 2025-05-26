@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Read30/Read30_main_banner.png
+      background: /images/Read30/Read30_subbanner.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
