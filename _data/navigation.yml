@@ -19,14 +19,14 @@ links:
         url: https://learning.nlb.gov.sg/communities/what-is-a-learnx-community
       - title: NLB Mobile app
         url: https://mobileapp.nlb.gov.sg
-  - title: Read30
+  - title: READ30
     url: /read-30/about-read30/
     sublinks:
-      - title: About Read30
+      - title: About READ30
         url: /read-30/about-read30/
       - title: Worlds Within
         url: /read-30/worlds-within/
-      - title: Read30 Nodes
+      - title: READ30 Nodes
         url: /read-30/read-30-nodes/
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
