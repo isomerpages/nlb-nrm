@@ -2,6 +2,7 @@ collections:
   read30:
     output: true
     order:
+      - HowDoYouRead.md
       - About Read30.md
       - Worlds Within.md
       - Read30 Nodes.md
