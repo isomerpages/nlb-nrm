@@ -20,4 +20,7 @@ using <strong>#HowDoYouRead</strong> in your posts/stories/reels.
 </p>
 <p>Let's celebrate the joy of reading in all its wonderful, personal forms!</p>
 <p></p>
-<p>Updated 27 May 2025</p>
+<p>Supported by Rakuten Kobo.</p>
+<p></p>
+<p></p>
+<p>Updated 05 Jun 2025</p>
