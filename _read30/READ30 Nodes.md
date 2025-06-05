@@ -10,9 +10,9 @@ description: ""
 </div>
 <p><strong>NODES</strong>
 </p>
-<p>Celebrate READ30 with us and spot 9 vibrant pop-up nodes from National
-Library Building to Orchard Road — each packed with creative vibes, inspiring
-picks from 30 personalities, and eye-catching installations.</p>
+<p>Celebrate READ30 with us and spot 9 vibrant pop-ups from National Library
+Building to Orchard Road — each packed with creative vibes, inspiring picks
+from 30 personalities, and eye-catching installations.</p>
 <p></p>
 <p>✨ Drop by, snap a pic, and redeem exclusive goodies* while they last!</p>
 <p>&nbsp;</p>
@@ -29,4 +29,4 @@ picks from 30 personalities, and eye-catching installations.</p>
 <p>The Paper Bunny, Ngee Ann City, Level B2-12</p>
 <p>TRIFECTA</p>
 <p></p>
-<p>Updated 26 May 2025</p>
+<p>Updated 05 Jun 2025</p>
