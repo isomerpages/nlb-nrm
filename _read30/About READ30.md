@@ -12,12 +12,10 @@ description: ""
 </p>
 <p>This year's Read! Fest returns with READ30, a special edition of the biennial
 festival celebrating the joy of reading.</p>
-<p>Immerse yourself in a marquee experience where books come to life through
-your five senses. Discover the Presidential Pop-up Library, featuring books
-recommended by Singapore's Presidents, alongside books about Presidents
-of Singapore.</p>
+<p>Immerse yourself in a multisensory journey where books come to life through
+your five senses.</p>
 <p>Explore curated book recommendations from 30 Singaporean personalities
-at pop-up Nodes stretching from National Library Building to Orchard Road.</p>
+at pop-ups stretching from National Library Building to Orchard Road.</p>
 <p>Join us for an unforgettable literary journey!</p>
 <p></p>
-<p>Updated 26 May 2025</p>
+<p>Updated 05 Jun 2025</p>
