@@ -10,7 +10,7 @@ description: ""
 </div>
 <p><strong>NODES</strong>
 </p>
-<p>Celebrate READ30 with us and spot 9 vibrant pop-ups from National Library
+<p>Celebrate READ30 with us and spot 8 vibrant pop-ups from National Library
 Building to Orchard Road — each packed with creative vibes, inspiring picks
 from 30 personalities, and eye-catching installations.</p>
 <p></p>
@@ -21,7 +21,6 @@ from 30 personalities, and eye-catching installations.</p>
 <p>Venues:</p>
 <p>Bynd Artisan, Raffles City #03-24</p>
 <p>Cathay</p>
-<p>Design Orchard Singapore</p>
 <p>ION Orchard, Level B4</p>
 <p>Outside Mandarin Gallery</p>
 <p>Shaw</p>
@@ -29,4 +28,4 @@ from 30 personalities, and eye-catching installations.</p>
 <p>The Paper Bunny, Ngee Ann City, Level B2-12</p>
 <p>TRIFECTA</p>
 <p></p>
-<p>Updated 05 Jun 2025</p>
+<p>Updated 06 Jun 2025</p>
