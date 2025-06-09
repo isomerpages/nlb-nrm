@@ -18,6 +18,11 @@ your five senses.</p>
 at pop-ups stretching from National Library Building to Orchard Road.</p>
 <p>Join us for an unforgettable literary journey!</p>
 <p></p>
+<p></p>
+<p></p>
+<hr>
+<p><strong>PARTNERS</strong>
+</p>
 <p><strong>Add to your reading list this July! Enjoy these exciting book deals from local bookstores in celebration of READ30. 📚</strong>
 </p>
 <p></p>
