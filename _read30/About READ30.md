@@ -43,7 +43,7 @@ Literature.</p>
 </p>
 <p>Wormhole is an online bookstore that stocks a range of genres including
 literary fiction, non-fiction, children's books, and poetry.</p>
-<p><strong>Use PROMOCODE for 10% discount with purchase of any 3 books </strong>
+<p><strong>Use PROMOCODE for 10% discount with purchase of any 3 books</strong>
 </p>
 <p></p>
 <p><a href="https://www.basheergraphic.com/" rel="noopener nofollow" target="_blank">Basheer Graphic Books</a>
