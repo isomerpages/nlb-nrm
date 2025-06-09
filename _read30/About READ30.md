@@ -25,7 +25,7 @@ at pop-ups stretching from National Library Building to Orchard Road.</p>
 </p>
 <p>Closetful of Books is a roaming bookstore that specialises in children's
 literature, with a special selection of books for adults.</p>
-<p><strong>10% discount off READ30 titles online or at READ30 store with PROMOCODE</strong>
+<p><strong>Use PROMOCODE for 10% discount off READ30 titles online or at READ30 store</strong>
 </p>
 <p>Official READ30 Festival Bookstore (Saturdays &amp; Sundays only, 10am-9pm):
 Level 1 Plaza, 100 Victoria Street, Singapore 188064</p>
@@ -43,7 +43,7 @@ Literature.</p>
 </p>
 <p>Wormhole is an online bookstore that stocks a range of genres including
 literary fiction, non-fiction, children's books, and poetry.</p>
-<p><strong>10% discount with purchase of any 3 books online with PROMOCODE</strong>
+<p><strong>Use PROMOCODE for 10% discount with purchase of any 3 books </strong>
 </p>
 <p></p>
 <p><a href="https://www.basheergraphic.com/" rel="noopener nofollow" target="_blank">Basheer Graphic Books</a>
@@ -52,7 +52,7 @@ literary fiction, non-fiction, children's books, and poetry.</p>
 related to Architecture, Interior Design, Landscape Design, Graphic Design,
 Animation, Product Design, Fashion Design, Art &amp; Craft, Typography,
 and Photography.</p>
-<p><strong>10% discount except special price, magazine items, Pantone color chart at physical store or online with PROMOCODE</strong>
+<p><strong>Use PROMOCODE for 10% discount except special price, magazine items, Pantone color chart online or at physical store</strong>
 </p>
 <p>231 Bain St, Bras Basah Complex, #04-19, Singapore 180231</p>
 <p>&nbsp;</p>
