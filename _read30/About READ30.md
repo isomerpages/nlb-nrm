@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Read30_main_banner_2.png">
+</div>
 <p><strong>About READ30</strong>
 </p>
 <p>This year's Read! Fest returns with READ30, a special edition of the biennial
