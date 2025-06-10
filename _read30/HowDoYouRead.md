@@ -55,7 +55,7 @@ and auditing purposes.</p>
 </li>
 </ol>
 <p></p>
-<p>Supported by Rakuten Kobo.</p>
+<p>#HowDoYouRead supported by Rakuten Kobo.</p>
 <p></p>
 <p></p>
 <p>Updated 05 Jun 2025</p>
