@@ -20,6 +20,41 @@ using <strong>#HowDoYouRead</strong> in your posts/stories/reels.
 </p>
 <p>Let's celebrate the joy of reading in all its wonderful, personal forms!</p>
 <p></p>
+<p>Terms and Conditions of #HowDoYouRead READ30 Challenge on Instagram:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>One entry per Instagram account.</p>
+</li>
+<li>
+<p>The entry can be considered valid if the Instagram account used is set
+to "Public", @readingnationsg account was tagged and clickable and images
+of specified READ30 locations can be clearly identified.</p>
+</li>
+<li>
+<p>For residents of Singapore only.</p>
+</li>
+<li>
+<p>Winners will be notified via Direct Message (DM) from @readingnationsg
+by end August 2025.</p>
+</li>
+<li>
+<p>Prize collection will be in-person on weekdays, 9am - 6pm in August 2025.</p>
+</li>
+<li>
+<p>Prizes are not exchangeable for cash or other in-kind.</p>
+</li>
+<li>
+<p>All prizes not collected by 05 September 2025 will be forfeited.</p>
+</li>
+<li>
+<p>Photographs and videos might be taken during prize collection for marketing
+and auditing purposes.</p>
+</li>
+<li>
+<p>Organiser's decision is final.</p>
+</li>
+</ol>
+<p></p>
 <p>Supported by Rakuten Kobo.</p>
 <p></p>
 <p></p>
