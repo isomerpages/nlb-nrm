@@ -11,8 +11,8 @@ description: ""
 <p><strong>NODES</strong>
 </p>
 <p>Celebrate READ30 with us and spot 8 vibrant pop-ups from National Library
-Building to Orchard Road — each packed with creative vibes, inspiring picks
-from 30 personalities, and eye-catching installations.</p>
+Building to Orchard Road from 5 - 20 July 2025 — each packed with creative
+vibes, inspiring picks from 30 personalities, and eye-catching installations.</p>
 <p></p>
 <p>✨ Drop by, snap a pic, and redeem exclusive goodies* while they last!</p>
 <p>&nbsp;</p>
@@ -28,4 +28,4 @@ from 30 personalities, and eye-catching installations.</p>
 <p>The Paper Bunny, Ngee Ann City, Level B2-12</p>
 <p>TRIFECTA</p>
 <p></p>
-<p>Updated 06 Jun 2025</p>
+<p>Updated 10 Jun 2025</p>
