@@ -22,7 +22,7 @@ using <strong>#HowDoYouRead</strong> in your posts/stories/reels.
 <p></p>
 <p>Terms and Conditions of #HowDoYouRead READ30 Challenge (12 - 20 July)
 on Instagram:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>One entry per Instagram account.</p>
 </li>
@@ -54,7 +54,7 @@ and auditing purposes.</p>
 <li>
 <p>Organiser's decision is final.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p>#HowDoYouRead supported by Rakuten Kobo.</p>
 <p></p>
