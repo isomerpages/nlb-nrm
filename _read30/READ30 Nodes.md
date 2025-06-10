@@ -20,11 +20,11 @@ from 30 personalities, and eye-catching installations.</p>
 <p></p>
 <p>Venues:</p>
 <p>Bynd Artisan, Raffles City #03-24</p>
-<p>Cathay</p>
+<p>The Cathay</p>
 <p>ION Orchard, Level B4</p>
 <p>Outside Mandarin Gallery</p>
-<p>Shaw</p>
-<p>School of the Arts</p>
+<p>Shaw Centre</p>
+<p>School of the Arts (SOTA)</p>
 <p>The Paper Bunny, Ngee Ann City, Level B2-12</p>
 <p>TRIFECTA</p>
 <p></p>
