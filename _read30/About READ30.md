@@ -21,8 +21,7 @@ at pop-ups stretching from National Library Building to Orchard Road.</p>
 <p></p>
 <p></p>
 <hr>
-<p><strong>PARTNERS</strong>
-</p>
+<h4><strong>PARTNERS</strong></h4>
 <p><strong>Add to your reading list this July! Enjoy these exciting book deals from local bookstores in celebration of READ30. 📚</strong>
 </p>
 <p></p>
