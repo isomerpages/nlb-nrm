@@ -20,7 +20,8 @@ using <strong>#HowDoYouRead</strong> in your posts/stories/reels.
 </p>
 <p>Let's celebrate the joy of reading in all its wonderful, personal forms!</p>
 <p></p>
-<p>Terms and Conditions of #HowDoYouRead READ30 Challenge on Instagram:</p>
+<p>Terms and Conditions of #HowDoYouRead READ30 Challenge (12 - 20 July)
+on Instagram:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>One entry per Instagram account.</p>
