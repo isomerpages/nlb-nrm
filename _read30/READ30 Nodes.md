@@ -21,7 +21,7 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 <p>Venues:</p>
 <p>Bynd Artisan, Raffles City #03-24</p>
 <p>The Cathay</p>
-<p>ION Orchard, Level B4</p>
+<p>ION Orchard, Basement 4</p>
 <p>Outside Mandarin Gallery</p>
 <p>Shaw Centre</p>
 <p>School of the Arts (SOTA)</p>
