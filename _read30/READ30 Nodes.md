@@ -6,10 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Read30_nodes_sub_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/READ30_Nodes_Colour_Bar.png">
 </div>
-<p><strong>NODES</strong>
-</p>
+<p></p>
 <p>Celebrate READ30 with us and spot 8 vibrant pop-ups from National Library
 Building to Orchard Road from 5 - 20 July 2025 — each packed with creative
 vibes, inspiring picks from 30 personalities, and eye-catching installations.</p>
