@@ -56,7 +56,10 @@ and auditing purposes.</p>
 </li>
 </ul>
 <p></p>
-<p>#HowDoYouRead supported by Rakuten Kobo.</p>
+<p>#HowDoYouRead supported by</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/RakutenKobo_horizontal_RGB.png">
+</div>
 <p></p>
 <p></p>
-<p>Updated 05 Jun 2025</p>
+<p>Updated 12 Jun 2025</p>
