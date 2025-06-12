@@ -34,7 +34,7 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nodes_Shaw_House.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Nodes_Shaw_House.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
