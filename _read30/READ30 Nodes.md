@@ -18,6 +18,10 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Nodes_Website_Map.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bynd Artisan, Raffles City" src="/images/Read30/Bynd_Artisan.png">
 </div>
 <p></p>
@@ -30,11 +34,11 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shaw Centre" src="/images/Read30/Shaw_Centre.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nodes_Shaw_House.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School of the Arts" src="/images/Read30/SOTA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/SOTA.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
