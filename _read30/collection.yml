@@ -2,6 +2,7 @@ collections:
   read30:
     output: true
     order:
+      - Weekend Market.md
       - About READ30.md
       - Worlds Within.md
       - READ30 Nodes.md
