@@ -96,4 +96,4 @@ through the worlds of these featured titles that have inspired these authors,
 athletes, actors, and other READ30 personalities.</p>
 <p></p>
 <p></p>
-<p>Updated 12 Jun 2025</p>
+<p>Updated 13 Jun 2025</p>
