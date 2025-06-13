@@ -1,7 +1,8 @@
 ---
-title: 12 Titles, 12 Insights
+title: 12 Titles, 12 Insights (2023)
 permalink: /readfest/flourish/
 description: ""
+variant: tiptap
 ---
 ![banner RF](\images\RF23\rf23_flourish.png)
 

@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Bras_Basah_Radio_Trail_NRM_banner.png
+      background: /images/Read30/Read30_main_banner_2.png
       key_highlights:
         - title: About Us
           description: Read More, Read Widely, Read Together. Find out more.
@@ -23,7 +23,7 @@ sections:
           description: Keen to share your thoughts about the books you have read? Why not
             join a book club? Find out more.
           url: /initiatives/book-clubs/
-      url: /readfest/main/
+      url: /read30/about-read30/
       variant: image
   - infopic:
       title: Book Recommendations, Reviews and More!

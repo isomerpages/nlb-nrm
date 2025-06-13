@@ -1,7 +1,8 @@
 ---
-title: 12 Titles, 12 Insights
+title: 12 Titles, 12 Insights (2021)
 permalink: /rfarchive/12titles/
 description: ""
+variant: tiptap
 ---
 ![banner RF](\images\RF_12.jpg)
 

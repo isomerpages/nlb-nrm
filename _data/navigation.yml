@@ -19,15 +19,19 @@ links:
         url: https://learning.nlb.gov.sg/communities/what-is-a-learnx-community
       - title: NLB Mobile app
         url: https://mobileapp.nlb.gov.sg
-  - title: Read! Fest
-    url: /readfest/main
+  - title: READ30
+    url: /read-30/about-read30/
     sublinks:
-      - title: 12 Titles, 12 Insights
-        url: /readfest/flourish
-      - title: Programmes
-        url: /readfest/programmes/
-      - title: Activations
-        url: /readfest/activations
+      - title: About READ30
+        url: /read-30/about-read30/
+      - title: Worlds Within
+        url: /read-30/worlds-within/
+      - title: Weekend Market
+        url: /read-30/weekend-market/
+      - title: READ30 Nodes
+        url: /read-30/read-30-nodes/
+      - title: "#HowDoYouRead"
+        url: /read-30/howdoyouread/
   - title: Blog
     url: https://go.gov.sg/nlb-nrmmedium
   - title: Partners
