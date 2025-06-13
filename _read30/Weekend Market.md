@@ -32,16 +32,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Books Blues</p>
+<p><a href="https://www.instagram.com/books_blues/" rel="noopener nofollow" target="_blank">Book Blues</a>
+</p>
 </li>
 <li>
-<p>Allegro Print</p>
+<p><a href="https://www.instagram.com/allegro_print/" rel="noopener nofollow" target="_blank">Allegro Print</a>
+</p>
 </li>
 <li>
-<p>rousong.ware</p>
+<p><a href="https://www.instagram.com/rousong.ware/" rel="noopener nofollow" target="_blank">rousing.ware</a>
+</p>
 </li>
 <li>
-<p>Variegated</p>
+<p><a href="https://www.instagram.com/variegated.friends/" rel="noopener nofollow" target="_blank">Variegated</a>
+</p>
 </li>
 </ul>
 </td>
@@ -53,16 +57,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Raw Market Shop</p>
+<p><a href="https://www.instagram.com/RawMarketShop/" rel="noopener nofollow" target="_blank">Raw Market Shop</a>
+</p>
 </li>
 <li>
-<p>kooklesart</p>
+<p><a href="https://www.instagram.com/kooklesart/" rel="noopener nofollow" target="_blank">kooklesart</a>
+</p>
 </li>
 <li>
-<p>sliceofwhit</p>
+<p><a href="https://www.instagram.com/sliceofwhit/" rel="noopener nofollow" target="_blank">sliceofwhit</a>
+</p>
 </li>
 <li>
-<p>Kopistan</p>
+<p><a href="https://www.instagram.com/Ko.pi.stan/" rel="noopener nofollow" target="_blank">Kopistan</a>
+</p>
 </li>
 </ul>
 </td>
@@ -74,16 +82,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kopistan</p>
+<p><a href="https://www.instagram.com/Ko.pi.stan/" rel="noopener nofollow" target="_blank">Kopistan</a>
+</p>
 </li>
 <li>
-<p>Wild Dot</p>
+<p><a href="https://www.instagram.com/wildd.sg/" rel="noopener nofollow" target="_blank">Wild Dot</a>
+</p>
 </li>
 <li>
-<p>strawberry_champagne_sparkles</p>
+<p><a href="https://www.instagram.com/strawberry_champagne_sparkles" rel="noopener nofollow" target="_blank">strawberry_champagne_sparkles</a>
+</p>
 </li>
 <li>
-<p>Corgiyolk</p>
+<p><a href="https://www.instagram.com/corgiyolk" rel="noopener nofollow" target="_blank">Corgiyolk</a>
+</p>
 </li>
 </ul>
 </td>
@@ -95,16 +107,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Thorn &amp; Key</p>
+<p><a href="https://www.instagram.com/ThornandKey" rel="noopener nofollow" target="_blank">Thorn &amp; Key</a>
+</p>
 </li>
 <li>
-<p>Wild Dot</p>
+<p><a href="https://www.instagram.com/wildd.sg/" rel="noopener nofollow" target="_blank">Wild Dot</a>
+</p>
 </li>
 <li>
-<p>Variegated</p>
+<p><a href="https://www.instagram.com/variegated.friends/" rel="noopener nofollow" target="_blank">Variegated</a>
+</p>
 </li>
 <li>
-<p>Artably x TheWriteChance (Collaboration)</p>
+<p><a href="https://www.instagram.com/artably.co" rel="noopener nofollow" target="_blank">Artably</a> x
+<a href="https://www.instagram.com/project.thewritechance" rel="noopener nofollow" target="_blank">TheWriteChance</a>(Collaboration)</p>
 </li>
 </ul>
 </td>
