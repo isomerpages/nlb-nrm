@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Worlds Within Weekend Market" src="/images/Read30/Weekend_Market.png">
 </div>
-<p>Support local markets and visit the Weekend Market at Worlds Within.</p>
+<p>Support local vendors and visit the Weekend Market at Worlds Within.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
