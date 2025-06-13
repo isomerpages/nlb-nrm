@@ -19,8 +19,8 @@ imagined worlds—and maybe even discover your own.</p>
 <p>That’s not all! On weekends, you can also:</p>
 <p>🛍️ Browse and shop curated reads from our partner bookstore Closetful
 of Books (10am – 9pm)</p>
-<p>🛒 Support local makers at our Weekend Market (Sat: 12pm – 7pm | Sun:
-12pm – 5pm)</p>
+<p>🛒 Support local makers at our <a href="https://readingnation.nlb.gov.sg/read-30/weekend-market/" rel="noopener nofollow" target="_blank">Weekend Market</a> (Sat:
+12pm – 7pm | Sun: 12pm – 5pm)</p>
 <p>📖 Read for a cause with Read for Books</p>
 <p>🎉 Enjoy bite-sized activities and pop-up programmes.</p>
 <p>&nbsp;</p>
