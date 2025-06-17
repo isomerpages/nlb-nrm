@@ -50,7 +50,7 @@ literature, with a special selection of books for adults.</p>
 </p>
 <p></p>
 <p>Official READ30 Festival Bookstore Opening Hours</p>
-<p>Saturdays &amp; Sundays only, 10am-9pm at Level 1 Plaza, 100 Victoria
+<p>Saturdays &amp; Sundays only, 10am - 9pm at Level 1 Plaza, 100 Victoria
 Street, Singapore 188064)</p>
 <p></p>
 <p>Discount will be applied at checkout.</p>
