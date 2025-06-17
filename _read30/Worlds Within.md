@@ -19,7 +19,6 @@ imagined worlds—and maybe even discover your own.</p>
 <p>That’s not all! On weekends, you can also:</p>
 <p>🛍️ Browse and shop curated reads from our partner bookstore Closetful
 of Books (10am – 9pm)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="closetful of books" src="/images/Read30/Weekend_Market___1200px_x_400px.png">
 </div>
