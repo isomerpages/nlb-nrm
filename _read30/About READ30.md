@@ -46,12 +46,12 @@ at pop-ups stretching from National Library Building to Orchard Road.</p>
 literature, with a special selection of books for adults.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Get 10% discount off READ30 featured titles online or at READ30 store </strong>
+<p><strong>Get 10% discount off READ30 featured titles online or at READ30 store</strong>
 </p>
 <p></p>
 <p>Official READ30 Festival Bookstore Opening Hours</p>
-<p>Saturdays &amp; Sundays only, 10am-9pm): Level 1 Plaza, 100 Victoria Street,
-Singapore 188064)</p>
+<p>Saturdays &amp; Sundays only, 10am-9pm at Level 1 Plaza, 100 Victoria
+Street, Singapore 188064)</p>
 <p></p>
 <p>Discount will be applied at checkout.</p>
 </td>
