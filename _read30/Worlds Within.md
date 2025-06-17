@@ -25,7 +25,8 @@ of Books (10am – 9pm)</p>
 </div>
 <p>🛒 Support local makers at our <a href="https://readingnation.nlb.gov.sg/read-30/weekend-market/" rel="noopener nofollow" target="_blank">Weekend Market</a> (Sat:
 12pm – 7pm | Sun: 12pm – 5pm)</p>
-<p>📖 Read for a cause with Read for Books</p>
+<p>📖 Read for a cause with <a href="https://readingnation.nlb.gov.sg/initiatives/readforbooks/" rel="noopener nofollow" target="_blank">Read for Books</a>
+</p>
 <p>🎉 Enjoy bite-sized activities and pop-up programmes.</p>
 <p>&nbsp;</p>
 <p>✨ Whether you’re a story-seeker, market explorer, or just looking for
