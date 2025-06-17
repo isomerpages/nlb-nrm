@@ -4,63 +4,65 @@ permalink: /initiatives/readforbooks/
 description: ""
 variant: markdown
 ---
-![](/images/Thank_You_Banner.png)
 
-We extend our heartfelt gratitude to all the wonderful participants who enthusiastically took part in the Read for Books charity drive. With your help, we manage to raise approximately 5,790 books!
+![read for books 2025](/images/RFB25_website_banner__1200_x_400_px_.png)
 
-Thank you for helping us share the gift of reading and making a lasting difference in the lives of the less privileged.
+Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to the total number of books raised from donors. 
 
-Do stay tuned for Read for Books 2025! If you are interested in participating in the next iteration of Read for Books, do fill out this short form [HERE](https://go.gov.sg/rfb25-interest/) and we will reach out when more details are ready.
+**How to participate in Read for Books 2025?**
 
+**Step 1:** Register your interest by submitting the registration forms via the links below.
 
-**Read for Books 2024**
+[Individuals](https://go.gov.sg/rfb25-individuals)
 
-![](/images/RFB_Banner.png)
+[Organisations](https://go.gov.sg/rfb25-organisations)
 
-Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged. From 1 to 31 July 2024, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 5,790 books.
+[Schools](https://go.gov.sg/rfb25-schools)
 
-**Beneficiaries**
+[Preschools](https://go.gov.sg/rfb25-preschools)
 
-**The WondeRead initiative**&nbsp;brings the library closer to children aged 7 – 17 years old from less privileged backgrounds, by providing reading opportunities through free reading materials. The initiative sees NLB working with Social Service Agencies (SSAs), such as charities and family service centres, to promote a love for reading among children.&nbsp;
+**Step 2:** Read for at least 15 minutes. Alone or with your friends and family, virtually or in-person, all reading hours in July will be counted for Read for Books. 
 
-**kidsREAD**&nbsp;is a nationwide reading initiative by NLB in partnership with People’s Association, self-help groups, MOE schools and preschools and social service groups to promote the love of reading and cultivate good reading habits among young Singaporeans, specifically children aged 4-8 years old from the less privileged families.
+**Step 3:** Take 1-2 photos or screenshots of the reading activity.  
 
-**Ready to READ @ NLB, Starter kit &amp; Programmes for Babies and Toddlers**,&nbsp;is an initiative by NLB to reach out to parents of children aged 0 to 3 from the low-income families. This initiative provides parents with ready resources to kick-start positive reading habits with their children at home. NLB is collaborating with several organisations such as Early Childhood Development Agency (KidSTART), selected healthcare and preschool centres to provide these reading resources to them.
+**Step 4:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit) (The form will be activated on 1 July 2025). 
 
-**MINDSG Ltd** has been caring for Persons with Intellectual Disability (PWIDs) and their families since 1962.&nbsp; Grounded in the belief that all PWIDs have innate abilities and talents, MINDS is committed to empowering them and enhancing their quality of life, while advocating for greater inclusivity for PWIDs as a nation.
+# **Donors**
 
-Today, MINDS is one of the largest charities in Singapore, serving close to 9,000 PWIDs and caregivers every year.&nbsp;&nbsp; With the key focus to expand community-based services, improving the employability of PWIDS, strengthening education, and engendering inclusive community living, MINDS offers a holistic range of services and programmes across the PWIDs’ lifespan.&nbsp; These include schools, employment and training development centres, home-based care services and community-based services to cater to the physical, psychological, environmental and social needs of PWIDs and their families.&nbsp;&nbsp;&nbsp;
+More information on our donors will be released at a later date.
 
-For more information, please visit www.minds.org.sg.
+# **Beneficiaries**
 
-**Donors**
+**Calvary Community Care (C3)** is a registered charity and a member of the National Council of Social Service (NCSS).  As a multi-service social service agency, C3 serves children, youth, adults, and seniors through a range of holistic programmes that promote literacy, emotional well-being, and social connection.
 
-![](/images/Donor_Banner.png)
+For children, C3 offers GROW, iREAD, and StoryLAB - targeted literacy interventions supporting readers at various levels. Club TREASURE, an after-school programme for children from low-income families in Chai Chee, provides structured learning and holistic development. 
 
-Read for Books 2024 is made possible through the generous donations from the following organisations:
+C3 engages youth-at-risk through its community-based youth centres (located in Marsiling and Tai Seng) and partnering MOE schools across the island. Through the drop-in and mentoring programmes, youths find belonging, develop resilience and learn practical life skills. 
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bubbly Books
+C3 also offers quality and affordable counselling services for youths and young adults aged 12–40. 
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus Publishing
+For seniors in the Potong Pasir vicinity, C3 provides active aging activities to promote physical and social well-being and befriending services to combat social isolation. In partnership with NLB and other community partners, C3 delivers inclusive, impactful services across generations.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mitsubishi RtM
+**kidsREAD** is a nationwide reading initiative by NLB in partnership with People’s Association, self-help groups, MOE schools and preschools and social service groups to promote the love of reading and cultivate good reading habits among young Singaporeans, specifically children aged 4-8 years old from the less privileged families.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POPULAR
+**MINDS** has been caring for Persons with Intellectual Disability (PWIDs) and their families since 1962. Grounded in the belief that all PWIDs have innate abilities and talents, MINDS is committed to empowering them and enhancing their quality of life, while advocating for greater inclusivity for PWIDs. 
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Read With You
+Today, MINDS is one of the largest charities in Singapore, serving an excess of 9,000 PWIDs and caregivers. With the key focus to expand community-based services, improving the employability of PWIDs, strengthening education, and engendering inclusive community living, MINDS offer a holistic range of services and programmes to serve PWIDs across their lifespan. These include schools, hubs (Regional Hubs, Community Hubs, Satellite Hubs), home-based care service and community-based services to cater to the physical, psychological, environmental, and social needs of PWIDs and their families. 
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scholastic Asia
+For more information, visit [www.minds.org.sg](http://www.minds.org.sg/).
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Book Publishers Association
+**SHINE Children & Youth Services** serves children and youths aged 5 - 25 through school, centre and community-based programmes grounded in research, theories, and practice wisdom to enable them to maximise their potential.
 
-Under the Singapore Book Publishers Association, participating organisations are:
+We support the children and youths in
 
-* Alkem Company
-* Armour Publishing
-* Banjo &amp; Sons Pte Ltd
-* Epigram Books
-* Helang Books
-* Pagesetters Services Pte. Ltd.
-* Praxis Publishing Pte. Ltd.
+-       Overcoming social difficulties through character building & development
 
-Updated 25 Nov 2024
+-       Optimizing education opportunities & encouraging school completion
+
+-       Overcoming learning difficulties
+
+-       Reducing juvenile delinquency
+
+-       Overcoming mental health challenges
+
+Updated 17 Jun 2025
