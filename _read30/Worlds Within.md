@@ -19,6 +19,10 @@ imagined worlds—and maybe even discover your own.</p>
 <p>That’s not all! On weekends, you can also:</p>
 <p>🛍️ Browse and shop curated reads from our partner bookstore Closetful
 of Books (10am – 9pm)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="closetful of books" src="/images/Read30/Weekend_Market___1200px_x_400px.png">
+</div>
 <p>🛒 Support local makers at our <a href="https://readingnation.nlb.gov.sg/read-30/weekend-market/" rel="noopener nofollow" target="_blank">Weekend Market</a> (Sat:
 12pm – 7pm | Sun: 12pm – 5pm)</p>
 <p>📖 Read for a cause with Read for Books</p>
@@ -30,4 +34,4 @@ a weekend escape—there’s something waiting for you at Worlds Within.</p>
 <p>See you there!</p>
 <p></p>
 <p></p>
-<p>Updated 13 Jun 2025</p>
+<p>Updated 17 Jun 2025</p>
