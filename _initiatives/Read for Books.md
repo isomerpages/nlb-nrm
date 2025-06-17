@@ -4,7 +4,8 @@ permalink: /initiatives/readforbooks/
 description: ""
 variant: markdown
 ---
-**Read for Books**
+
+![read for books 2025](/images/RFB25_website_banner__1200_x_400_px_.png)
 
 Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to the total number of books raised from donors. 
 
