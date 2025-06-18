@@ -46,8 +46,8 @@ recommendations, alongside curated titles from other READ30 personalities.
 Your next read might just be the catalyst that moves you forward.</p>
 <p>Visit ION Orchard, B4 for our exclusive READ30 feature and find out what
 Meihan Boey (author of the Miss Cassidy series), Sharon Au (former actor
-and host) and Saravana Ayyavoo (entertainer-aviator) has to say about their
-recommended reads!</p>
+and host) and Saravanan Ayyavoo (entertainer-aviator) has to say about
+their recommended reads!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outside Mandarin Gallery" src="/images/Read30/Outside_Mandarin_Gallery.png">
@@ -63,7 +63,7 @@ from chefs, writers, playwrights, athletes, and other READ30 personalities.</p>
 Michael Chiang (publisher, playwright, media creative), Azhagunila (writer,
 two-time recipient of Singapore Literature Prize), Kok Heng Leun (theatre
 practitioner), Shahdan Sulaiman (footballer), Khir Johari (researcher),
-Norlin Samat (author), Annie Ravin (chef and business owner) and Violet
+Norlin Samat (author), Annil Ravin (chef and business owner) and Violet
 Oon (chef, restauranteur) thinks about their curated reads!</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -90,8 +90,8 @@ Explore recommendations from our local artists that paint a picture of
 what inspires and emboldens them to innovate, ranging from introspective
 reads that feed the soul, to books that encourage the spirit of experimentation.</p>
 <p>Head down to SOTA and check out the exclusive READ30 feature on Myle Yan
-Tay (playwright and author), Lim Shi An (actor and graphic designer), Shabir
-Sultan (award-winning composer, singer-songwriter, actor) and their curated
+Tay (playwright and author), Lim Shi-An (actor and graphic designer), Shabir
+Sulthan (award-winning composer, singer-songwriter, actor) and their curated
 reads.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -103,10 +103,10 @@ personalities who shape our evolving cultural narrative—on stage, on the
 page and on screen. With recommended reads spanning broader cultural stories
 to intimate personal narratives, discover fresh perspectives on the people
 and tales that have enraptured our local storytellers.</p>
-<p>Rachel Heng (author), Rebekah Dora (multi-hyphenate actor, singer, voiceover
-artist) and Xiaohan (lyricist, columnist and author) and their curated
-reads are showcased at the exclusive READ30 pop-up. Visit The Cathay to
-find out more.</p>
+<p>Rachel Heng (author), Rebekah Dorai (multi-hyphenate actor, singer, voiceover
+artist), Xiaohan (lyricist, columnist and author), Ebi Shankara (teacher,
+performance artist) and their curated reads are showcased at the exclusive
+READ30 pop-up. Visit The Cathay to find out more.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Paper Bunny" src="/images/Read30/The_Paper_Bunny.png">
@@ -118,8 +118,8 @@ function and aesthetics for intentional everyday living and thoughtful
 gifting. Explore inspiring titles and lifestyle pieces that nurture a mindful,
 balanced life.</p>
 <p>Find out more about Cyril Wong's (writer and poet), Nurul Suhaila's (national
-athlete), Chloe Chua's (award-winning violinist) recommended reads at the
-exclusive READ30 showcase at The Paper Bunny.</p>
+silat athlete), Chloe Chua's (award-winning violinist) recommended reads
+at the exclusive READ30 showcase at The Paper Bunny.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TRIFECTA" src="/images/Read30/TRIFECTA.png">
