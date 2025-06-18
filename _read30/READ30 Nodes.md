@@ -32,7 +32,7 @@ and doers that have impacted them and their craft, to hopefully connect
 you to your own.</p>
 <p>Visit Bynd Artisan for our exclusive READ30 feature and find out what
 Pooja Nansi (award-winning poet and performer), Gemma Rose Foo (Paralympic
-equestrienne) and Tan Kheng Hua (actor and producer) recommends to read!</p>
+equestrienne) and Tan Kheng Hua (actor and producer) recommend to read!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ION Orchard" src="/images/Read30/ION_Orchard.png">
@@ -46,7 +46,7 @@ recommendations, alongside curated titles from other READ30 personalities.
 Your next read might just be the catalyst that moves you forward.</p>
 <p>Visit ION Orchard, B4 for our exclusive READ30 feature and find out what
 Meihan Boey (author of the Miss Cassidy series), Sharon Au (former actor
-and host) and Saravanan Ayyavoo (entertainer-aviator) has to say about
+and host) and Saravanan Ayyavoo (entertainer-aviator) have to say about
 their recommended reads!</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -63,8 +63,8 @@ from chefs, writers, playwrights, athletes, and other READ30 personalities.</p>
 Michael Chiang (publisher, playwright, media creative), Azhagunila (writer,
 two-time recipient of Singapore Literature Prize), Kok Heng Leun (theatre
 practitioner), Shahdan Sulaiman (footballer), Khir Johari (researcher),
-Norlin Samat (author), Annil Ravin (chef and business owner) and Violet
-Oon (chef, restauranteur) thinks about their curated reads!</p>
+Norlin Samat (author), Annil Ravin (chef and business owner), and Violet
+Oon (chef, restauranteur) think about their curated reads!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Nodes_Shaw_House.png">
@@ -105,8 +105,8 @@ to intimate personal narratives, discover fresh perspectives on the people
 and tales that have enraptured our local storytellers.</p>
 <p>Rachel Heng (author), Rebekah Dorai (musical actress, singer), Xiaohan
 (lyricist, columnist and author), Ebi Shankara (teacher, performance artist)
-and their curated reads are showcased at the exclusive READ30 pop-up. Visit
-The Cathay to find out more.</p>
+and their curated reads are showcased at this exclusive READ30 pop-up.
+Visit The Cathay to find out more.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Paper Bunny" src="/images/Read30/The_Paper_Bunny.png">
@@ -117,23 +117,22 @@ reads at the TPB Everyday Store. The Paper Bunny creates pieces that combine
 function and aesthetics for intentional everyday living and thoughtful
 gifting. Explore inspiring titles and lifestyle pieces that nurture a mindful,
 balanced life.</p>
-<p>Find out more about Cyril Wong's (writer and poet), Nurul Suhaila's (national
-silat athlete), Chloe Chua's (award-winning violinist) recommended reads
-at the exclusive READ30 showcase at The Paper Bunny.</p>
+<p>Find out more about Cyril Wong (writer and poet), Nurul Suhaila (national
+silat athlete), Chloe Chua (award-winning violinist) and their recommended
+reads at the exclusive READ30 showcase at The Paper Bunny.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TRIFECTA" src="/images/Read30/TRIFECTA.png">
 </div>
-<p>Monday to Friday, 11.30am - 10pm</p>
-<p>Saturday &amp; Sunday, 8am - 10pm</p>
+<p>Monday to Friday, 11.30am - 10pm, Saturday &amp; Sunday, 8am - 10pm</p>
 <p>READ30 and TRIFECTA celebrate sports and travel! Be transported to new
 places, and delight in unique cultures through the power of prose. Go on
-myriad journeys ranging from the hyperlocal to the global as you traverse
-through the worlds of these featured titles that have inspired these authors,
-athletes, actors, and other READ30 personalities.</p>
+journeys ranging from the hyperlocal to the global as you traverse through
+the worlds of these featured titles that have inspired these authors, athletes,
+actors, and other READ30 personalities.</p>
 <p>Visit TRIFECTA for the exclusive READ30 showcase and find out what Gwee
 Li Sui (poet, artist, critic, translator), Beatrice Chia-Richmond (actor,
 theatre/TV director), Paul Lim (national jiu-jitsu athlete) and Noah Lim
-(national jiu-jitsu athlete) has to say about their recommended reads.</p>
+(national jiu-jitsu athlete) have to say about their recommended reads.</p>
 <p></p>
 <p>Updated 17 Jun 2025</p>
