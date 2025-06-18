@@ -58,19 +58,6 @@ Street, Singapore 188064)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://wormhole.com.sg/" rel="noopener nofollow" target="_blank">Wormhole</a>
-</p>
-<p></p>
-<p>Wormhole is an online bookstore that stocks a range of genres including
-literary fiction, non-fiction, children's books, and poetry.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Use &lt;READ30&gt; for 10% discount with purchase of any 3 books online.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.basheergraphic.com/" rel="noopener nofollow" target="_blank">Basheer Graphic Books</a>
 </p>
 <p></p>
@@ -96,6 +83,19 @@ Literature.</p>
 <p><strong>10% off 1 non-alcoholic drink with any book purchase</strong> at
 Book Bar (57 Duxton Road, Singapore 089521,</p>
 <p>Mon-Thu: 9.30am - 7pm, Fri &amp; Sat: 9.30am - 10pm, Sun: 9.30am - 6pm).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://wormhole.com.sg/" rel="noopener nofollow" target="_blank">Wormhole</a>
+</p>
+<p></p>
+<p>Wormhole is an online bookstore that stocks a range of genres including
+literary fiction, non-fiction, children's books, and poetry.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Use &lt;READ30&gt; for 10% discount with purchase of any 3 books online.</strong>
+</p>
 </td>
 </tr>
 </tbody>
