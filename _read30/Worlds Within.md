@@ -39,7 +39,7 @@ Cixin Liu's&nbsp;<em>The Wandering Earth.&nbsp;</em>
 <p>Touch Pod will feature quotes from the following books:&nbsp;&nbsp;</p>
 <p><em>The Great Reclamation</em>&nbsp;by Rachel Heng&nbsp;</p>
 <p><em>Sourdough</em>&nbsp;by Robin Sloan&nbsp;</p>
-<p><em>The Invisible Life of Addie LaRue</em>&nbsp;by V.E. Schwabb&nbsp;</p>
+<p><em>The Invisible Life of Addie LaRue</em>&nbsp;by V.E. Schwab&nbsp;</p>
 <p><em>The Wandering Earth</em>&nbsp;by Cixin Liu&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -75,7 +75,7 @@ with meaningful quotes from books like&nbsp;<em>Orbital</em>&nbsp;and&nbsp;<em>O
 <p>Sight Pod will feature quotes from the following books:&nbsp;&nbsp;</p>
 <p><em>Orbital</em>&nbsp;by Samantha Harvey&nbsp;</p>
 <p><em>Overstory</em> by Richard Powers&nbsp;</p>
-<p><em>Shantih Shantih Shantih</em>&nbsp;by Daryl Qillin Yam&nbsp;&nbsp;</p>
+<p><em>Shantih Shantih Shantih</em>&nbsp;by Daryl Qilin Yam&nbsp;&nbsp;</p>
 <p><em>Sweet Bean Paste</em>&nbsp;by Durian Sukegawa&nbsp;&nbsp;</p>
 <p><em>A Strangeness in My Mind</em>&nbsp;by Orhan Pamuk&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
@@ -100,7 +100,7 @@ Literature.</p>
 <p><em>Neverness</em>&nbsp;by Fairoz Ahmad​&nbsp;</p>
 <p><em>Catskull</em>&nbsp; by Myle Yan Tay​&nbsp;</p>
 <p><em>Impractical Uses of Cake</em>&nbsp;by Yeoh Jo-Ann&nbsp;&nbsp;</p>
-<p><em>“The Fried Chicken”</em> by Jennifer Anne Champion, from&nbsp;<em>Food Republic: A Singapore Literary Banquet&nbsp;</em>
+<p>“The Fried Chicken” by Jennifer Anne Champion, from&nbsp;<em>Food Republic: A Singapore Literary Banquet&nbsp;</em>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -140,16 +140,10 @@ Lim, Ann Ang, Tse&nbsp;Hao Guang&nbsp;&nbsp;</p>
 <p>🎉 Enjoy bite-sized activities and pop-up programmes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Live food poetry by&nbsp;<a href="https://www.instagram.com/thenoblecolon" rel="noopener noreferrer nofollow" target="_blank"><u>Ashley Muñoz | The Noble Colon</u></a> at
+<p>Live typewritten poetry inspired by food by&nbsp;<a href="https://www.instagram.com/thenoblecolon" rel="noopener noreferrer nofollow" target="_blank"><u>Ashley Muñoz | The Noble Colon</u></a> at
 the Taste Pod, every Saturday from 1pm – 5pm</p>
-</li>
-<li>
-<p>Trivia Day by <a href="https://wormhole.com.sg" rel="noopener nofollow" target="_blank">Wormhole</a>,
-26 July</p>
-</li>
-<li>
-<p>Trivia Night by&nbsp;<a href="https://wormhole.com.sg" rel="noopener nofollow" target="_blank">Wormhole</a>,
-26 July</p>
+<p></p>
+<p>More programmes coming soon!</p>
 </li>
 </ul>
 <p></p>
