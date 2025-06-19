@@ -16,6 +16,9 @@ Plaza, National Library Building, where it is transformed into a multisensory
 journey where stories leap off the page and come alive. Journey through
 imagined worlds—and maybe even discover your own.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/WW_Map.png">
+</div>
 <p>That’s not all! On weekends, you can also:</p>
 <p>🛍️ Browse and shop curated reads from our partner bookstore Closetful
 of Books (10am – 9pm)</p>
