@@ -108,8 +108,9 @@ and tales that have enraptured our local storytellers.</p>
 and their curated reads are showcased at this exclusive READ30 pop-up.
 Visit The Cathay to find out more.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Paper Bunny" src="/images/Read30/The_Paper_Bunny.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/The_Paper_Bunny_Banner2.png">
 </div>
 <p>Monday to Sunday, 10am - 9.30pm</p>
 <p>READ30 and The Paper Bunny celebrate wellness through thoughtfully curated
@@ -135,4 +136,4 @@ Li Sui (poet, artist, critic, translator), Beatrice Chia-Richmond (actor,
 theatre/TV director), Paul Lim (national jiu-jitsu athlete) and Noah Lim
 (national jiu-jitsu athlete) have to say about their recommended reads.</p>
 <p></p>
-<p>Updated 18 Jun 2025</p>
+<p>Updated 26 Jun 2025</p>
