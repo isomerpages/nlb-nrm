@@ -17,9 +17,6 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 <p>*Available at selected nodes only</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Nodes_Website_Map.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bynd Artisan, Raffles City" src="/images/Read30/Bynd_Artisan.png">
