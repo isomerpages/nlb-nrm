@@ -103,10 +103,10 @@ personalities who shape our evolving cultural narrative—on stage, on the
 page and on screen. With recommended reads spanning broader cultural stories
 to intimate personal narratives, discover fresh perspectives on the people
 and tales that have enraptured our local storytellers.</p>
-<p>Rachel Heng (author), Rebekah Dorai (musical actress, singer), Xiaohan
-(lyricist, columnist and author), Ebi Shankara (teacher, performance artist)
-and their curated reads are showcased at this exclusive READ30 pop-up.
-Visit The Cathay to find out more.</p>
+<p>Rachel Heng (author), Rebekah Dorai (actor, singer), Xiaohan (lyricist,
+columnist and author), Ebi Shankara (teacher, performance artist) and their
+curated reads are showcased at this exclusive READ30 pop-up. Visit The
+Cathay to find out more.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
