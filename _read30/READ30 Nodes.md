@@ -18,7 +18,7 @@ vibes, inspiring picks from 30 personalities, and eye-catching installations.</p
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Nodes_Website_Map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/R30_nodes_map_final.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -103,13 +103,14 @@ personalities who shape our evolving cultural narrative—on stage, on the
 page and on screen. With recommended reads spanning broader cultural stories
 to intimate personal narratives, discover fresh perspectives on the people
 and tales that have enraptured our local storytellers.</p>
-<p>Rachel Heng (author), Rebekah Dorai (musical actress, singer), Xiaohan
-(lyricist, columnist and author), Ebi Shankara (teacher, performance artist)
-and their curated reads are showcased at this exclusive READ30 pop-up.
-Visit The Cathay to find out more.</p>
+<p>Rachel Heng (author), Rebekah Dorai (actor, singer), Xiaohan (lyricist,
+columnist and author), Ebi Shankara (teacher, performance artist) and their
+curated reads are showcased at this exclusive READ30 pop-up. Visit The
+Cathay to find out more.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Paper Bunny" src="/images/Read30/The_Paper_Bunny.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/The_Paper_Bunny_Banner2.png">
 </div>
 <p>Monday to Sunday, 10am - 9.30pm</p>
 <p>READ30 and The Paper Bunny celebrate wellness through thoughtfully curated
@@ -135,4 +136,5 @@ Li Sui (poet, artist, critic, translator), Beatrice Chia-Richmond (actor,
 theatre/TV director), Paul Lim (national jiu-jitsu athlete) and Noah Lim
 (national jiu-jitsu athlete) have to say about their recommended reads.</p>
 <p></p>
-<p>Updated 18 Jun 2025</p>
+<p>Updated 26 Jun 2025</p>
+<p></p>
