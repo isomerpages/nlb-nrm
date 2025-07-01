@@ -254,9 +254,21 @@ test of your literary knowledge!&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ashley Muñoz" src="/images/Read30/Partner_Ashley.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Grace Under Fire" src="/images/Read30/Partner_Guf.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sayur Story" src="/images/Read30/Partner_SayurStory.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wormhole" src="/images/Read30/Partner_Wormhole.png">
+</div>
 <p></p>
 <p>✨ Whether you’re a story-seeker, market explorer, or just looking for
 a weekend escape—there’s something waiting for you at Worlds Within.</p>
