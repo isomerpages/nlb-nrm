@@ -9,7 +9,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/Worlds_Within_sub_banner.png">
 </div>
 <p></p>
-<p>Worlds Within</p>
 <p>🌍 Step Into “Worlds Within” from 5 – 27 July 2025, 10am - 9pm, at the
 Plaza, National Library Building, where it is transformed into a multisensory
 journey where stories leap off the page and come alive. Journey through
@@ -143,9 +142,115 @@ Lim, Ann Ang, Tse&nbsp;Hao Guang&nbsp;&nbsp;</p>
 <p>Live typewritten poetry inspired by food by&nbsp;<a href="https://www.instagram.com/thenoblecolon" rel="noopener noreferrer nofollow" target="_blank"><u>Ashley Muñoz | The Noble Colon</u></a> at
 the Taste Pod, every Saturday from 1pm – 5pm</p>
 <p></p>
-<p>More programmes coming soon!</p>
 </li>
 </ul>
+<p>Programme Schedule</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time/Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Partner</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Jul, Sat, 7pm - 8pm</p>
+<p>L1 Lobby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grace Under Fire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133214252" rel="noopener nofollow" target="_blank">"Stories We Carry" Improv Performance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grace Under Fire invites you to join us as we bring to life a story based
+on your memories and dreams. Our improvisers will craft an original two-chapter
+story inspired by your library memories, your favourite reading positions
+and inspiration from classic novels. Watch as familiar reading rituals
+and timeless tales collide in unexpected ways, creating a vibrant celebration
+of how stories live and breathe in our daily lives. Join us for an evening
+where improvisation meets inspiration, and every story position becomes
+a doorway to adventure.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jul, Sun, 2pm - 4pm</p>
+<p>Plaza Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SayurStory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133252576" rel="noopener nofollow" target="_blank">Studio Kek Lokal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>What makes a birthday cake? What makes us, us? Join SayurStory at its
+pop-up birthday cake studio to explore diverse forms of cake and their
+origins in Southeast Asia. Through lokal ingredients from around the neighbourhood,
+journey through smell and taste to rediscover our relationships with the
+islands/heritage we were born into – stories of us we continue to shape
+and grow with community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jul, Sat, 3pm - 4.30pm</p>
+<p>L1 Lobby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wormhole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133283771" rel="noopener nofollow" target="_blank">Trivia Day: Pop Culture Edition</a>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Join online bookstore Wormhole for two trivia rounds — one in the day,
+one at night! Pop culture vultures, prove your love for storytelling and
+media — we're talking books, film, TV — at Quiz Day. Then come evening,
+let the hardcore book nerds come out to play at Quiz Night, the ultimate
+test of your literary knowledge!&nbsp;</p>
+<p>&nbsp;</p>
+<p>Please sign up in groups of 2-4 for Quiz Night.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jul, Sat, 7pm - 8.30pm</p>
+<p>Visitor Briefing Room (VBR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wormhole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133309711" rel="noopener nofollow" target="_blank">Trivia Night: Ultimate Book Edition</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>✨ Whether you’re a story-seeker, market explorer, or just looking for
 a weekend escape—there’s something waiting for you at Worlds Within.</p>
