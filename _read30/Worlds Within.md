@@ -144,7 +144,8 @@ the Taste Pod, every Saturday from 1pm – 5pm</p>
 <p></p>
 </li>
 </ul>
-<p>Programme Schedule</p>
+<p><strong>Programme Schedule</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -173,7 +174,8 @@ the Taste Pod, every Saturday from 1pm – 5pm</p>
 <p>L1 Lobby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Under Fire</p>
+<p><a href="https://instagram.com/guf.improv" rel="noopener nofollow" target="_blank">Grace Under Fire</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133214252" rel="noopener nofollow" target="_blank">"Stories We Carry" Improv Performance</a>
@@ -196,7 +198,8 @@ a doorway to adventure.</p>
 <p>Plaza Stage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SayurStory</p>
+<p><a href="https://instagram.com/sayur_story" rel="noopener nofollow" target="_blank">SayurStory</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133252576" rel="noopener nofollow" target="_blank">Studio Kek Lokal</a>
@@ -217,7 +220,8 @@ and grow with community.</p>
 <p>L1 Lobby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wormhole</p>
+<p><a href="https://instagram.com/wormholesg" rel="noopener nofollow" target="_blank">Wormhole</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133283771" rel="noopener nofollow" target="_blank">Trivia Day: Pop Culture Edition</a>
@@ -239,7 +243,8 @@ test of your literary knowledge!&nbsp;</p>
 <p>Visitor Briefing Room (VBR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wormhole</p>
+<p><a href="https://instagram.com/wormholesg" rel="noopener nofollow" target="_blank">Wormhole</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=175133309711" rel="noopener nofollow" target="_blank">Trivia Night: Ultimate Book Edition</a>
@@ -258,4 +263,4 @@ a weekend escape—there’s something waiting for you at Worlds Within.</p>
 <p>See you there!</p>
 <p></p>
 <p></p>
-<p>Updated 19 Jun 2025</p>
+<p>Updated 01 Jul 2025</p>
