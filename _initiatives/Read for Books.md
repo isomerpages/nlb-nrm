@@ -4,8 +4,7 @@ permalink: /initiatives/readforbooks/
 description: ""
 variant: markdown
 ---
-
-![read for books 2025](/images/RFB25_website_banner__1200_x_400_px_.png)
+![Read for Books 2025](/images/RFB25_website_banner___SG60__1200_x_400_px_.png)
 
 Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to the total number of books raised from donors. 
 
@@ -25,11 +24,41 @@ Read for Books is NLB’s signature charity book drive that aims to encourage re
 
 **Step 3:** Take 1-2 photos or screenshots of the reading activity.  
 
-**Step 4:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit) (The form will be activated on 1 July 2025). 
+**Step 4:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit). 
+
+You can join our programmes to find others to read together! Our librarians will also be sharing their favourite reads across different genres and topics. Find out more at [https://go.gov.sg/rfb25-progs](https://go.gov.sg/rfb25-progs)
 
 # **Donors**
 
-More information on our donors will be released at a later date.
+![RFB25 Sponsors](/images/RFB25___sponsors__no_RWY_.png)
+
+Read for Books 2025 is supported by:
+
+-       Bubbly Books
+
+-       Focus Publishing 
+
+-       Kinokuniya Singapore
+
+-       Lee Foundation
+
+-       Scholastic Singapore
+
+-       The Singapore Book Publishers Association
+
+Participating organisations under the Singapore Book Publishers Association are:
+
+-       Alkem Books
+
+-       Banjo & Sons
+
+-       Epigram Books
+
+-       Marshall Cavendish Education
+
+-       World Scientific
+
+-       WS Education
 
 # **Beneficiaries**
 
@@ -65,4 +94,9 @@ We support the children and youths in
 
 -       Overcoming mental health challenges
 
-Updated 17 Jun 2025
+
+**FAQ**
+
+You can access our FAQ here: [www.go.gov.sg/rfb25-faq](http://www.go.gov.sg/rfb25-faq)
+
+Updated 01 Jul 2025
