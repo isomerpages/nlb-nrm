@@ -13,9 +13,10 @@ description: ""
 <p>This year's Read! Fest returns with READ30, a special edition of the biennial
 festival celebrating the joy of reading.</p>
 <p>Immerse yourself in a multisensory journey where books come to life through
-your five senses.</p>
+your five senses at "<a href="https://go.gov.sg/read-30-worlds-within" rel="noopener nofollow" target="_blank">Worlds Within</a>".</p>
 <p>Explore curated book recommendations from 30 Singaporean personalities
-at pop-ups stretching from National Library Building to Orchard Road.</p>
+at <a href="https://go.gov.sg/read-30-nodes" rel="noopener nofollow" target="_blank">pop-ups</a> stretching
+from National Library Building to Orchard Road.</p>
 <p>Join us for an unforgettable literary journey!</p>
 <hr>
 <h4>Partners</h4>
@@ -115,4 +116,4 @@ the above terms and conditions without prior notice.</p>
 </li>
 </ul>
 <p></p>
-<p>Updated 17 Jun 2025</p>
+<p>Updated 3 Jul 2025</p>
