@@ -13,6 +13,9 @@ description: ""
 Plaza, National Library Building, where it is transformed into a multisensory
 journey where stories leap off the page and come alive. Journey through
 imagined worlds—and maybe even discover your own.</p>
+<p></p>
+<p><strong>Use code &lt;NLBREAD30&gt; to get $3.00 OFF your Grab ride to the "National Library Building"! Limited to the first 1,000 redemptions from 5 July onwards within 10am - 8.30pm.</strong>
+</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Read30/WW_Map.png">
@@ -276,4 +279,4 @@ a weekend escape—there’s something waiting for you at Worlds Within.</p>
 <p>See you there!</p>
 <p></p>
 <p></p>
-<p>Updated 01 Jul 2025</p>
+<p>Updated 11 Jul 2025</p>
