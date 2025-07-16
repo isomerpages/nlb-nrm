@@ -6,31 +6,21 @@ variant: markdown
 ---
 ![Read for Books 2025](/images/RFB25_website_banner___SG60__1200_x_400_px_.png)
 
-Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to the total number of books raised from donors. 
+Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 3,190 books.
 
 **How to participate in Read for Books 2025?**
 
-**Step 1:** Register your interest by submitting the registration forms via the links below.
+**Step 1:** Read for at least 15 minutes. Alone or with your friends and family, virtually or in-person, all reading hours in July will be counted for Read for Books. 
 
-[Individuals](https://go.gov.sg/rfb25-individuals)
+**Step 2:** Take 1-2 photos or screenshots of the reading activity.  
 
-[Organisations](https://go.gov.sg/rfb25-organisations)
-
-[Schools](https://go.gov.sg/rfb25-schools)
-
-[Preschools](https://go.gov.sg/rfb25-preschools)
-
-**Step 2:** Read for at least 15 minutes. Alone or with your friends and family, virtually or in-person, all reading hours in July will be counted for Read for Books. 
-
-**Step 3:** Take 1-2 photos or screenshots of the reading activity.  
-
-**Step 4:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit). 
+**Step 3:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit). Multiple submissions are allowed. 
 
 You can join our programmes to find others to read together! Our librarians will also be sharing their favourite reads across different genres and topics. Find out more at [https://go.gov.sg/rfb25-progs](https://go.gov.sg/rfb25-progs)
 
 # **Donors**
 
-![RFB25 Sponsors](/images/RFB25___sponsors__no_RWY_.png)
+![](/images/RFB25_Sponsors___16_July_2025.png)
 
 Read for Books 2025 is supported by:
 
@@ -39,6 +29,8 @@ Read for Books 2025 is supported by:
 -       Focus Publishing 
 
 -       Kinokuniya Singapore
+
+-       Read With You
 
 -       Lee Foundation
 
@@ -99,4 +91,4 @@ We support the children and youths in
 
 You can access our FAQ here: [www.go.gov.sg/rfb25-faq](http://www.go.gov.sg/rfb25-faq)
 
-Updated 01 Jul 2025
+Updated 16 Jul 2025
