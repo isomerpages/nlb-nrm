@@ -4,19 +4,16 @@ permalink: /initiatives/readforbooks/
 description: ""
 variant: markdown
 ---
-![Read for Books 2025](/images/RFB25_website_banner___SG60__1200_x_400_px_.png)
+![](/images/RFB25_thank_you_banner__1200_x_400_px_.png)
+
+A huge thank you to everyone that took part in Read for Books 2025! With your help, we raised 3,190 books for our beneficiaries! Your generosity and enthusiasm contributed towards sharing the gift of reading with the less privileged.
+
+Please keep a look out for Read for Books in 2026! If you would like you keep in touch, fill in the [interest form here](http://www.go.gov.sg/rfb26-interest) and we will reach out when more details are available.
+
+**Read for Books**
+![](/images/RFB25_website_banner___SG60__1200_x_400_px_.png)
 
 Read for Books is NLB’s signature charity book drive that aims to encourage reading and share the gift of reading with the less privileged. From 1 to 31 July 2025, for every 10 people who read for 15 minutes, one book or equivalent will be donated to selected beneficiaries, up to 3,190 books.
-
-**How to participate in Read for Books 2025?**
-
-**Step 1:** Read for at least 15 minutes. Alone or with your friends and family, virtually or in-person, all reading hours in July will be counted for Read for Books. 
-
-**Step 2:** Take 1-2 photos or screenshots of the reading activity.  
-
-**Step 3:** Submit your photos at [http://go.gov.sg/rfb25-submit](http://go.gov.sg/rfb25-submit). Multiple submissions are allowed. 
-
-You can join our programmes to find others to read together! Our librarians will also be sharing their favourite reads across different genres and topics. Find out more at [https://go.gov.sg/rfb25-progs](https://go.gov.sg/rfb25-progs)
 
 # **Donors**
 
@@ -91,4 +88,4 @@ We support the children and youths in
 
 You can access our FAQ here: [www.go.gov.sg/rfb25-faq](http://www.go.gov.sg/rfb25-faq)
 
-Updated 16 Jul 2025
+Updated 18 Aug 2025
