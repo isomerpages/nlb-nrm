@@ -2,6 +2,7 @@
 title: Night at the Library
 permalink: /initiatives/natl/
 description: ""
+variant: markdown
 ---
 ![banner NATL](/images/NATL 2022/Website Banner.jpg)
 
@@ -43,7 +44,7 @@ Throughout history, star patterns in the night sky are given names woven with my
 
 If the weather conditions are unsuitable for stargazing, participants will partake in a digital planetarium show in the Omni-Theatre instead.
 
-This programme is a collaboration with the [Science Centre Singapore](https://www.science.edu.sg/) and [The Astronomical Society of Singapore (TASOS).](http://tasos.org.sg/about_tasos/about_tasos.html)
+This programme is a collaboration with the [Science Centre Singapore](https://www.science.edu.sg/) and The Astronomical Society of Singapore (TASOS).
 
 ![banner NATL](/images/NATL 2022/Website TBP.jpg)
 
